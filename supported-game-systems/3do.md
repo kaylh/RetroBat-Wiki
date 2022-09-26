@@ -1,7 +1,6 @@
 ---
 cover: ../.gitbook/assets/retrobat_logo3.png
 coverY: 0
-layout: editorial
 ---
 
 # 3do
