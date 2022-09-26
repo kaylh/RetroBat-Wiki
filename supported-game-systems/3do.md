@@ -100,7 +100,11 @@ Roms formats:
 
 ## Controls
 
-
+| Retrobat Button | 3do key |
+| --------------- | ------- |
+|                 |         |
+|                 |         |
+|                 |         |
 
 ## Specific system information
 
