@@ -20,10 +20,6 @@ Select the destination folder and choose "Install" :
 
 <figure><img src="https://i.imgur.com/ey8n2lD.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-We recommend the installation of Retrobat at the root of a drive (e.g. "C:\Retrobat" or "D:\Retrobat"...), some issues have been reported when installing in a subfolder, especially if a parent folder uses special characters or spaces in the naming.
-{% endhint %}
-
 Let the installation program run, choose whether to create a desktop shortcut or not, and click "Finish":
 
 <figure><img src="https://i.imgur.com/8F7dihV.png" alt=""><figcaption></figcaption></figure>
@@ -57,3 +53,5 @@ Configure all controls based on your controller layout.&#x20;
 
 
 CONGRATULATIONS : you have succesfully installed Retrobat and launched it for the first time.
+
+[Go to configuration](https://app.gitbook.com/o/A5PL4tM1zMwt1BO9lsgo/s/exdzL60ZuqPLldz2AYta/\~/changes/ClhKyE2fXmhVUi6U7S7d/configuration).
