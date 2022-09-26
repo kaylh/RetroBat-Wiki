@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/retrobat_logo.svg
 coverY: 13.128928800513151
-layout: landing
 ---
 
 # Welcome!
