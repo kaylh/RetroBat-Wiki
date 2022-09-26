@@ -39,14 +39,14 @@ Roms formats:
 
 #### General settings
 
-| Option Name                     | Explanation |
-| ------------------------------- | ----------- |
-| SHADER SET                      |             |
-| DECORATIONS                     |             |
-| GAME ASPECT RATIO               |             |
-| INTEGER SCALING (PIXEL PERFECT) |             |
-| VERTICAL SYNC                   |             |
-| AUTOCONFIGURE CONTROLLERS       |             |
+| Option Name                     |
+| ------------------------------- |
+| SHADER SET                      |
+| DECORATIONS                     |
+| GAME ASPECT RATIO               |
+| INTEGER SCALING (PIXEL PERFECT) |
+| VERTICAL SYNC                   |
+| AUTOCONFIGURE CONTROLLERS       |
 
 #### Advanced settings
 
