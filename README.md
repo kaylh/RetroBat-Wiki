@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/retrobat_logo3.png
-coverY: 35.86496815286625
+coverY: 72.47006369426752
 ---
 
 # Welcome!
