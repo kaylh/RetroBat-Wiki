@@ -53,5 +53,3 @@ Configure all controls based on your controller layout.&#x20;
 
 
 CONGRATULATIONS : you have succesfully installed Retrobat and launched it for the first time.
-
-[Go to configuration](https://app.gitbook.com/o/A5PL4tM1zMwt1BO9lsgo/s/exdzL60ZuqPLldz2AYta/\~/changes/ClhKyE2fXmhVUi6U7S7d/configuration).

@@ -2,4 +2,3 @@
 
 * [Welcome!](README.md)
 * [Installation & first startup](installation-and-first-startup.md)
-* [Configuration](configuration.md)
