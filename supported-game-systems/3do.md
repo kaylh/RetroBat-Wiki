@@ -82,7 +82,21 @@ Roms formats:
 
 ### Libretro: opera
 
+#### General Settings
 
+| Option Name |
+| ----------- |
+|             |
+|             |
+|             |
+
+#### Advanced Settings
+
+| Category | Option Name |
+| -------- | ----------- |
+|          |             |
+|          |             |
+|          |             |
 
 ## Controls
 
