@@ -26,6 +26,14 @@ Navigation bar is displayed by pressing ![](../.gitbook/assets/image.png):&#x20;
 
 This menu allows you quick access to a system or a collection, it is by default sorted by Manufacturer.
 
+#### Quick Access
+
+Quick access menu is accessible by pressing "**SELECT**":
+
+<figure><img src="https://i.imgur.com/1di2p43.png" alt=""><figcaption></figcaption></figure>
+
+From this menu you have access to features such as User Manual, Screensaver, skipping songs and Quit options.
+
 #### System Gamelist
 
 To enter a system gamelist, select a system by using left and right buttons, and press ![](<../.gitbook/assets/image (1).png>)

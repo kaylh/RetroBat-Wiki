@@ -27,13 +27,7 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.
 
 **Roms formats:**
 
-* mds
-* mdf
-* cue
-* cdi
-* gdi
-* chd
-* m3u
+mds, mdf, cue, cdi, gdi, chd, m3u
 
 ## Bios Information
 

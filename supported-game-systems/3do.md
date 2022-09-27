@@ -25,10 +25,7 @@ Wikipedia page : [https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer](h
 
 **Roms formats:**
 
-* cue
-* iso
-* chd
-* m3u
+cue, iso, chd, m3u
 
 ## Bios Information
 
