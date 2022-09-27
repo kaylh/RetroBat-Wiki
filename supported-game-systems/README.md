@@ -85,6 +85,12 @@ Additional information related to BIOS and rom file formats can be found in the 
 | mame          | MAME                                 | mame              | <p>mame2016<br>mame2010<br>mame2003_plus<br>mame2003<br>mame2003_midway<br>mame2000<br>mame64(s)</p> |
 | mastersystem  | Master System - Mark III             | genesis\_plus\_gx | <p>picodrive<br>fbneo<br>kega-fusion(s)</p>                                                          |
 | megadrive     | Megadrive - Genesis                  | genesis\_plus\_gx | <p>genesis_plus_gx_wide<br>picodrive<br>fbneo<br>mednafen(s)<br>kega-fusion(s)</p>                   |
-| megadrive-msu |                                      |                   |                                                                                                      |
-| megaduck      |                                      |                   |                                                                                                      |
+| megadrive-msu | Megadrive - Genesis (MSU)            | genesis\_plus\_gx | genesis\_plus\_gx\_wide                                                                              |
+| megaduck      | Mega Duck                            | sameduck          | <p>mame<br>mame64(s)</p>                                                                             |
+| model2        | Model 2                              | model2(s)         |                                                                                                      |
+| model3        | Model 3                              | supermodel(s)     |                                                                                                      |
+| msx1          | MSX                                  | bluemsx           | fbneo                                                                                                |
+| msx2          | MSX2                                 | bluemsx           | fbneo                                                                                                |
+| msx2+         | MSX2+                                | bluemsx           | fbneo                                                                                                |
+| mugen         | MUGEN                                | mugen(s)          |                                                                                                      |
 
