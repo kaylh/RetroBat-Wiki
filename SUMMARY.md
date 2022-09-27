@@ -6,13 +6,16 @@
 
 * [Installation & first startup](installation-and-first-startup.md)
 * [Adding games](adding-games.md)
+* [Running a Game](get-started/running-a-game.md)
 
 ## NAVIGATION
 
 * [Navigation keys](navigation/navigation-keys.md)
+* [Hotkeys](navigation/hotkeys.md)
 * [Systems and gamelist](navigation/systems-and-gamelist.md)
 * [Main Menu](navigation/main-menu.md)
-* [System Menu](navigation/system-menu.md)
+* [System View Options](navigation/system-view-options.md)
+* [Game Options](navigation/game-options.md)
 
 ## Systems & Emulators
 
