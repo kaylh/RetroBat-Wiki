@@ -36,3 +36,5 @@
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
 * [Batgui](advanced-features/batgui.md)
+* [Retroachievements](advanced-features/retroachievements.md)
+* [Netplay](advanced-features/netplay.md)
