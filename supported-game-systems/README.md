@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/retrobat_logo3.png
-coverY: 0
----
-
 # Supported Game Systems
 
 The following table is the official list of all supported game systems as per the es\_systems configuration file.

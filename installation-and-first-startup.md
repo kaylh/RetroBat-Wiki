@@ -1,7 +1,5 @@
 ---
 description: Get started !
-cover: .gitbook/assets/retrobat_logo3.png
-coverY: 0
 ---
 
 # Installation & first startup

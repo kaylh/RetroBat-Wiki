@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/retrobat_logo3.png
-coverY: 0
----
-
 # Adding games
 
 Adding games in Retrobat is a straight-forward process.
@@ -63,7 +58,7 @@ Game information will now be available:
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Game information has been added to the database</p></figcaption></figure>
 
-Per game scraping
+### Per game scraping
 
 In order to scrape only a single game, select the game and long-press the "south" button ![](<.gitbook/assets/image (2).png>) to open the game options. The select **SCRAPE.**
 

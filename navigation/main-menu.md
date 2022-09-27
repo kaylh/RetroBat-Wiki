@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/retrobat_logo3.png
-coverY: 0
----
-
 # Main Menu
 
 Retrobat configuration is accessible from the **Main Menu.**
