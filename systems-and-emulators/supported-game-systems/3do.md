@@ -4,7 +4,7 @@ description: The 3do Company
 
 # 3do
 
-<figure><img src="../.gitbook/assets/3do.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3do.svg" alt=""><figcaption></figcaption></figure>
 
 Type: Game Console
 
@@ -40,16 +40,16 @@ Wikipedia page : [https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer](h
 
 ## Controls
 
-| Retrobat Button                             | 3do key |
-| ------------------------------------------- | ------- |
-| START                                       | START   |
-| SELECT                                      | SELECT  |
-| D-PAD, Left analog stick                    | D-PAD   |
-| ![](<../.gitbook/assets/image (3) (1).png>) | A       |
-| ![](<../.gitbook/assets/image (4).png>)     | B       |
-| ![](<../.gitbook/assets/image (9).png>)     | C       |
-| L1                                          | L1      |
-| R1                                          | R1      |
+| Retrobat Button                                | 3do key |
+| ---------------------------------------------- | ------- |
+| START                                          | START   |
+| SELECT                                         | SELECT  |
+| D-PAD, Left analog stick                       | D-PAD   |
+| ![](<../../.gitbook/assets/image (3) (1).png>) | A       |
+| ![](<../../.gitbook/assets/image (4).png>)     | B       |
+| ![](<../../.gitbook/assets/image (9).png>)     | C       |
+| L1                                             | L1      |
+| R1                                             | R1      |
 
 ## Specific system information
 

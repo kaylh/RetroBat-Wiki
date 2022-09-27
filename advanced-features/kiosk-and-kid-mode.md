@@ -1,0 +1,2 @@
+# Kiosk and Kid mode
+

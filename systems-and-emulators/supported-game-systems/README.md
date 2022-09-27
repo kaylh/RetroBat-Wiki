@@ -102,6 +102,7 @@ Additional information related to BIOS and rom file formats can be found in the 
 | neogeo64                  | Hyper Neo Geo 64                        | mame                 | <p>mame2016<br>mame64(s)</p>                                                                         |
 | neogeocd                  | Neo Geo CD                              | neocd                | <p>fbneo<br>raine(s)</p>                                                                             |
 | nes                       | Nintendo Entertainment System - Famicom | fceumm               | <p>nestopia<br>mesen<br>mednafen(s)<br>mesen(s)</p>                                                  |
+| nes3d                     | 3D Nes                                  | 3DSen(s)             |                                                                                                      |
 | ngp                       | Neo Geo Pocket                          | mednafen\_ngp        | race                                                                                                 |
 | ngpc                      | Neo Geo Pocket Color                    | mednafen\_ngp        | race                                                                                                 |
 | o2em                      | Odyssey² - Videopac                     | o2em                 |                                                                                                      |
