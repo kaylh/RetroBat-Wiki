@@ -14,7 +14,7 @@ Additional information related to BIOS and rom file formats can be found in the 
 
 | System Name   | Full Name                               | Default Emulator     | Alternative Emulators                                                                                |
 | ------------- | --------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
-| 3do           | 3DO                                     | 4do                  | opera                                                                                                |
+| [3do](3do.md) | 3DO                                     | 4do                  | opera                                                                                                |
 | 3ds           | Nintendo 3DS                            | citra                | citra(s)                                                                                             |
 | advision      | Adventure Vision                        | mame                 | mame64(s)                                                                                            |
 | amiga500      | Amiga OCS/ECS                           | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
