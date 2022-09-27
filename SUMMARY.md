@@ -5,6 +5,7 @@
 * [Adding games](adding-games.md)
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3do](supported-game-systems/3do.md)
+  * [Dreamcast](supported-game-systems/dreamcast.md)
 
 ## NAVIGATION
 

@@ -6,7 +6,7 @@ A detailed notice in pdf can be found [here](http://retrobat.ovh/notice/notice.p
 
 ### **Controller navigation keys**
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 
 

@@ -12,154 +12,154 @@ The **Alternative Emulators** column lists the additional emulators that can be 
 
 Additional information related to BIOS and rom file formats can be found in the detailed section related to the system / emulator.
 
-| System Name   | Full Name                               | Default Emulator     | Alternative Emulators                                                                                |
-| ------------- | --------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
-| [3do](3do.md) | 3DO                                     | 4do                  | opera                                                                                                |
-| 3ds           | Nintendo 3DS                            | citra                | citra(s)                                                                                             |
-| advision      | Adventure Vision                        | mame                 | mame64(s)                                                                                            |
-| amiga500      | Amiga OCS/ECS                           | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
-| amiga1200     | Amiga AGA                               | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
-| amigacd32     | Amiga CD32                              | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
-| amigacdtv     | Amiga CDTV                              | puae                 | amigaforever(s)                                                                                      |
-| amstradcpc    | Amstrad CPC                             | cap32                | crocods                                                                                              |
-| apfm1000      | APF M-1000                              | mame                 | mame64(s)                                                                                            |
-| apple2        | Apple II                                | applewin(s)          |                                                                                                      |
-| apple2gs      | Apple IIGS                              | gsplus(s)            |                                                                                                      |
-| arcadia       | Arcadia 2001                            | mame                 | mame64(s)                                                                                            |
-| astrocade     | Astrocade                               | mame                 | mame64(s)                                                                                            |
-| atari800      | Atari 800                               | atari800             |                                                                                                      |
-| atari2600     | Atari 2600                              | stella               | stella2014                                                                                           |
-| atari5200     | Atari 5200                              | a5200                | <p>atari800<br>stella2014</p>                                                                        |
-| atari7800     | Atari 7800                              | prosystem            |                                                                                                      |
-| atarist       | Atari ST                                | hatari               |                                                                                                      |
-| atomiswave    | Atomiswave                              | flycast              | demul(s)                                                                                             |
-| bbcmicro      | BBC Micro                               | mame                 | mame64(s)                                                                                            |
-| c20           | VIC-20                                  | vice\_xvic           |                                                                                                      |
-| c64           | Commodore 64                            | vice\_x64            | <p>vice_x64sc<br>vice_x128<br>vice_xplus4<br>vice_xvic<br>vice_xpet<br>frodo</p>                     |
-| c128          | Commodore 128                           | vice\_x128           |                                                                                                      |
-| camplynx      | Camputers Lynx                          | mame                 | mame64(s)                                                                                            |
-| cave          | CAVE                                    | fbneo                | <p>fbalpha<br>fbalpha2012<br>mame2003_plus<br>mame2016<br>mame<br>mame64(s)</p>                      |
-| cavestory     | Cavestory                               | nxengine             |                                                                                                      |
-| cdi           | Philips CD-i                            | mame                 | mame64(s)                                                                                            |
-| channelf      | Fairchild Channel F                     | freechaf             |                                                                                                      |
-| chihiro       | Chihiro                                 | chihiro(s)           | xemu(s)                                                                                              |
-| coco          | TRS-80 Color Computer                   | mame                 | mame64(s)                                                                                            |
-| colecovision  | ColecoVision                            | gearcoleco           | <p>bluemsx<br>fbneo</p>                                                                              |
-| cps1          | CPS-I                                   | fbalpha2012\_cps1    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
-| cps2          | CPS-II                                  | fbalpha2012\_cps2    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
-| cps3          | CPS-III                                 | fbalpha2012\_cps3    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
-| crvision      | CreatiVision                            | mame                 | mame64(s)                                                                                            |
-| daphne        | Laserdisc                               | hypseus(s)           | daphne(s)                                                                                            |
-| dos           | DOS                                     | dosbox\_pure         | dosbox(s)                                                                                            |
-| dreamcast     | Dreamcast                               | flycast              | <p>redream<br>redream(s)<br>demul(s)</p>                                                             |
-| easyrpg       | EasyRPG - RPG Maker 2000/2003 player    | easyrpg              |                                                                                                      |
-| fbneo         | Final Burn                              | fbneo                | <p>fbalpha<br>fbalpha2012<br>fbalpha2012_neogeo</p>                                                  |
-| fds           | Nintendo Family Computer Disk System    | fceumm               | <p>nestopia<br>mesen<br>mesen(s)</p>                                                                 |
-| flash         | flash                                   | arcadeflashweb(s)    |                                                                                                      |
-| fm7           | FM-7                                    | mame                 | mame64(s)                                                                                            |
-| fmtowns       | FM Towns                                | mame                 | <p>tsugaru(s)<br>mame64(s)</p>                                                                       |
-| fpinball      | Future Pinball                          | fpinball             |                                                                                                      |
-| gaelco        | Gaelco PowerVR                          | demul-old(s)         |                                                                                                      |
-| gamate        | Gamate                                  | mame                 | mame64(s)                                                                                            |
-| gameandwatch  | Game and Watch                          | gw                   | mame64(s)                                                                                            |
-| gamecom       | Game.com                                | mame                 | mame64(s)                                                                                            |
-| gamecube      | GameCube                                | dolphin(s)           | dolphin                                                                                              |
-| gamegear      | Game Gear                               | genesis\_plus\_gx    | <p>picodrive<br>fbneo</p>                                                                            |
-| gamepock      | Game Pocket Computer                    | mame                 | mame64(s)                                                                                            |
-| gb            | Game Boy                                | gambatte             | <p>mesen-s<br>bsnes<br>tgbdual</p>                                                                   |
-| gb2players    | Game Boy 2 Players                      | tgbdual              |                                                                                                      |
-| gba           | Game Boy Advance                        | mgba                 | <p>mednafen_gba<br>mgba(s)<br>nosgba(s)</p>                                                          |
-| gba2players   | Game Boy Advance 2 Players              | nosgba(s)            |                                                                                                      |
-| gbc           | Game Boy Color                          | gambatte             | tgbdual                                                                                              |
-| gbc2players   | Game Boy Color 2 Players                | tgbdual              |                                                                                                      |
-| gmaster       | Game Master                             | mame                 | mame64(s)                                                                                            |
-| gx4000        | Amstrad GX4000                          | cap32                |                                                                                                      |
-| hbmame        | MAME Homebrew                           | mame                 | <p>mame2003_plus<br>mame2003<br>mame2003_midway<br>mame2016<br>mame64(s)</p>                         |
-| hikaru        | Hikaru                                  | demul(s)             |                                                                                                      |
-| intellivision | Mattel Intellivision                    | freeintv             |                                                                                                      |
-| jaguar        | Jaguar                                  | virtualjaguar        |                                                                                                      |
-| lcdgames      | LCD Games                               | mame                 | <p>gw<br>mame64(s)</p>                                                                               |
-| love          | LÖVE                                    | love(s)              |                                                                                                      |
-| lutro         | Lutro Lua Framework                     | lutro                |                                                                                                      |
-| lynx          | Lynx                                    | mednafen\_lynx       | handy                                                                                                |
-| mame          | MAME                                    | mame                 | <p>mame2016<br>mame2010<br>mame2003_plus<br>mame2003<br>mame2003_midway<br>mame2000<br>mame64(s)</p> |
-| mastersystem  | Master System - Mark III                | genesis\_plus\_gx    | <p>picodrive<br>fbneo<br>kega-fusion(s)</p>                                                          |
-| megadrive     | Megadrive - Genesis                     | genesis\_plus\_gx    | <p>genesis_plus_gx_wide<br>picodrive<br>fbneo<br>mednafen(s)<br>kega-fusion(s)</p>                   |
-| megadrive-msu | Megadrive - Genesis (MSU)               | genesis\_plus\_gx    | genesis\_plus\_gx\_wide                                                                              |
-| megaduck      | Mega Duck                               | sameduck             | <p>mame<br>mame64(s)</p>                                                                             |
-| model2        | Model 2                                 | model2(s)            |                                                                                                      |
-| model3        | Model 3                                 | supermodel(s)        |                                                                                                      |
-| msx1          | MSX                                     | bluemsx              | fbneo                                                                                                |
-| msx2          | MSX2                                    | bluemsx              | fbneo                                                                                                |
-| msx2+         | MSX2+                                   | bluemsx              | fbneo                                                                                                |
-| mugen         | MUGEN                                   | mugen(s)             |                                                                                                      |
-| n64           | Nintendo 64                             | mupen64plus\_next    | <p>parallel_n64<br>project64(s)</p>                                                                  |
-| n64dd         | Nintendo 64 Disk Drive                  | mupen64plus\_next    | project64(s)                                                                                         |
-| naomi         | Naomi                                   | flycast              | demul(s)                                                                                             |
-| naomi2        | Naomi 2                                 | flycast              | demul(s)                                                                                             |
-| nds           | Nintendo DS                             | desmume              | <p>desmume2015<br>melonds</p>                                                                        |
-| neogeo        | Neo Geo                                 | fbneo                | <p>fbalpha<br>fbalpha2012_neogeo<br>raine(s)<br>mame64(s)</p>                                        |
-| neogeo64      | Hyper Neo Geo 64                        | mame                 | <p>mame2016<br>mame64(s)</p>                                                                         |
-| neogeocd      | Neo Geo CD                              | neocd                | <p>fbneo<br>raine(s)</p>                                                                             |
-| nes           | Nintendo Entertainment System - Famicom | fceumm               | <p>nestopia<br>mesen<br>mednafen(s)<br>mesen(s)</p>                                                  |
-| ngp           | Neo Geo Pocket                          | mednafen\_ngp        | race                                                                                                 |
-| ngpc          | Neo Geo Pocket Color                    | mednafen\_ngp        | race                                                                                                 |
-| o2em          | Odyssey² - Videopac                     | o2em                 |                                                                                                      |
-| openbor       | Openbor                                 | openbor(s)           |                                                                                                      |
-| oricatmos     | Oric/Atmos                              | oricutron(s)         |                                                                                                      |
-| pc88          | PC-8800                                 | quasi88              |                                                                                                      |
-| pc98          | PC-9800                                 | np2kai               | nekop2                                                                                               |
-| pcengine      | PC Engine                               | mednafen\_pce        | <p>mednafen_pce_fast<br>fbneo<br>mednafen(s)</p>                                                     |
-| pcenginecd    | PC Engine CD                            | mednafen\_pce        | <p>mednafen_pce_fast<br>fbneo<br>mednafen(s)</p>                                                     |
-| pcfx          | PC-FX                                   | mednafen\_pcfx       |                                                                                                      |
-| pico8         | PICO-8                                  | retro8               | pico8(s)                                                                                             |
-| pokemini      | Pokemon-Mini                            | pokemini             |                                                                                                      |
-| ports         | Ports                                   | libretro             |                                                                                                      |
-| prboom        | PrBoom                                  | prboom               |                                                                                                      |
-| ps2           | Playstation 2                           | pcsx2(s)             | pcsx2-16(s)                                                                                          |
-| ps3           | Playstation 3                           | rpcs3(s)             |                                                                                                      |
-| psp           | PlayStation Portable                    | ppsspp               | ppsspp(s)                                                                                            |
-| psx           | PlayStation                             | mednafen\_psx\_hw    | <p>swanstation<br>pcsx_rearmed<br>duckstation(s)</p>                                                 |
-| pv1000        | PV-1000                                 | mame                 | mame64(s)                                                                                            |
-| samcoupe      | Samcoupé                                | simcoupe(s)          |                                                                                                      |
-| satellaview   | Satellaview                             | snes9x               | mesen-s                                                                                              |
-| saturn        | Saturn                                  | kronos               | mednafen\_saturn                                                                                     |
-| scummvm       | ScummVM                                 | scummvm              | scummvm(s)                                                                                           |
-| scv           | Super Cassette Vision                   | mame                 | mame64(s)                                                                                            |
-| sega32x       | 32X                                     | picodrive            | kega-fusion(s)                                                                                       |
-| segacd        | Mega CD                                 | genesis\_plus\_gx    | <p>genesis_plus_gx_wide<br>picodrive<br>kega-fusion(s)</p>                                           |
-| sg1000        | SG-1000                                 | gearsystem           | fbneo                                                                                                |
-| sgb           | Super Game Boy                          | mgba                 | mesen-s                                                                                              |
-| snes          | Super Nintendo Entertainment System     | snes9x               | <p>bsnes<br>bsnes_hd_beta<br>mednafen_snes<br>mesen-s<br>mednafen(s)<br>snes9x(s)</p>                |
-| snes-msu      | Super NES MSU-1                         | snes9x               | <p>bsnes<br>bsnes_hd_beta<br>snes9x(s)</p>                                                           |
-| solarus       | Solarus                                 | solarus(s)           |                                                                                                      |
-| spectravideo  | Spectravideo SV-318                     | bluemsx              |                                                                                                      |
-| sufami        | SuFami Turbo                            | snes9x               | bsnes                                                                                                |
-| supergrafx    | SuperGrafx                              | mednafen\_supergrafx | <p>fbneo<br>mednafen(s)</p>                                                                          |
-| supervision   | Watara SuperVision                      | potator              |                                                                                                      |
-| supracan      | Super A'Can                             | mame                 | mame64(s)                                                                                            |
-| switch        | Switch                                  | yuzu(s)              | <p>yuzu-early-access(s)<br>ryujinx(s)</p>                                                            |
-| teknoparrot   | TeknoParrot                             | teknoparrot(s)       |                                                                                                      |
-| thomson       | Thomson - MO/TO                         | theodore             |                                                                                                      |
-| ti99          | TI/99                                   | mame                 | mame64(s)                                                                                            |
-| tic80         | TIC-80                                  | tic80                |                                                                                                      |
-| triforce      | Triforce                                | dolphin-triforce     | dolphin                                                                                              |
-| tutor         | Tutor                                   | mame                 | mame64(s)                                                                                            |
-| tvgames       | TV Games                                | mame                 | mame64(s)                                                                                            |
-| tyrquake      | Quake                                   | tyrquake             |                                                                                                      |
-| vectrex       | Vectrex                                 | vecx                 |                                                                                                      |
-| virtualboy    | Virtual Boy                             | mednafen\_vb         |                                                                                                      |
-| vpinball      | Visual Pinball                          | vpinball(s)          |                                                                                                      |
-| vsmile        | V.Smile                                 | mame                 | mame64(s)                                                                                            |
-| wii           | Wii                                     | dolphin(s)           | dolphin                                                                                              |
-| wiiu          | Wii U                                   | cemu(s)              |                                                                                                      |
-| windows       | Windows                                 | windows              |                                                                                                      |
-| wswan         | WonderSwan                              | mednafen\_wswan      |                                                                                                      |
-| wswanc        | WonderSwan Color                        | mednafen\_wswan      |                                                                                                      |
-| x1            | Sharp X1                                | x1                   |                                                                                                      |
-| x68000        | Sharp X68000                            | px68k                |                                                                                                      |
-| xbox          | Xbox                                    | xemu(s)              | cxbx(s)                                                                                              |
-| xbox360       | Xbox 360                                | xenia-canary(s)      | xenia(s)                                                                                             |
-| zx81          | ZX 81                                   | 81                   | <p>fuse<br>fbneo</p>                                                                                 |
-| zxspectrum    | ZX Spectrum                             | fuse                 | fbneo                                                                                                |
+| System Name               | Full Name                               | Default Emulator     | Alternative Emulators                                                                                |
+| ------------------------- | --------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
+| [3do](3do.md)             | 3DO                                     | 4do                  | opera                                                                                                |
+| 3ds                       | Nintendo 3DS                            | citra                | citra(s)                                                                                             |
+| advision                  | Adventure Vision                        | mame                 | mame64(s)                                                                                            |
+| amiga500                  | Amiga OCS/ECS                           | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
+| amiga1200                 | Amiga AGA                               | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
+| amigacd32                 | Amiga CD32                              | puae                 | <p>amigaforever(s)<br>winuae(s)</p>                                                                  |
+| amigacdtv                 | Amiga CDTV                              | puae                 | amigaforever(s)                                                                                      |
+| amstradcpc                | Amstrad CPC                             | cap32                | crocods                                                                                              |
+| apfm1000                  | APF M-1000                              | mame                 | mame64(s)                                                                                            |
+| apple2                    | Apple II                                | applewin(s)          |                                                                                                      |
+| apple2gs                  | Apple IIGS                              | gsplus(s)            |                                                                                                      |
+| arcadia                   | Arcadia 2001                            | mame                 | mame64(s)                                                                                            |
+| astrocade                 | Astrocade                               | mame                 | mame64(s)                                                                                            |
+| atari800                  | Atari 800                               | atari800             |                                                                                                      |
+| atari2600                 | Atari 2600                              | stella               | stella2014                                                                                           |
+| atari5200                 | Atari 5200                              | a5200                | <p>atari800<br>stella2014</p>                                                                        |
+| atari7800                 | Atari 7800                              | prosystem            |                                                                                                      |
+| atarist                   | Atari ST                                | hatari               |                                                                                                      |
+| atomiswave                | Atomiswave                              | flycast              | demul(s)                                                                                             |
+| bbcmicro                  | BBC Micro                               | mame                 | mame64(s)                                                                                            |
+| c20                       | VIC-20                                  | vice\_xvic           |                                                                                                      |
+| c64                       | Commodore 64                            | vice\_x64            | <p>vice_x64sc<br>vice_x128<br>vice_xplus4<br>vice_xvic<br>vice_xpet<br>frodo</p>                     |
+| c128                      | Commodore 128                           | vice\_x128           |                                                                                                      |
+| camplynx                  | Camputers Lynx                          | mame                 | mame64(s)                                                                                            |
+| cave                      | CAVE                                    | fbneo                | <p>fbalpha<br>fbalpha2012<br>mame2003_plus<br>mame2016<br>mame<br>mame64(s)</p>                      |
+| cavestory                 | Cavestory                               | nxengine             |                                                                                                      |
+| cdi                       | Philips CD-i                            | mame                 | mame64(s)                                                                                            |
+| channelf                  | Fairchild Channel F                     | freechaf             |                                                                                                      |
+| chihiro                   | Chihiro                                 | chihiro(s)           | xemu(s)                                                                                              |
+| coco                      | TRS-80 Color Computer                   | mame                 | mame64(s)                                                                                            |
+| colecovision              | ColecoVision                            | gearcoleco           | <p>bluemsx<br>fbneo</p>                                                                              |
+| cps1                      | CPS-I                                   | fbalpha2012\_cps1    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
+| cps2                      | CPS-II                                  | fbalpha2012\_cps2    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
+| cps3                      | CPS-III                                 | fbalpha2012\_cps3    | <p>fbneo<br>fbalpha<br>fbalpha2012</p>                                                               |
+| crvision                  | CreatiVision                            | mame                 | mame64(s)                                                                                            |
+| daphne                    | Laserdisc                               | hypseus(s)           | daphne(s)                                                                                            |
+| dos                       | DOS                                     | dosbox\_pure         | dosbox(s)                                                                                            |
+| [dreamcast](dreamcast.md) | Dreamcast                               | flycast              | <p>redream<br>redream(s)<br>demul(s)</p>                                                             |
+| easyrpg                   | EasyRPG - RPG Maker 2000/2003 player    | easyrpg              |                                                                                                      |
+| fbneo                     | Final Burn                              | fbneo                | <p>fbalpha<br>fbalpha2012<br>fbalpha2012_neogeo</p>                                                  |
+| fds                       | Nintendo Family Computer Disk System    | fceumm               | <p>nestopia<br>mesen<br>mesen(s)</p>                                                                 |
+| flash                     | flash                                   | arcadeflashweb(s)    |                                                                                                      |
+| fm7                       | FM-7                                    | mame                 | mame64(s)                                                                                            |
+| fmtowns                   | FM Towns                                | mame                 | <p>tsugaru(s)<br>mame64(s)</p>                                                                       |
+| fpinball                  | Future Pinball                          | fpinball             |                                                                                                      |
+| gaelco                    | Gaelco PowerVR                          | demul-old(s)         |                                                                                                      |
+| gamate                    | Gamate                                  | mame                 | mame64(s)                                                                                            |
+| gameandwatch              | Game and Watch                          | gw                   | mame64(s)                                                                                            |
+| gamecom                   | Game.com                                | mame                 | mame64(s)                                                                                            |
+| gamecube                  | GameCube                                | dolphin(s)           | dolphin                                                                                              |
+| gamegear                  | Game Gear                               | genesis\_plus\_gx    | <p>picodrive<br>fbneo</p>                                                                            |
+| gamepock                  | Game Pocket Computer                    | mame                 | mame64(s)                                                                                            |
+| gb                        | Game Boy                                | gambatte             | <p>mesen-s<br>bsnes<br>tgbdual</p>                                                                   |
+| gb2players                | Game Boy 2 Players                      | tgbdual              |                                                                                                      |
+| gba                       | Game Boy Advance                        | mgba                 | <p>mednafen_gba<br>mgba(s)<br>nosgba(s)</p>                                                          |
+| gba2players               | Game Boy Advance 2 Players              | nosgba(s)            |                                                                                                      |
+| gbc                       | Game Boy Color                          | gambatte             | tgbdual                                                                                              |
+| gbc2players               | Game Boy Color 2 Players                | tgbdual              |                                                                                                      |
+| gmaster                   | Game Master                             | mame                 | mame64(s)                                                                                            |
+| gx4000                    | Amstrad GX4000                          | cap32                |                                                                                                      |
+| hbmame                    | MAME Homebrew                           | mame                 | <p>mame2003_plus<br>mame2003<br>mame2003_midway<br>mame2016<br>mame64(s)</p>                         |
+| hikaru                    | Hikaru                                  | demul(s)             |                                                                                                      |
+| intellivision             | Mattel Intellivision                    | freeintv             |                                                                                                      |
+| jaguar                    | Jaguar                                  | virtualjaguar        |                                                                                                      |
+| lcdgames                  | LCD Games                               | mame                 | <p>gw<br>mame64(s)</p>                                                                               |
+| love                      | LÖVE                                    | love(s)              |                                                                                                      |
+| lutro                     | Lutro Lua Framework                     | lutro                |                                                                                                      |
+| lynx                      | Lynx                                    | mednafen\_lynx       | handy                                                                                                |
+| mame                      | MAME                                    | mame                 | <p>mame2016<br>mame2010<br>mame2003_plus<br>mame2003<br>mame2003_midway<br>mame2000<br>mame64(s)</p> |
+| mastersystem              | Master System - Mark III                | genesis\_plus\_gx    | <p>picodrive<br>fbneo<br>kega-fusion(s)</p>                                                          |
+| megadrive                 | Megadrive - Genesis                     | genesis\_plus\_gx    | <p>genesis_plus_gx_wide<br>picodrive<br>fbneo<br>mednafen(s)<br>kega-fusion(s)</p>                   |
+| megadrive-msu             | Megadrive - Genesis (MSU)               | genesis\_plus\_gx    | genesis\_plus\_gx\_wide                                                                              |
+| megaduck                  | Mega Duck                               | sameduck             | <p>mame<br>mame64(s)</p>                                                                             |
+| model2                    | Model 2                                 | model2(s)            |                                                                                                      |
+| model3                    | Model 3                                 | supermodel(s)        |                                                                                                      |
+| msx1                      | MSX                                     | bluemsx              | fbneo                                                                                                |
+| msx2                      | MSX2                                    | bluemsx              | fbneo                                                                                                |
+| msx2+                     | MSX2+                                   | bluemsx              | fbneo                                                                                                |
+| mugen                     | MUGEN                                   | mugen(s)             |                                                                                                      |
+| n64                       | Nintendo 64                             | mupen64plus\_next    | <p>parallel_n64<br>project64(s)</p>                                                                  |
+| n64dd                     | Nintendo 64 Disk Drive                  | mupen64plus\_next    | project64(s)                                                                                         |
+| naomi                     | Naomi                                   | flycast              | demul(s)                                                                                             |
+| naomi2                    | Naomi 2                                 | flycast              | demul(s)                                                                                             |
+| nds                       | Nintendo DS                             | desmume              | <p>desmume2015<br>melonds</p>                                                                        |
+| neogeo                    | Neo Geo                                 | fbneo                | <p>fbalpha<br>fbalpha2012_neogeo<br>raine(s)<br>mame64(s)</p>                                        |
+| neogeo64                  | Hyper Neo Geo 64                        | mame                 | <p>mame2016<br>mame64(s)</p>                                                                         |
+| neogeocd                  | Neo Geo CD                              | neocd                | <p>fbneo<br>raine(s)</p>                                                                             |
+| nes                       | Nintendo Entertainment System - Famicom | fceumm               | <p>nestopia<br>mesen<br>mednafen(s)<br>mesen(s)</p>                                                  |
+| ngp                       | Neo Geo Pocket                          | mednafen\_ngp        | race                                                                                                 |
+| ngpc                      | Neo Geo Pocket Color                    | mednafen\_ngp        | race                                                                                                 |
+| o2em                      | Odyssey² - Videopac                     | o2em                 |                                                                                                      |
+| openbor                   | Openbor                                 | openbor(s)           |                                                                                                      |
+| oricatmos                 | Oric/Atmos                              | oricutron(s)         |                                                                                                      |
+| pc88                      | PC-8800                                 | quasi88              |                                                                                                      |
+| pc98                      | PC-9800                                 | np2kai               | nekop2                                                                                               |
+| pcengine                  | PC Engine                               | mednafen\_pce        | <p>mednafen_pce_fast<br>fbneo<br>mednafen(s)</p>                                                     |
+| pcenginecd                | PC Engine CD                            | mednafen\_pce        | <p>mednafen_pce_fast<br>fbneo<br>mednafen(s)</p>                                                     |
+| pcfx                      | PC-FX                                   | mednafen\_pcfx       |                                                                                                      |
+| pico8                     | PICO-8                                  | retro8               | pico8(s)                                                                                             |
+| pokemini                  | Pokemon-Mini                            | pokemini             |                                                                                                      |
+| ports                     | Ports                                   | libretro             |                                                                                                      |
+| prboom                    | PrBoom                                  | prboom               |                                                                                                      |
+| ps2                       | Playstation 2                           | pcsx2(s)             | pcsx2-16(s)                                                                                          |
+| ps3                       | Playstation 3                           | rpcs3(s)             |                                                                                                      |
+| psp                       | PlayStation Portable                    | ppsspp               | ppsspp(s)                                                                                            |
+| psx                       | PlayStation                             | mednafen\_psx\_hw    | <p>swanstation<br>pcsx_rearmed<br>duckstation(s)</p>                                                 |
+| pv1000                    | PV-1000                                 | mame                 | mame64(s)                                                                                            |
+| samcoupe                  | Samcoupé                                | simcoupe(s)          |                                                                                                      |
+| satellaview               | Satellaview                             | snes9x               | mesen-s                                                                                              |
+| saturn                    | Saturn                                  | kronos               | mednafen\_saturn                                                                                     |
+| scummvm                   | ScummVM                                 | scummvm              | scummvm(s)                                                                                           |
+| scv                       | Super Cassette Vision                   | mame                 | mame64(s)                                                                                            |
+| sega32x                   | 32X                                     | picodrive            | kega-fusion(s)                                                                                       |
+| segacd                    | Mega CD                                 | genesis\_plus\_gx    | <p>genesis_plus_gx_wide<br>picodrive<br>kega-fusion(s)</p>                                           |
+| sg1000                    | SG-1000                                 | gearsystem           | fbneo                                                                                                |
+| sgb                       | Super Game Boy                          | mgba                 | mesen-s                                                                                              |
+| snes                      | Super Nintendo Entertainment System     | snes9x               | <p>bsnes<br>bsnes_hd_beta<br>mednafen_snes<br>mesen-s<br>mednafen(s)<br>snes9x(s)</p>                |
+| snes-msu                  | Super NES MSU-1                         | snes9x               | <p>bsnes<br>bsnes_hd_beta<br>snes9x(s)</p>                                                           |
+| solarus                   | Solarus                                 | solarus(s)           |                                                                                                      |
+| spectravideo              | Spectravideo SV-318                     | bluemsx              |                                                                                                      |
+| sufami                    | SuFami Turbo                            | snes9x               | bsnes                                                                                                |
+| supergrafx                | SuperGrafx                              | mednafen\_supergrafx | <p>fbneo<br>mednafen(s)</p>                                                                          |
+| supervision               | Watara SuperVision                      | potator              |                                                                                                      |
+| supracan                  | Super A'Can                             | mame                 | mame64(s)                                                                                            |
+| switch                    | Switch                                  | yuzu(s)              | <p>yuzu-early-access(s)<br>ryujinx(s)</p>                                                            |
+| teknoparrot               | TeknoParrot                             | teknoparrot(s)       |                                                                                                      |
+| thomson                   | Thomson - MO/TO                         | theodore             |                                                                                                      |
+| ti99                      | TI/99                                   | mame                 | mame64(s)                                                                                            |
+| tic80                     | TIC-80                                  | tic80                |                                                                                                      |
+| triforce                  | Triforce                                | dolphin-triforce     | dolphin                                                                                              |
+| tutor                     | Tutor                                   | mame                 | mame64(s)                                                                                            |
+| tvgames                   | TV Games                                | mame                 | mame64(s)                                                                                            |
+| tyrquake                  | Quake                                   | tyrquake             |                                                                                                      |
+| vectrex                   | Vectrex                                 | vecx                 |                                                                                                      |
+| virtualboy                | Virtual Boy                             | mednafen\_vb         |                                                                                                      |
+| vpinball                  | Visual Pinball                          | vpinball(s)          |                                                                                                      |
+| vsmile                    | V.Smile                                 | mame                 | mame64(s)                                                                                            |
+| wii                       | Wii                                     | dolphin(s)           | dolphin                                                                                              |
+| wiiu                      | Wii U                                   | cemu(s)              |                                                                                                      |
+| windows                   | Windows                                 | windows              |                                                                                                      |
+| wswan                     | WonderSwan                              | mednafen\_wswan      |                                                                                                      |
+| wswanc                    | WonderSwan Color                        | mednafen\_wswan      |                                                                                                      |
+| x1                        | Sharp X1                                | x1                   |                                                                                                      |
+| x68000                    | Sharp X68000                            | px68k                |                                                                                                      |
+| xbox                      | Xbox                                    | xemu(s)              | cxbx(s)                                                                                              |
+| xbox360                   | Xbox 360                                | xenia-canary(s)      | xenia(s)                                                                                             |
+| zx81                      | ZX 81                                   | 81                   | <p>fuse<br>fbneo</p>                                                                                 |
+| zxspectrum                | ZX Spectrum                             | fuse                 | fbneo                                                                                                |
 
