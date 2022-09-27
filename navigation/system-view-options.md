@@ -1,3 +1,7 @@
+---
+description: Pimp my system
+---
+
 # System View Options
 
 **System View Options** is accessible from the System View by pressing **SELECT**&#x20;

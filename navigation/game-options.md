@@ -1,3 +1,7 @@
+---
+description: Pimp my games
+---
+
 # Game Options
 
 **Game Options** are accessible from the System View by long-press of ![](<../.gitbook/assets/image (1) (2).png>) :&#x20;

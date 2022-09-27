@@ -1,3 +1,7 @@
+---
+description: Building your library
+---
+
 # Adding games
 
 Adding games in Retrobat is a straight-forward process.

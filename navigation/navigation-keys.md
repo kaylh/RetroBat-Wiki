@@ -1,3 +1,7 @@
+---
+description: Buttons
+---
+
 # Navigation keys
 
 You can navigate Retrobat using your controller or your keyboard.

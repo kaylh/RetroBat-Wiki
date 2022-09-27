@@ -1,3 +1,7 @@
+---
+description: More buttons
+---
+
 # Hotkeys
 
 Hotkeys can be found in the Retrobat notice [here](http://retrobat.ovh/notice/notice.pdf).

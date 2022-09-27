@@ -1,3 +1,7 @@
+---
+description: EmulationStation navigation basics
+---
+
 # Systems and gamelist
 
 All menus presented in this section are using the default Retrobat theme "**ES-THEME-CARBON**".

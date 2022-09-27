@@ -1,3 +1,7 @@
+---
+description: Configure Retrobat
+---
+
 # Main Menu
 
 Retrobat configuration is accessible from the **Main Menu.**
