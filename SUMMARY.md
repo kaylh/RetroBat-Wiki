@@ -19,13 +19,15 @@
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3do](supported-game-systems/3do.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
+  * [Windows](systems-and-emulators/supported-game-systems/windows.md)
 
 ## Controllers
 
 * [Supported Controllers](controllers/supported-controllers/README.md)
   * [Gamepads](controllers/supported-controllers/gamepads.md)
   * [Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
-  * [Lightguns](controllers/supported-controllers/lightguns.md)
+  * [Lightguns](controllers/supported-controllers/lightguns/README.md)
+    * [WiimoteGun](controllers/supported-controllers/lightguns/wiimotegun.md)
   * [Keyboard](controllers/supported-controllers/keyboard.md)
 * [Controller configuration](controllers/controller-configuration.md)
 
@@ -38,3 +40,4 @@
 * [Batgui](advanced-features/batgui.md)
 * [Retroachievements](advanced-features/retroachievements.md)
 * [Netplay](advanced-features/netplay.md)
+* [Retrobat.ini](advanced-features/retrobat.ini.md)

@@ -20,7 +20,7 @@ The quick search menu is available by pressing ![](<../.gitbook/assets/image (2)
 
 #### Navigation bar
 
-Navigation bar is displayed by pressing ![](../.gitbook/assets/image.png):&#x20;
+Navigation bar is displayed by pressing ![](<../.gitbook/assets/image (4).png>):&#x20;
 
 <figure><img src="https://i.imgur.com/X1GYL7I.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,11 +36,11 @@ From this menu you have access to features such as User Manual, Screensaver, ski
 
 #### System Gamelist
 
-To enter a system gamelist, select a system by using left and right buttons, and press ![](<../.gitbook/assets/image (1).png>)
+To enter a system gamelist, select a system by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
 
 <figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption></figcaption></figure>
 
 Navigate your games using the d-pad.
 
-* Press ![](<../.gitbook/assets/image (1).png>) to run the game (long-press to display game options)
-* Press ![](../.gitbook/assets/image.png)to navigate back to the system list
+* Press ![](<../.gitbook/assets/image (1) (2).png>) to run the game (long-press to display game options)
+* Press ![](<../.gitbook/assets/image (4).png>)to navigate back to the system list
