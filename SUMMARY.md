@@ -22,6 +22,7 @@
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3do](supported-game-systems/3do.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
+  * [Nes 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
 
 ## Controllers
