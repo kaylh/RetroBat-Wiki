@@ -44,17 +44,17 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.
 
 ## Controls
 
-| Retrobat Button                             | Dreamcast key |
-| ------------------------------------------- | ------------- |
-| START                                       | START         |
-| Left analog stick                           | Analog stick  |
-| D-PAD                                       | D-PAD         |
-| ![](<../.gitbook/assets/image (3) (1).png>) | X             |
-| ![](<../.gitbook/assets/image (4).png>)     | A             |
-| ![](<../.gitbook/assets/image (9).png>)     | B             |
-| ![](../.gitbook/assets/image.png)           | Y             |
-| L1                                          | L1            |
-| R1                                          | R1            |
+| Retrobat Button                         | Dreamcast key |
+| --------------------------------------- | ------------- |
+| START                                   | START         |
+| Left analog stick                       | Analog stick  |
+| D-PAD                                   | D-PAD         |
+| ![](<../.gitbook/assets/image (2).png>) | X             |
+| ![](<../.gitbook/assets/image (1).png>) | A             |
+| ![](../.gitbook/assets/image.png)       | B             |
+| ![](<../.gitbook/assets/image (3).png>) | Y             |
+| L1                                      | L1            |
+| R1                                      | R1            |
 
 ## Specific system information
 

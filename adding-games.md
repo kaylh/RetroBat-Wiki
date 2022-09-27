@@ -60,19 +60,9 @@ Game information will now be available:
 
 ### Per game scraping
 
-In order to scrape only a single game, select the game and long-press the "south" button ![](<.gitbook/assets/image (2).png>) to open the game options. The select **SCRAPE.**
+In order to scrape only a single game, select the game and long-press the "south" button ![](<.gitbook/assets/image (1).png>) to open the game options. The select **SCRAPE.**
 
 <figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-X on keyboard
-
-X on PlayStation controller
-
-B on SuperNes controller
-
-A on Microsoft controller
-{% endhint %}
 
 A list of possible match will be displayed, you will be able to select the appropriate game from the list or to use the **INPUT** button at the bottom to change the text for research.
 
