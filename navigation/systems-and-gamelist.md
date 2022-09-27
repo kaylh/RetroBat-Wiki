@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/retrobat_logo3.png
-coverY: 0
----
-
 # Systems and gamelist
 
 All menus presented in this section are using the default Retrobat theme "**ES-THEME-CARBON**".

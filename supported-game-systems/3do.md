@@ -1,24 +1,25 @@
----
-cover: ../.gitbook/assets/retrobat_logo3.png
-coverY: 0
----
-
 # 3do
 
 <figure><img src="../.gitbook/assets/3do.svg" alt=""><figcaption></figcaption></figure>
 
+Type: Game Console
+
+Lifespan: 1993 - 1999
+
+Wikipedia page : [https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer](https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer)
+
 ## Information
 
-Emulators/cores:
+**Emulators/cores:**
 
 * Libretro: 4do
 * Libretro: opera
 
-Roms folder:
+**Roms folder:**
 
 * roms/3do
 
-Roms formats:
+**Roms formats:**
 
 * cue
 * iso
@@ -33,78 +34,18 @@ Roms formats:
 | panafz10.bin | bios/  | 51f2f43ae2f3508a14d9f56597e2d3ce |
 | goldstar.bin | bios/  | 8639fd5e549bd6238cfee79e3e749114 |
 
-## Emulators settings
-
-### Libretro: 4do
-
-#### General settings
-
-| Option Name                     |
-| ------------------------------- |
-| SHADER SET                      |
-| DECORATIONS                     |
-| GAME ASPECT RATIO               |
-| INTEGER SCALING (PIXEL PERFECT) |
-| VERTICAL SYNC                   |
-| AUTOCONFIGURE CONTROLLERS       |
-
-#### Advanced settings
-
-| Category          | Option Name                   |
-| ----------------- | ----------------------------- |
-| VIDEO             | Video Mode                    |
-|                   | Screen Orientation            |
-|                   | Monitor Index                 |
-|                   | Graphic Card Index            |
-|                   | CRT Screen Output             |
-|                   | CRT Screen Resolution         |
-| SCREEN SYNC       | Hard Sync                     |
-|                   | Swap Interval                 |
-|                   | Black Frames Insertion        |
-|                   | G-Sync/Freesync Compatibility |
-| VISUAL RENDERING  | Smooth Games                  |
-| AUDIO             | Resampler                     |
-|                   | Quality                       |
-|                   | Volume Gain                   |
-|                   | Mixer Volume Gain             |
-|                   | DSP Plugin                    |
-| USER INTERFACE    | Notifications                 |
-|                   | Draw Statistics               |
-| LATENCY REDUCTION | Automatic Frame Delay         |
-|                   | Run-Ahead Frames              |
-|                   | Run-Ahead Use Second Instance |
-| DRIVERS           | Video                         |
-|                   | Audio                         |
-|                   | Controllers                   |
-| EMULATION         | Rewind                        |
-|                   | Auto Save/Load                |
-| LIGHTGUN          |                               |
-
-### Libretro: opera
-
-#### General Settings
-
-| Option Name |
-| ----------- |
-|             |
-|             |
-|             |
-
-#### Advanced Settings
-
-| Category | Option Name |
-| -------- | ----------- |
-|          |             |
-|          |             |
-|          |             |
-
 ## Controls
 
-| Retrobat Button | 3do key |
-| --------------- | ------- |
-|                 |         |
-|                 |         |
-|                 |         |
+| Retrobat Button                         | 3do key |
+| --------------------------------------- | ------- |
+| START                                   | START   |
+| SELECT                                  | SELECT  |
+| D-PAD, Left analog stick                | D-PAD   |
+| ![](<../.gitbook/assets/image (3).png>) | A       |
+| ![](<../.gitbook/assets/image (4).png>) | B       |
+| ![](../.gitbook/assets/image.png)       | C       |
+| L1                                      | L1      |
+| R1                                      | R1      |
 
 ## Specific system information
 
