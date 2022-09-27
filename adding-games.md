@@ -60,7 +60,7 @@ Game information will now be available:
 
 ### Per game scraping
 
-In order to scrape only a single game, select the game and long-press the "south" button ![](<../.gitbook/assets/image (2).png>) to open the game options. The select **SCRAPE.**
+In order to scrape only a single game, select the game and long-press the "south" button ![](<.gitbook/assets/image (2).png>) to open the game options. The select **SCRAPE.**
 
 <figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption></figcaption></figure>
 

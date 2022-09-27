@@ -4,8 +4,8 @@
 
 ## Get Started
 
-* [Installation & first startup](get-started/installation-and-first-startup.md)
-* [Adding games](get-started/adding-games.md)
+* [Installation & first startup](installation-and-first-startup.md)
+* [Adding games](adding-games.md)
 
 ## NAVIGATION
 
@@ -16,9 +16,9 @@
 
 ## Systems & Emulators
 
-* [Supported Game Systems](systems-and-emulators/supported-game-systems/README.md)
-  * [3do](systems-and-emulators/supported-game-systems/3do.md)
-  * [Dreamcast](systems-and-emulators/supported-game-systems/dreamcast.md)
+* [Supported Game Systems](supported-game-systems/README.md)
+  * [3do](supported-game-systems/3do.md)
+  * [Dreamcast](supported-game-systems/dreamcast.md)
 
 ## Controllers
 
@@ -35,3 +35,4 @@
 * [Game Collections](advanced-features/game-collections.md)
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
+* [Batgui](advanced-features/batgui.md)
