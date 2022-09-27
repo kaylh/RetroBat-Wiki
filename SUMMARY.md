@@ -12,7 +12,7 @@
 
 * [Navigation keys](navigation/navigation-keys.md)
 * [Hotkeys](navigation/hotkeys.md)
-* [Systems and gamelist](navigation/systems-and-gamelist.md)
+* [System and gamelist views](navigation/system-and-gamelist-views.md)
 * [Main Menu](navigation/main-menu.md)
 * [System View Options](navigation/system-view-options.md)
 * [Game Options](navigation/game-options.md)
@@ -28,11 +28,11 @@
 ## Controllers
 
 * [Supported Controllers](controllers/supported-controllers/README.md)
-  * [Gamepads](controllers/supported-controllers/gamepads.md)
-  * [Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
-  * [Lightguns](controllers/supported-controllers/lightguns/README.md)
+  * [🎮 Gamepads](controllers/supported-controllers/gamepads.md)
+  * [🕹 Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
+  * [🔫 Lightguns](controllers/supported-controllers/lightguns/README.md)
     * [WiimoteGun](controllers/supported-controllers/lightguns/wiimotegun.md)
-  * [Keyboard](controllers/supported-controllers/keyboard.md)
+  * [⌨ Keyboard](controllers/supported-controllers/keyboard.md)
 * [Controller configuration](controllers/controller-configuration.md)
 
 ## Advanced Features

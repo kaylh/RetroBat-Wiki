@@ -1,2 +1,2 @@
-# Gamepads
+# 🎮 Gamepads
 

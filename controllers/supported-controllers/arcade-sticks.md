@@ -1,2 +1,2 @@
-# Arcade Sticks
+# 🕹 Arcade Sticks
 

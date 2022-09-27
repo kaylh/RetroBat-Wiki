@@ -2,5 +2,5 @@
 description: Bang bang
 ---
 
-# Lightguns
+# 🔫 Lightguns
 

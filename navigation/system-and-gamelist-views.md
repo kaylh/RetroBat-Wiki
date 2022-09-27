@@ -2,19 +2,21 @@
 description: EmulationStation navigation basics
 ---
 
-# Systems and gamelist
+# System and gamelist views
 
 All menus presented in this section are using the default Retrobat theme "**ES-THEME-CARBON**".
 
-The first screen displayed when launching Retrobat is the System List:
+### System View
 
-<figure><img src="https://i.imgur.com/pYMalry.png" alt=""><figcaption></figcaption></figure>
+The first screen displayed when launching Retrobat is the System View, from here you can navigate your game systems and enter their respective gamelists.
+
+<figure><img src="https://i.imgur.com/pYMalry.png" alt=""><figcaption><p>System View with <strong>ES-THEME-CARBON</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Only the systems where ROMs have been placed in the roms folder will appear.
 {% endhint %}
 
-From the System List, you can access different screens.
+From the System View, you can access different screens.
 
 #### Quick Search&#x20;
 
@@ -38,11 +40,13 @@ Quick access menu is accessible by pressing "**SELECT**":
 
 From this menu you have access to features such as User Manual, Screensaver, skipping songs and Quit options.
 
-#### System Gamelist
+### Gamelist View
 
-To enter a system gamelist, select a system by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
+The gamelist view is where you browse and start your games.
 
-<figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption></figcaption></figure>
+To enter Gamelist View, select a system or a collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
+
+<figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption><p>The <strong>Gamelist view</strong> is where you browse the games for a specific system.</p></figcaption></figure>
 
 Navigate your games using the d-pad.
 
