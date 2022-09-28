@@ -22,6 +22,7 @@
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3DO](supported-game-systems/3do.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
+  * [Final Burn Neo](systems-and-emulators/supported-game-systems/final-burn-neo.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Master System - Mark III](systems-and-emulators/supported-game-systems/master-system-mark-iii.md)
