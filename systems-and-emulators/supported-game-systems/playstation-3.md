@@ -4,9 +4,7 @@ description: Sony
 
 # Playstation 3
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/ps3.svg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/ps3.svg" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 2006 - 2017
 
