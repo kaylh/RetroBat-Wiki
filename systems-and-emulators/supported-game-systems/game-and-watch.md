@@ -23,7 +23,7 @@ No BIOS required for Game & Watch games.
 
 ## Controls
 
-| RetroBat key                                                                    | GameCube key     |
+| RetroBat key                                                                    | G\&W key         |
 | ------------------------------------------------------------------------------- | ---------------- |
 | START                                                                           | Menu             |
 | D-PAD                                                                           | D-PAD            |
