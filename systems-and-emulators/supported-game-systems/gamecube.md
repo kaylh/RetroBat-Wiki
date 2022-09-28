@@ -13,9 +13,9 @@ Game Console - Lifespan: 2001 - 2007
 ## Information
 
 | **Emulators**       | <ul><li>dolphin (S) </li><li>dolphin-triforce (S) </li><li>dolphin (Libretro)</li></ul> |   |
-| ------------------- | :-------------------------------------------------------------------------------------: | - |
-| **Games Location**  |                                     `\roms\gamecube`                                    |   |
-| **File extensions** |                                  `.cue .iso .chd .m3u`                                  |   |
+| ------------------- | --------------------------------------------------------------------------------------- | - |
+| **Games Location**  | `\roms\gamecube`                                                                        |   |
+| **File extensions** | `.cue .iso .chd .m3u`                                                                   |   |
 
 ## Bios
 
