@@ -17,7 +17,7 @@ Fbneo 1.0.0.3
 
 ## Bios Information
 
-Althrough no BIOS file is necessary for most of the games, some ROMs will require BIOS files.
+Althrough no BIOS file is necessary for most of the games, some systems emulated by fbneo will require BIOS files.
 
 | Bios file  | Folder  | Usage                         |
 | ---------- | ------- | ----------------------------- |
