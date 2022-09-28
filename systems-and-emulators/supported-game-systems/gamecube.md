@@ -17,9 +17,9 @@ Game Console - Lifespan: 2001 - 2007
 | **Games Location**  | `\roms\gamecube`                                                                        |   |
 | **File extensions** | `.cue .iso .chd .m3u`                                                                   |   |
 
-## Bios
+## BIOS
 
-No specific BIOS required for Gamecube system.
+The BIOS files are not mandatory to launch games but some require at least one of their region for better graphic effects and font support.
 
 | <p><code>IPL.bin</code><br>Europe</p> | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
