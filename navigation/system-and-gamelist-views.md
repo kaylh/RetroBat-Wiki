@@ -20,7 +20,7 @@ From the System View, you can access different screens.
 
 #### Quick Search&#x20;
 
-The quick search menu is available by pressing ![](<../.gitbook/assets/image (2).png>):&#x20;
+The quick search menu is available by pressing ![](<../.gitbook/assets/image (2) (1).png>):&#x20;
 
 <figure><img src="https://i.imgur.com/4jmo9se.png" alt=""><figcaption><p>The Quick Search allows you to easily find your games</p></figcaption></figure>
 

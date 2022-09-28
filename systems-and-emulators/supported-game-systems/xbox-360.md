@@ -4,7 +4,7 @@ description: Microsoft
 
 # XBOX 360
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 Game Console - Lifespan: 2005 - 2016
 

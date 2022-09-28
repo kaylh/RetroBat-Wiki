@@ -33,7 +33,7 @@ Game Console - Lifespan: 1998 - 2001
 | START                                       | START         |
 | Left analog stick                           | Analog stick  |
 | D-PAD                                       | D-PAD         |
-| ![](<../.gitbook/assets/image (2).png>)     | X             |
+| ![](<../.gitbook/assets/image (2) (1).png>) | X             |
 | ![](<../.gitbook/assets/image (1) (2).png>) | A             |
 | ![](<../.gitbook/assets/image (4).png>)     | B             |
 | ![](<../.gitbook/assets/image (3) (1).png>) | Y             |
