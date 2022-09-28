@@ -23,6 +23,7 @@
   * [3DO](supported-game-systems/3do.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
+  * [Super Nintendo Entertainment System](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Playstation 3](systems-and-emulators/supported-game-systems/playstation-3.md)

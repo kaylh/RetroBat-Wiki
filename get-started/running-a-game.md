@@ -6,7 +6,7 @@ description: Let's play !
 
 ### Running a Game
 
-In order to run a game, when in the [system menu](../navigation/system-view-options.md), press the ![](<../.gitbook/assets/image (1) (2) (1).png>) button:
+In order to run a game, when in the [system menu](../navigation/system-view-options.md), press the ![](<../.gitbook/assets/image (1) (2).png>) button:
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Choose the Emulator in the list
 
 #### Changing for a game
 
-When the game is highlighted, long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) and select "**Advanced Game Options**"
+When the game is highlighted, long-press ![](<../.gitbook/assets/image (1) (2).png>) and select "**Advanced Game Options**"
 
 <figure><img src="https://i.imgur.com/QB1L9SQ.png" alt=""><figcaption></figcaption></figure>
 
