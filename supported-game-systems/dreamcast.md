@@ -64,8 +64,8 @@ The texture pack must be placed in the `\bios\dc\textures\` folder:
 
 Then custom textures have to be enabled in Retrobat Dreamcast system configuration or in the game specific configuration:
 
-<figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption><p>Enter the Dreamcast System View Options</p></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/qVMX2Ly.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/qVMX2Ly.png" alt=""><figcaption><p>Select Visual Rendering</p></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/SbsPMz1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/SbsPMz1.png" alt=""><figcaption><p>Set Custom Textures to YES</p></figcaption></figure>
