@@ -2,30 +2,27 @@
 description: SNK
 ---
 
-# Neo Geo
+# Neo Geo CD
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/neogeo.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/neogeocd.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 1990 - 2004
+Game Console - Lifespan: 1994 - 1997
 
-{% embed url="https://en.wikipedia.org/wiki/Neo_Geo" %}
+{% embed url="https://en.wikipedia.org/wiki/Neo_Geo_CD" %}
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: fbneo</li><li>Libretro: fbalpha</li><li>Libretro: fbalpha2012_neogeo</li><li>raine</li><li>mame64: neogeo</li></ul> |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: neogeo                                                                               |
-| **File extension** | .zip .wad .7z                                                                                                                         |
-
-### ROMSET&#x20;
-
-Use fbneo 1.0.0.3 romset for the default emulator.
+| **Emulators**      | <ul><li>Libretro: neocd</li><li>Libretro: fbneo</li><li>raine</li></ul> |
+| ------------------ | ----------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: neogeocd               |
+| **File extension** | .txt .m3u .cue .iso .cso .chd .zip .7z                                  |
 
 ## Bios Information
 
 | Bios file  | Folder  | md5                              |
 | ---------- | ------- | -------------------------------- |
 | neogeo.zip | `\bios` | dffb72f116d36d025068b23970a4f6df |
+| neocdz.zip | `\bios` | c733b4b7bd30fa849874d96c591c8639 |
 
 ## Controls
 
@@ -51,4 +48,4 @@ TBD
 
 ## Specific system information
 
-No specific information for neogeo system.
+No specific information for neogeocd system.
