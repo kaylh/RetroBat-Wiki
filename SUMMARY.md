@@ -24,6 +24,7 @@
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
+  * [Master System](systems-and-emulators/supported-game-systems/master-system.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Nintendo Entertainment System](systems-and-emulators/supported-game-systems/nintendo-entertainment-system.md)
@@ -31,6 +32,7 @@
   * [XBOX 360](systems-and-emulators/supported-game-systems/xbox-360.md)
   * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)
   * [Super Nintendo Entertainment System](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system.md)
+  * [Wii](systems-and-emulators/supported-game-systems/wii.md)
   * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
 
