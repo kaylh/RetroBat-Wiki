@@ -12,24 +12,32 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Information
 
-| **Emulators**      | <ul><li>dolphin (S) </li><li>dolphin-triforce (S) </li><li>dolphin (Libretro)</li></ul> |   |
-| ------------------ | --------------------------------------------------------------------------------------- | - |
-| **File folder**    | :file\_folder: roms \ :open\_file\_folder: gamecube                                     |   |
-| **File extension** | .cue .iso .chd .m3u                                                                     |   |
+| **Emulators**       | <ul><li>dolphin (S) </li><li>dolphin-triforce (S) </li><li>dolphin (Libretro)</li></ul> |   |
+| ------------------- | :-------------------------------------------------------------------------------------: | - |
+| **Games Location**  |                                     `\roms\gamecube`                                    |   |
+| **File extensions** |                                  `.cue .iso .chd .m3u`                                  |   |
 
 ## Bios
 
+| IPL.bin (Europe) | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
+| IPL.bin (Japan)  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
+| IPL.bin (USA)    | <p>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></p> |   |
+
 ## Controls
 
-| RetroBat Key                                   | 3do key |
-| ---------------------------------------------- | ------- |
-| START                                          | START   |
-| SELECT                                         | SELECT  |
-| D-PAD, Left analog stick                       | D-PAD   |
-| ![](<../../.gitbook/assets/image (2).png>)     | A       |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B       |
-| ![](<../../.gitbook/assets/image (4).png>)     | C       |
-| L1                                             | L1      |
-| R1                                             | R1      |
+| RetroBat key                                   | GameCube key                   |
+| ---------------------------------------------- | ------------------------------ |
+| START                                          | START                          |
+| SELECT                                         |                                |
+| D-PAD - Analog Stick (Left)                    | Analog Stick (Left)            |
+| D-PAD - Analog Stick (Right)                   | Analog Stick (C-Stick, Right)  |
+| ![](<../../.gitbook/assets/image (2).png>)     | Y                              |
+| ![](<../../.gitbook/assets/image (1) (2).png>) | B / A                          |
+| ![](<../../.gitbook/assets/image (4).png>)     | A / B                          |
+| L2                                             | L                              |
+| R2                                             | R                              |
+| L1                                             |                                |
+| R1                                             | Z                              |
 
 ##
