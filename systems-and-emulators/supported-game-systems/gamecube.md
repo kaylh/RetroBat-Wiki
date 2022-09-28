@@ -31,15 +31,19 @@ No specific BIOS required for Gamecube system.
 | RetroBat key                                   | GameCube key                   |
 | ---------------------------------------------- | ------------------------------ |
 | START                                          | START                          |
-| SELECT                                         |                                |
-| D-PAD - Analog Stick (Left)                    | Analog Stick (Left)            |
-| D-PAD - Analog Stick (Right)                   | Analog Stick (C-Stick, Right)  |
-| ![](<../../.gitbook/assets/image (2).png>)     | Y                              |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B / A                          |
-| ![](<../../.gitbook/assets/image (4).png>)     | A / B                          |
+| Analog Stick (Left)                            | Analog Stick (Left)            |
+| Analog Stick (Right)                           | Analog Stick (C-Stick, Right)  |
+| D-pad                                          | D-pad                          |
+| ![](<../../.gitbook/assets/image (2).png>)     | B                              |
+| ![](<../../.gitbook/assets/image (1) (2).png>) | A                              |
+| ![](<../../.gitbook/assets/image (4).png>)     | X                              |
+| ![](<../../.gitbook/assets/image (3) (1).png>) | Y                              |
 | L2                                             | L                              |
 | R2                                             | R                              |
-| L1                                             |                                |
 | R1                                             | Z                              |
 
-##
+## Specific system information
+
+### Custom Textures
+
+TBD

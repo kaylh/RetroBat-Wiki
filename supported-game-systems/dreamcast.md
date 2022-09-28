@@ -35,8 +35,8 @@ Game Console - Lifespan: 1998 - 2001
 | ![](<../.gitbook/assets/image (1) (2).png>) | A             |
 | ![](<../.gitbook/assets/image (4).png>)     | B             |
 | ![](<../.gitbook/assets/image (3) (1).png>) | Y             |
-| L1                                          | L1            |
-| R1                                          | R1            |
+| L2                                          | L1            |
+| R2                                          | R1            |
 
 ## Specific system information
 
@@ -54,9 +54,9 @@ Create a _Alone in the dark The new nightmare.m3u_ text file with the following 
 
 Retrobat will automatically detect the m3u file and hide the individual .gdi files from the Game List.
 
-### HD textures
+### Custom textures
 
-Custom HD textures can be used with the flycast core.
+Custom textures can be used with the flycast core.
 
 The texture pack must be placed in the `\bios\dc\textures\` folder:
 
