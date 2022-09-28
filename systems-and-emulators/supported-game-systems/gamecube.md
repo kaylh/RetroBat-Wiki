@@ -10,14 +10,14 @@ Game Console - Lifespan: 2001 - 2007
 
 {% embed url="https://en.wikipedia.org/wiki/GameCube" %}
 
-## <mark style="color:purple;">Information</mark>
+## Information
 
 | **Emulators**       | <ul><li>dolphin (S) </li><li>dolphin-triforce (S) </li><li>dolphin (Libretro)</li></ul> |   |
 | ------------------- | --------------------------------------------------------------------------------------- | - |
 | **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gamecube                                     |   |
 | **File extensions** | `.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u`                                             |   |
 
-## <mark style="color:purple;">BIOS</mark>
+## BIOS
 
 The BIOS files are not mandatory to launch games but some require at least one of their region for better graphic effects and font support.
 
@@ -26,7 +26,7 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | <p><code>IPL.bin</code><br>Japan</p>  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
 | <p><code>IPL.bin</code><br>USA</p>    | <p>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></p> |   |
 
-## <mark style="color:purple;">Controls</mark>
+## Controls
 
 | RetroBat key                                                                    | GameCube key             |
 | ------------------------------------------------------------------------------- | ------------------------ |
@@ -46,7 +46,7 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | L-Click (L3)                                                                    |                          |
 | R-Click (R3)                                                                    |                          |
 
-## <mark style="color:purple;">System Features</mark>
+## System Features
 
 ### Custom Textures
 
