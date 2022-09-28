@@ -28,6 +28,7 @@
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Master System - Mark III](systems-and-emulators/supported-game-systems/master-system-mark-iii.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
+  * [Neo Geo](systems-and-emulators/supported-game-systems/neo-geo.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
   * [Nintendo 64 Disk Drive](systems-and-emulators/supported-game-systems/nintendo-64-disk-drive.md)
