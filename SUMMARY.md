@@ -27,13 +27,14 @@
   * [Master System](systems-and-emulators/supported-game-systems/master-system.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
-  * [Nintendo Entertainment System](systems-and-emulators/supported-game-systems/nintendo-entertainment-system.md)
+  * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
+  * [Nintendo 64 Disk Drive](systems-and-emulators/supported-game-systems/nintendo-64-disk-drive.md)
+  * [Nintendo Entertainment System - Family Computer](systems-and-emulators/supported-game-systems/nintendo-entertainment-system-family-computer.md)
   * [Playstation 3](systems-and-emulators/supported-game-systems/playstation-3.md)
   * [XBOX 360](systems-and-emulators/supported-game-systems/xbox-360.md)
-  * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)
-  * [Super Nintendo Entertainment System](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system.md)
   * [Wii](systems-and-emulators/supported-game-systems/wii.md)
-  * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
+  * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)
+  * [Super Nintendo Entertainment System - Super Famicom](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system-super-famicom.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
 
 ## Controllers

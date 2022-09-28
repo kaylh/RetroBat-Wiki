@@ -2,26 +2,29 @@
 description: Nintendo
 ---
 
-# Nintendo 64
+# Nintendo 64 Disk Drive
 
 
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64dd.svg" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1996 - 2002
 
-{% embed url="https://en.wikipedia.org/wiki/Nintendo_64" %}
+{% embed url="https://en.wikipedia.org/wiki/64DD" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mupen64plus next</li><li>libretro: parallel</li><li>project64</li></ul> |   |
-| ------------------- | ----------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: n64                                            |   |
-| **File extensions** | .v64 .z64 .n64 .wad .zip .7z                                                              |   |
+| **Emulators**       | <ul><li>libretro: mupen64plus next</li><li>project64</li></ul> |   |
+| ------------------- | -------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: n64dd               |   |
+| **File extensions** | .v64 .z64 .n64 .ndd                                            |   |
 
 ## BIOS
 
-There is no BIOS files needed to run games.
+| <p>IPL_JAP.n64<br>Japan</p>           | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>8d3d9f294b6e174bc7b1d2fd1c727530</code></p> |   |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | - |
+| <p>IPL_USA.n64<br>USA</p>             | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>37c36e4286d36892a9fc70eafe4104be</code></p> |   |
+| <p>IPL_DEV.n64<br>Development Kit</p> | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> </p>                                              |   |
 
 ## Controls
 
