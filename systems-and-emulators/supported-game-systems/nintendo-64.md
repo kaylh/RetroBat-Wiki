@@ -2,20 +2,22 @@
 description: Nintendo
 ---
 
-# Super Nintendo Entertainment System
+# Nintendo 64
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/snes.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 1990 - 2003
 
-{% embed url="https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" %}
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64.svg" alt=""><figcaption></figcaption></figure>
+
+Game Console - Lifespan: 1996 - 2002
+
+{% embed url="https://en.wikipedia.org/wiki/Nintendo_64" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes hd</li><li>libretro: mesen-s</li><li>mednafen</li><li>snes9x</li></ul> |   |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                 |   |
-| **File extensions** | .smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z                                                                                      |   |
+| **Emulators**       | <ul><li>libretro: mupen64plus next</li><li>libretro: parallel</li><li>project64</li></ul> |   |
+| ------------------- | ----------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: n64                                            |   |
+| **File extensions** | .v64 .z64 .n64 .wad .zip .7z                                                              |   |
 
 ## BIOS
 

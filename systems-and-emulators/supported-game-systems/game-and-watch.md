@@ -15,7 +15,7 @@ Game Console - Lifespan: 1980 - 1991
 | **Emulators**       | <ul><li>libretro: gw</li><li>libretro: mame</li><li>mame64</li></ul> |   |
 | ------------------- | -------------------------------------------------------------------- | - |
 | **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: gameandwatch         |   |
-| **File extensions** | `.mgw .MGW .zip .ZIP .7z .7Z`                                        |   |
+| **File extensions** | .mgw .zip .7z                                                        |   |
 
 ## BIOS
 

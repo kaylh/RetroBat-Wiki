@@ -31,6 +31,7 @@
   * [XBOX 360](systems-and-emulators/supported-game-systems/xbox-360.md)
   * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)
   * [Super Nintendo Entertainment System](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system.md)
+  * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
 
 ## Controllers
