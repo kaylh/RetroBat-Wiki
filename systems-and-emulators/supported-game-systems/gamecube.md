@@ -46,7 +46,7 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | L-Click (L3)                                                                    |                          |
 | R-Click (R3)                                                                    |                          |
 
-## Specific system information
+## System Features
 
 ### Custom Textures
 
