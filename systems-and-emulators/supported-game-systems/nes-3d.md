@@ -4,7 +4,7 @@ description: Nintendo / GeoStudio
 
 # NES 3D
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 Emulator
 
@@ -23,13 +23,13 @@ No specific BIOS is required to play NES games.
 
 ## Controls
 
-| Retrobat Button                                | 3DSen key |
-| ---------------------------------------------- | --------- |
-| START                                          | START     |
-| SELECT                                         | SELECT    |
-| D-PAD, left stick                              | D-PAD     |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B         |
-| ![](<../../.gitbook/assets/image (4).png>)     | A         |
+| Retrobat Button                                    | 3DSen key |
+| -------------------------------------------------- | --------- |
+| START                                              | START     |
+| SELECT                                             | SELECT    |
+| D-PAD, left stick                                  | D-PAD     |
+| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | B         |
+| ![](<../../.gitbook/assets/image (4).png>)         | A         |
 
 ## Specific system information
 

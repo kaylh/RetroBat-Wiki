@@ -44,11 +44,11 @@ From this menu you have access to features such as User Manual, Screensaver, ski
 
 The gamelist view is where you browse and start your games.
 
-To enter Gamelist View, select a system or a collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
+To enter Gamelist View, select a system or a collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2) (1).png>)
 
 <figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption><p>The <strong>Gamelist view</strong> is where you browse the games for a specific system.</p></figcaption></figure>
 
 Navigate your games using the d-pad.
 
-* Press ![](<../.gitbook/assets/image (1) (2).png>) to run the game (long-press to display game options)
+* Press ![](<../.gitbook/assets/image (1) (2) (1).png>) to run the game (long-press to display game options)
 * Press ![](<../.gitbook/assets/image (4).png>)to navigate back to the system list
