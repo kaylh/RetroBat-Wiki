@@ -24,6 +24,7 @@
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [Final Burn Neo](systems-and-emulators/supported-game-systems/final-burn-neo.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
+  * [Game Boy](systems-and-emulators/supported-game-systems/game-boy.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Master System - Mark III](systems-and-emulators/supported-game-systems/master-system-mark-iii.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
