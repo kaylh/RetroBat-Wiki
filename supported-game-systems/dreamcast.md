@@ -23,7 +23,7 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.
 
 **Roms folder:**
 
-* roms/dreamcast
+* `\roms\dreamcast`
 
 **Roms formats:**
 
@@ -31,10 +31,10 @@ mds, mdf, cue, cdi, gdi, chd, m3u
 
 ## Bios Information
 
-| bios file     | Folder | md5                              |
-| ------------- | ------ | -------------------------------- |
-| dc\_boot.bin  | bios/  | e10c53c2f8b90bab96ead2d368858623 |
-| dc\_flash.bin | bios/  | 0a93f7940c455905bea6e392dfde92a4 |
+| bios file     | Folder     | md5                              |
+| ------------- | ---------- | -------------------------------- |
+| dc\_boot.bin  | `\bios\dc` | e10c53c2f8b90bab96ead2d368858623 |
+| dc\_flash.bin | `\bios\dc` | 0a93f7940c455905bea6e392dfde92a4 |
 
 ## Controls
 

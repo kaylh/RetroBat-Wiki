@@ -16,13 +16,13 @@ Homepage : [http://www.geodstudio.net/#](http://www.geodstudio.net)
 
 * 3DSen
 
-**Roms folder:**
+ROMs **folder:**
 
-* roms/nes3d
+* `\roms\nes3d`
 
 **Roms formats:**
 
-3dsen
+.3dsen
 
 ## Bios Information
 
@@ -42,7 +42,7 @@ No specific BIOS is required to play NES games.
 
 ### 3DSen ROM file
 
-3DSen Emulator has a fixed ID for each compatible game, in order for Retrobat to be able to launch 3DSen with a game, the game ID needs to be specified in a .3dSen file:
+3DSen Emulator has a fixed ID for each compatible game, in order for Retrobat to be able to launch 3DSen with a game, the game ID needs to be specified in a .3dsen file:
 
 <figure><img src="https://i.imgur.com/egozosL.png" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ Double-click on the game and select the NES ROM:
 <figure><img src="https://i.imgur.com/P7Kgbvj.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The Retrobat team has prepared to you the full set of 3DSen files and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset NES ROM names.
+The RetroBat team has prepared to you the full set of 3DSen files and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset NES ROM names.
 {% endhint %}
 
 ### Supported Games & IDs

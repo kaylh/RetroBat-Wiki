@@ -24,11 +24,11 @@ Emulator wiki : [https://wiki.rpcs3.net/index.php?title=Main\_Page](https://wiki
 
 **Roms folder:**
 
-* roms/ps3
+* `\roms\ps3`
 
 **Roms formats:**
 
-m3u, ps3, iso, 7z, zip, rar, squashfs
+.m3u .ps3 .iso .7z .zip .rar .squashfs
 
 ## Bios Information
 

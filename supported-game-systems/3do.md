@@ -19,21 +19,21 @@ Wikipedia page : [https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer](h
 * Libretro: 4do
 * Libretro: opera
 
-**Roms folder:**
+ROMs **folder:**
 
-* roms/3do
+* `\roms\3do`
 
-**Roms formats:**
+ROMs **formats:**
 
-cue, iso, chd, m3u
+.cue .iso .chd .m3u
 
 ## Bios Information
 
-| bios file    | Folder | md5                              |
-| ------------ | ------ | -------------------------------- |
-| panafz1.bin  | bios/  | f47264dd47fe30f73ab3c010015c155b |
-| panafz10.bin | bios/  | 51f2f43ae2f3508a14d9f56597e2d3ce |
-| goldstar.bin | bios/  | 8639fd5e549bd6238cfee79e3e749114 |
+| bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| panafz1.bin  | `\bios` | f47264dd47fe30f73ab3c010015c155b |
+| panafz10.bin | `\bios` | 51f2f43ae2f3508a14d9f56597e2d3ce |
+| goldstar.bin | `\bios` | 8639fd5e549bd6238cfee79e3e749114 |
 
 ## Controls
 

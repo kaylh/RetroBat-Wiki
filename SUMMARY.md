@@ -46,5 +46,5 @@
 * [Batgui](advanced-features/batgui.md)
 * [Retroachievements](advanced-features/retroachievements.md)
 * [Netplay](advanced-features/netplay.md)
-* [Retrobat.ini](advanced-features/retrobat.ini.md)
+* [retrobat.ini](advanced-features/retrobat.ini.md)
 * [Pad2Key](advanced-features/pad2key.md)

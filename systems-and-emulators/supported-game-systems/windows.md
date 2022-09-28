@@ -14,15 +14,15 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Microsoft\_Windows](https://en.w
 
 ## Information
 
-Windows games do not use any emulator to function, Retrobat enables to launch Windows games from its interface.
+Windows games do not use any emulator to function, RetroBat enables to launch Windows games from its interface.
 
 **Roms folder:**
 
-* roms/windows
+* `\roms\windows`
 
 **Roms formats:**
 
-exe, bat, cmd, lnk, url, pc, win, windows, wine, 7z, zip, rar, wsquashfs
+.exe .bat .cmd .lnk .url .pc .win .windows .wine .7z .zip .rar .wsquashfs
 
 ## Controls
 
@@ -32,7 +32,7 @@ No automatic controller configuration is performed for Windows games.
 
 ### Adding games
 
-Right click and select "_copy_" on the executable (\*.exe) of your PC games, and make "_paste shortcuts_" in folder "_roms/windows/_"
+Right click and select "_copy_" on the executable (\*.exe) of your PC games, and make "_paste shortcuts_" in folder `\roms\windows`
 
 <figure><img src="https://i.imgur.com/47WNq9D.png" alt=""><figcaption><p>Project CARS shortcut</p></figcaption></figure>
 
@@ -52,7 +52,7 @@ The solution without switching off Steam launches the games faster since the con
 
 This is code of your .bat file **with Steam kill**:
 
-<pre><code><strong>@echo OFF
+<pre class="language-batch"><code class="lang-batch"><strong>@echo OFF
 </strong>
 REM HERE MODIFY YOUR STEAM APPID:
 START steam://rungameid/000000
@@ -67,7 +67,7 @@ if %errorlevel%==1 timeout /t 5 &#x26; taskkill /F /IM Steam.exe /T &#x26; GOTO 
 
 This is code of your .bat file **without Steam kill**:
 
-```
+```batch
 @echo OFF
 
 REM HERE MODIFY YOUR STEAM APPID:

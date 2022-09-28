@@ -25,11 +25,11 @@ Emulator wiki : [https://wiki.scummvm.org/index.php?title=Main\_Page](https://wi
 
 **Roms folder:**
 
-* roms/scummvm
+* `\roms\scummvm`
 
 **Roms formats:**
 
-scummvm, 7z, zip, rar, squashfs
+.scummvm .7z .zip .rar .squashfs
 
 ## Bios Information
 
@@ -45,7 +45,7 @@ Manual controls can be configured by adding a [pad2key ](../../advanced-features
 
 ### Adding games
 
-Scummvm games must be in separate folders, in the "**/roms/scummvm**" folder.
+Scummvm games must be in separate folders, in the `\roms\scummvm` folder.
 
 <figure><img src="https://i.imgur.com/qfDZ5Np.png" alt=""><figcaption></figcaption></figure>
 
