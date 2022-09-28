@@ -22,6 +22,7 @@
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3do](supported-game-systems/3do.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
+  * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Nes 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Playstation 3](systems-and-emulators/supported-game-systems/playstation-3.md)
   * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)

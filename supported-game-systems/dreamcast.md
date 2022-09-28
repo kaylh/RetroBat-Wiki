@@ -14,20 +14,20 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.
 
 ## Information
 
-**Emulators/cores:**
+**Emulators / Libretro Cores:**
 
 * Libretro: flycast
 * Libretro: redream
 * redream
 * demul
 
-**Roms folder:**
+**ROMs folder:**
 
 * `\roms\dreamcast`
 
-**Roms formats:**
+**ROMs formats:**
 
-mds, mdf, cue, cdi, gdi, chd, m3u
+.mds .mdf .cue .cdi .gdi .chd .m3u
 
 ## Bios Information
 
