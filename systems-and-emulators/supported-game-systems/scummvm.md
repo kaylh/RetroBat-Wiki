@@ -4,7 +4,7 @@ description: ScummVM Team
 
 # ScummVM
 
-![](<../../.gitbook/assets/image (1).png>)
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/scummvm.svg" alt=""><figcaption></figcaption></figure>
 
 Emulator - Creation year: 2001
 
