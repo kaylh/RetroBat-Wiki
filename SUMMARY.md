@@ -53,7 +53,7 @@
 
 ## Advanced Features
 
-* [Scraping](advanced-features/scraping.md)
+* [Scraping & Metadata](advanced-features/scraping-and-metadata.md)
 * [Game Collections](advanced-features/game-collections.md)
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
