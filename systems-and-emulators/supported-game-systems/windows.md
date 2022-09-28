@@ -6,23 +6,19 @@ description: Microsoft
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-Type: Computer
+Computer Operating System - Lifespan: 1992 - now
 
-Lifespan: 1992 - now
-
-Wikipedia page : [https://en.wikipedia.org/wiki/Microsoft\_Windows](https://en.wikipedia.org/wiki/Microsoft\_Windows)
+{% embed url="https://en.wikipedia.org/wiki/Microsoft_Windows" %}
 
 ## Information
 
 Windows games do not use any emulator to function, RetroBat enables to launch Windows games from its interface.
 
-**Roms folder:**
 
-* `\roms\windows`
 
-**Roms formats:**
-
-.exe .bat .cmd .lnk .url .pc .win .windows .wine .7z .zip .rar .wsquashfs
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: windows                  |
+| ------------------ | ------------------------------------------------------------------------- |
+| **File extension** | .exe .bat .cmd .lnk .url .pc .win .windows .wine .7z .zip .rar .wsquashfs |
 
 ## Controls
 

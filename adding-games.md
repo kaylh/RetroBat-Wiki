@@ -6,7 +6,7 @@ description: Building your library
 
 Adding games in Retrobat is a straight-forward process.
 
-Game ROMs need to be placed in the **/roms/\<system>/** folder, they will then be directly detected by EmulationStation and added to the library when starting Retrobat or when updating the Game List.
+Game ROMs need to be placed in the `\roms\<system>\` folder, they will then be directly detected by EmulationStation and added to the library when starting Retrobat or when updating the Game List.
 
 ## Adding a ROM
 

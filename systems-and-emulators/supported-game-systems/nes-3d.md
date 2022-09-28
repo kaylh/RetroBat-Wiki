@@ -2,27 +2,20 @@
 description: Nintendo / GeoStudio
 ---
 
-# Nes 3D
+# NES 3D
 
 ![](../../.gitbook/assets/image.png)
 
-Type: Emulator
+Emulator
 
-Homepage : [http://www.geodstudio.net/#](http://www.geodstudio.net)
+{% embed url="http://www.geodstudio.net" %}
 
 ## Information
 
-**Emulators/cores:**
-
-* 3DSen
-
-ROMs **folder:**
-
-* `\roms\nes3d`
-
-**Roms formats:**
-
-.3dsen
+| **Emulators**      | <ul><li>3DSen</li></ul>                                |
+| ------------------ | ------------------------------------------------------ |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: nes3d |
+| **File extension** | .3dsen                                                 |
 
 ## Bios Information
 
@@ -48,7 +41,7 @@ No specific BIOS is required to play NES games.
 
 In addition, it is required to link each game ID to the NES system rom directly in 3DSen Emulator.
 
-The actual NES ROM is located in the "/roms/nes" folder.
+The actual NES ROM is located in the `\roms\nes` folder.
 
 <figure><img src="https://i.imgur.com/UEfJvcM.png" alt=""><figcaption></figcaption></figure>
 

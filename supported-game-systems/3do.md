@@ -2,30 +2,20 @@
 description: The 3do Company
 ---
 
-# 3do
+# 3DO
 
 <figure><img src="../.gitbook/assets/3do.svg" alt=""><figcaption></figcaption></figure>
 
-Type: Game Console
+Game Console - Lifespan: 1993 - 1999
 
-Lifespan: 1993 - 1999
-
-Wikipedia page : [https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer](https://en.wikipedia.org/wiki/3DO\_Interactive\_Multiplayer)
+{% embed url="https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer" %}
 
 ## Information
 
-**Emulators/cores:**
-
-* Libretro: 4do
-* Libretro: opera
-
-ROMs **folder:**
-
-* `\roms\3do`
-
-ROMs **formats:**
-
-.cue .iso .chd .m3u
+| **Emulators**      | <ul><li>Libretro: 4do</li><li>Libretro: opera</li></ul> |
+| ------------------ | ------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: 3do    |
+| **File extension** | .cue .iso .chd .m3u                                     |
 
 ## Bios Information
 

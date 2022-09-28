@@ -6,30 +6,16 @@ description: ScummVM Team
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-Type: Emulator
+Emulator - Creation year: 2001
 
-Creation year: 2001
-
-Wikipedia page : [https://en.wikipedia.org/wiki/ScummVM](https://en.wikipedia.org/wiki/ScummVM)
-
-Emulator page : [https://www.scummvm.org/](https://www.scummvm.org/)
-
-Emulator wiki : [https://wiki.scummvm.org/index.php?title=Main\_Page](https://wiki.scummvm.org/index.php?title=Main\_Page)
+{% embed url="https://en.wikipedia.org/wiki/ScummVM" %}
 
 ## Information
 
-**Emulators/cores:**
-
-* Libretro: scummvm
-* scummvm
-
-**Roms folder:**
-
-* `\roms\scummvm`
-
-**Roms formats:**
-
-.scummvm .7z .zip .rar .squashfs
+| **Emulators**      | <ul><li>Libretro: scummvm</li><li>scummvm</li></ul>      |
+| ------------------ | -------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: scummvm |
+| **File extension** | .scummvm .7z .zip .rar .squashfs                         |
 
 ## Bios Information
 

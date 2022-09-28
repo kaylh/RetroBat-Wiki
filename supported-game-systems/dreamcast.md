@@ -6,28 +6,16 @@ description: SEGA
 
 ![](<../.gitbook/assets/image (11).png>)
 
-Type: Game Console
+Game Console - Lifespan: 1998 - 2001
 
-Lifespan: 1998 - 2001
-
-Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)
+{% embed url="https://en.wikipedia.org/wiki/Dreamcast" %}
 
 ## Information
 
-**Emulators / Libretro Cores:**
-
-* Libretro: flycast
-* Libretro: redream
-* redream
-* demul
-
-**ROMs folder:**
-
-* `\roms\dreamcast`
-
-**ROMs formats:**
-
-.mds .mdf .cue .cdi .gdi .chd .m3u
+| **Emulators**      | <ul><li>Libretro: flycast</li><li>Libretro: redream</li><li>redream</li><li>demul</li></ul> |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: dreamcast                                  |
+| **File extension** | .mds .mdf .cue .cdi .gdi .chd .m3u                                                          |
 
 ## Bios Information
 
@@ -56,13 +44,13 @@ Wikipedia page : [https://en.wikipedia.org/wiki/Dreamcast](https://en.wikipedia.
 
 You can use a m3u file to automatically load the next disc of multi-disc games.
 
-For example for ShenMue, if the ROM contains the following files:
+For example for _Alone In The Dark_, if the ROM contains the following files:
 
-<figure><img src="https://i.imgur.com/dtC65cI.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/LUmmLpf.png" alt=""><figcaption></figcaption></figure>
 
-Create a "shenmue.m3u" text file with the following content and save it to the /roms/dreamcast folder:
+Create a _Alone in the dark The new nightmare.m3u_ text file with the following content and save it to the /roms/dreamcast folder:
 
-<figure><img src="https://i.imgur.com/HxcDWc4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/9dQJhD9.png" alt=""><figcaption></figcaption></figure>
 
 Retrobat will automatically detect the m3u file and hide the individual .gdi files from the Game List.
 
@@ -70,7 +58,7 @@ Retrobat will automatically detect the m3u file and hide the individual .gdi fil
 
 Custom HD textures can be used with the flycast core.
 
-The texture pack must be placed in the "/bios/dc/textures/" folder:
+The texture pack must be placed in the `\bios\dc\textures\` folder:
 
 <figure><img src="https://i.imgur.com/65bX2kT.png" alt=""><figcaption></figcaption></figure>
 

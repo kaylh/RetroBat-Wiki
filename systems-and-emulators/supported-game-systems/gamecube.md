@@ -19,6 +19,8 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Bios
 
+No specific BIOS required for Gamecube system.
+
 | <p><code>IPL.bin</code><br>Europe</p> | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
 | <p><code>IPL.bin</code><br>Japan</p>  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
