@@ -31,15 +31,15 @@ TBD
 
 | Retrobat Button                                | Neo Geo Key |
 | ---------------------------------------------- | ----------- |
-| START                                          |             |
-| SELECT                                         |             |
-| Left analog stick                              |             |
+| START                                          | START       |
+| SELECT                                         | SELECT      |
+| Left analog stick                              | D-PAD       |
 | Right analog stick                             |             |
-| D-PAD                                          |             |
-| ![](<../../.gitbook/assets/image (2) (1).png>) |             |
-| ![](<../../.gitbook/assets/image (1) (2).png>) |             |
-| ![](<../../.gitbook/assets/image (4).png>)     |             |
-| ![](<../../.gitbook/assets/image (3) (1).png>) |             |
+| D-PAD                                          | D-PAD       |
+| ![](<../../.gitbook/assets/image (2) (1).png>) | C           |
+| ![](<../../.gitbook/assets/image (1) (2).png>) | B           |
+| ![](<../../.gitbook/assets/image (4).png>)     | A           |
+| ![](<../../.gitbook/assets/image (3) (1).png>) | D           |
 | L1                                             |             |
 | R1                                             |             |
 | L2                                             |             |
