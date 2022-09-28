@@ -49,4 +49,6 @@ For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar*
 
 ## System Features
 
-There is no specific System Features documented here yet.
+### Custom Textures
+
+The procedure for custom textures for Wii is similar to the one for Gamecube, refer to the [Gamecube section of the wiki](gamecube.md#custom-textures).&#x20;

@@ -31,7 +31,7 @@ Game Console - Lifespan: 1999- 2001
 | RetroBat key                                                                    | Nintendo 64 key |
 | ------------------------------------------------------------------------------- | --------------- |
 | START                                                                           | START           |
-| SELECT / BACK                                                                   | SELECT          |
+| SELECT / BACK                                                                   |                 |
 | D-PAD                                                                           | D-PAD           |
 | Analog Stick - Left                                                             | Analog Stick    |
 | Analog Stick - Right                                                            | C-Buttons       |
@@ -48,4 +48,14 @@ Game Console - Lifespan: 1999- 2001
 
 ## System Features
 
-There is no specific System Features documented here yet.
+### How to run 64DD games
+
+In order for n64dd games to run succesfully, it is required that the .ndd file has the exact same name as the rom it refers to (extension included), for example:
+
+\~\ROMs\n64dd\Super Mario 64.z64&#x20;
+
+\~\ROMs\n64dd\Super Mario 64.z64.ndd
+
+If these 2 requirements are met, when you run the "Super Mario 64.z64" file from Retrobat, it will run the 64DD extended version.
+
+In order to facilitate the display of your 64DD games in Retrobat, you can hide the .ndd extension in the system configuration menu, this will avoid to have all games appear twice.

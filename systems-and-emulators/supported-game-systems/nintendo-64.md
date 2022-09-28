@@ -4,8 +4,6 @@ description: Nintendo
 
 # Nintendo 64
 
-
-
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64.svg" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1996 - 2002
@@ -28,7 +26,7 @@ There is no BIOS files needed to run games.
 | RetroBat key                                                                    | Nintendo 64 key |
 | ------------------------------------------------------------------------------- | --------------- |
 | START                                                                           | START           |
-| SELECT / BACK                                                                   | SELECT          |
+| SELECT / BACK                                                                   |                 |
 | D-PAD                                                                           | D-PAD           |
 | Analog Stick - Left                                                             | Analog Stick    |
 | Analog Stick - Right                                                            | C-Buttons       |
@@ -45,4 +43,34 @@ There is no BIOS files needed to run games.
 
 ## System Features
 
-There is no specific System Features documented here yet.
+### Custom textures
+
+mupen64plus next core allows the use of custom textures.
+
+the texture pack must be placed in the retrobat`bios\Mupen64Plus\cache\` folder if the pack comes as a .hts or .htc file:
+
+<figure><img src="https://i.imgur.com/H878WjR.png" alt=""><figcaption></figcaption></figure>
+
+If it comes as a uncompressed pack (folder with .png files), it must be placed in the `bios\Mupen64Plus\hires_texture\` folder:
+
+<figure><img src="https://i.imgur.com/1sqG9H4.png" alt=""><figcaption></figcaption></figure>
+
+For htc or hts files, the file name must be "GAMEID"\_\_HIRESTEXTURES.hts or .htc (for example : MARIOKART64\_HIRESTEXTURES.htc)&#x20;
+
+For uncompressed folder, the folder name must be similar to the gameID (for example  MARIOKART64).
+
+Once the texture pack in the right folder, enable Custom Textures option in Retrobat:
+
+<figure><img src="https://i.imgur.com/jBt3sjA.png" alt=""><figcaption><p>Advanced System Options (can also be done per game)</p></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/hzikBUa.png" alt=""><figcaption><p>Visual Rendering</p></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/TXJ3fti.png" alt=""><figcaption></figcaption></figure>
+
+RICE if the texture pack is compressed (htc or hts).&#x20;
+
+CACHE if the texture pack is uncompressed (folder).
+
+{% hint style="info" %}
+At first launch of a game with an uncompressed texture pack, Mupen64Plus-next will generate a .hts file in `CACHE` folder, upon next launch of the game, it is possible to use RICE instead of CACHE.
+{% endhint %}
