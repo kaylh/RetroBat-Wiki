@@ -19,10 +19,10 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Bios
 
-| IPL.bin (Europe) | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
-| IPL.bin (Japan)  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
-| IPL.bin (USA)    | <p>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></p> |   |
+| <p><code>IPL.bin</code><br>Europe</p> | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
+| <p><code>IPL.bin</code><br>Japan</p>  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
+| <p><code>IPL.bin</code><br>USA</p>    | <p>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></p> |   |
 
 ## Controls
 
