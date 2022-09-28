@@ -4,7 +4,7 @@ description: The 3do Company
 
 # 3DO
 
-<figure><img src="../.gitbook/assets/3do.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/3do.svg" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1993 - 1999
 

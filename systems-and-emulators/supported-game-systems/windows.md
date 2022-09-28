@@ -4,7 +4,9 @@ description: Microsoft
 
 # Windows
 
-![](<../../.gitbook/assets/image (3).png>)
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/windows.svg" alt=""><figcaption></figcaption></figure>
+
+
 
 Computer Operating System - Lifespan: 1992 - now
 

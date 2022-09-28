@@ -4,7 +4,9 @@ description: SEGA
 
 # Dreamcast
 
-![](<../.gitbook/assets/image (11).png>)
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/dreamcast.svg" alt=""><figcaption></figcaption></figure>
+
+
 
 Game Console - Lifespan: 1998 - 2001
 
