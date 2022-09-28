@@ -50,17 +50,30 @@ Game Console - Lifespan: 1999- 2001
 
 ### Running Games
 
-In order to get n64dd games running successfully, it's required to have two roms files per game. One of the files is a n64 roms and the other is a n64dd rom. Both roms need to have exact same file name and in the case of the n64dd rom, it must have a double extension with the same extension than the n64 rom added before its own.\
-\
+There are two types of games on the Nintendo 64DD, full games and game expansions. In order to get n64dd games running successfully, it's required to have two roms files per game. One of the files is a n64 rom file and the other is a n64dd rom file. Both roms need to have exact same file name and in the case of the n64dd rom file, it must have a double extension with the same extension than the n64 rom file, added before its own extension.\
+
+
+In the case of game expansion like the one in the example below, the n64 game is the actual rom file for which the n64dd rom file is the expansion. For the full games, you also always need two files, so the n64dd rom file of the full game and another n64 rom of any title that you just need to rename.\
+
+
 Example file names with the expansion "F-Zero X Expansion Kit":
 
-`\roms\n64dd\F-Zero X - Expansion Kit (Japan).n64`&#x20;
+* Rename n64dd rom file\
+  `F-Zero X - Expansion Kit (Japan).ndd`\
+  ``to\
+  `F-Zero X - Expansion Kit (Japan).n64.ndd`
+* Rename n64 rom file\
+  `F-Zero X (Japan).n64`\
+  `` to \
+  `F-Zero X - Expansion Kit (Japan).n64`
+* Run expansion with\
+  `F-Zero X - Expansion Kit (Japan).n64`
 
-`\roms\n64dd\F-Zero X - Expansion Kit (Japan).n64.ndd`
-
-There are two types of games on the Nintendo 64DD, full games and game expansions. For the game expansions like the one in the example above, the n64 game is the actual rom file from which the n64dd rom file is the expansion. For the full games, you always need two files, so the n64dd rom file of the full game and another n64 rom of any title that you just need to rename.\
-\
 Example with the full game "SimCity 64":
+
+* Rename `SimCity 64 (Japan).ndd` to `SimCity 64 (Japan).n64.ndd`
+* Pick any n64 roms file and rename it `SimCity 64 (Japan).n64`
+* Then run `SimCity 64 (Japan).n64` in RetroBat.
 
 ### BIOS selection
 
@@ -69,7 +82,3 @@ Althrough only commercialized in Japan, US games are available for the n64dd sys
 The right BIOS can be selected directly in Retrobat Games Options menu, per game:
 
 <figure><img src="https://i.imgur.com/htqkK3Q.png" alt=""><figcaption><p>Advanced System Options / Emulation / BIOS</p></figcaption></figure>
-
-* Rename `SimCity 64 (Japan).ndd` to `SimCity 64 (Japan).n64.ndd`
-* Pick any n64 roms file and rename it `SimCity 64 (Japan).n64`
-* Then run `SimCity 64 (Japan).n64` in RetroBat.
