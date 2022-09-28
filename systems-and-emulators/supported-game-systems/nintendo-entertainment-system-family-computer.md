@@ -2,9 +2,11 @@
 description: Nintendo
 ---
 
-# Nintendo Entertainment System
+# Nintendo Entertainment System - Family Computer
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nes.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Family_Computer_logo.svg" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1983 - 2003
 

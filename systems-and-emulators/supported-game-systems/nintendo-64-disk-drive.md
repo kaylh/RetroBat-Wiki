@@ -8,7 +8,7 @@ description: Nintendo
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64dd.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 1996 - 2002
+Game Console - Lifespan: 1999- 2001
 
 {% embed url="https://en.wikipedia.org/wiki/64DD" %}
 
