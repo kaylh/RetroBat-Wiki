@@ -28,19 +28,23 @@ No specific BIOS required for Gamecube system.
 
 ## Controls
 
-| RetroBat key                                   | GameCube key                   |
-| ---------------------------------------------- | ------------------------------ |
-| START                                          | START                          |
-| Analog Stick (Left)                            | Analog Stick (Left)            |
-| Analog Stick (Right)                           | Analog Stick (C-Stick, Right)  |
-| D-pad                                          | D-pad                          |
-| ![](<../../.gitbook/assets/image (2).png>)     | B                              |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | A                              |
-| ![](<../../.gitbook/assets/image (4).png>)     | X                              |
-| ![](<../../.gitbook/assets/image (3) (1).png>) | Y                              |
-| L2                                             | L                              |
-| R2                                             | R                              |
-| R1                                             | Z                              |
+| RetroBat key                                                                    | GameCube key             |
+| ------------------------------------------------------------------------------- | ------------------------ |
+| START                                                                           | START                    |
+| SELECT / BACK                                                                   |                          |
+| D-PAD                                                                           | D-PAD                    |
+| Analog Stick - Left                                                             | Analog Stick - Left      |
+| Analog Stick - Right                                                            | Analog Stick  - C-Stick  |
+| ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | A / B                    |
+| ![B](<../../.gitbook/assets/image (4).png>)                                     | B / A                    |
+| <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | A / B                    |
+| <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">         |                          |
+| LB (L1)                                                                         |                          |
+| RB (R1)                                                                         | Z                        |
+| LT (L2)                                                                         | L                        |
+| RT (R2)                                                                         | R                        |
+| L-Click (L3)                                                                    |                          |
+| R-Click (R3)                                                                    |                          |
 
 ## Specific system information
 
