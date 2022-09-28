@@ -12,10 +12,10 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Information
 
-| **Emulators**       | <ul><li>dolphin (S) </li><li>dolphin-triforce (S) </li><li>dolphin (Libretro)</li></ul> |   |
-| ------------------- | --------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gamecube                                     |   |
-| **File extensions** | `.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u`                                             |   |
+| **Emulators**       | <ul><li>dolphin</li><li>libretro: dolphin</li></ul> |   |
+| ------------------- | --------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gamecube |   |
+| **File extensions** | `.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u`         |   |
 
 ## BIOS
 

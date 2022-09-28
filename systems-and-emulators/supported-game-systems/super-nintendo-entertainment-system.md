@@ -12,10 +12,10 @@ Game Console - Lifespan: 1990 - 2003
 
 ## Information
 
-| **Emulators**       | <ul><li>snes9x (Libretro)</li><li>bsnes (Libretro)</li><li>bsnes hd (Libretro)</li><li>mednafen snes (Libretro)</li><li>mesen-s (Libretro)</li><li>mednafen (S)</li><li>snes9x (S)</li></ul> |   |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                                                              |   |
-| **File extensions** | `.smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z`                                                                                                                                 |   |
+| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes hd</li><li>libretro: mesen-s</li><li>mednafen</li><li>snes9x</li></ul> |   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                 |   |
+| **File extensions** | `.smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z`                                                                                    |   |
 
 ## BIOS
 
