@@ -24,6 +24,7 @@
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
+  * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
   * [Nintendo Entertainment System](systems-and-emulators/supported-game-systems/nintendo-entertainment-system.md)
   * [Playstation 3](systems-and-emulators/supported-game-systems/playstation-3.md)
