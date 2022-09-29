@@ -52,4 +52,6 @@ In order to use best of both worlds, it is possible to use a 3rd party program s
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-DualSense controllers supports motion and is reported to work natively with Retrobat.
+DualSense controllers supports motion and is reported to work natively with Retrobat, however it will cause issues with some standalone emulators (e.g. Dolphin).
+
+The same tip as explained for the Switch Pro Controller can be used to unlock the full potential of this controller.
