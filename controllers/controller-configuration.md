@@ -41,7 +41,7 @@ The following table gives you the standard mapping required for the following co
 | L3                                                                           | Left Thumb                                  | Left Thumb                               | Left Thumb        |
 | R3                                                                           | Right Thumb                                 | Right Thumb                              | Right Thumb       |
 
-Here is a picture of the controller mapping for some major controllers:
+Here is a picture of the controller mapping for some major controllers in RetroArch:
 
 <figure><img src="https://i.imgur.com/q9Uesov.png" alt=""><figcaption><p>Courtesy of RetroArch</p></figcaption></figure>
 
