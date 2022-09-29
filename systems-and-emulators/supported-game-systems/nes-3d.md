@@ -4,7 +4,7 @@ description: Nintendo / GeoStudio
 
 # NES 3D
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 Emulator
 
@@ -27,7 +27,9 @@ No specific BIOS is required to play NES games.
 | ---------------------------------------------- | --------- |
 | START                                          | START     |
 | SELECT                                         | SELECT    |
-| D-PAD, left stick                              | D-PAD     |
+| D-PAD                                          | D-PAD     |
+| Left analog stick                              | D-PAD     |
+| Right analog stick                             |           |
 | ![](<../../.gitbook/assets/image (1) (2).png>) | B         |
 | ![](<../../.gitbook/assets/image (4) (1).png>) | A         |
 
@@ -140,3 +142,4 @@ The RetroBat team has prepared to you the full set of 3DSen files and a preconfi
 | 83 | Life Force                      |
 | 84 | Ninja Gaiden III                |
 | 9  | Contra                          |
+

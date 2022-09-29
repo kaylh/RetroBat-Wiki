@@ -14,28 +14,28 @@ The following table gives you the standard mapping required for the following co
 * Playstation
 * Nintendo controller (switch pro)
 
-| Retrobat Key                                                             | Microsoft                               | PlayStation                             | Nintendo          |
-| ------------------------------------------------------------------------ | --------------------------------------- | --------------------------------------- | ----------------- |
-| ![A](<../.gitbook/assets/image (1) (2).png>)                             | A                                       | ![](<../.gitbook/assets/image (1).png>) | B                 |
-| ![](<../.gitbook/assets/image (4) (1).png>)                              | B                                       | ![](../.gitbook/assets/image.png)       | A                 |
-| ![](<../.gitbook/assets/image (3) (1).png>)                              | Y                                       | ![](<../.gitbook/assets/image (3).png>) | X                 |
-| <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> | X                                       | ![](<../.gitbook/assets/image (6).png>) | Y                 |
-| START                                                                    | ![](<../.gitbook/assets/image (4).png>) | START / OPTIONS                         | +                 |
-| SELECT                                                                   | ![](<../.gitbook/assets/image (2).png>) | SELECT / SHARE                          | -                 |
-| D-PAD UP                                                                 | D-PAD UP                                | D-PAD UP                                | D-PAD UP          |
-| D-PAD DOWN                                                               | D-PAD DOWN                              | D-PAD DOWN                              | D-PAD DOWN        |
-| D-PAD LEFT                                                               | D-PAD LEFT                              | D-PAD LEFT                              | D-PAD LEFT        |
-| D-PAD RIGHT                                                              | D-PAD RIGHT                             | D-PAD RIGHT                             | D-PAD RIGHT       |
-| L1                                                                       | Left Bottom                             | L1                                      | L                 |
-| R1                                                                       | Right Bottom                            | R1                                      | R                 |
-| Left Analog UP                                                           | Left Analog UP                          | Left Analog UP                          | Left Analog UP    |
-| Left Analog Left                                                         | Left Analog Left                        | Left Analog Left                        | Left Analog Left  |
-| Right Analog UP                                                          | Right Analog UP                         | Right Analog UP                         | Right Analog UP   |
-| Right Analog Left                                                        | Right Analog Left                       | Right Analog Left                       | Right Analog Left |
-| L2                                                                       | Left Top                                | L2                                      | ZL                |
-| R2                                                                       | Right Top                               | R2                                      | ZR                |
-| L3                                                                       | Left Thumb                              | Left Thumb                              | Left Thumb        |
-| R3                                                                       | Right Thumb                             | Right Thumb                             | Right Thumb       |
+| Retrobat Key                                                             | Microsoft                               | PlayStation                              | Nintendo          |
+| ------------------------------------------------------------------------ | --------------------------------------- | ---------------------------------------- | ----------------- |
+| ![A](<../.gitbook/assets/image (1) (2).png>)                             | A                                       | ![](../.gitbook/assets/image.png)        | B                 |
+| ![](<../.gitbook/assets/image (4) (1).png>)                              | B                                       | ![](<../.gitbook/assets/image (8).png>)  | A                 |
+| ![](<../.gitbook/assets/image (3) (1).png>)                              | Y                                       | ![](<../.gitbook/assets/image (7).png>)  | X                 |
+| <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> | X                                       | ![](<../.gitbook/assets/image (10).png>) | Y                 |
+| START                                                                    | ![](<../.gitbook/assets/image (5).png>) | START / OPTIONS                          | +                 |
+| SELECT                                                                   | ![](<../.gitbook/assets/image (6).png>) | SELECT / SHARE                           | -                 |
+| D-PAD UP                                                                 | D-PAD UP                                | D-PAD UP                                 | D-PAD UP          |
+| D-PAD DOWN                                                               | D-PAD DOWN                              | D-PAD DOWN                               | D-PAD DOWN        |
+| D-PAD LEFT                                                               | D-PAD LEFT                              | D-PAD LEFT                               | D-PAD LEFT        |
+| D-PAD RIGHT                                                              | D-PAD RIGHT                             | D-PAD RIGHT                              | D-PAD RIGHT       |
+| L1                                                                       | Left Bottom                             | L1                                       | L                 |
+| R1                                                                       | Right Bottom                            | R1                                       | R                 |
+| Left Analog UP                                                           | Left Analog UP                          | Left Analog UP                           | Left Analog UP    |
+| Left Analog Left                                                         | Left Analog Left                        | Left Analog Left                         | Left Analog Left  |
+| Right Analog UP                                                          | Right Analog UP                         | Right Analog UP                          | Right Analog UP   |
+| Right Analog Left                                                        | Right Analog Left                       | Right Analog Left                        | Right Analog Left |
+| L2                                                                       | Left Top                                | L2                                       | ZL                |
+| R2                                                                       | Right Top                               | R2                                       | ZR                |
+| L3                                                                       | Left Thumb                              | Left Thumb                               | Left Thumb        |
+| R3                                                                       | Right Thumb                             | Right Thumb                              | Right Thumb       |
 
 Here is a picture of the controller mapping for some major controllers:
 
@@ -43,11 +43,21 @@ Here is a picture of the controller mapping for some major controllers:
 
 ## Per-Game Controller Configuration
 
-If, for any reason, the default controller configuration does not work for you, there is a possibility to deactivate auto-controller configuration (for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
+If, for any reason, the default controller configuration does not work for you, there is a possibility to deactivate auto-controller configuration (globally, for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
 
 ### Disable auto-configuration of controllers
 
-Autoconfiguration can be disabled per system or per game.
+Autoconfiguration can be disabled globally, per system or per game.
+
+#### **Global deactivation**
+
+Open the [Main Menu](../navigation/main-menu.md) and go to **GAME SETTINGS**
+
+<figure><img src="https://i.imgur.com/LL6eTfL.png" alt=""><figcaption></figcaption></figure>
+
+Disable **AUTOCONFIGURE CONTROLLERS**
+
+<figure><img src="https://i.imgur.com/USc60bs.png" alt=""><figcaption></figcaption></figure>
 
 #### **Per system d**eactivation
 
@@ -61,7 +71,7 @@ Then set **AUTOCONFIGURE CONTROLLERS** to **OFF**
 
 #### **Per Game d**eactivation
 
-open the Game Options menu and go to **ADVANCED GAME OPTIONS**
+Open the [Game Options](../navigation/game-options.md) menu and go to **ADVANCED GAME OPTIONS**
 
 <figure><img src="https://i.imgur.com/tUJldiK.png" alt=""><figcaption></figcaption></figure>
 
