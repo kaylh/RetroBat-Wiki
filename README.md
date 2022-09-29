@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/retrobat_logo4 (3).png
+cover: .gitbook/assets/retrobat_logo_centered.png
 coverY: 0
 ---
 
