@@ -41,7 +41,7 @@ The mapping hereunder is explained for the Classic Controller.
 | L Trigger (L2)                                                                      | ZL                     |
 | R Trigger (R2)                                                                      | ZR                     |
 
-For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in Retrobat from the [System View Options](../../navigation/system-view-options.md) or from the [Game Options](../../navigation/game-options.md):
+For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in Retrobat from the [System View Options](../../navigation/view-options.md) or from the [Game Options](../../navigation/game-options.md):
 
 <figure><img src="https://i.imgur.com/0jC9b8z.png" alt=""><figcaption></figcaption></figure>
 

@@ -14,7 +14,7 @@
 * [Hotkeys](navigation/hotkeys.md)
 * [System and Game views](navigation/system-and-gamelist-views.md)
 * [Main Menu](navigation/main-menu.md)
-* [System View Options](navigation/system-view-options.md)
+* [View Options](navigation/view-options.md)
 * [Game Options](navigation/game-options.md)
 
 ## Systems & Emulators

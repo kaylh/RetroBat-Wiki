@@ -2,9 +2,9 @@
 description: Pimp my system
 ---
 
-# System View Options
+# View Options
 
-**System View Options** is accessible from the Game View by pressing **SELECT**&#x20;
+**View Options** is accessible from the Game View by pressing **SELECT**&#x20;
 
 <figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption></figcaption></figure>
 

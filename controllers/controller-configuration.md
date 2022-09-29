@@ -65,7 +65,7 @@ Disable **AUTOCONFIGURE CONTROLLERS**
 
 #### **Per system d**eactivation
 
-Open the [System View Options](../navigation/system-view-options.md) and go to **ADVANCED SYSTEM OPTIONS**
+Open the [System View Options](../navigation/view-options.md) and go to **ADVANCED SYSTEM OPTIONS**
 
 <figure><img src="https://i.imgur.com/OwqDv4H.png" alt=""><figcaption></figcaption></figure>
 

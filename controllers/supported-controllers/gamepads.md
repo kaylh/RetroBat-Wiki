@@ -28,7 +28,7 @@ When using a wired 8bitdo controller, the switch between XInput and sdl is done 
 
 ### XBox controllers (or any XInput controller)
 
-![](<../../.gitbook/assets/image (4).png>)![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4) (3).png>)![](<../../.gitbook/assets/image (4).png>)
 
 For wired Xbox controllers, the connection to windows and setup in Retrobat will be plug'n'play.
 
@@ -38,7 +38,7 @@ All controllers introduced before the Xbox One S (Xbox 360, Xbox One controllers
 
 ### Nintendo Switch Pro controller
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 The Switch Pro controller will be ideal for use in CEMU (WiiU emulator) or Yuzu (Switch emulator) as it is natively compatible with these emulators and it will support motion control for games that require motion.
 
@@ -50,7 +50,7 @@ In order to use best of both worlds, it is possible to use a 3rd party program s
 
 ### Playstation 5 controller (DualSense)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (3).png>)
 
 DualSense controllers supports motion and is reported to work natively with Retrobat, however it will cause issues with some standalone emulators (e.g. Dolphin).
 
