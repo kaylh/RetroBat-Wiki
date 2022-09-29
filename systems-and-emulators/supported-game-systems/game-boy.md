@@ -42,7 +42,7 @@ sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate 
 | ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | B            |
 | ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | A            |
 | <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> |              |
-| <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">     |              |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> |              |
 | L1                                                                              |              |
 | R1                                                                              |              |
 | L2                                                                              |              |

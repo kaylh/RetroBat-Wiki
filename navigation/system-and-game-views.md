@@ -2,7 +2,7 @@
 description: EmulationStation navigation basics
 ---
 
-# System and gamelist views
+# System and Game views
 
 All menus presented in this section are using the default Retrobat theme "**ES-THEME-CARBON**".
 
@@ -20,7 +20,7 @@ From the System View, you can access different screens.
 
 #### Quick Search&#x20;
 
-The quick search menu is available by pressing ![](<../.gitbook/assets/image (2) (1).png>):&#x20;
+The quick search menu is available by pressing ![](<../.gitbook/assets/image (2) (1) (1).png>):&#x20;
 
 <figure><img src="https://i.imgur.com/4jmo9se.png" alt=""><figcaption><p>The Quick Search allows you to easily find your games</p></figcaption></figure>
 
@@ -40,11 +40,11 @@ Quick access menu is accessible by pressing "**SELECT**":
 
 From this menu you have access to features such as User Manual, Screensaver, skipping songs and Quit options.
 
-### Gamelist View
+### Game View
 
-The gamelist view is where you browse and start your games.
+The game view is where you browse and start your games.
 
-To enter Gamelist View, select a system or a collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
+To enter Game View, select a system or a collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2).png>)
 
 <figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption><p>The <strong>Gamelist view</strong> is where you browse the games for a specific system.</p></figcaption></figure>
 

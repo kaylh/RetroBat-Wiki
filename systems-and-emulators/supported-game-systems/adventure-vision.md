@@ -26,23 +26,23 @@ Game Console - Lifespan: 1982 - 1983
 
 ## Controls
 
-| Retrobat Button                                | Adventure Vision key |
-| ---------------------------------------------- | -------------------- |
-| START                                          | START                |
-| SELECT                                         | SELECT               |
-| D-PAD                                          | D'PAD                |
-| Left analog stick                              |                      |
-| Right analog stick                             |                      |
-| ![](<../../.gitbook/assets/image (2) (1).png>) | Y                    |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B                    |
-| ![](<../../.gitbook/assets/image (4) (1).png>) | A                    |
-| ![](<../../.gitbook/assets/image (3) (1).png>) | X                    |
-| L1                                             | L1                   |
-| R1                                             | R1                   |
-| L2                                             | L2                   |
-| R2                                             | R2                   |
-| L3                                             | L3                   |
-| R3                                             | R3                   |
+| Retrobat Button                                    | Adventure Vision key |
+| -------------------------------------------------- | -------------------- |
+| START                                              | START                |
+| SELECT                                             | SELECT               |
+| D-PAD                                              | D'PAD                |
+| Left analog stick                                  |                      |
+| Right analog stick                                 |                      |
+| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | Y                    |
+| ![](<../../.gitbook/assets/image (1) (2).png>)     | B                    |
+| ![](<../../.gitbook/assets/image (4) (1).png>)     | A                    |
+| ![](<../../.gitbook/assets/image (3) (1).png>)     | X                    |
+| L1                                                 | L1                   |
+| R1                                                 | R1                   |
+| L2                                                 | L2                   |
+| R2                                                 | R2                   |
+| L3                                                 | L3                   |
+| R3                                                 | R3                   |
 
 ## Specific system information
 

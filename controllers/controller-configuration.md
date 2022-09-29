@@ -6,7 +6,11 @@ Each time a new controller is used, Retrobat will prompt to configure the new co
 
 <figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>Press any button</p></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
+
+{% hint style="info" %}
+To ignore a button, long-press a button that is already mapped.
+{% endhint %}
 
 The following table gives you the standard mapping required for the following controllers:
 
@@ -14,28 +18,28 @@ The following table gives you the standard mapping required for the following co
 * Playstation
 * Nintendo controller (switch pro)
 
-| Retrobat Key                                                             | Microsoft                               | PlayStation                              | Nintendo          |
-| ------------------------------------------------------------------------ | --------------------------------------- | ---------------------------------------- | ----------------- |
-| ![A](<../.gitbook/assets/image (1) (2).png>)                             | A                                       | ![](../.gitbook/assets/image.png)        | B                 |
-| ![](<../.gitbook/assets/image (4) (1).png>)                              | B                                       | ![](<../.gitbook/assets/image (8).png>)  | A                 |
-| ![](<../.gitbook/assets/image (3) (1).png>)                              | Y                                       | ![](<../.gitbook/assets/image (7).png>)  | X                 |
-| <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> | X                                       | ![](<../.gitbook/assets/image (10).png>) | Y                 |
-| START                                                                    | ![](<../.gitbook/assets/image (5).png>) | START / OPTIONS                          | +                 |
-| SELECT                                                                   | ![](<../.gitbook/assets/image (6).png>) | SELECT / SHARE                           | -                 |
-| D-PAD UP                                                                 | D-PAD UP                                | D-PAD UP                                 | D-PAD UP          |
-| D-PAD DOWN                                                               | D-PAD DOWN                              | D-PAD DOWN                               | D-PAD DOWN        |
-| D-PAD LEFT                                                               | D-PAD LEFT                              | D-PAD LEFT                               | D-PAD LEFT        |
-| D-PAD RIGHT                                                              | D-PAD RIGHT                             | D-PAD RIGHT                              | D-PAD RIGHT       |
-| L1                                                                       | Left Bottom                             | L1                                       | L                 |
-| R1                                                                       | Right Bottom                            | R1                                       | R                 |
-| Left Analog UP                                                           | Left Analog UP                          | Left Analog UP                           | Left Analog UP    |
-| Left Analog Left                                                         | Left Analog Left                        | Left Analog Left                         | Left Analog Left  |
-| Right Analog UP                                                          | Right Analog UP                         | Right Analog UP                          | Right Analog UP   |
-| Right Analog Left                                                        | Right Analog Left                       | Right Analog Left                        | Right Analog Left |
-| L2                                                                       | Left Top                                | L2                                       | ZL                |
-| R2                                                                       | Right Top                               | R2                                       | ZR                |
-| L3                                                                       | Left Thumb                              | Left Thumb                               | Left Thumb        |
-| R3                                                                       | Right Thumb                             | Right Thumb                              | Right Thumb       |
+| Retrobat Key                                                                 | Microsoft                                   | PlayStation                                  | Nintendo          |
+| ---------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ----------------- |
+| ![A](<../.gitbook/assets/image (1) (2).png>)                                 | A                                           | ![](<../.gitbook/assets/image (2).png>)      | B                 |
+| ![](<../.gitbook/assets/image (4) (1).png>)                                  | B                                           | ![](<../.gitbook/assets/image (8).png>)      | A                 |
+| ![](<../.gitbook/assets/image (3) (1).png>)                                  | Y                                           | ![](<../.gitbook/assets/image (7).png>)      | X                 |
+| <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | X                                           | ![](<../.gitbook/assets/image (10) (1).png>) | Y                 |
+| START                                                                        | ![](<../.gitbook/assets/image (5) (1).png>) | START / OPTIONS                              | +                 |
+| SELECT                                                                       | ![](<../.gitbook/assets/image (6) (1).png>) | SELECT / SHARE                               | -                 |
+| D-PAD UP                                                                     | D-PAD UP                                    | D-PAD UP                                     | D-PAD UP          |
+| D-PAD DOWN                                                                   | D-PAD DOWN                                  | D-PAD DOWN                                   | D-PAD DOWN        |
+| D-PAD LEFT                                                                   | D-PAD LEFT                                  | D-PAD LEFT                                   | D-PAD LEFT        |
+| D-PAD RIGHT                                                                  | D-PAD RIGHT                                 | D-PAD RIGHT                                  | D-PAD RIGHT       |
+| L1                                                                           | Left Bottom                                 | L1                                           | L                 |
+| R1                                                                           | Right Bottom                                | R1                                           | R                 |
+| Left Analog UP                                                               | Left Analog UP                              | Left Analog UP                               | Left Analog UP    |
+| Left Analog Left                                                             | Left Analog Left                            | Left Analog Left                             | Left Analog Left  |
+| Right Analog UP                                                              | Right Analog UP                             | Right Analog UP                              | Right Analog UP   |
+| Right Analog Left                                                            | Right Analog Left                           | Right Analog Left                            | Right Analog Left |
+| L2                                                                           | Left Top                                    | L2                                           | ZL                |
+| R2                                                                           | Right Top                                   | R2                                           | ZR                |
+| L3                                                                           | Left Thumb                                  | Left Thumb                                   | Left Thumb        |
+| R3                                                                           | Right Thumb                                 | Right Thumb                                  | Right Thumb       |
 
 Here is a picture of the controller mapping for some major controllers:
 

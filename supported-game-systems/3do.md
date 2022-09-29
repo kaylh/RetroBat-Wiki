@@ -27,17 +27,17 @@ Game Console - Lifespan: 1993 - 1999
 
 ## Controls
 
-| Retrobat Button                             | 3do key |
-| ------------------------------------------- | ------- |
-| START                                       | START   |
-| SELECT                                      | SELECT  |
-| D-PAD, Left analog stick                    | D-PAD   |
-| ![](<../.gitbook/assets/image (2) (1).png>) | A       |
-| ![](<../.gitbook/assets/image (1) (2).png>) | B       |
-| ![](<../.gitbook/assets/image (4) (1).png>) | C       |
-| ![](<../.gitbook/assets/image (3) (1).png>) |         |
-| L1                                          | L1      |
-| R1                                          | R1      |
+| Retrobat Button                                 | 3do key |
+| ----------------------------------------------- | ------- |
+| START                                           | START   |
+| SELECT                                          | SELECT  |
+| D-PAD, Left analog stick                        | D-PAD   |
+| ![](<../.gitbook/assets/image (2) (1) (1).png>) | A       |
+| ![](<../.gitbook/assets/image (1) (2).png>)     | B       |
+| ![](<../.gitbook/assets/image (4) (1).png>)     | C       |
+| ![](<../.gitbook/assets/image (3) (1).png>)     |         |
+| L1                                              | L1      |
+| R1                                              | R1      |
 
 ## Specific system information
 

@@ -35,23 +35,23 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
 ### Controller mapping
 
-| Retrobat Button                                | Retroarch Key      |
-| ---------------------------------------------- | ------------------ |
-| START                                          | START              |
-| SELECT                                         | SELECT             |
-| Left analog stick                              | Left analog stick  |
-| Right analog stick                             | Right analog stick |
-| D-PAD                                          | D-PAD              |
-| ![](<../../.gitbook/assets/image (2) (1).png>) | Y                  |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B                  |
-| ![](<../../.gitbook/assets/image (4) (1).png>) | A                  |
-| ![](<../../.gitbook/assets/image (3) (1).png>) | X                  |
-| L1                                             | Left Shoulder      |
-| R1                                             | Right Shoulder     |
-| L2                                             | Left Trigger       |
-| R2                                             | Right Trigger      |
-| L3                                             | Left Thumb         |
-| R3                                             | Right Thumb        |
+| Retrobat Button                                    | Retroarch Key      |
+| -------------------------------------------------- | ------------------ |
+| START                                              | START              |
+| SELECT                                             | SELECT             |
+| Left analog stick                                  | Left analog stick  |
+| Right analog stick                                 | Right analog stick |
+| D-PAD                                              | D-PAD              |
+| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | Y                  |
+| ![](<../../.gitbook/assets/image (1) (2).png>)     | B                  |
+| ![](<../../.gitbook/assets/image (4) (1).png>)     | A                  |
+| ![](<../../.gitbook/assets/image (3) (1).png>)     | X                  |
+| L1                                                 | Left Shoulder      |
+| R1                                                 | Right Shoulder     |
+| L2                                                 | Left Trigger       |
+| R2                                                 | Right Trigger      |
+| L3                                                 | Left Thumb         |
+| R3                                                 | Right Thumb        |
 
 ## Specific system information
 

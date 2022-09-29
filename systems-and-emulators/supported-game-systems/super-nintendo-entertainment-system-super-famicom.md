@@ -31,7 +31,7 @@ There is no BIOS files needed to run games.
 | ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | B                  |
 | ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | A                  |
 | <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | X                  |
-| <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">     | Y                  |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | Y                  |
 | LB (L1)                                                                         | L                  |
 | RB (R1)                                                                         | R                  |
 

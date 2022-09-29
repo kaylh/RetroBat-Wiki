@@ -6,7 +6,7 @@ description: Let's play !
 
 ### Running a Game
 
-In order to run a game, when in the [system menu](../navigation/system-view-options.md), press the ![](<../.gitbook/assets/image (1) (2).png>) button:
+In order to run a game, when in the Game View press the ![](<../.gitbook/assets/image (1) (2).png>) button:
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ If for any reason the default emulator does not work for you, you can change the
 
 #### Changing for the System
 
-From the System View press **SELECT** and go to **"Advanced System Options"**
+From the Game View press **SELECT** and go to **"Advanced System Options"**
 
 <figure><img src="https://i.imgur.com/G6geY06.png" alt=""><figcaption></figcaption></figure>
 

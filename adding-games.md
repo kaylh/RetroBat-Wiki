@@ -18,9 +18,9 @@ For more information about the ROMs formats per system, refer to the "Supported 
 
 The game will be visible upon restart of Retrobat :
 
-<figure><img src="https://i.imgur.com/8yZ6Dll.png" alt=""><figcaption><p>1 game is now visible for the snes system</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/8yZ6Dll.png" alt=""><figcaption><p>System View - Super Nintendo system appeared</p></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/pvbhxaB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/pvbhxaB.png" alt=""><figcaption><p>Game View</p></figcaption></figure>
 
 ## Scraping Game Information
 
@@ -66,7 +66,7 @@ Game information will now be available:
 
 In order to scrape only a single game, select the game and long-press the "south" button ![](<.gitbook/assets/image (1) (2).png>) to open the game options. The select **SCRAPE.**
 
-<figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption><p>From the gamme, long press SOUTH button</p></figcaption></figure>
 
 A list of possible match will be displayed, you will be able to select the appropriate game from the list or to use the **INPUT** button at the bottom to change the text for research.
 

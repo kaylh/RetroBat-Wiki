@@ -14,7 +14,7 @@ There are 4 categories of Controllers in the Wiki database:
 {% tab title="GAMEPADS" %}
 The best way to play Game Console games.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (3).png>)
 
 [GAMEPADS PAGE](gamepads.md)
 {% endtab %}
@@ -30,7 +30,7 @@ The best way to play Arcade games, even more so when you are building a Gaming C
 {% tab title="LIGHTGUNS" %}
 The best way to play Shooting games.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 [LIGHTGUNS PAGE](lightguns/)
 {% endtab %}
