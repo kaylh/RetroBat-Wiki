@@ -12,7 +12,7 @@ You can test you Gamepad [HERE](https://gamepad-tester.com/)
 
 ### 8bitdo controllers <a href="#bitdo_controllers" id="bitdo_controllers"></a>
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 8bitdo Bluetooth controllers have been reported to work perfectly with Retrobat.
 
@@ -26,9 +26,9 @@ XINPUT does not support motion control. If you need to use your controller in ga
 
 When using a wired 8bitdo controller, the switch between XInput and sdl is done by maintaining `X` or `Y` button while plugging the USB cable (instead of pressing `START`)
 
-### XBox controllers
+### XBox controllers (or any XInput controller)
 
-![](<../../.gitbook/assets/image (6).png>)![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)![](../../.gitbook/assets/image.png)
 
 For wired Xbox controllers, the connection to windows and setup in Retrobat will be plug'n'play.
 
@@ -38,7 +38,7 @@ All controllers introduced before the Xbox One S (Xbox 360, Xbox One controllers
 
 ### Nintendo Switch Pro controller
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 The Switch Pro controller will be ideal for use in CEMU (WiiU emulator) or Yuzu (Switch emulator) as it is natively compatible with these emulators and it will support motion control for games that require motion.
 
@@ -50,6 +50,12 @@ In order to use best of both worlds, it is possible to use a 3rd party program s
 
 ### Playstation 5 controller (DualSense)
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
-DualSense controllers is reported to work natively with Retrobat, you just need to pair it with Windows. Moreover it will support motion and be natively recognized in CEMU and Yuzu emulators.
+DualSense controllers supports motion and is reported to work natively with Retrobat, however it is known to not work correctly in Emulators with autoconfiguration.
+
+You can use it and disable CONTROLLER AUTOCONFIGURATION, but you would have to configure it manually for each emulator.
+
+{% hint style="info" %}
+In order to use best of both worlds, it is possible to use a 3rd party program such as DS4Windows (by Ryochan) to set this controller as XINPUT in Windows and Retrobat and make it visible in CEMU or Yuzu as controller with motion.
+{% endhint %}

@@ -28,19 +28,19 @@ The BIOS files are not mandatory to launch games but some require at least one o
 
 ## Controls
 
-| RetroBat key                                                                    | GameCube key             |
-| ------------------------------------------------------------------------------- | ------------------------ |
-| START                                                                           | START                    |
-| D-PAD                                                                           | D-PAD                    |
-| Analog Stick - Left                                                             | Analog Stick - Left      |
-| Analog Stick - Right                                                            | Analog Stick  - C-Stick  |
-| ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | A                        |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | X                        |
-| <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | Y                        |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | B                        |
-| RB (R1)                                                                         | Z                        |
-| LT (L2)                                                                         | L                        |
-| RT (R2)                                                                         | R                        |
+| RetroBat key                                                                        | GameCube key             |
+| ----------------------------------------------------------------------------------- | ------------------------ |
+| START                                                                               | START                    |
+| D-PAD                                                                               | D-PAD                    |
+| Analog Stick - Left                                                                 | Analog Stick - Left      |
+| Analog Stick - Right                                                                | Analog Stick  - C-Stick  |
+| ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | A                        |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | X                        |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Y                        |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | B                        |
+| RB (R1)                                                                             | Z                        |
+| LT (L2)                                                                             | L                        |
+| RT (R2)                                                                             | R                        |
 
 ## System Features
 

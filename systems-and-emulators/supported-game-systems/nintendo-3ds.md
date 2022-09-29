@@ -23,23 +23,23 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                    | 3DS key        |
-| ------------------------------------------------------------------------------- | -------------- |
-| START                                                                           | START          |
-| SELECT / BACK                                                                   | SELECT         |
-| D-PAD                                                                           | D-PAD          |
-| Left analog stick                                                               | Left stick     |
-| Right analog stick                                                              | Cursor         |
-| ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | B              |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | A              |
-| <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | X              |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | Y              |
-| L1                                                                              | L              |
-| R1                                                                              | R              |
-| L2                                                                              | ZL             |
-| R2                                                                              | ZR             |
-| L3                                                                              |                |
-| R3                                                                              | Cursor L-click |
+| RetroBat key                                                                        | 3DS key        |
+| ----------------------------------------------------------------------------------- | -------------- |
+| START                                                                               | START          |
+| SELECT / BACK                                                                       | SELECT         |
+| D-PAD                                                                               | D-PAD          |
+| Left analog stick                                                                   | Left stick     |
+| Right analog stick                                                                  | Cursor         |
+| ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | B              |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A              |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X              |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y              |
+| L1                                                                                  | L              |
+| R1                                                                                  | R              |
+| L2                                                                                  | ZL             |
+| R2                                                                                  | ZR             |
+| L3                                                                                  |                |
+| R3                                                                                  | Cursor L-click |
 
 ## System Features
 

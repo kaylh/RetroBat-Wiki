@@ -25,21 +25,21 @@ There is no BIOS files needed to run games.
 
 The mapping hereunder is explained for the Classic Controller.
 
-| RetroBat key                                                                    | Classic Controller key |
-| ------------------------------------------------------------------------------- | ---------------------- |
-| START                                                                           | +                      |
-| SELECT / BACK                                                                   | -                      |
-| D-PAD                                                                           | D-PAD                  |
-| Left Analog Stick                                                               | Left Stick             |
-| Right Analog Stick                                                              | Right Stick            |
-| ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | B                      |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | A                      |
-| <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | X                      |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | Y                      |
-| LB (L1)                                                                         | L                      |
-| RB (R1)                                                                         | R                      |
-| L Trigger (L2)                                                                  | ZL                     |
-| R Trigger (R2)                                                                  | ZR                     |
+| RetroBat key                                                                        | Classic Controller key |
+| ----------------------------------------------------------------------------------- | ---------------------- |
+| START                                                                               | +                      |
+| SELECT / BACK                                                                       | -                      |
+| D-PAD                                                                               | D-PAD                  |
+| Left Analog Stick                                                                   | Left Stick             |
+| Right Analog Stick                                                                  | Right Stick            |
+| ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | B                      |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A                      |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X                      |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y                      |
+| LB (L1)                                                                             | L                      |
+| RB (R1)                                                                             | R                      |
+| L Trigger (L2)                                                                      | ZL                     |
+| R Trigger (R2)                                                                      | ZR                     |
 
 For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in Retrobat from the [System View Options](../../navigation/system-view-options.md) or from the [Game Options](../../navigation/game-options.md):
 

@@ -25,17 +25,17 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                                                    | Megadrive/Genesis key |
-| ------------------------------------------------------------------------------- | --------------------- |
-| START                                                                           | START                 |
-| SELECT / BACK                                                                   | MODE                  |
-| D-PAD, left stick                                                               | D-PAD                 |
-| ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | B                     |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | C                     |
-| <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | Y                     |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | A                     |
-| LB (L1)                                                                         | X                     |
-| RB (R1)                                                                         | Z                     |
+| RetroBat key                                                                        | Megadrive/Genesis key |
+| ----------------------------------------------------------------------------------- | --------------------- |
+| START                                                                               | START                 |
+| SELECT / BACK                                                                       | MODE                  |
+| D-PAD, left stick                                                                   | D-PAD                 |
+| ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | B                     |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | C                     |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Y                     |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | A                     |
+| LB (L1)                                                                             | X                     |
+| RB (R1)                                                                             | Z                     |
 
 ## System Features
 
