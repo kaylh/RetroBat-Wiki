@@ -12,7 +12,7 @@ You can test you Gamepad [HERE](https://gamepad-tester.com/)
 
 ### 8bitdo controllers <a href="#bitdo_controllers" id="bitdo_controllers"></a>
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 8bitdo Bluetooth controllers have been reported to work perfectly with Retrobat.
 

@@ -39,7 +39,7 @@ sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate 
 | D-PAD                                                                               | D-PAD        |
 | Left analog stick                                                                   | D-PAD        |
 | Right analog stick                                                                  |              |
-| ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | B            |
+| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | B            |
 | ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A            |
 | <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |              |
 | <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |              |

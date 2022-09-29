@@ -23,15 +23,15 @@ No specific BIOS is required to play NES games.
 
 ## Controls
 
-| Retrobat Button                                | 3DSen key |
-| ---------------------------------------------- | --------- |
-| START                                          | START     |
-| SELECT                                         | SELECT    |
-| D-PAD                                          | D-PAD     |
-| Left analog stick                              | D-PAD     |
-| Right analog stick                             |           |
-| ![](<../../.gitbook/assets/image (1) (2).png>) | B         |
-| ![](<../../.gitbook/assets/image (4) (1).png>) | A         |
+| Retrobat Button                                    | 3DSen key |
+| -------------------------------------------------- | --------- |
+| START                                              | START     |
+| SELECT                                             | SELECT    |
+| D-PAD                                              | D-PAD     |
+| Left analog stick                                  | D-PAD     |
+| Right analog stick                                 |           |
+| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | B         |
+| ![](<../../.gitbook/assets/image (4) (1).png>)     | A         |
 
 ## Specific system information
 

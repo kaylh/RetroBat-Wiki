@@ -39,7 +39,7 @@ TBD
 | Right analog stick                                 |             |
 | D-PAD                                              | D-PAD       |
 | ![](<../../.gitbook/assets/image (2) (1) (1).png>) | C           |
-| ![](<../../.gitbook/assets/image (1) (2).png>)     | B           |
+| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | B           |
 | ![](<../../.gitbook/assets/image (4) (1).png>)     | A           |
 | ![](<../../.gitbook/assets/image (3) (1) (2).png>) | D           |
 | L1                                                 |             |

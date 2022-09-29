@@ -25,12 +25,12 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                    | Master system key             |
-| ----------------------------------------------- | ----------------------------- |
-| SELECT / BACK                                   | PAUSE (button on the console) |
-| D-PAD, left stick                               | D-PAD                         |
-| ![A](<../../.gitbook/assets/image (1) (2).png>) | 1 / START                     |
-| ![B](<../../.gitbook/assets/image (4) (1).png>) | 2                             |
+| RetroBat key                                        | Master system key             |
+| --------------------------------------------------- | ----------------------------- |
+| SELECT / BACK                                       | PAUSE (button on the console) |
+| D-PAD, left stick                                   | D-PAD                         |
+| ![A](<../../.gitbook/assets/image (1) (2) (1).png>) | 1 / START                     |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)     | 2                             |
 
 ## System Features
 

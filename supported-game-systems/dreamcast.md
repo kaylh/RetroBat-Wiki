@@ -33,7 +33,7 @@ Game Console - Lifespan: 1998 - 2001
 | Left analog stick                               | Analog stick  |
 | Right analog stick                              |               |
 | ![](<../.gitbook/assets/image (2) (1) (1).png>) | X             |
-| ![](<../.gitbook/assets/image (1) (2).png>)     | A             |
+| ![](<../.gitbook/assets/image (1) (2) (1).png>) | A             |
 | ![](<../.gitbook/assets/image (4) (1).png>)     | B             |
 | ![](<../.gitbook/assets/image (3) (1) (2).png>) | Y             |
 | L1                                              |               |
