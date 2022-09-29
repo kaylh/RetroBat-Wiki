@@ -25,7 +25,7 @@ No specific BIOS is required to play ScummVM games.
 
 Most of the games are point-and-click games designed to be played with a mouse. If you don't have a mouse, the left analog stick can be used too.
 
-Manual controls can be configured by adding a [pad2key ](../../advanced-features/pad2key.md)profile for the game.
+Manual controls can be configured by adding a [pad2key ](../../controllers/pad2key.md)profile for the game.
 
 ## Specific system information
 

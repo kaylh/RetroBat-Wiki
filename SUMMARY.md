@@ -53,6 +53,7 @@
     * [WiimoteGun](controllers/supported-controllers/lightguns/wiimotegun.md)
   * [⌨ Keyboard](controllers/supported-controllers/keyboard.md)
 * [Controller configuration](controllers/controller-configuration.md)
+* [Pad2Key](controllers/pad2key.md)
 
 ## Advanced Features
 
@@ -60,8 +61,8 @@
 * [Game Collections](advanced-features/game-collections.md)
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
-* [Batgui](advanced-features/batgui.md)
 * [Retroachievements](advanced-features/retroachievements.md)
 * [Netplay](advanced-features/netplay.md)
+* [Batgui](advanced-features/batgui.md)
 * [retrobat.ini](advanced-features/retrobat.ini.md)
-* [Pad2Key](advanced-features/pad2key.md)
+* [es\_systems.cfg](advanced-features/es\_systems.cfg.md)
