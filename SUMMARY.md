@@ -26,6 +26,7 @@
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
   * [Game Boy](systems-and-emulators/supported-game-systems/game-boy.md)
   * [GameCube](systems-and-emulators/supported-game-systems/gamecube.md)
+  * [GX4000](systems-and-emulators/supported-game-systems/gx4000.md)
   * [Master System - Mark III](systems-and-emulators/supported-game-systems/master-system-mark-iii.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
   * [Neo Geo](systems-and-emulators/supported-game-systems/neo-geo.md)
