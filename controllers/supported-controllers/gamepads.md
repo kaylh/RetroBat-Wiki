@@ -52,10 +52,4 @@ In order to use best of both worlds, it is possible to use a 3rd party program s
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-DualSense controllers supports motion and is reported to work natively with Retrobat, however it is known to not work correctly in Emulators with autoconfiguration.
-
-You can use it and disable CONTROLLER AUTOCONFIGURATION, but you would have to configure it manually for each emulator.
-
-{% hint style="info" %}
-In order to use best of both worlds, it is possible to use a 3rd party program such as DS4Windows (by Ryochan) to set this controller as XINPUT in Windows and Retrobat and make it visible in CEMU or Yuzu as controller with motion.
-{% endhint %}
+DualSense controllers supports motion and is reported to work natively with Retrobat.
