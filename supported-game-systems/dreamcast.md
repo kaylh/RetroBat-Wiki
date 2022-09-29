@@ -29,14 +29,19 @@ Game Console - Lifespan: 1998 - 2001
 | Retrobat Button                             | Dreamcast key |
 | ------------------------------------------- | ------------- |
 | START                                       | START         |
-| Left analog stick                           | Analog stick  |
 | D-PAD                                       | D-PAD         |
+| Left analog stick                           | Analog stick  |
+| Right analog stick                          |               |
 | ![](<../.gitbook/assets/image (2) (1).png>) | X             |
 | ![](<../.gitbook/assets/image (1) (2).png>) | A             |
-| ![](<../.gitbook/assets/image (4).png>)     | B             |
+| ![](<../.gitbook/assets/image (4) (1).png>) | B             |
 | ![](<../.gitbook/assets/image (3) (1).png>) | Y             |
+| L1                                          |               |
+| R1                                          |               |
 | L2                                          | L1            |
 | R2                                          | R1            |
+| L3                                          |               |
+| R3                                          |               |
 
 ## Specific system information
 

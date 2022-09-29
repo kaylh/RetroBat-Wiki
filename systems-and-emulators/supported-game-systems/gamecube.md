@@ -35,7 +35,7 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | Analog Stick - Left                                                             | Analog Stick - Left      |
 | Analog Stick - Right                                                            | Analog Stick  - C-Stick  |
 | ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | A                        |
-| ![B](<../../.gitbook/assets/image (4).png>)                                     | X                        |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 | X                        |
 | <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> | Y                        |
 | <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">     | B                        |
 | RB (R1)                                                                         | Z                        |

@@ -44,7 +44,7 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 | D-PAD                                          | D-PAD              |
 | ![](<../../.gitbook/assets/image (2) (1).png>) | Y                  |
 | ![](<../../.gitbook/assets/image (1) (2).png>) | B                  |
-| ![](<../../.gitbook/assets/image (4).png>)     | A                  |
+| ![](<../../.gitbook/assets/image (4) (1).png>) | A                  |
 | ![](<../../.gitbook/assets/image (3) (1).png>) | X                  |
 | L1                                             | Left Shoulder      |
 | R1                                             | Right Shoulder     |

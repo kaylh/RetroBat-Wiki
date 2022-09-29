@@ -36,7 +36,7 @@ Game Console - Lifespan: 1999- 2001
 | Analog Stick - Left                                                             | Analog Stick    |
 | Analog Stick - Right                                                            | C-Buttons       |
 | ![A](<../../.gitbook/assets/image (1) (2).png>)                                 | A               |
-| ![B](<../../.gitbook/assets/image (4).png>)                                     |                 |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                 |                 |
 | <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original"> |                 |
 | <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">     | B               |
 | LB (L1)                                                                         | L               |

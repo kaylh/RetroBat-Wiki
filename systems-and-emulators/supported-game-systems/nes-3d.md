@@ -4,7 +4,7 @@ description: Nintendo / GeoStudio
 
 # NES 3D
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 Emulator
 
@@ -29,7 +29,7 @@ No specific BIOS is required to play NES games.
 | SELECT                                         | SELECT    |
 | D-PAD, left stick                              | D-PAD     |
 | ![](<../../.gitbook/assets/image (1) (2).png>) | B         |
-| ![](<../../.gitbook/assets/image (4).png>)     | A         |
+| ![](<../../.gitbook/assets/image (4) (1).png>) | A         |
 
 ## Specific system information
 

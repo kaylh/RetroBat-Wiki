@@ -26,7 +26,7 @@ The quick search menu is available by pressing ![](<../.gitbook/assets/image (2)
 
 #### Navigation bar
 
-Navigation bar is displayed by pressing ![](<../.gitbook/assets/image (4).png>):&#x20;
+Navigation bar is displayed by pressing ![](<../.gitbook/assets/image (4) (1).png>):&#x20;
 
 <figure><img src="https://i.imgur.com/X1GYL7I.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,4 +51,4 @@ To enter Gamelist View, select a system or a collection in the **System View** b
 Navigate your games using the d-pad.
 
 * Press ![](<../.gitbook/assets/image (1) (2).png>) to run the game (long-press to display game options)
-* Press ![](<../.gitbook/assets/image (4).png>)to navigate back to the system list
+* Press ![](<../.gitbook/assets/image (4) (1).png>)to navigate back to the system list
