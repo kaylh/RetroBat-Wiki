@@ -21,6 +21,7 @@
 
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3DO](supported-game-systems/3do.md)
+  * [Adventure Vision](systems-and-emulators/supported-game-systems/adventure-vision.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [Final Burn Neo](systems-and-emulators/supported-game-systems/final-burn-neo.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
@@ -32,6 +33,7 @@
   * [Neo Geo](systems-and-emulators/supported-game-systems/neo-geo.md)
   * [Neo Geo CD](systems-and-emulators/supported-game-systems/neo-geo-cd.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
+  * [Nintendo 3DS](systems-and-emulators/supported-game-systems/nintendo-3ds.md)
   * [Nintendo 64](systems-and-emulators/supported-game-systems/nintendo-64.md)
   * [Nintendo 64 Disk Drive](systems-and-emulators/supported-game-systems/nintendo-64-disk-drive.md)
   * [Nintendo Entertainment System - Family Computer](systems-and-emulators/supported-game-systems/nintendo-entertainment-system-family-computer.md)

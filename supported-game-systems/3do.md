@@ -35,6 +35,7 @@ Game Console - Lifespan: 1993 - 1999
 | ![](<../.gitbook/assets/image (2) (1).png>) | A       |
 | ![](<../.gitbook/assets/image (1) (2).png>) | B       |
 | ![](<../.gitbook/assets/image (4).png>)     | C       |
+| ![](<../.gitbook/assets/image (3) (1).png>) |         |
 | L1                                          | L1      |
 | R1                                          | R1      |
 
