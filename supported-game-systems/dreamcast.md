@@ -1,5 +1,5 @@
 ---
-description: SEGA
+description: Sega
 ---
 
 # Dreamcast

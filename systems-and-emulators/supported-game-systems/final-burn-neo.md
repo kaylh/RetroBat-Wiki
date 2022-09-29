@@ -27,7 +27,7 @@ Althrough no BIOS file is necessary for most of the games, some systems emulated
 
 ## Controls
 
-### Arcade mapping
+### Arcade stick mapping
 
 Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 

@@ -1,21 +1,17 @@
 ---
-description: Nintendo
+description: Nintendo Hack
 ---
 
-# Super Nintendo Entertainment System - Super Famicom
+# Super NES MSU-1
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/snes.svg" alt=""><figcaption></figcaption></figure>
-
-Game Console - Lifespan: 1990 - 2003
-
-{% embed url="https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" %}
+<figure><img src="https://i.imgur.com/zbZdaU7.png" alt=""><figcaption></figcaption></figure>
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>libretro: mednafen_snes</li><li>libretro: mesen-s</li><li>mednafen</li><li>snes9x</li></ul> |   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                                                      |   |
-| **File extensions** | .smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z                                                                                                                           |   |
+| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>snes9x</li></ul> |   |
+| ------------------- | --------------------------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes-msu                                                       |   |
+| **File extensions** | .smc .sfc .bml .m3u                                                                                       |   |
 
 ## BIOS
 
@@ -28,12 +24,18 @@ There is no BIOS files needed to run games.
 | START                                                                               | START              |
 | SELECT / BACK                                                                       | SELECT             |
 | D-PAD                                                                               | D-PAD              |
+| Left analog stick                                                                   |                    |
+| Right analog stick                                                                  |                    |
 | ![A](<../../.gitbook/assets/image (1) (2).png>)                                     | B                  |
 | ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A                  |
 | <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X                  |
 | <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y                  |
 | LB (L1)                                                                             | L                  |
 | RB (R1)                                                                             | R                  |
+| L2                                                                                  |                    |
+| R2                                                                                  |                    |
+| L3                                                                                  |                    |
+| R3                                                                                  |                    |
 
 ## System Features
 

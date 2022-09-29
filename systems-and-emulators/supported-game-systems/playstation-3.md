@@ -21,11 +21,11 @@ Game Console - Lifespan: 2006 - 2017
 
 PS3UPDAT.PUP file needs to be installed directly in rpcs3 emulator.
 
-Run rpcs3.exe file in `\emulators\rpcs3` folder and install firmware:
+Run rpcs3.exe file in `\emulators\rpcs3` folder and **install firmware**
 
 <figure><img src="https://i.imgur.com/18HE0DC.png" alt=""><figcaption></figcaption></figure>
 
-Select the PS3UPDAT.PUP and run firmware installation.
+Select the **PS3UPDAT.PUP** and run firmware installation.
 
 Firmware will appear at the bottom of the emulator:
 
