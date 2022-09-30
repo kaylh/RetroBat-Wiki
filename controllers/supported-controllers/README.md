@@ -24,7 +24,7 @@ The best way to play Game Console games.
 {% tab title="ARACADE STICKS" %}
 The best way to play Arcade games, even more so when you are building a Gaming Cabinet.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (2).png>)
 
 [ARCADE STICKS PAGE](arcade-sticks.md)
 {% endtab %}
