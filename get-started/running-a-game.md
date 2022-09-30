@@ -4,11 +4,11 @@ description: Let's play !
 
 # Running a Game
 
-### Running a Game
+### Choosing a Game and starting it
 
 In order to run a game, when in the Game View press the ![](<../.gitbook/assets/image (1) (2) (1).png>) button:
 
-<figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Highlight the game and press "SOUTH" button</p></figcaption></figure>
 
 A splash screen will appear and the Emulator will start the game:
 
@@ -18,15 +18,15 @@ A splash screen will appear and the Emulator will start the game:
 
 ### Choosing the Emulator
 
-If for any reason the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
+If, for any reason, the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
 
 #### Changing for the System
 
-From the Game View press **SELECT** and go to **"Advanced System Options"**
+From the Game View press **SELECT** and go to **ADVANCED SYSTEM OPTIONS**
 
 <figure><img src="https://i.imgur.com/G6geY06.png" alt=""><figcaption></figcaption></figure>
 
-Select "**Emulator**"
+Choose **EMULATOR**
 
 <figure><img src="https://i.imgur.com/ULXh2WR.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,12 +34,16 @@ Choose the Emulator in the list
 
 <figure><img src="https://i.imgur.com/yoEy4n7.png" alt=""><figcaption></figcaption></figure>
 
-#### Changing for a game
+#### Changing emulator for a game
 
-When the game is highlighted, long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) and select "**Advanced Game Options**"
+When the game is highlighted, long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) and choose **ADVANCED GAME OPTIONS**
 
 <figure><img src="https://i.imgur.com/QB1L9SQ.png" alt=""><figcaption></figcaption></figure>
 
-Select the Emulator:
+Select the Emulator from the list
 
 <figure><img src="https://i.imgur.com/nbO3jck.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**AUTO** corresponds to the Emulator selected in the system settings if specified for the system or to the first Emulator from the list if the System is also set to **AUTO**.
+{% endhint %}

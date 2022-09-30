@@ -1,10 +1,10 @@
 ---
-description: List of Game systems
+description: List of Game systems available in Retrobat
 ---
 
 # Supported Game Systems
 
-The following table is the official list of all supported game systems as per the es\_systems configuration file.
+The following table lists all supported game systems as per the `es_systems.cfg` configuration file.
 
 The **system name** column corresponds to the directory where the game roms must be placed in the "roms" folder of the root Retrobat folder.
 

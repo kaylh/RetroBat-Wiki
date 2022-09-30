@@ -4,23 +4,27 @@ description: Bang bang
 
 # 🔫 Lightguns
 
-Lightgun compatibility is still in early phase in Retrobat, it might be possible that for many Emulators, specific configuration is required to make it work correctly.
+Lightgun compatibility is still in early phase with Retrobat, it might be possible that for many Emulators, specific configuration is required to make it work correctly.
 
-There are several lightguns on the market, the list of compatible will grow, however only a few have been tested so far.
+There are several lightguns on the market, however, only a few have been tested so far.
 
-
+## Lightgun detection
 
 When a lightgun is connected to the system, you will notice that a small gun icon appears on the top left corner near the Gamepad icon : ![](<../../../.gitbook/assets/image (3).png>)
 
-Also, a crosshair will appear on the screen as well as a collection called **LIGHT GUN** in the System View.
+Also, a crosshair will appear on the screen as well as a collection called **LIGHT GUN** in the **System View**.
 
 <figure><img src="https://i.imgur.com/YDBWOrd.png" alt=""><figcaption></figcaption></figure>
 
-LightGun compatible games will have a specific icon next to their name in the Game View
+LightGun compatible games will have a specific icon next to their name in the **Game View**
 
 <figure><img src="https://i.imgur.com/rbFVyjA.png" alt=""><figcaption><p>Duck Hunt is compatible</p></figcaption></figure>
 
-The list of LightGun games is stored in an .xml file inside your Retrobat folder, if you find that some games appear in the list but are not LightGun games, you can remove them from the list.
+The list of LightGun games is stored in an .xml file inside your Retrobat folder, if you find that some games appear in the list but are not LightGun games, you can remove them from the file and manage your own list
+
+{% hint style="info" %}
+Be sure to save your file version as it might be overwritten by a Retrobat update.
+{% endhint %}
 
 <figure><img src="https://i.imgur.com/WrtdDbz.png" alt=""><figcaption><p>gungames.xml folder</p></figcaption></figure>
 
@@ -34,7 +38,7 @@ Some games appear in the list but the LightGun functionality is only in some lev
 
 Lightguns can be activated for a system or for a game.
 
-To activate Lightguns for a system, from the Game View, open the [View Options](../../../navigation/view-options.md) and select **ADVANCED SYSTEM OPTIONS**
+To activate Lightguns for a system, from the **Game View**, open the [View Options](../../../navigation/view-options.md) and select **ADVANCED SYSTEM OPTIONS**
 
 <figure><img src="https://i.imgur.com/rfmZxeu.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +53,7 @@ Switch **LIGHTUN** to **ON**
 The same can be done per game from the [Game Options](../../../navigation/game-options.md) menu and **ADVANCED GAME OPTIONS**
 
 {% hint style="info" %}
-**Fo**r some systems the option will be directly in the **ADVANCED OPTIONS** list (e.g. 3DO), for some other systems the option will be named **LIGHTGUN MODE** (e.g. MAME).
+For some systems the option will be directly in the **ADVANCED OPTIONS** list (e.g. 3DO), for other systems the option will be named **LIGHTGUN MODE** (e.g. MAME).
 {% endhint %}
 
 ### Calibration

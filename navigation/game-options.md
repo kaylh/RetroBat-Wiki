@@ -1,12 +1,12 @@
 ---
-description: Pimp my games
+description: Manage individual games
 ---
 
 # Game Options
 
-**Game Options** are accessible from the Game View by long-press of ![](<../.gitbook/assets/image (1) (2) (1).png>) :&#x20;
+**Game Options** are accessible from the **Game View** by long-press of ![](<../.gitbook/assets/image (1) (2) (1).png>) when a game is highlighted
 
-<figure><img src="https://i.imgur.com/WId2I6B.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/WId2I6B.png" alt=""><figcaption><p>Game options</p></figcaption></figure>
 
 From this menu, you will be able to:
 
@@ -20,4 +20,4 @@ From this menu, you will be able to:
 
 You have the ability to define at a game level the same options that you can define at System level.
 
-The Game Advanced Options will be used when specified for a game instead of the System Advanced options.
+The **ADVANCED GAME OPTIONS** can be used when a specific setting that differs from the system settings is required for a game.

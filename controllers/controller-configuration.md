@@ -9,7 +9,7 @@ Each time a new controller is used, Retrobat will prompt to configure the new co
 <figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
 
 {% hint style="info" %}
-To ignore a button, long-press a button that is already mapped.
+To ignore a key mapping, long-press a button, it will skip to the next one.
 {% endhint %}
 
 The following table gives you the standard mapping required for the following controllers:
@@ -41,13 +41,13 @@ The following table gives you the standard mapping required for the following co
 | L3                                                                           | Left Thumb                                  | Left Thumb                                  | Left Thumb        |
 | R3                                                                           | Right Thumb                                 | Right Thumb                                 | Right Thumb       |
 
-Here is a picture of the controller mapping for some major controllers in RetroArch:
+Here is a picture of the controller mapping for some most known controllers in RetroArch:
 
 <figure><img src="https://i.imgur.com/q9Uesov.png" alt=""><figcaption><p>Courtesy of RetroArch</p></figcaption></figure>
 
 ## Per-Game Controller Configuration
 
-If, for any reason, the default controller configuration does not work for you, there is a possibility to deactivate auto-controller configuration (globally, for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
+If, for any reason, the default controller configuration does not work for you or if you want to tweak your system, there is a possibility to deactivate auto-controller configuration (globally, for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
 
 ### Disable auto-configuration of controllers
 
@@ -88,5 +88,5 @@ With AUTOCONFIGURE CONTROLLERS set to OFF, you will need to configure your contr
 
 To access the Emulator, you can go in the Retrobat System in the System View.
 
-For RetroArch cores, you can create your own Game Controller mapping for the game by pressing F1 (hotkey + ![B](<../.gitbook/assets/image (4) (1).png>)) during game emulation.
+For RetroArch cores, you can create your own Game Controller mapping for the game by pressing F1 (hotkey + ![B](<../.gitbook/assets/image (4) (1).png>)) during game emulation and changing the controller configuration in RetroArch.
 {% endhint %}

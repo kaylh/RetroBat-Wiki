@@ -12,7 +12,7 @@
 
 * [Navigation keys](navigation/navigation-keys.md)
 * [Hotkeys](navigation/hotkeys.md)
-* [System and Game views](navigation/system-and-gamelist-views.md)
+* [System View and Game View](navigation/system-view-and-game-view.md)
 * [Main Menu](navigation/main-menu.md)
 * [View Options](navigation/view-options.md)
 * [Game Options](navigation/game-options.md)

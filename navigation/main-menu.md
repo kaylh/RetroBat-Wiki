@@ -4,9 +4,9 @@ description: Configure Retrobat
 
 # Main Menu
 
-Retrobat configuration is accessible from the **Main Menu.**
+Retrobat configuration is accessible from the **MAIN MENU.**
 
-The Main Menu is accessed by pressing "**START**" on your controller or "**ENTER**" on the keyboard.
+The MAIN MENU is accessed by pressing **START** on your controller or **ENTER** on the keyboard.
 
 <figure><img src="https://i.imgur.com/GO6iJJx.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ From there you will have access to:
 
 ### Controller Settings
 
-This menu items enables you to configure a new controller or to reconfigure a controller.
+This menu item enables you to configure a new controller or to reconfigure a controller.
 
 It also allows to enable screen icons (battery level, controller activity) and to assign default controllers to players.
 
@@ -82,7 +82,7 @@ This menu item is used to manage Retrobat sounds (not in-game sound):
 | Options                  | Several display options: sorting, show hidden systems...        |
 
 {% hint style="info" %}
-More information on Game Collections are available in the dedicated wiki section.
+More information on Game Collections are available in the [dedicated wiki section](../advanced-features/game-collections.md).
 {% endhint %}
 
 ### Scraper
@@ -90,7 +90,7 @@ More information on Game Collections are available in the dedicated wiki section
 This menu item is used to configure Scrapers and launch game scraping.
 
 {% hint style="info" %}
-More information on Scrapers are available in the dedicated wiki section.
+More information on Scrapers are available in the [dedicated wiki section.](../advanced-features/scraping-and-metadata.md)
 {% endhint %}
 
 ### Updates & Downloads
@@ -99,6 +99,10 @@ This menu item is used to:
 
 * Download content such as Free Games, Bezels, Themes
 * Update Retrobat
+
+{% hint style="warning" %}
+Retrobat will not provide ROMs, only Games that are not licenced and free to use will be available in the Download section.
+{% endhint %}
 
 ### System Settings
 

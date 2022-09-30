@@ -1,12 +1,12 @@
 # Scraping & Metadata
 
-Scraping means downloading metadata and game media files (images, videos, maps, pad-to-key settings and manuals) for the games in your collection.
+Scraping is used for downloading metadata and game media files (images, videos, maps, pad-to-key settings and manuals) for games in your collection.
 
 Retrobat supports 4 scraping services:
 
-* ScreenScraper (default service) : a login is required
-* TheGamesDB
-* HFSDB
+* ScreenScraper (default service) : credentials are required ([screenscraper website](https://www.screenscraper.fr/))
+* [TheGamesDB](https://thegamesdb.net/)
+* [HFSDB](https://db.hfsplay.fr/)
 * ArcadeDB
 
 ### **Information that can be scraped**
@@ -25,7 +25,7 @@ Retrobat supports 4 scraping services:
 
 ### Scraping process
 
-There are two approaches to scraping, either for a single game from the [Game Options](../navigation/game-options.md), or for multiple games and systems (global scraping) using the [Main Menu](../navigation/main-menu.md).
+There are two approaches to scraping, either for a single game from the [Game Options](../navigation/game-options.md), or for multiple games and systems (global scraping) from the [Main Menu](../navigation/main-menu.md).
 
 #### Global scraping
 
@@ -43,7 +43,7 @@ Scraping options are available from the [Main Menu](../navigation/main-menu.md):
 
 <figure><img src="https://i.imgur.com/NBYGcPe.png" alt=""><figcaption></figcaption></figure>
 
-Before running the scraper you are able to:
+Before running the scraper you can:
 
 * Select the scraper to use
 * Limit the scraper to only games missing all medias or games missing any media
@@ -52,7 +52,7 @@ Before running the scraper you are able to:
 
 Additionaly, each scraper will have its own settings:
 
-<figure><img src="https://i.imgur.com/wjGjPxy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/wjGjPxy.png" alt=""><figcaption><p>Example of available settings for ScreenScraper</p></figcaption></figure>
 
 From here you will be able to select which data to scrape, but also to define:
 
@@ -78,7 +78,7 @@ All scraped medias will be stored in the system rom folder:
 
 ### Manual modification of Game Metadata
 
-The [Game Option menu](../navigation/game-options.md) offers the possibility to manually edit/complete a game's metadata:
+The [Game Option](../navigation/game-options.md) menu offers the possibility to manually edit/complete metadata for a game
 
 <figure><img src="https://i.imgur.com/80l5jWw.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,4 +88,4 @@ From there you can:
 * Attach different media files
 * Add game to favorites
 * Hide game
-* Flag game as KID game to display game in the [Kid Mode](kiosk-and-kid-mode.md#kid-mode)
+* Flag game as KID game to display it in the [Kid Mode](kiosk-and-kid-mode.md#kid-mode)

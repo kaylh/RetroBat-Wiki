@@ -1,14 +1,14 @@
 ---
-description: Pimp my system
+description: Configure Game View and apply specific settings for the system
 ---
 
 # View Options
 
-**View Options** is accessible from the Game View by pressing **SELECT**&#x20;
+**View Options** is accessible from the **Game View** when pressing **SELECT**&#x20;
 
-<figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption><p>View Options menu</p></figcaption></figure>
 
-This Menu gives access to the following options.
+This Menu gives access to several options.
 
 ### Navigation
 
