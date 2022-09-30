@@ -92,6 +92,78 @@ The is the Classic Controller mapping
 | L2                                                                                  | ZL                     |
 | R2                                                                                  | ZR                     |
 
+<details>
+
+<summary>List of Classic Controller compatible games</summary>
+
+```
+Blast Works: Build Trade Destroy
+Bleach: Versus Crusade
+Call of Duty: Black Ops
+Call of Duty: Modern Warfare 3
+Castlevania Judgment
+Dokapon Kingdom
+Dragon Ball Z: Budokai Tenkaichi 2
+Dragon Ball Z: Budokai Tenkaichi 3
+Fifa 09
+Fifa 10
+Fifa 15
+Final Fantasy Crystal Chronicles: Echoes of Time
+Fire Emblem: Radiant Dawn
+Geometry Wars Galaxies
+G.I. Joe: The Rise of Cobra
+Grim Adventures of Billy & Mandy, The
+Guilty Gear XX Accent Core
+Harvest Moon: Tree of Tranquility
+Kirby's Dream Collection
+Mario Kart Wii
+MLB Power Pros
+MLB Power Pros 2008
+Mortal Kombat: Armageddon
+Monster Hunter Tri
+Muramasa: The Demon Blade
+MySims Racing
+Naruto: Clash of Ninja Revolution 1
+Naruto Shippuden: Clash of Ninja Revolution 3
+Naruto Shippuuden Gekitou! Ninja Taisen EX
+Naruto Shippuuden Gekitou! Ninja Taisen EX2
+Naruto Shippuuden Gekitou! Ninja Taisen EX3
+Need for Speed: Undercover
+Newer Super Mario Bros Wii [HACK]
+NHL 2k10
+NiGHTS: Journey of Dreams
+No More Heroes 2
+Opoona
+Pro Evolution Soccer 2009
+Rampage: Total Destruction
+Resident Evil Archives: Resident Evil
+Resident Evil 4 Wii Edition
+Rune Factory Frontier
+Samurai Shodown Anthology
+Sengoku Basara: Samurai Heroes
+SNK Arcade Classics Vol. 1
+Sonic Colors
+Sonic Unleashed
+SpongeBob's Truth or Square
+Super Mario Kart Wii
+Super Smash Bros. Brawl
+Taiko No Tatsujin
+Tatsunoko vs. Capcom: Cross Generation of Heroes
+Teenage Mutant Ninja Turtles: Smash-Up
+Tetris Party Deluxe
+The Last Story
+TNA Impact
+Ultimate Shooting Collection
+WWE SmackDown vs. Raw 2010
+Victorious Boxers Revolution
+Virtual Console Games
+Pro Evolution Soccer 2010
+Xenoblade Chronicles
+Zhu Zhu Pets: Featuring the Wild Bunch
+```
+
+</details>
+
 #### Other .xx. options
 
 Enables the controller to operate with the left stick representing the function represented by first character and the right stick the function represented by the second character.&#x20;
