@@ -75,7 +75,7 @@ From the Retrobat Game View, open the CEMU emulator
 
 
 
-<figure><img src="https://i.imgur.com/rdJUos9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/rdJUos9.png" alt=""><figcaption><p>File > Install</p></figcaption></figure>
 
 Navigate to the \meta folder of your dumped game directory and install the meta.xml file
 
@@ -127,9 +127,11 @@ The Screenscraper service will recognize U-King as Zelda Breath of the Wild
 
 Updates & DLC must be installed in the Cemu emulator directory using the install title, update or DLC option, they come in the same structure as the game itself
 
-Open Cemu and install the Update/DLC
+Open Cemu and choose **install game title, update or DLC**
 
 <figure><img src="https://i.imgur.com/Y53KGT4.png" alt=""><figcaption><p>Select the install option</p></figcaption></figure>
+
+Navigate to the \meta folder of your dumped DLC or Update directory and install the meta.xml file
 
 <figure><img src="https://i.imgur.com/Y6adbtz.png" alt=""><figcaption><p>search for the meta.xml file in the meta folder</p></figcaption></figure>
 
@@ -137,8 +139,6 @@ Wait until the installation finishes
 
 <figure><img src="https://i.imgur.com/8U7YvAk.png" alt=""><figcaption></figcaption></figure>
 
-You should now see the DLC information in the gamelist
+You should now see the Update or DLC information in the gamelist
 
 <figure><img src="https://i.imgur.com/OY3g3cd.png" alt=""><figcaption></figcaption></figure>
-
-The process for game updates is similar.
