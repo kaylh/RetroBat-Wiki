@@ -2,7 +2,7 @@
 
 Any Gamepad that can be detected by Windows should work in Retrobat.
 
-Wired Gamepads are plug'n'play, once the Gamepad connected you should be able to configure it in Retrobat.
+Wired Gamepads are plug'n'play, once the Gamepad is connected you should be able to configure it in Retrobat.
 
 Bluetooth Gamepads will first require to be paired with your system so that they are detected by Windows.
 

@@ -1,6 +1,6 @@
-# Retrobat.ini
+# retrobat.ini
 
-The "retrobat.ini" file located in the root Retrobat folder can be modified to enable or disable some Retrobat features.
+The `retrobat.ini` file located in the root Retrobat folder can be modified to enable or disable some Retrobat features.
 
 {% hint style="info" %}
 These features can also be modified in the BATGUI tool, refer to the [BATGUI ](batgui.md)section of the wiki.

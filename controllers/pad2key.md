@@ -6,11 +6,11 @@ You can create a pad2key profile for a system or for a specific game.
 
 ### Create a pad2key profile for a system
 
-From the Game View press SELECT to open the [View Options](../navigation/view-options.md) menu and select **ADVANCED SYSTEM OPTIONS**
+From the Game View press SELECT to open the [View Options](../navigation/view-options.md) menu and select **ADVANCED SYSTEM OPTIONS.**
 
 <figure><img src="https://i.imgur.com/jR79O63.png" alt=""><figcaption></figcaption></figure>
 
-Select **EDIT PADTOKEY PROFILE**
+Select **EDIT PADTOKEY PROFILE.**
 
 <figure><img src="https://i.imgur.com/8QE8iwu.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,19 +26,19 @@ Once done, **SAVE.**
 
 ### Create a pad2key profile for a **game**
 
-From the Game View long-press ![A](<../.gitbook/assets/image (1) (2) (1).png>) to access the [Game Options](../navigation/game-options.md) menu and select **CREATE PADTOKEY PROFILE**
+From the Game View long-press ![A](<../.gitbook/assets/image (1) (2) (1).png>) to access the [Game Options](../navigation/game-options.md) menu and select **CREATE PADTOKEY PROFILE.**
 
 <figure><img src="https://i.imgur.com/8BJeFtb.png" alt=""><figcaption></figcaption></figure>
 
 ### Get Pad2Key profiles from external sources
 
-Pad2keys profiles files can be [scraped from screenscraper](../advanced-features/scraping-and-metadata.md).fr if you have enabled the option for it.
+Pad2keys profiles files can be [scraped from screenscraper](../advanced-features/scraping-and-metadata.md).fr if the option is enabled.
 
 <figure><img src="https://i.imgur.com/zEIRW6F.png" alt=""><figcaption></figcaption></figure>
 
 ### Pad2Key file
 
-The Pad2Key file is located near the game rom and has the same name as the game ROM with a .keys extension
+The Pad2Key file is located near the game rom and has the same name as the game ROM with a .keys extension.
 
 <figure><img src="https://i.imgur.com/DLV9BVR.png" alt=""><figcaption></figcaption></figure>
 

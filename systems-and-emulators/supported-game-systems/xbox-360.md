@@ -23,9 +23,7 @@ No specific BIOS requirements to play Xbox 360 games on xenia / xenia-canary emu
 
 ## Controls
 
-Retrobat does not offer automatic controller configuration for xenia / xenia-canary.
-
-However, when using a XBOX controller, controls will work out of the box.
+Configure your controller within the emulator.
 
 ## Specific system information
 

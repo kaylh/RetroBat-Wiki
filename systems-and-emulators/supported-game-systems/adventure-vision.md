@@ -46,4 +46,4 @@ Game Console - Lifespan: 1982 - 1983
 
 ## Specific system information
 
-No specific information for the system.
+There is no specific System information documented here yet.

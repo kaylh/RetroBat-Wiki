@@ -198,54 +198,7 @@ For example if your game requires a nunchuk and IR cursor usage  (e.g. `Super Ma
 
 (ROM name example : `Super Mario Galaxy.ni.iso` or `Super Mario Galaxy.in.iso`)
 
-### Create a custom configuration for a game
-
-You can use Dolphin to create a custom configuration per-game and use this instead of the mapping automatically injected by Retrobat.
-
-#### Step 1
-
-Run _Dolphin.exe_ from the folder **\emulators\dolphin-emu** in your Retrobat installation folder and go to the controller option ![](<../../.gitbook/assets/image (12).png>)&#x20;
-
-Navigate to the controller configuration option
-
-<figure><img src="https://i.imgur.com/8IfDvcQ.png" alt=""><figcaption></figcaption></figure>
-
-Select your device and perform the mapping,then SAVE it as a profile
-
-<figure><img src="https://i.imgur.com/jJU0cOj.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 2
-
-Exit the controller configuration and right-click on your game in the Dolphin gamelist, select **Properties**
-
-<figure><img src="https://i.imgur.com/aWp550a.png" alt=""><figcaption></figcaption></figure>
-
-Go to **Game Config** tab and **Editor**
-
-<figure><img src="https://i.imgur.com/oV8PHXe.png" alt=""><figcaption></figcaption></figure>
-
-In the **User Config** part, enter the following code
-
-```
-[Controls]
- %ControllerType% = %ProfileName%
-```
-
-Replace %ControllerType% with
-
-* **PadProfile1** for Gamecube Controller 1 (up to 4 available)
-* **WiimoteProfile1** for Wiimote 1 (up to 4 available)
-
-Replace **%ProfileName%** with the name of the Controller profile created in step 1
-
-{% hint style="info" %}
-The generated profiles are stored in the following folders:
-
-"**\emulators\dolphin-emu\User\Config\Profiles\GCPad**" for GameCube\
-"**\emulators\dolphin-emu\User\Config\Profiles\Wiimote**" for Wii
-{% endhint %}
-
-## System Features
+## Specific system information
 
 ### Custom Textures
 

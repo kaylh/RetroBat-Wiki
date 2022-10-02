@@ -52,7 +52,7 @@ Double-click on the game and select the NES ROM:
 <figure><img src="https://i.imgur.com/P7Kgbvj.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The RetroBat team has prepared to you the full set of 3DSen files and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset NES ROM names.
+The RetroBat team has prepared the full set of 3DSen files for you and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset ROM names.
 {% endhint %}
 
 ### Supported Games & IDs

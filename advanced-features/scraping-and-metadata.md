@@ -1,6 +1,6 @@
 # Scraping & Metadata
 
-Scraping is used for downloading metadata and game media files (images, videos, maps, pad-to-key settings and manuals) for games in your collection.
+Scraping is used for downloading metadata and media files (images, videos, maps, pad-to-key settings and manuals) for games in your collection.
 
 Retrobat supports 4 scraping services:
 
@@ -39,7 +39,7 @@ Refer to the[ following section of the wiki](../adding-games.md#per-game-scrapin
 
 ### Scraping options
 
-Scraping options are available from the [Main Menu](../navigation/main-menu.md):
+Scraping options are available from the [Main Menu](../navigation/main-menu.md).
 
 <figure><img src="https://i.imgur.com/NBYGcPe.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Before running the scraper you can:
 * Ignore games scraped recently
 * Include/exclude systems
 
-Additionaly, each scraper will have its own settings:
+Additionaly, each scraper has its own settings.
 
 <figure><img src="https://i.imgur.com/wjGjPxy.png" alt=""><figcaption><p>Example of available settings for ScreenScraper</p></figcaption></figure>
 
@@ -61,12 +61,12 @@ From here you will be able to select which data to scrape, but also to define:
 * What image to use as logo (marquee or wheel)
 
 {% hint style="info" %}
-The Scraper settings is also where you need to enter your credentials for ScreenScaper service.
+The Scraper settings is also where you can enter your credentials for ScreenScaper service.
 {% endhint %}
 
 ### Storage of scraped medias
 
-All scraped medias will be stored in the system rom folder:
+All scraped medias will be stored in the rom folder.
 
 <figure><img src="https://i.imgur.com/XlUVX8L.png" alt=""><figcaption><p>Example of media folders</p></figcaption></figure>
 

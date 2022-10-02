@@ -32,15 +32,16 @@ No BIOS required for Game & Watch games.
 | <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Specific to game |
 | <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Specific to game |
 
-## System Features
+## Specific system information
 
 ### How to run games
 
 The RetroArch "**Handheld Electronic (GW)**" core is used to run a large number of Game & Watch games.
 
-List of games that work with the core "**Handheld Electronic (GW)**":
+<details>
 
-{% code overflow="wrap" %}
+<summary>List of games that work with the core "<strong>Handheld Electronic (GW)</strong>"</summary>
+
 ```
 "Armor Battle"
 "Banana (Time & Fun)"
@@ -102,18 +103,19 @@ List of games that work with the core "**Handheld Electronic (GW)**":
 "Turtle Bridge (Wide Screen)"
 "Wild Man Jump (Electronic Tini-Arcade)"
 ```
-{% endcode %}
+
+</details>
 
 But many liquid crystal electronic games are not supported by this core.\
-To make them work you must use the core "**MAME (current)**"\
-These games need 2 different files, a file of type "_rom"_ and a file of type "_artwork_ " to work.\
+To make them work you must use the **MAME** core.\
+These games need 2 different files to work: a file of type "_rom"_ and a file of type "_artwork"_.\
 \
-You must place the rom file in .zip format in the same folder as other Game & Watch games: `\roms\gameandwatch`
+Place the rom file in .zip format in the `\roms\gameandwatch` folder.
 
 <figure><img src="https://i.imgur.com/ALEygG9.png" alt=""><figcaption></figcaption></figure>
 
-And the artwork files which have exactly the same name as the roms (also .zip format): `\bios\mame\artwork`
+Place the artwork in the `\bios\mame\artwork`folder, files must have exactly the same name as the roms and also be in .zip format.&#x20;
 
 <figure><img src="https://i.imgur.com/H39e9W9.png" alt=""><figcaption></figcaption></figure>
 
-Then launch Retrobat and go to the **Game & Watch** system and [change the emulator for the game](../../get-started/running-a-game.md#choosing-the-emulator).
+Then, in Retrobat, go to the **Game & Watch** system and [change the emulator for the game](../../get-started/running-a-game.md#choosing-the-emulator).

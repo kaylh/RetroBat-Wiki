@@ -10,11 +10,11 @@ The **system name** column corresponds to the directory where the game roms must
 
 The **Full Name** column is the actual gaming system name.
 
-The **Default Emulator** column lists the primary emulator configured in Retrobat for the system. All emulators are retroarch cores unless marked as **(s)** for standalone emulators.
+The **Default Emulator** column lists the primary emulator configured for the system. All emulators are retroarch cores unless marked as **(s)** for standalone emulators.
 
-The **Alternative Emulators** column lists the additional emulators that can be configured by system or per game. As in the Standard Emulator column, the mark (standalone) is used for non retroarch cores emulators.
+The **Alternative Emulators** column lists the additional emulators that can be used for the system. As in the Standard Emulator column, the mark **(s)** is used for standalone emulators.
 
-Additional information related to BIOS and rom file formats can be found in the detailed section related to the system / emulator.
+Additional information related to BIOS and ROM file formats can be found in the detailed system / emulator page.
 
 | System Name                                                                                                  | Full Name                               | Default Emulator     | Alternative Emulators                                                                                |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |

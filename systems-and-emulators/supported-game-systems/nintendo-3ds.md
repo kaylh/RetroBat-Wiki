@@ -41,6 +41,6 @@ No BIOS required.
 | L3                                                                                  |                |
 | R3                                                                                  | Cursor L-click |
 
-## System Features
+## Specific System Information
 
-There is no specific System Features documented here yet.
+There is no specific System information documented here yet.

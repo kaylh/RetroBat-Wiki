@@ -33,9 +33,7 @@ Firmware will appear at the bottom of the emulator:
 
 ## Controls
 
-Retrobat does not offer automatic controller configuration for rpcs3.
-
-Controller configuration should be performed directly in the emulator:
+Controller configuration must be performed in the emulator.
 
 <figure><img src="https://i.imgur.com/YoW67OI.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +44,7 @@ Controller configuration should be performed directly in the emulator:
 PS3 games in rpcs3 are installed in the `\emulators\rpcs3\dev_hdd0\disc` folder for games in disk format and `\emulators\rpcs3\dev_hdd0\game` for dematerialized games.
 
 \
-Once the emulator is configured and the game has been added to the emulator from the "Install package" or/and "Add games" menu AND IT IS WORKING DIRECTLY FROM THE EMULATOR, create a m3u file in the `\roms\ps3` folder that points to the **EBOOT.BIN** file of the game in the `\emulators\rpcs3\dev_hdd0` game folder :&#x20;
+Once the emulator is configured, the game has been added to the emulator from the "**Install package**" or/and "**Add games**" menu and the game is working succesfully from the emulator, create a m3u file in the `\roms\ps3` folder that points to the **EBOOT.BIN** file of the game in the `\emulators\rpcs3\dev_hdd0` game folder :&#x20;
 
 <figure><img src="https://i.imgur.com/EGr0uq3.png" alt=""><figcaption><p>m3u file must point to the EBOOT.BIN file in the game folder</p></figcaption></figure>
 
@@ -56,6 +54,6 @@ BATGUI tool offers an automatic m3u creation tool. Refer to the [BATGUI ](../../
 
 ### Emulator configuration
 
-There are some required settings to be enabled directly in rpcs3:
+Enable the following settings directly in rpcs3.
 
 <figure><img src="https://i.imgur.com/Frjj2kY.png" alt=""><figcaption></figcaption></figure>

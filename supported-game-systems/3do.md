@@ -41,4 +41,4 @@ Game Console - Lifespan: 1993 - 1999
 
 ## Specific system information
 
-No specific information for 3do system.
+There is no specific System information documented here yet.

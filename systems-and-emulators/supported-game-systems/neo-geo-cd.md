@@ -26,26 +26,24 @@ Game Console - Lifespan: 1994 - 1997
 
 ## Controls
 
-TBD
-
-| Retrobat Button                                    | Neo Geo Key |
-| -------------------------------------------------- | ----------- |
-| START                                              | START       |
-| SELECT                                             | SELECT      |
-| Left analog stick                                  | D-PAD       |
-| Right analog stick                                 |             |
-| D-PAD                                              | D-PAD       |
-| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | C           |
-| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | B           |
-| ![](<../../.gitbook/assets/image (4) (1).png>)     | A           |
-| ![](<../../.gitbook/assets/image (3) (1) (2).png>) | D           |
-| L1                                                 |             |
-| R1                                                 |             |
-| L2                                                 |             |
-| R2                                                 |             |
-| L3                                                 |             |
-| R3                                                 |             |
+| Retrobat Button                                    | Neo Geo CD Key |
+| -------------------------------------------------- | -------------- |
+| START                                              | START          |
+| SELECT                                             | SELECT         |
+| Left analog stick                                  | D-PAD          |
+| Right analog stick                                 |                |
+| D-PAD                                              | D-PAD          |
+| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | C              |
+| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | B              |
+| ![](<../../.gitbook/assets/image (4) (1).png>)     | A              |
+| ![](<../../.gitbook/assets/image (3) (1) (2).png>) | D              |
+| L1                                                 |                |
+| R1                                                 |                |
+| L2                                                 |                |
+| R2                                                 |                |
+| L3                                                 |                |
+| R3                                                 |                |
 
 ## Specific system information
 
-No specific information for neogeocd system.
+There is no specific System information documented here yet.

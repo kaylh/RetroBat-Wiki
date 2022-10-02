@@ -1,6 +1,6 @@
 # ⌨ Keyboard
 
-A standard keyboard can be used in Retrobat and will be recognized by Retrobat interface out of the box.
+A standard keyboard can be used and will be recognized out of the box.
 
 Buttons mapping can be found [HERE](../../navigation/navigation-keys.md#keyboard-navigation-keys)
 

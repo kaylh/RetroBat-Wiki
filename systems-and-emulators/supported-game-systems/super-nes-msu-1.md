@@ -37,6 +37,6 @@ There is no BIOS files needed to run games.
 | L3                                                                                  |                    |
 | R3                                                                                  |                    |
 
-## System Features
+## Specific system information
 
-There is no specific System Features documented here yet.
+There is no specific System information documented here yet.

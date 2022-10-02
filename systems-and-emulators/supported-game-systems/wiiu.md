@@ -19,7 +19,7 @@ Game Console - Lifespan: 2012 - 2017
 
 ## BIOS
 
-There is no BIOS files needed to run games, however, when using .wud or .wux game files, it is required to have a keys.txt file in the emulator folder with the right game key.
+There is no BIOS files needed to run games, however, when using .wud or .wux game files, it is necessary to have a keys.txt file in the emulator folder with the right game keys.
 
 The Game keys can be dumped from your WiiU console, see [CEMU guide](https://wiki.cemu.info/wiki/Obtaining\_Keys\_for\_Keys.txt) for more information.
 
@@ -55,7 +55,7 @@ DualSense and Switch Pro controllers are tested options.
 In construction
 {% endhint %}
 
-## System Features
+## Specific system information
 
 ### Adding Games
 

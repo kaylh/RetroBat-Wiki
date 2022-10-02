@@ -29,6 +29,6 @@ Computer - Lifespan: 1992 - 1996
 
 Use Pad2Key for this system, see the [Pad2Key ](../../controllers/pad2key.md)section of this Wiki.
 
-## System Features
+## Specific system information
 
-There is no specific System Features documented here yet.
+There is no specific System information documented here yet.

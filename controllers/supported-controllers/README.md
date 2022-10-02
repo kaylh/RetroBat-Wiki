@@ -2,11 +2,11 @@
 
 All major controllers that are compatible with Windows Operating System should work with Retrobat.&#x20;
 
-However, due to the management of controller drivers by Windows, it is highly recommended to use a X-Input controller for best compatibility.
+However, due to the management of controller drivers by Windows, it is recommended to use a X-Input controller for best compatibility.
 
 
 
-The Subpages of the wiki contains information on controllers that have been tested by the team.
+The Subpages of the wiki contain information on controllers that have been tested by the team.
 
 
 

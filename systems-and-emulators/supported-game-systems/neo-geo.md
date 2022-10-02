@@ -51,4 +51,4 @@ TBD
 
 ## Specific system information
 
-No specific information for neogeo system.
+There is no specific System information documented here yet.

@@ -6,11 +6,11 @@ description: Let's play !
 
 ### Choosing a Game and starting it
 
-In order to run a game, when in the Game View press the ![](<../.gitbook/assets/image (1) (2) (1).png>) button:
+In order to run a game, when in the [Game View](../navigation/system-view-and-game-view.md) press the ![](<../.gitbook/assets/image (1) (2) (1).png>) button.
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Highlight the game and press "SOUTH" button</p></figcaption></figure>
 
-A splash screen will appear and the Emulator will start the game:
+A splash screen appears and the Emulator starts the game.
 
 <figure><img src="https://i.imgur.com/uwXnAc0.png" alt=""><figcaption><p>Splash screen</p></figcaption></figure>
 
@@ -18,29 +18,29 @@ A splash screen will appear and the Emulator will start the game:
 
 ### Choosing the Emulator
 
-If, for any reason, the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
+If the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
 
-#### Changing for the System
+#### Changing emulator for the System
 
-From the Game View press **SELECT** and go to **ADVANCED SYSTEM OPTIONS**
+From the Game View press **SELECT** and go to **ADVANCED SYSTEM OPTIONS**.
 
 <figure><img src="https://i.imgur.com/G6geY06.png" alt=""><figcaption></figcaption></figure>
 
-Choose **EMULATOR**
+Choose **EMULATOR**.
 
 <figure><img src="https://i.imgur.com/ULXh2WR.png" alt=""><figcaption></figcaption></figure>
 
-Choose the Emulator in the list
+Select the Emulator in the list.
 
 <figure><img src="https://i.imgur.com/yoEy4n7.png" alt=""><figcaption></figcaption></figure>
 
 #### Changing emulator for a game
 
-When the game is highlighted, long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) and choose **ADVANCED GAME OPTIONS**
+From the [Game View](../navigation/system-view-and-game-view.md), highlight a game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>), choose **ADVANCED GAME OPTIONS**.
 
 <figure><img src="https://i.imgur.com/QB1L9SQ.png" alt=""><figcaption></figcaption></figure>
 
-Select the Emulator from the list
+Select the Emulator from the list.
 
 <figure><img src="https://i.imgur.com/nbO3jck.png" alt=""><figcaption></figcaption></figure>
 

@@ -17,7 +17,7 @@ Fbneo 1.0.0.3
 
 ## Bios Information
 
-Althrough no BIOS file is necessary for most of the games, some systems emulated by fbneo will require BIOS files.
+Althrough no BIOS file is necessary for most of the games, some systems emulated by fbneo do require BIOS files.
 
 | Bios file  | Folder  | Usage                         |
 | ---------- | ------- | ----------------------------- |
@@ -59,8 +59,8 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
 Some arcade games can use extra files (originally these were physically stored on a disc) called CHD (sometimes IMG).&#x20;
 
-To use CHD for a game, the CHD folder must be placed in the rom folder and must have the same name as the game's ZIP.&#x20;
+The CHD folder must be placed in the rom folder and must have the same name as the game's ZIP file.&#x20;
 
-For example, for `kinst.zip` the game will be looking for `kinst/kinst.img`when it launches.
+For example, for `kinst.zip` the game will be looking for `kinst/kinst.chd`.
 
 <figure><img src="https://i.imgur.com/xl9iImN.png" alt=""><figcaption></figcaption></figure>

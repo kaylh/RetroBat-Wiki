@@ -45,4 +45,4 @@ Game Console - Lifespan: 1993 - 1994
 
 ## Specific system information
 
-There is no specific System Features documented here yet.
+There is no specific System information documented here yet.

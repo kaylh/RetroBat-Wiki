@@ -50,6 +50,6 @@ sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate 
 | L3                                                                                  |              |
 | R3                                                                                  |              |
 
-## System Features
+## Specific system information
 
-There is no specific System Features documented here yet.
+There is no specific System information documented here yet.

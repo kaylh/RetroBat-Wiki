@@ -42,21 +42,21 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | LT (L2)                                                                             | L                        |
 | RT (R2)                                                                             | R                        |
 
-## System Features
+## Specific system information
 
 ### Custom Textures
 
-With Retrobat, it is possible to launch Custom Texture packs in the Dolphin Emulator.
+It is possible to launch Custom Texture packs with the Dolphin Emulator.
 
-The texture pack needs to be placed in the `\emulators\dolphin-emu\User\Load\Textures`
+The texture pack needs to be placed in the `\emulators\dolphin-emu\User\Load\Textures` folder.
 
 <figure><img src="https://i.imgur.com/sKxzXS3.png" alt=""><figcaption></figcaption></figure>
 
-The name of the custom texture folder must be strictly identical to the Game ID, this can be found in the game properties inside Dolphin:
+The name of the custom texture folder must be strictly identical to the **Game ID** that can be found in the game properties inside Dolphin.
 
 <figure><img src="https://i.imgur.com/wWaNFxC.png" alt=""><figcaption></figcaption></figure>
 
-Once the custom texture pack correctly named and placed, activate the Custom Textures setting in Retrobat:
+Once the custom texture pack is correctly named and placed, activate the **CUSTOM TEXTURES** setting.
 
 <figure><img src="https://i.imgur.com/R5SWtvS.png" alt=""><figcaption><p>Go to the View Options from the Gamecube System</p></figcaption></figure>
 

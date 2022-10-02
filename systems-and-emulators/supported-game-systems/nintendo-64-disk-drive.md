@@ -46,19 +46,27 @@ Game Console - Lifespan: 1999- 2001
 | L-Click (L3)                                                                        |                 |
 | R-Click (R3)                                                                        |                 |
 
-## System Features
+## Specific System Information
 
 ### Running Games
 
-There are two types of games on the Nintendo 64DD, full games and game expansions. In order to get n64dd games running successfully, it's required to have two roms files per game. One of the files is a n64 rom file and the other is a n64dd rom file. Both roms need to have exact same file name and in the case of the n64dd rom file, it must have a double extension with the same extension than the n64 rom file, added before its own extension.\
+There are two types of games on the Nintendo 64DD, full games and game expansions.&#x20;
+
+In order to get n64dd games running successfully, it is required to have two files per game.&#x20;
+
+One of the files is a n64 ROM file and the other is a n64dd .ndd file.&#x20;
+
+Both files need to have the exact same filename and in the case of the n64dd .ndd file, it must have a double extension with the same extension than the n64 rom file, added before its own extension.\
 
 
-In the case of game expansion like the one in the example below, the n64 game is the actual rom file for which the n64dd rom file is the expansion. For the full games, you also always need two files, so the n64dd rom file of the full game and another n64 rom of any title that you just need to rename.\
+In the case of game expansion like the one in the example below, the n64 game is the actual ROM file for which the n64dd .ndd file is the expansion.&#x20;
+
+For the full games, you also always need two files, so the n64dd .ndd file of the full game and another n64 rom of any title that you just need to rename.\
 
 
-Example file names with the expansion "F-Zero X Expansion Kit":
+Example filenames with the expansion "F-Zero X Expansion Kit":
 
-* Rename n64dd rom file\
+* Rename n64dd .ndd file\
   `F-Zero X - Expansion Kit (Japan).ndd`\
   ``to\
   `F-Zero X - Expansion Kit (Japan).n64.ndd`
@@ -79,6 +87,6 @@ Example with the full game "SimCity 64":
 
 Althrough only commercialized in Japan, US games are available for the n64dd system, as well as prototypes using a specific "dev" BIOS.
 
-The right BIOS can be selected directly in Retrobat Games Options menu, per game:
+The right BIOS can be selected directly in Retrobat Games Options menu, per game.
 
 <figure><img src="https://i.imgur.com/htqkK3Q.png" alt=""><figcaption><p>Advanced System Options / Emulation / BIOS</p></figcaption></figure>

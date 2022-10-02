@@ -2,7 +2,7 @@
 
 ## General Controller Configuration
 
-Each time a new controller is used, Retrobat will prompt to configure the new controller:
+Each time a new controller is used, Retrobat will prompt to configure the new controller.
 
 <figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>Press any button</p></figcaption></figure>
 
@@ -49,33 +49,33 @@ Here is a picture of the controller mapping for some most known controllers in R
 
 If, for any reason, the default controller configuration does not work for you or if you want to tweak your system, there is a possibility to deactivate auto-controller configuration (globally, for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
 
-### Disable auto-configuration of controllers
+### Disable autoconfiguration of controllers
 
 Autoconfiguration can be disabled globally, per system or per game.
 
 #### **Global deactivation**
 
-Open the [Main Menu](../navigation/main-menu.md) and go to **GAME SETTINGS**
+Open the [Main Menu](../navigation/main-menu.md) and go to **GAME SETTINGS.**
 
 <figure><img src="https://i.imgur.com/LL6eTfL.png" alt=""><figcaption></figcaption></figure>
 
-Disable **AUTOCONFIGURE CONTROLLERS**
+Disable **AUTOCONFIGURE CONTROLLERS.**
 
 <figure><img src="https://i.imgur.com/USc60bs.png" alt=""><figcaption></figcaption></figure>
 
 #### **Per system d**eactivation
 
-Open the [System View Options](../navigation/view-options.md) and go to **ADVANCED SYSTEM OPTIONS**
+Open the [System View Options](../navigation/view-options.md) and go to **ADVANCED SYSTEM OPTIONS.**
 
 <figure><img src="https://i.imgur.com/OwqDv4H.png" alt=""><figcaption></figcaption></figure>
 
-Then set **AUTOCONFIGURE CONTROLLERS** to **OFF**
+Then set **AUTOCONFIGURE CONTROLLERS** to **OFF.**
 
 <figure><img src="https://i.imgur.com/DnYtGMf.png" alt=""><figcaption></figcaption></figure>
 
 #### **Per Game d**eactivation
 
-Open the [Game Options](../navigation/game-options.md) menu and go to **ADVANCED GAME OPTIONS**
+Open the [Game Options](../navigation/game-options.md) menu and go to **ADVANCED GAME OPTIONS.**
 
 <figure><img src="https://i.imgur.com/tUJldiK.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,7 +84,7 @@ Set **AUTOCONFIGURE CONTROLLERS** to **OFF**
 <figure><img src="https://i.imgur.com/b6Z10Rc.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-With AUTOCONFIGURE CONTROLLERS set to OFF, you will need to configure your controller directly in the Emulator.
+With AUTOCONFIGURE CONTROLLERS set to OFF, you will need to configure your controllers directly in the Emulator.
 
 To access the Emulator, you can go in the Retrobat System in the System View.
 

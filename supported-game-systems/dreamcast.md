@@ -47,13 +47,13 @@ Game Console - Lifespan: 1998 - 2001
 
 ### Multi-disc
 
-You can use a m3u file to automatically load the next disc of multi-disc games.
+You can use a m3u file to manage multi-disc games.
 
 For example for _Alone In The Dark_, if the ROM contains the following files:
 
 <figure><img src="https://i.imgur.com/LUmmLpf.png" alt=""><figcaption></figcaption></figure>
 
-Create a _Alone in the dark The new nightmare.m3u_ text file with the following content and save it to the /roms/dreamcast folder:
+create a `Alone in the dark The new nightmare.m3u` text file with the following content and save it to the /roms/dreamcast folder:
 
 <figure><img src="https://i.imgur.com/9dQJhD9.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ The texture pack must be placed in the `\bios\dc\textures\` folder:
 
 <figure><img src="https://i.imgur.com/65bX2kT.png" alt=""><figcaption></figcaption></figure>
 
-Then custom textures have to be enabled in Retrobat Dreamcast system configuration or in the game specific configuration:
+Then, enable **CUSTOM TEXTURES** in **ADVANCED SYSTEM OPTIONS** or in **ADVANCED GAME OPTIONS**.
 
 <figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption><p>Enter the Dreamcast System View Options</p></figcaption></figure>
 
