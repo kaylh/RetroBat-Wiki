@@ -28,6 +28,9 @@
   * [Amiga CDTV](systems-and-emulators/supported-game-systems/amiga-cdtv.md)
   * [Atari 800](systems-and-emulators/supported-game-systems/atari-800.md)
   * [Atari 2600](systems-and-emulators/supported-game-systems/atari-2600.md)
+  * [Atari 5200](systems-and-emulators/supported-game-systems/atari-5200.md)
+  * [Atari 7800](systems-and-emulators/supported-game-systems/atari-7800.md)
+  * [Atari ST](systems-and-emulators/supported-game-systems/atari-st.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [Final Burn Neo](systems-and-emulators/supported-game-systems/final-burn-neo.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
@@ -55,6 +58,7 @@
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
   * [Xbox](systems-and-emulators/supported-game-systems/xbox.md)
   * [XBOX 360](systems-and-emulators/supported-game-systems/xbox-360.md)
+  * [ZX Spectrum](systems-and-emulators/supported-game-systems/zx-spectrum.md)
 
 ## Controllers
 
