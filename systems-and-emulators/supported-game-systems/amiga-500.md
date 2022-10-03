@@ -27,7 +27,25 @@ Computer - Lifespan: 1987 - 1992
 
 ## Controls
 
-Use Pad2Key for this system, see the [Pad2Key ](../../controllers/pad2key.md)section of this Wiki.
+Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../controllers/pad2key.md)section of this Wiki.
+
+| Retrobat Button                                    | Amiga 500 key                              |
+| -------------------------------------------------- | ------------------------------------------ |
+| START                                              |                                            |
+| SELECT                                             | Toggle virtual keyboard / Toggle statusbar |
+| D-PAD                                              | Joystick                                   |
+| Left analog stick                                  | Mouse                                      |
+| Right analog stick                                 | Mouse                                      |
+| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | Space                                      |
+| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | Fire button 1 / Red                        |
+| ![](<../../.gitbook/assets/image (4) (1).png>)     | Fire button 2 / Blue                       |
+| ![](<../../.gitbook/assets/image (3) (1) (2).png>) |                                            |
+| L1                                                 |                                            |
+| R1                                                 |                                            |
+| L2                                                 | Left mouse button                          |
+| R2                                                 | Right mouse button                         |
+| L3                                                 |                                            |
+| R3                                                 |                                            |
 
 ## Specific system information
 

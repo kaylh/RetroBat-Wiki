@@ -28,23 +28,7 @@ Game Console - Lifespan: 1999- 2001
 
 ## Controls
 
-| RetroBat key                                                                        | Nintendo 64 key |
-| ----------------------------------------------------------------------------------- | --------------- |
-| START                                                                               | START           |
-| SELECT / BACK                                                                       |                 |
-| D-PAD                                                                               | D-PAD           |
-| Analog Stick - Left                                                                 | Analog Stick    |
-| Analog Stick - Right                                                                | C-Buttons       |
-| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | A               |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     |                 |
-| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |                 |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | B               |
-| LB (L1)                                                                             | L               |
-| RB (R1)                                                                             | R               |
-| LT (L2)                                                                             | Z               |
-| RT (R2)                                                                             |                 |
-| L-Click (L3)                                                                        |                 |
-| R-Click (R3)                                                                        |                 |
+Same as N64
 
 ## Specific System Information
 

@@ -23,14 +23,25 @@ No BIOS required for Game & Watch games.
 
 ## Controls
 
-| RetroBat key                                                                        | G\&W key         |
-| ----------------------------------------------------------------------------------- | ---------------- |
-| START                                                                               | Menu             |
-| D-PAD                                                                               | D-PAD            |
-| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | Specific to game |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | Specific to game |
-| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Specific to game |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Specific to game |
+Standard RetroArch configuration.
+
+| RetroBat key                                                                        | G\&W key           |
+| ----------------------------------------------------------------------------------- | ------------------ |
+| START                                                                               | START              |
+| SELECT                                                                              | SELECT             |
+| D-PAD                                                                               | D-PAD              |
+| Left Analog stick                                                                   | Left Analog stick  |
+| Right Analog stick                                                                  | Right Analog stick |
+| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                  |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A                  |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X                  |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y                  |
+| L1                                                                                  | Left Shoulder      |
+| R1                                                                                  | Right Shoulder     |
+| L2                                                                                  | Left Trigger       |
+| R2                                                                                  | Right Trigger      |
+| L3                                                                                  | Left Thumb         |
+| R3                                                                                  | Right Thumb        |
 
 ## Specific system information
 
