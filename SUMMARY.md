@@ -26,6 +26,7 @@
   * [Amiga 1200](systems-and-emulators/supported-game-systems/amiga-1200.md)
   * [Amiga CD32](systems-and-emulators/supported-game-systems/amiga-cd32.md)
   * [Amiga CDTV](systems-and-emulators/supported-game-systems/amiga-cdtv.md)
+  * [Atari 800](systems-and-emulators/supported-game-systems/atari-800.md)
   * [Dreamcast](supported-game-systems/dreamcast.md)
   * [Final Burn Neo](systems-and-emulators/supported-game-systems/final-burn-neo.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
