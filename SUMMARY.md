@@ -39,6 +39,8 @@
   * [GX4000](systems-and-emulators/supported-game-systems/gx4000.md)
   * [Master System - Mark III](systems-and-emulators/supported-game-systems/master-system-mark-iii.md)
   * [Megadrive - Genesis](systems-and-emulators/supported-game-systems/megadrive-genesis.md)
+  * [Sega 32X](systems-and-emulators/supported-game-systems/sega-32x.md)
+  * [Mega-CD - Sega-CD](systems-and-emulators/supported-game-systems/mega-cd-sega-cd.md)
   * [Neo Geo](systems-and-emulators/supported-game-systems/neo-geo.md)
   * [Neo Geo CD](systems-and-emulators/supported-game-systems/neo-geo-cd.md)
   * [NES 3D](systems-and-emulators/supported-game-systems/nes-3d.md)
