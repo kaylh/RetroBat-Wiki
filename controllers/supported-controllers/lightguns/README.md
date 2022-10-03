@@ -66,7 +66,7 @@ In construction
 
 ### WiiMote & Mayflash DolphinBar
 
-![](<../../../.gitbook/assets/image (1) (1).png>)![](<../../../.gitbook/assets/image (1) (2).png>)
+![](<../../../.gitbook/assets/image (1).png>)![](<../../../.gitbook/assets/image (1) (2).png>)
 
 The Wiimote and DolphinBar is actually a great way to enjoy your Lightgun game library.
 
