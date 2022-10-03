@@ -16,7 +16,7 @@ The Subpages of the wiki contain information on controllers that have been teste
 {% tab title="GAMEPADS" %}
 The best way to play Game Console games.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 [GAMEPADS PAGE](gamepads.md)
 {% endtab %}
