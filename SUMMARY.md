@@ -41,6 +41,7 @@
   * [Nintendo 64 Disk Drive](systems-and-emulators/supported-game-systems/nintendo-64-disk-drive.md)
   * [Nintendo Entertainment System - Family Computer](systems-and-emulators/supported-game-systems/nintendo-entertainment-system-family-computer.md)
   * [PlayStation](systems-and-emulators/supported-game-systems/playstation.md)
+  * [PlayStation 2](systems-and-emulators/supported-game-systems/playstation-2.md)
   * [Playstation 3](systems-and-emulators/supported-game-systems/playstation-3.md)
   * [ScummVM](systems-and-emulators/supported-game-systems/scummvm.md)
   * [Super Nintendo Entertainment System - Super Famicom](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system-super-famicom.md)
