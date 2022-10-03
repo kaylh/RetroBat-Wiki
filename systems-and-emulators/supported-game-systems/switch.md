@@ -1,0 +1,120 @@
+---
+description: Nintendo
+---
+
+# Switch
+
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/switch.svg" alt=""><figcaption></figcaption></figure>
+
+Hybrid Game Console - Lifespan: 2017 - present
+
+{% embed url="https://en.wikipedia.org/wiki/Nintendo_Switch" %}
+
+## Information
+
+| **Emulators**       | <ul><li>yuzu</li><li>yuzu early access</li><li>ryujinx</li></ul> |   |
+| ------------------- | ---------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: switch                |   |
+| **File extensions** | .nso .nro .nca .xci .nsp .kip                                    |   |
+
+{% hint style="info" %}
+You need to be a Yuzu Patreon to use Yuzu Early Access.
+{% endhint %}
+
+## BIOS
+
+Switch firmware files and prod.keys need to be dumped from your console and placed in dedicated directories in the emulator folders:
+
+### Yuzu and Yuzu Early Access
+
+Place prod.keys file in `\emulators\yuzu\user\keys`
+
+Place firmware .nca files in `\emulators\yuzu\user\nand\system\Contents\registered`
+
+### Ryujinx
+
+Place prod.keys file in `\emulators\ryujinx\portable\system`
+
+Install firmware directly in the emulator
+
+<figure><img src="https://i.imgur.com/CVXr1y7.png" alt=""><figcaption><p>Tools > Install Firmware</p></figcaption></figure>
+
+## Controls
+
+| RetroBat key                                                                        | Switch Key  |
+| ----------------------------------------------------------------------------------- | ----------- |
+| START                                                                               | +           |
+| SELECT / BACK                                                                       | -           |
+| D-PAD                                                                               | D-PAD       |
+| Left Analog Stick                                                                   | Left stick  |
+| Right Analog Stick                                                                  | Right stick |
+| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | B           |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A           |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X           |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y           |
+| LB (L1)                                                                             | L           |
+| RB (R1)                                                                             | R           |
+| L2                                                                                  | ZL          |
+| R2                                                                                  | ZR          |
+| L3                                                                                  | Left Thumb  |
+| R3                                                                                  | Right Thumb |
+
+{% hint style="info" %}
+For Ryujinx, the controller is done directly in the emulator.
+{% endhint %}
+
+## Specific system information
+
+All information related to emulator setup, install guide, game dumping guides can be found on the emulator websites.
+
+{% embed url="https://yuzu-emu.org/help/quickstart/" %}
+
+{% embed url="https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide" %}
+
+### How-to install Yuzu
+
+To install Yuzu, follow the guide on the [Yuzu website](https://yuzu-emu.org/help/quickstart/#downloading-and-installing-yuzu).
+
+Yuzu will be installed by default in the appdata folder on your computer:
+
+* `Appdata\local\yuzu` for yuzu program executable files
+* `Appdata\roaming\yuzu` for yuzu user data (game saves, settings...)
+
+#### Program executable files
+
+<figure><img src="https://i.imgur.com/P8Pi1Ut.png" alt=""><figcaption></figcaption></figure>
+
+The content of the `yuzu-windows-msvc` folder must be copied to the `\emulators\yuzu` directory in your Retrobat folder.
+
+For Early Access, copy the content of the `yuzu-windows-msvc-early-access` must be copied to the `\emulators\yuzu-early-access` directory in your Retrobat folder.
+
+<figure><img src="https://i.imgur.com/fq2gxNH.png" alt=""><figcaption></figcaption></figure>
+
+#### User data
+
+<figure><img src="https://i.imgur.com/CQhfYCR.png" alt=""><figcaption></figcaption></figure>
+
+The content of this folder is to be copied in:
+
+* `\emulators\yuzu\user` for yuzu
+* `\emulators\yuzu-early-access\user` for yuzu early access
+
+### Installing game updates
+
+Game updates can be installed both in Yuzu and Ryujinx. They are dumped from your Switch in the format of .nsp files.
+
+#### Yuzu
+
+In Yuzu, go to `Files > Install Files to NAND...`
+
+<figure><img src="https://i.imgur.com/B6jQIqZ.png" alt=""><figcaption></figcaption></figure>
+
+The next screen will invite you to search for your update or DLC .nsp file on your computer, just select it and save.
+
+#### Ryujinx
+
+In Ryujinx Game list, right-click the game line and select **Manage Title Updates** or **Manage DLC**
+
+<figure><img src="https://i.imgur.com/uRMjmAE.png" alt=""><figcaption></figcaption></figure>
+
+The next screen will invite you to select your update or DLC .nsp file, search for it on your computer, add it and save.
