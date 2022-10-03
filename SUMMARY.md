@@ -49,6 +49,7 @@
   * [Wii](systems-and-emulators/supported-game-systems/wii.md)
   * [WiiU](systems-and-emulators/supported-game-systems/wiiu.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
+  * [Xbox](systems-and-emulators/supported-game-systems/xbox.md)
   * [XBOX 360](systems-and-emulators/supported-game-systems/xbox-360.md)
 
 ## Controllers
