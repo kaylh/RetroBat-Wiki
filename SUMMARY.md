@@ -89,4 +89,3 @@
 * [AI Translation Service](advanced-features/ai-translation-service.md)
 * [Batgui](advanced-features/batgui.md)
 * [retrobat.ini](advanced-features/retrobat.ini.md)
-* [es\_systems.cfg](advanced-features/es\_systems.cfg.md)
