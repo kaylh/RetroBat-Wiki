@@ -32,7 +32,7 @@ Game Console - Release year: 1978
 | SELECT                                             | 9             |
 | D-PAD                                              | Stick         |
 | Left analog stick                                  |               |
-| Right analog stick                                 | 7             |
+| Right analog stick                                 |               |
 | ![](<../../.gitbook/assets/image (2) (1) (1).png>) | 2             |
 | ![](<../../.gitbook/assets/image (1) (2) (1).png>) | En            |
 | ![](<../../.gitbook/assets/image (4) (1).png>)     | Cl            |
