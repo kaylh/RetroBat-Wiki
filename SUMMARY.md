@@ -59,6 +59,7 @@
   * [Super Nintendo Entertainment System - Super Famicom](systems-and-emulators/supported-game-systems/super-nintendo-entertainment-system-super-famicom.md)
   * [Super NES MSU-1](systems-and-emulators/supported-game-systems/super-nes-msu-1.md)
   * [Switch](systems-and-emulators/supported-game-systems/switch.md)
+  * [TI-99/4A](systems-and-emulators/supported-game-systems/ti-99-4a.md)
   * [Wii](systems-and-emulators/supported-game-systems/wii.md)
   * [WiiU](systems-and-emulators/supported-game-systems/wiiu.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)

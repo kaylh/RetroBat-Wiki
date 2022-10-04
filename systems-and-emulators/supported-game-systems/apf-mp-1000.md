@@ -24,10 +24,6 @@ Game Console - Release year: 1978
 | apfm1000.xml | `\bios\mame\hash` |                                  |
 | apfm1000.zip | `\bios`           | b197db12f7a13827717bbeb7cfd9542a |
 
-{% hint style="danger" %}
-Check placing of bios .zip file ...
-{% endhint %}
-
 ## Controls
 
 | Retrobat Button                                    | APF-M1000 key |
