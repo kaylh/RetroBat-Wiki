@@ -11,10 +11,6 @@ Arcade
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: fbneo                                                                         |
 | **File extension** | .fba .zip .chd .7z .bin                                                                                                        |
 
-### ROMSET&#x20;
-
-Fbneo 1.0.0.3
-
 ## Bios Information
 
 Althrough no BIOS file is necessary for most of the games, some systems emulated by fbneo do require BIOS files.
@@ -64,3 +60,11 @@ The CHD folder must be placed in the rom folder and must have the same name as t
 For example, for `kinst.zip` the game will be looking for `kinst/kinst.chd`.
 
 <figure><img src="https://i.imgur.com/xl9iImN.png" alt=""><figcaption></figcaption></figure>
+
+### ROMSET&#x20;
+
+Fbneo 1.0.0.3
+
+### **Sample files**
+
+Some games require sample files, these shouls be placed in the `\bios\fbneo\samples` folder.
