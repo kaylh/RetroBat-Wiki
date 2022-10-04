@@ -4,7 +4,9 @@ description: Nintendo
 
 # Super Nintendo Entertainment System - Super Famicom
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/snes.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/inZ65eS.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/fcfmfq4.png" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1990 - 2003
 

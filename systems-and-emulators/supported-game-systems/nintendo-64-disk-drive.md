@@ -4,9 +4,7 @@ description: Nintendo
 
 # Nintendo 64 Disk Drive
 
-
-
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64dd.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/Oo6wj1I.png" alt=""><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 1999- 2001
 
