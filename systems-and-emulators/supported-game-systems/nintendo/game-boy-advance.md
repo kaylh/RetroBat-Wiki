@@ -12,7 +12,7 @@ Portable Game Console - Lifespan: 2001 - 2008
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mgba</li><li>libretro: mednafen gba</li><li>mgba</li></ul> |   |
+| **Emulators**       | <ul><li>libretro: mgba</li><li>libretro: mednafen_gba</li><li>mgba</li></ul> |   |
 | ------------------- | ---------------------------------------------------------------------------- | - |
 | **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gba                               |   |
 | **File extensions** | .gba .zip .7z                                                                |   |
@@ -36,8 +36,8 @@ Portable Game Console - Lifespan: 2001 - 2008
 | ![B](<../../../.gitbook/assets/image (4) (1).png>)                                     | A            |
 | <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |              |
 | <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |              |
-| L1                                                                                     |              |
-| R1                                                                                     |              |
+| L1                                                                                     | L            |
+| R1                                                                                     | R            |
 | L2                                                                                     |              |
 | R2                                                                                     |              |
 | L3                                                                                     |              |
