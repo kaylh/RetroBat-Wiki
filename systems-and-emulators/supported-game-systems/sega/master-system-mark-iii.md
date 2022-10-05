@@ -32,6 +32,8 @@ There is no BIOS files needed to run games.
 | ![A](<../../../.gitbook/assets/image (1) (2) (1).png>) | 1 / START                     |
 | ![B](<../../../.gitbook/assets/image (4) (1).png>)     | 2                             |
 
+<figure><img src="https://i.imgur.com/IY6vs5g.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

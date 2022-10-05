@@ -49,4 +49,14 @@ Game Console - Lifespan: 1994 - 2006
 
 ## Specific system information
 
-There is no specific System information documented here yet.
+### Multi-disc games
+
+To automatically load the next disc of a game, you can use a `.m3u` playlist file.&#x20;
+
+In the m3u file, list all game discs from your game:
+
+<figure><img src="https://i.imgur.com/GGRxCI4.png" alt=""><figcaption><p>List of files</p></figcaption></figure>
+
+Within that text file, write the names of the `.cue` sheets or `.chd` files for your game discs:
+
+<figure><img src="https://i.imgur.com/ZzJ7Ldj.png" alt=""><figcaption></figcaption></figure>

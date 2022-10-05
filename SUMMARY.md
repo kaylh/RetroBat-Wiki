@@ -47,6 +47,7 @@
     * [Atari 5200](systems-and-emulators/supported-game-systems/atari/atari-5200.md)
     * [Atari 7800](systems-and-emulators/supported-game-systems/atari/atari-7800.md)
     * [Atari ST](systems-and-emulators/supported-game-systems/atari/atari-st.md)
+    * [Lynx](systems-and-emulators/supported-game-systems/atari/lynx.md)
   * [Capcom CP Systems](systems-and-emulators/supported-game-systems/capcom-cp-systems/README.md)
     * [CP System](systems-and-emulators/supported-game-systems/capcom-cp-systems/cp-system.md)
     * [CP System II](systems-and-emulators/supported-game-systems/capcom-cp-systems/cp-system-ii.md)

@@ -43,4 +43,14 @@ The controls are similar to Megadrive/Genesis system.
 
 ## Specific System Information
 
-There is no specific System information documented here yet.
+### Multi-disc games
+
+You can use a m3u file to manage multi-disc games.
+
+For example for _Panzer Dragoon Saga_, if the ROM contains the following files:&#x20;
+
+<figure><img src="https://i.imgur.com/o3QZPs0.png" alt=""><figcaption></figcaption></figure>
+
+create a `Panzer Dragoon Saga.m3u` text file with the following content and save it to the /roms/saturn folder:
+
+<figure><img src="https://i.imgur.com/gy9LuLH.png" alt=""><figcaption></figcaption></figure>
