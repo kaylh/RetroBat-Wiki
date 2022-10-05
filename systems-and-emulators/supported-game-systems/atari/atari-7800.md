@@ -45,6 +45,8 @@ Game console - Lifespan: 1986 - 1992
 | L3                                                    |                |
 | R3                                                    |                |
 
+<figure><img src="https://i.imgur.com/sgsaeRN.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

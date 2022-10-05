@@ -45,6 +45,8 @@ Portable Game Console - Lifespan: 2004- 2011
 | L3                                                                                     | MIC             |
 | R3                                                                                     | Screen Swap     |
 
+<figure><img src="https://i.imgur.com/5Fa7LxI.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific System Information
 
 There is no specific System information documented here yet.

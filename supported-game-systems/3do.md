@@ -39,6 +39,8 @@ Game Console - Lifespan: 1993 - 1999
 | L1                                              | L1      |
 | R1                                              | R1      |
 
+<figure><img src="https://i.imgur.com/lyIP3ja.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

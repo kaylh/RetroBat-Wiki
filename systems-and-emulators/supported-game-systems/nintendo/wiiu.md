@@ -6,7 +6,7 @@ description: Nintendo
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wiiu.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 2012 - 2017
+Hybrid Game Console - Lifespan: 2012 - 2017
 
 {% embed url="https://en.wikipedia.org/wiki/Wii_U" %}
 

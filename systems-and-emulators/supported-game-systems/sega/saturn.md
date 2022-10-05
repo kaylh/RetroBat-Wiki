@@ -41,6 +41,8 @@ The controls are similar to Megadrive/Genesis system.
 | LB (L1)                                                                                | X (top left)          |
 | RB (R1)                                                                                | Z (top right)         |
 
+<figure><img src="https://i.imgur.com/rJXxjO2.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific System Information
 
 ### Multi-disc games

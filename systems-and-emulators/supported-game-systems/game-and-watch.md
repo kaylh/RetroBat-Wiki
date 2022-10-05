@@ -6,7 +6,7 @@ description: G&W
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/gameandwatch.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 1980 - 1991
+Portable Game Console - Lifespan: 1980 - 1991
 
 {% embed url="https://en.wikipedia.org/wiki/Game_%26_Watch" %}
 

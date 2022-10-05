@@ -26,7 +26,7 @@ Game Console - Lifespan: 1999- 2001
 
 ## Controls
 
-Same as N64
+Same as [N64](nintendo-64.md#controls)
 
 ## Specific System Information
 

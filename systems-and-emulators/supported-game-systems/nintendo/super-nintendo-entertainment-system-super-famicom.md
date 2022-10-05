@@ -37,6 +37,8 @@ There is no BIOS files needed to run games.
 | LB (L1)                                                                                | L                  |
 | RB (R1)                                                                                | R                  |
 
+<figure><img src="https://i.imgur.com/bJOE7jD.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

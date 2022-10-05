@@ -41,6 +41,8 @@ No BIOS required for ATARI 2600.
 | L3                                                    | Color (on console)              |
 | R3                                                    | black & white (on console)      |
 
+<figure><img src="https://i.imgur.com/OP8tnMg.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

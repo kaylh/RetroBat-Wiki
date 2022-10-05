@@ -43,6 +43,8 @@ Portable Game Console - Lifespan: 2001 - 2008
 | L3                                                                                     |                      |
 | R3                                                                                     |                      |
 
+<figure><img src="https://i.imgur.com/hYkmLg3.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

@@ -49,6 +49,8 @@ Game Console - Lifespan: 2000 - 2013
 | L3                                                                                     | L3                 |
 | R3                                                                                     | R3                 |
 
+<figure><img src="https://i.imgur.com/9sz2VFM.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 There is no specific System information documented here yet.

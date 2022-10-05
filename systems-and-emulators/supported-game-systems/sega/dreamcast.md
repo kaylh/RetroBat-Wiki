@@ -43,6 +43,8 @@ Game Console - Lifespan: 1998 - 2001
 | L3                                                    |               |
 | R3                                                    |               |
 
+<figure><img src="https://i.imgur.com/g71xmgZ.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific system information
 
 ### Multi-disc

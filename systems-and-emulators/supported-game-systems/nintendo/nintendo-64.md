@@ -41,6 +41,8 @@ There is no BIOS files needed to run games.
 | L-Click (L3)                                                                           |                 |
 | R-Click (R3)                                                                           |                 |
 
+<figure><img src="https://i.imgur.com/NZ91mQ9.png" alt=""><figcaption></figcaption></figure>
+
 ## Specific System Information
 
 ### Custom textures
