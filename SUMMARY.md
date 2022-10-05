@@ -19,6 +19,7 @@
 
 ## Systems & Emulators
 
+* [Arcade guide](systems-and-emulators/arcade-guide.md)
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3DO](supported-game-systems/3do.md)
   * [Adventure Vision](systems-and-emulators/supported-game-systems/adventure-vision.md)
@@ -82,7 +83,6 @@
   * [TI-99/4A](systems-and-emulators/supported-game-systems/ti-99-4a.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
   * [ZX Spectrum](systems-and-emulators/supported-game-systems/zx-spectrum.md)
-* [Arcade guide](systems-and-emulators/arcade-guide.md)
 
 ## Controllers
 

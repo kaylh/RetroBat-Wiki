@@ -62,15 +62,23 @@ Merged rom sets are not supported by libretro cores.&#x20;
 We recommend the use of Non-merged rom sets.
 {% endhint %}
 
+{% hint style="warning" %}
+Do not rename the zipped ROM files.
+
+Use scrapping to get the right game name in your library.
+{% endhint %}
+
 ## Additional files
-
-### Artworks
-
-
 
 ### Samples
 
+Some games need extra samples files to work, they should be placed in the following folders:
 
+* For fbneo: `\bios\fbneo\samples`
+* For mame2003: `\bios\mame2003\samples`
+* For mame2003plus: `\bios\mame2003-plus\samples`
+* For mame2010: `\bios\mame2010\samples`
+* For the current mame and standalone mame: `\bios\mame\samples`
 
 ### CHD or IMG files
 
