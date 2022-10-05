@@ -19,9 +19,9 @@ Arcade - Released: 1998&#x20;
 
 ## Bios Information
 
-| bios file | Folder  | md5                              |
-| --------- | ------- | -------------------------------- |
-| naomi.zip | `\bios` | eb4099aeb42ef089cfe94f8fe95e51f6 |
+| bios file | Folder     | md5                              |
+| --------- | ---------- | -------------------------------- |
+| naomi.zip | `\bios\dc` | eb4099aeb42ef089cfe94f8fe95e51f6 |
 
 ## Controls
 
