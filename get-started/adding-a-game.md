@@ -2,7 +2,7 @@
 description: Building your library
 ---
 
-# Adding games
+# Adding a game
 
 Adding games is a straight-forward process.
 
@@ -13,7 +13,7 @@ Game ROMs need to be placed in the `\roms\<system>\` folder, they will be direct
 <figure><img src="https://i.imgur.com/ayxotgu.png" alt=""><figcaption><p>Adding a snes rom</p></figcaption></figure>
 
 {% hint style="info" %}
-More information about ROM format per system in the [Supported Games Systems](supported-game-systems/) section of the wiki.
+More information about ROM format per system in the [Supported Games Systems](../supported-game-systems/) section of the wiki.
 {% endhint %}
 
 The System will be visible upon restart.
@@ -45,7 +45,7 @@ For ScreenScraper, you need to create an account on the [Screenscraper ](https:/
 
 Then enter your credentials (User/Password) in the **SCRAPER SETTINGS** menu.
 
-More details in [Scaping & Metadata](advanced-features/scraping-and-metadata.md) section of the wiki.
+More details in [Scaping & Metadata](../advanced-features/scraping-and-metadata.md) section of the wiki.
 {% endhint %}
 
 The following message appears on the top right of the screen, the scraping is in progress.
@@ -54,7 +54,7 @@ The following message appears on the top right of the screen, the scraping is in
 
 Once the scraping finalized, refresh the gamelist.
 
-Press **START** (**ENTER** on keyboard) to display the [Main menu](navigation/main-menu.md) and select **GAME SETTINGS.**
+Press **START** (**ENTER** on keyboard) to display the [Main menu](../navigation/main-menu.md) and select **GAME SETTINGS.**
 
 <figure><img src="https://i.imgur.com/X1sumBQ.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,19 +62,19 @@ Choose **UPDATE GAMELIST.**
 
 <figure><img src="https://i.imgur.com/B9beKo6.png" alt=""><figcaption></figcaption></figure>
 
-Game information is now available in the [Game View](navigation/system-view-and-game-view.md#game-view)
+Game information is now available in the [Game View](../navigation/system-view-and-game-view.md#game-view)
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Game information has been added to the database</p></figcaption></figure>
 
 ### Per game scraping
 
-In order to scrape only a single game, select the game and long-press ![](<.gitbook/assets/image (1) (2) (1).png>) to open the [game options](navigation/game-options.md).&#x20;
+In order to scrape only a single game, select the game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) to open the [game options](../navigation/game-options.md).&#x20;
 
 Select **SCRAPE.**
 
 <figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption><p>From the game view, highlight a game and long-press SOUTH button</p></figcaption></figure>
 
-A list of possible matches is displayed, select the appropriate game and confirm with ![](<.gitbook/assets/image (1) (2) (1).png>).
+A list of possible matches is displayed, select the appropriate game and confirm with ![](<../.gitbook/assets/image (1) (2) (1).png>).
 
 {% hint style="info" %}
 The default search string is based on the ROM filename, to change the search string use the **INPUT** button at the bottom.

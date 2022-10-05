@@ -29,11 +29,11 @@ There are two approaches to scraping, either for a single game from the [Game Op
 
 #### Global scraping
 
-Refer to the [following part of the wiki](../adding-games.md#global-scraping) for instructions.
+Refer to the [following part of the wiki](../get-started/adding-a-game.md#global-scraping) for instructions.
 
 #### Per Game scraping
 
-Refer to the[ following section of the wiki](../adding-games.md#per-game-scraping) for instructions.
+Refer to the[ following section of the wiki](../get-started/adding-a-game.md#per-game-scraping) for instructions.
 
 
 

@@ -5,7 +5,7 @@
 ## Get Started
 
 * [Installation & first startup](installation-and-first-startup.md)
-* [Adding games](adding-games.md)
+* [Adding a game](get-started/adding-a-game.md)
 * [Running a Game](get-started/running-a-game.md)
 
 ## NAVIGATION
