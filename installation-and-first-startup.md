@@ -6,52 +6,51 @@ description: Get started !
 
 ## Installation
 
-Download the last Retrobat installation executable on the [Retrobat Website](https://www.retrobat.ovh/dl\_en.html).
-
-Run the installer and agree with the Licence Agreement.
+* Download the latest Retrobat Setup on the [Retrobat Website](https://www.retrobat.ovh/dl\_en.html).
+* Run the Setup and agree the Licence to continue.
 
 <figure><img src="https://i.imgur.com/BcrxaWC.png" alt=""><figcaption><p>Next ></p></figcaption></figure>
 
 <figure><img src="https://i.imgur.com/08boU9Q.png" alt=""><figcaption><p>I Agree</p></figcaption></figure>
 
-Select the destination folder and choose **INSTALL**.
+* Browse to the destination folder and select **Install**.
 
 <figure><img src="https://i.imgur.com/ey8n2lD.png" alt=""><figcaption><p>Select installation folder</p></figcaption></figure>
 
-Let the installation program finish, choose whether to create a desktop shortcut or not, and click **FINISH**.
+* Wait until the Installation is finished, then you can let it create a desktop shortcut, uncheck the box if not and click **Finish**.
 
 <figure><img src="https://i.imgur.com/8F7dihV.png" alt=""><figcaption><p>Finish !</p></figcaption></figure>
 
-The installation folder structure should be the following:
+The Setup folder tree look like what below:
 
 <figure><img src="https://i.imgur.com/Hffa513.png" alt=""><figcaption></figcaption></figure>
 
 ## First startup
 
-Double-click the `Retrobat.exe` file in the installation folder or use the desktop shortcut.
+You can double-click `retrobat.exe` file in your setup folder or use the desktop shortcut.
 
-After a short random intro video, the first screen you see is the **System View**.
+After the video splash screen, the **System View** is shown.
 
 <figure><img src="https://i.imgur.com/XVFrmz6.png" alt=""><figcaption><p>System View</p></figcaption></figure>
 
 {% hint style="info" %}
-Language might vary, Retrobat will detect your OS language during installation and set it up as startup language.
+The displayed language may vary, RetroBat detects your OS language at first start-up.
 {% endhint %}
 
-From this screen, you can navigate using your keyboard or a game controller.&#x20;
+On this view, you can navigate with the keyboard or a game controller.
 
-Press a button to configure your controller, the **CONFIGURE INPUT** screen will appear.
+* Press any button and if your controller is not set the **CONFIGURE INPUT** screen appears.
 
 <figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>CONFIGURE INPUT screen</p></figcaption></figure>
 
-Hold a button on your controller to enter the button configuration screen.
+* Press and keep holding a button to enter the **CONFIGURING** screen.
 
 <figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>You can hold a button to skip a line if your controller does not have that many buttons</p></figcaption></figure>
 
-Configure all keys based on your controller layout.&#x20;
+* Define all the keys based on your controller layout.&#x20;
 
 {% hint style="info" %}
-We recommend using **SELECT** for the hotkey.
+We recommend to use **SELECT** (or Back) **** as hotkey.
 {% endhint %}
 
-CONGRATULATIONS : you have succesfully installed Retrobat and launched it for the first time.
+CONGRATULATIONS: You have installed RetroBat and launched it for the first time successfully.
