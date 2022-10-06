@@ -21,7 +21,7 @@ description: Get started !
 
 <figure><img src="https://i.imgur.com/8F7dihV.png" alt=""><figcaption><p>Finish !</p></figcaption></figure>
 
-The Setup folder tree look like what below:
+The Setup folder structure looks like this:
 
 <figure><img src="https://i.imgur.com/Hffa513.png" alt=""><figcaption></figcaption></figure>
 
