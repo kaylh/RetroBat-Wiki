@@ -43,6 +43,7 @@
     * [HomeBrew MAME](systems-and-emulators/supported-game-systems/arcade/homebrew-mame.md)
     * [Sega NAOMI](systems-and-emulators/supported-game-systems/arcade/sega-naomi.md)
     * [Sega NAOMI 2](systems-and-emulators/supported-game-systems/arcade/sega-naomi-2.md)
+    * [TeknoParrot](systems-and-emulators/supported-game-systems/arcade/teknoparrot.md)
   * [Arcadia 2001](systems-and-emulators/supported-game-systems/arcadia-2001.md)
   * [Bally Astrocade](systems-and-emulators/supported-game-systems/bally-astrocade.md)
   * [Atari](systems-and-emulators/supported-game-systems/atari/README.md)
@@ -103,7 +104,7 @@
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
   * [Sinclair Research](systems-and-emulators/supported-game-systems/sinclair-research/README.md)
     * [ZX 81](systems-and-emulators/supported-game-systems/sinclair-research/zx-81.md)
-    * [ZX Spectrum](systems-and-emulators/supported-game-systems/sinclair-research/zx-spectrum.md)
+    * [ZX Spectrum](systems-and-emulators/supported-game-systems/zx-spectrum.md)
 
 ## Controllers
 
