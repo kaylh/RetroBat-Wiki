@@ -4,6 +4,8 @@ description: Commodore
 
 # Amiga 4000
 
+<figure><img src="https://i.imgur.com/n6jN8GQ.png" alt=""><figcaption></figcaption></figure>
+
 Computer - Lifespan: 1992 - 1994
 
 {% embed url="https://en.wikipedia.org/wiki/Amiga_4000" %}
