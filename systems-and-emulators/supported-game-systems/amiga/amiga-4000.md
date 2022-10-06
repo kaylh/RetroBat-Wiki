@@ -4,8 +4,6 @@ description: Commodore
 
 # Amiga 4000
 
-<figure><img src="https://i.imgur.com/UwcD2Jo.png" alt=""><figcaption></figcaption></figure>
-
 Computer - Lifespan: 1992 - 1994
 
 {% embed url="https://en.wikipedia.org/wiki/Amiga_4000" %}
@@ -16,6 +14,10 @@ Computer - Lifespan: 1992 - 1994
 | ------------------- | -------------------------------------------------------------------- | - |
 | **Games Location**  | :file\_folder: roms \ :open\_file\_folder: amiga4000                 |   |
 | **File extensions** | .adf .uae .ipf .dms .adz .lha .rp9 .uae .m3u .zip .7z                |   |
+
+{% hint style="info" %}
+The amiga4000 rom folder is not created during installation. You can add it manually, should you need it.
+{% endhint %}
 
 ## BIOS
 
