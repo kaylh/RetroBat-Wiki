@@ -54,7 +54,7 @@ Additionaly, each scraper has its own settings.
 
 <figure><img src="https://i.imgur.com/wjGjPxy.png" alt=""><figcaption><p>Example of available settings for ScreenScraper</p></figcaption></figure>
 
-From here you will be able to select which data to scrape, but also to define:
+From here you can select which data to scrape, but also define:
 
 * What image to use as "image" file
 * What image to use as "thumb" image
@@ -82,7 +82,7 @@ The [Game Option](../navigation/game-options.md) menu offers the possibility to 
 
 <figure><img src="https://i.imgur.com/80l5jWw.png" alt=""><figcaption></figcaption></figure>
 
-From there you can:
+**From there you can:**
 
 * Update Game information (name, description, rating, release date, developer, publisher, family, genres, arcade system, number of players, languages and region)
 * Attach different media files

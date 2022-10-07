@@ -4,7 +4,7 @@ Any Gamepad that can be detected by Windows should work in Retrobat.
 
 Wired Gamepads are plug'n'play, once the Gamepad is connected you should be able to configure it in Retrobat.
 
-Bluetooth Gamepads will first require to be paired with your system so that they are detected by Windows.
+Bluetooth Gamepads must be paired with your system in Windows Bluetooth settings.
 
 {% hint style="info" %}
 You can test you Gamepad [HERE](https://gamepad-tester.com/) to check if it is detected in Windows
@@ -45,7 +45,7 @@ The Switch Pro controller will be ideal for use in CEMU (WiiU emulator) or Yuzu 
 However, it has been reported that this controller does not work well with Retrobat interface due to issues with sdl drivers.
 
 {% hint style="info" %}
-In order to use best of both worlds, it is possible to use a 3rd party program such as DS4Windows (by Ryochan) to set this controller as XINPUT in Windows and Retrobat and make it visible in CEMU or Yuzu as sdl controller with motion.
+In order to use best of both worlds, it is possible to use a 3rd party program such as DS4Windows (by Ryochan) to set this controller as XINPUT in Windows/Retrobat and make it visible in CEMU or Yuzu as sdl controller with motion.
 {% endhint %}
 
 ### Playstation 5 controller (DualSense)
@@ -54,4 +54,4 @@ In order to use best of both worlds, it is possible to use a 3rd party program s
 
 DualSense controllers supports motion and is reported to work natively with Retrobat, however it will cause issues with some standalone emulators (e.g. Dolphin).
 
-The same tip as explained for the Switch Pro Controller can be used to unlock the full potential of this controller.
+The same tip as explained for the Switch Pro Controller can be used to unlock the use of motion with this controller.

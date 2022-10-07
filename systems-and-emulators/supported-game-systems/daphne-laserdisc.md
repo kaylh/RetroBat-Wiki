@@ -19,7 +19,35 @@ No BIOS required to play DAPHNE or SINGE games.
 
 ## Controls
 
-Default keyboard controls:
+### Gamepad controls&#x20;
+
+Gamepad controls are enabled through pad2key files provided with Retrobat installation:
+
+| Action               | Gamepad Button             |
+| -------------------- | -------------------------- |
+| Directional movement | D-PAD or Left analog stick |
+| COIN 1               | SELECT                     |
+| START 1              | START                      |
+| Button 1             | A                          |
+| Button 2             | B                          |
+| Button 3             | R2                         |
+| Skill 1              | Y                          |
+| Skill 2              | X                          |
+| Skill 3              | L2                         |
+| SERVICE              | HOTKEY + B                 |
+| TEST                 |                            |
+| RESET                | HOTKEY + X                 |
+| Screenshot           |                            |
+| Quit                 | HOTKEY + START             |
+| Pause                | HOTKEY + A                 |
+| Console              |                            |
+| Title                | HOTKEY + Y                 |
+
+**NOTE:** Right Analog stick simulates mouse
+
+
+
+### Keyboard controls:
 
 | Action               | Keyboard Hypseus | Keyboard Daphne       |
 | -------------------- | ---------------- | --------------------- |
@@ -42,8 +70,6 @@ Default keyboard controls:
 | Pause                | P                | P                     |
 | Console              | BACKLASH         |                       |
 | Title                | T                | t                     |
-
-
 
 ## Specific system information
 

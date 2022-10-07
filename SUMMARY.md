@@ -108,13 +108,13 @@
 
 ## Controllers
 
+* [Controller configuration](controllers/controller-configuration.md)
 * [Supported Controllers](controllers/supported-controllers/README.md)
   * [🎮 Gamepads](controllers/supported-controllers/gamepads.md)
   * [🕹 Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
   * [🔫 Lightguns](controllers/supported-controllers/lightguns/README.md)
     * [WiimoteGun](controllers/supported-controllers/lightguns/wiimotegun.md)
   * [⌨ Keyboard](controllers/supported-controllers/keyboard.md)
-* [Controller configuration](controllers/controller-configuration.md)
 * [Pad2Key](controllers/pad2key.md)
 
 ## Advanced Features

@@ -1,8 +1,8 @@
 # Game Collections
 
-Game Collections are a powerful way to sort your library in a different way as the default per system organization.
+Game Collections are a powerful way to sort your library in a different way as the default "per system" organization.
 
-When setting up a Collection, it will appear in the [System View](../navigation/system-view-and-game-view.md) among the list of systems.
+When a Collection is created, it appears in the [System View](../navigation/system-view-and-game-view.md) amongst the list of systems.
 
 The Game Collection Settings screen is available from the Main Menu.
 
@@ -12,7 +12,7 @@ The Game Collection Settings screen is available from the Main Menu.
 
 Retrobat comes bundled with **AUTOMATIC GAME COLLECTIONS** that you can enable.
 
-You can also create your own game collection, for this you have 2 options:
+You can also create your own game collection, to do this you have 2 options:
 
 * EDITABLE COLLECTION
 * DYNAMIC COLLECTION

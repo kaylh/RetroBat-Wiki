@@ -2,21 +2,25 @@
 
 ## General Controller Configuration
 
-Each time a new controller is used, Retrobat will prompt to configure the new controller.
+Connect a controller and press a button, **CONFIGURE INPUT** screen appears.
 
 <figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>Press any button</p></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
+Press each button accordingly to finalize your controller mapping.
 
 {% hint style="info" %}
-To ignore a key mapping, long-press a button, it will skip to the next one.
+If your controller does not have that many buttons, hold a button (long-press) to ignore the current line and skip to the next one.
+
+Note that at least you need to map A, B, D-PAD, START, SELECT and Hotkey.
 {% endhint %}
 
-The following table gives you the standard mapping required for the following controllers:
+<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
+
+The table hereunder gives you the standard mapping for the following controllers:
 
 * Microsoft XBOX
 * Playstation
-* Nintendo controller (switch pro)
+* Nintendo controller
 
 | Retrobat Key                                                                 | Microsoft                                   | PlayStation                                 | Nintendo          |
 | ---------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ----------------- |
@@ -41,19 +45,17 @@ The following table gives you the standard mapping required for the following co
 | L3                                                                           | Left Thumb                                  | Left Thumb                                  | Left Thumb        |
 | R3                                                                           | Right Thumb                                 | Right Thumb                                 | Right Thumb       |
 
-Here is a picture of the controller mapping for some most known controllers in RetroArch:
+This is a picture of the controller mapping for some most known controllers in RetroArch:
 
 <figure><img src="https://i.imgur.com/q9Uesov.png" alt=""><figcaption><p>Courtesy of RetroArch</p></figcaption></figure>
 
 ## Per-Game Controller Configuration
 
-If, for any reason, the default controller configuration does not work for you or if you want to tweak your system, there is a possibility to deactivate auto-controller configuration (globally, for a system or for a game) and to manage controller configuration directly in the emulator/core itself.
-
-### Disable autoconfiguration of controllers
+If, for any reason, the default controller configuration does not work for you or if you want to tweak your system, there is a possibility to deactivate controller autoconfiguration and to manage controller configuration directly in the emulator/core itself.
 
 Autoconfiguration can be disabled globally, per system or per game.
 
-#### **Global deactivation**
+### **Global deactivation**
 
 Open the [Main Menu](../navigation/main-menu.md) and go to **GAME SETTINGS.**
 
@@ -63,7 +65,7 @@ Disable **AUTOCONFIGURE CONTROLLERS.**
 
 <figure><img src="https://i.imgur.com/USc60bs.png" alt=""><figcaption></figcaption></figure>
 
-#### **Per system d**eactivation
+### **Per system d**eactivation
 
 Open the [System View Options](../navigation/view-options.md) and go to **ADVANCED SYSTEM OPTIONS.**
 
@@ -73,7 +75,7 @@ Then set **AUTOCONFIGURE CONTROLLERS** to **OFF.**
 
 <figure><img src="https://i.imgur.com/DnYtGMf.png" alt=""><figcaption></figcaption></figure>
 
-#### **Per Game d**eactivation
+### **Per Game d**eactivation
 
 Open the [Game Options](../navigation/game-options.md) menu and go to **ADVANCED GAME OPTIONS.**
 
@@ -84,9 +86,9 @@ Set **AUTOCONFIGURE CONTROLLERS** to **OFF**
 <figure><img src="https://i.imgur.com/b6Z10Rc.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-With AUTOCONFIGURE CONTROLLERS set to OFF, you will need to configure your controllers directly in the Emulator.
+With AUTOCONFIGURE CONTROLLERS set to OFF, you need to configure your controllers directly in the Emulator.
 
 To access the Emulator, you can go in the Retrobat System in the System View.
 
-For RetroArch cores, you can create your own Game Controller mapping for the game by pressing F1 (hotkey + ![B](<../.gitbook/assets/image (4) (1).png>)) during game emulation and changing the controller configuration in RetroArch.
+For RetroArch cores, you can create your own Game Controller mapping for the game by pressing F1 (hotkey + ![B](<../.gitbook/assets/image (4) (1).png>)) during game emulation and changing the controller configuration.
 {% endhint %}

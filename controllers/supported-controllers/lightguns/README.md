@@ -10,7 +10,7 @@ There are several lightguns on the market, however, only a few have been tested 
 
 ## Lightgun detection
 
-When a lightgun is connected to the system, you will notice that a small gun icon appears on the top left corner near the Gamepad icon : ![](<../../../.gitbook/assets/image (3).png>)
+When a lightgun is connected to the system, a small gun icon appears on the top left corner near the Gamepad icon : ![](<../../../.gitbook/assets/image (3).png>)
 
 Also, a crosshair will appear on the screen as well as a collection called **LIGHT GUN** in the **System View**.
 
@@ -29,7 +29,7 @@ Be sure to save your file version as it might be overwritten by a Retrobat updat
 <figure><img src="https://i.imgur.com/WrtdDbz.png" alt=""><figcaption><p>gungames.xml folder</p></figcaption></figure>
 
 {% hint style="info" %}
-Some games appear in the list but the LightGun functionality is only in some levels or as a mini-game.
+Some games appear in the list but the LightGun functionality is available only in some levels or some mini-games.
 {% endhint %}
 
 ## Lightgun Configuration
