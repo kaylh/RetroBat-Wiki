@@ -61,7 +61,7 @@ From here you can select which data to scrape, but also define:
 * What image to use as logo (marquee or wheel)
 
 {% hint style="info" %}
-The Scraper settings is also where you can enter your credentials for ScreenScaper service.
+The Scraper settings screen is also where you can enter your credentials for ScreenScaper service.
 {% endhint %}
 
 ### Storage of scraped medias

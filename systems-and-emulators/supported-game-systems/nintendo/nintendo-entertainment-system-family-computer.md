@@ -16,7 +16,7 @@ Game Console - Lifespan: 1983 - 2003
 
 | **Emulators**       | <ul><li>libretro: fceumm</li><li>libretro: nestopia</li><li>libretro: mesen</li><li>mednafen</li><li>mesen</li></ul> |   |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                      |   |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: nes                                                                       |   |
 | **File extensions** | .fds .nes .wad .zip .7z                                                                                              |   |
 
 ## BIOS
