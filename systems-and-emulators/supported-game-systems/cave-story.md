@@ -10,7 +10,7 @@ Video game - Released: 2004
 
 {% embed url="https://en.wikipedia.org/wiki/Cave_Story" %}
 
-Download the game from the following URL: [http://www.cavestory.org/downloads/cavestoryen.zip](http://www.cavestory.org/downloads/cavestoryen.zip)
+Download the game from the [Content Downloader](../../advanced-features/updates-and-content-download.md#download-content) or from the following URL: [http://www.cavestory.org/downloads/cavestoryen.zip](http://www.cavestory.org/downloads/cavestoryen.zip)
 
 ## Information
 
