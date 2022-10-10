@@ -22,6 +22,9 @@ Portable Game Console - Lifespan: 2001 - 2008
 | Bios file     | Folder  | md5                              |
 | ------------- | ------- | -------------------------------- |
 | gba\_bios.bin | `\bios` | a860e8c0b6d573d191e4ec7db1b1e4f6 |
+| sgb\_bios.bin | `\bios` | d574d4f9c12f305074798f54c091a8b4 |
+| gb\_bios.bin  | `\bios` | 32fbbd84168d3482956eb3c5051637f5 |
+| gbc\_bios.bin | `\bios` | dbfce9db9deaa2567f6a84fde55f9680 |
 
 ## Controls
 
