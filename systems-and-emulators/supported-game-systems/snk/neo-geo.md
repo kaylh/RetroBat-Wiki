@@ -29,9 +29,7 @@ Use fbneo 1.0.0.3 romset for the default emulator.
 
 ## Controls
 
-{% hint style="danger" %}
-In construction
-{% endhint %}
+TBD
 
 | Retrobat Button                                       | Neo Geo Key |
 | ----------------------------------------------------- | ----------- |
