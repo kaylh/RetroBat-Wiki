@@ -131,6 +131,7 @@
 
 * [Scraping & Metadata](advanced-features/scraping-and-metadata.md)
 * [Game Collections](advanced-features/game-collections.md)
+* [Decorations & Bezels](advanced-features/decorations-and-bezels.md)
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
 * [Retroachievements](advanced-features/retroachievements.md)
