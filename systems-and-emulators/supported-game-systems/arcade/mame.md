@@ -6,7 +6,7 @@ description: MAME Team
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/mame.svg" alt=""><figcaption></figcaption></figure>
 
-Arcade - Release year: 1997
+Multi-Arcade Emulator - Release year: 1997
 
 {% embed url="https://en.wikipedia.org/wiki/MAME" %}
 
