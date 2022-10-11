@@ -69,6 +69,7 @@
     * [Amiga 4000](systems-and-emulators/supported-game-systems/commodore/amiga-4000.md)
     * [Amiga CD32](systems-and-emulators/supported-game-systems/commodore/amiga-cd32.md)
   * [DAPHNE LaserDisc](systems-and-emulators/supported-game-systems/daphne-laserdisc.md)
+  * [EasyRPG](systems-and-emulators/supported-game-systems/easyrpg.md)
   * [Flash](systems-and-emulators/supported-game-systems/flash.md)
   * [FM-7](systems-and-emulators/supported-game-systems/fm-7.md)
   * [FM-TOWNS](systems-and-emulators/supported-game-systems/fm-towns.md)
