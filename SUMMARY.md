@@ -73,6 +73,7 @@
   * [Flash](systems-and-emulators/supported-game-systems/flash.md)
   * [FM-7](systems-and-emulators/supported-game-systems/fm-7.md)
   * [FM-TOWNS](systems-and-emulators/supported-game-systems/fm-towns.md)
+  * [Gamate](systems-and-emulators/supported-game-systems/gamate.md)
   * [Game & Watch](systems-and-emulators/supported-game-systems/game-and-watch.md)
   * [LCD Games](systems-and-emulators/supported-game-systems/lcd-games.md)
   * [Microsoft](systems-and-emulators/supported-game-systems/microsoft/README.md)

@@ -128,7 +128,10 @@ Last but not least, Mega Bezels only work with **VULKAN** video driver, so ensur
 
 <figure><img src="https://i.imgur.com/HVJIY6D.png" alt=""><figcaption></figcaption></figure>
 
-Here is an example of Mega Bezel usage for a game:
+Here are some examples of Mega Bezel:
 
 <figure><img src="https://i.imgur.com/nnAzMON.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.imgur.com/HYSzHRZ.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/mmaoUzW.png" alt=""><figcaption></figcaption></figure>
