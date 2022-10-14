@@ -2,7 +2,7 @@
 
 Most of the TVs and computer screens in the 80s and 90s were 4:3. When you run them today on a 16:9 format monitor, there will be empty space on both sides.
 
-The empty space left on the left and right side of the game can be filled with decorations (bezels).
+The remaining space on the left and right side of the game can be filled with decorations (bezels).
 
 Retrobat offers 3 types of decorations:
 
@@ -87,7 +87,7 @@ To use per game Bezels, the rom file needs to have the exact same name as the be
 
 ## Mega Bezels
 
-The MegaBezel pack cmbines both Shaders and Bezels, it adds dynamic reflections on the bezel.
+The MegaBezel pack combines both Shaders and Bezels, it adds dynamic reflections on the bezel.
 
 {% hint style="info" %}
 Mega Bezels can only be used with Libretro cores, it does not work with standalone emulators.
