@@ -147,6 +147,8 @@
   * [TI-99/4A](systems-and-emulators/supported-game-systems/ti-99-4a.md)
   * [TRS-80 Color Computer](systems-and-emulators/supported-game-systems/trs-80-color-computer.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
+  * [WonderSwan](systems-and-emulators/supported-game-systems/wonderswan.md)
+  * [WonderSwan Color](systems-and-emulators/supported-game-systems/wonderswan-color.md)
 
 ## Controllers
 
