@@ -6,6 +6,8 @@ description: Nintendo Hack
 
 <figure><img src="https://i.imgur.com/zbZdaU7.png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://en.wikipedia.org/wiki/Super_NES_CD-ROM" %}
+
 ## Information
 
 | **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>snes9x</li></ul> |   |
