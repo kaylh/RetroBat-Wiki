@@ -22,7 +22,7 @@ Windows games do not use any emulator to function, RetroBat enables to launch Wi
 
 ## Controls
 
-No automatic controller configuration is performed for Windows games.
+Controller configuration done in-game or in Steam.
 
 ## Specific system information
 

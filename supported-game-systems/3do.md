@@ -31,13 +31,19 @@ Game Console - Lifespan: 1993 - 1999
 | ----------------------------------------------- | ------- |
 | START                                           | START   |
 | SELECT                                          | SELECT  |
-| D-PAD, Left analog stick                        | D-PAD   |
+| D-PAD                                           | D-PAD   |
+| Left analog stick                               | D-PAD   |
+| Right analog stick                              |         |
 | ![](<../.gitbook/assets/image (2) (1) (1).png>) | A       |
 | ![](<../.gitbook/assets/image (1) (2) (1).png>) | B       |
 | ![](<../.gitbook/assets/image (4) (1).png>)     | C       |
 | ![](<../.gitbook/assets/image (3) (1) (2).png>) |         |
 | L1                                              | L1      |
 | R1                                              | R1      |
+| L2                                              |         |
+| R2                                              |         |
+| L3                                              |         |
+| R3                                              |         |
 
 <figure><img src="https://i.imgur.com/lyIP3ja.png" alt=""><figcaption></figcaption></figure>
 
