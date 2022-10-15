@@ -4,13 +4,13 @@
 
 ## Get Started
 
-* [Installation & first startup](installation-and-first-startup.md)
+* [Installation & First Startup](installation-and-first-startup.md)
 * [Adding a game](get-started/adding-a-game.md)
-* [Running a Game](get-started/running-a-game.md)
+* [Running a game](get-started/running-a-game.md)
 
 ## NAVIGATION
 
-* [Navigation keys](navigation/navigation-keys.md)
+* [Navigation Keys](navigation/navigation-keys.md)
 * [Hotkeys](navigation/hotkeys.md)
 * [System View and Game View](navigation/system-view-and-game-view.md)
 * [Main Menu](navigation/main-menu.md)
@@ -19,7 +19,7 @@
 
 ## Systems & Emulators
 
-* [Arcade guide](systems-and-emulators/arcade-guide.md)
+* [Arcade Guide](systems-and-emulators/arcade-guide.md)
 * [Supported Game Systems](supported-game-systems/README.md)
   * [3DO](supported-game-systems/3do.md)
   * [Adventure Vision](systems-and-emulators/supported-game-systems/adventure-vision.md)
@@ -159,7 +159,7 @@
 
 ## Controllers
 
-* [Controller configuration](controllers/controller-configuration.md)
+* [Controllers Configuration](controllers/controller-configuration.md)
 * [Supported Controllers](controllers/supported-controllers/README.md)
   * [🎮 Gamepads](controllers/supported-controllers/gamepads.md)
   * [🕹 Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
