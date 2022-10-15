@@ -4,9 +4,8 @@ description: Nintendo
 
 # Nintendo Entertainment System - Family Computer
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nes.svg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Family_Computer_logo.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nes.svg" alt="" data-size="original"></p> | <p></p><p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Family_Computer_logo.svg" alt="" data-size="original"></p> |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | - |
 
 Game Console - Lifespan: 1983 - 2003
 
