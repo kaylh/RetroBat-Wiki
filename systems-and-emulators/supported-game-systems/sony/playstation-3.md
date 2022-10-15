@@ -4,7 +4,8 @@ description: Sony
 
 # Playstation 3
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/ps3.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/ps3.svg" alt="" data-size="original"></p> |   |   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 
 Game Console - Lifespan: 2006 - 2017
 
@@ -17,7 +18,7 @@ Game Console - Lifespan: 2006 - 2017
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: ps3 |
 | **File extension** | .m3u .ps3 .iso .7z .zip .rar .squashfs               |
 
-## Bios Information
+## BIOS
 
 PS3UPDAT.PUP file needs to be installed directly in rpcs3 emulator.
 

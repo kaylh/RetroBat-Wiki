@@ -2,9 +2,10 @@
 description: Microsoft
 ---
 
-# MS-DOS
+# DOS
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pc.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pc.svg" alt="" data-size="original"></p> |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 
 Computer Operating System - Lifespan: 1981 - 2000
 
@@ -25,7 +26,7 @@ No BIOS required.
 
 DOS games offered Keyboard and mouse controls.&#x20;
 
-Use [pad2key ](../../controllers/pad2key.md)to map Gamepad with Keyboard controls.
+Use [pad2key ](../../../controllers/pad2key.md)to map Gamepad with Keyboard controls.
 
 In some games there might be some controller prompts (there was an official PC Gamepad that could be plugged in the computer serial port).&#x20;
 

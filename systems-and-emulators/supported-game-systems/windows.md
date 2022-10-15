@@ -4,7 +4,8 @@ description: Microsoft
 
 # Windows
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/windows.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/windows.svg" alt="" data-size="original"></p> |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
 
 Computer Operating System - Lifespan: 1992 - now
 
@@ -12,7 +13,7 @@ Computer Operating System - Lifespan: 1992 - now
 
 ## Information
 
-Windows games do not use any emulator to function, RetroBat enables to launch Windows games from its interface.
+Windows games don't need any emulator to function, they can be run natively from the RetroBat interface.
 
 
 
@@ -22,22 +23,22 @@ Windows games do not use any emulator to function, RetroBat enables to launch Wi
 
 ## Controls
 
-Controller configuration done in-game or in Steam.
+The controllers configurations are done in-game or in Steam.
 
-## Specific system information
+## System Features
 
-### Adding games
+### Adding a game
 
-Right click and select "_copy_" on the executable (\*.exe) of your PC games, and make "_paste shortcuts_" in folder `\roms\windows`
+Right click and select "_copy_" on the executable (\*.exe) of your PC game, and make "_paste shortcuts_" in folder `\roms\windows`
 
 <figure><img src="https://i.imgur.com/47WNq9D.png" alt=""><figcaption><p>Project CARS shortcut</p></figcaption></figure>
 
 
 
-### Adding Steam games
+### Adding a Steam game
 
 {% hint style="info" %}
-The BATGUI tool offers a simplified procedure for adding Steam games, refer to the [BATGUI ](../../advanced-features/batgui.md)section of the wiki.
+The Batgui tool offers a simplified procedure for adding Steam game, refer to the [Batgui](../../advanced-features/batgui.md) section of the Wiki.
 {% endhint %}
 
 Create a .bat file with a scrapable name for your game.

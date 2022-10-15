@@ -4,7 +4,8 @@ description: Sony
 
 # PlayStation Portable
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psp.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psp.svg" alt="" data-size="original"></p> |   |   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 
 Game Console - Lifespan: 2004 - 2014
 
@@ -17,7 +18,7 @@ Game Console - Lifespan: 2004 - 2014
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: psp |
 | **File extension** | .iso .cso .pbp .elf .prx                             |
 
-## Bios Information
+## BIOS
 
 No BIOS required.
 

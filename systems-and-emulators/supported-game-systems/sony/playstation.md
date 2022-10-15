@@ -4,7 +4,8 @@ description: Sony
 
 # PlayStation
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psx.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psx.svg" alt="" data-size="original"></p> |   |   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 
 Game Console - Lifespan: 1994 - 2006
 
