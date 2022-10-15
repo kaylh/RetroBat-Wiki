@@ -4,7 +4,8 @@ description: Nintendo
 
 # Wii
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wii.svg" alt="" width="100"/><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wii.svg" alt="" data-size="original"></p> |   | <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wii.svg" alt="" data-size="original"></p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Game Console - Lifespan: 2006 - 2017
 
@@ -178,18 +179,18 @@ It used the default mapping with the following changes:
 
 #### Other options (or ".<mark style="color:red;">xx</mark>" in ROM name)
 
-Enables the controller to operate with the left stick representing the function before the `/` and the right stick the function after the `\`.&#x20;
+Enables the controller to operate with the left stick representing the function before the `/` and the right stick the function after the `\`.
 
 The options are as follows:
 
-| Function | Explanation                                                                                     | ROM name caracter |
-| -------- | ----------------------------------------------------------------------------------------------- | ----------------- |
-| Cursor   | The selected stick will operate as the wiimote cursor                                           | i                 |
-| Swing    | The selected stick will be used for Swing movements                                             | s                 |
-| Tilt     | The selected stick will be used for Tilt movements                                              | t                 |
-| Nunchuk  | <p>The selected stick will act as the joystick on the nunchuk </p><p>and L2 = C and :R2 = Z</p> | n                 |
+| Function | Explanation                                                                                    | ROM name caracter |
+| -------- | ---------------------------------------------------------------------------------------------- | ----------------- |
+| Cursor   | The selected stick will operate as the wiimote cursor                                          | i                 |
+| Swing    | The selected stick will be used for Swing movements                                            | s                 |
+| Tilt     | The selected stick will be used for Tilt movements                                             | t                 |
+| Nunchuk  | <p>The selected stick will act as the joystick on the nunchuk</p><p>and L2 = C and :R2 = Z</p> | n                 |
 
-For example if your game requires a nunchuk and IR cursor usage  (e.g. `Super Mario Galaxy`), you can choose one of these options:
+For example if your game requires a nunchuk and IR cursor usage (e.g. `Super Mario Galaxy`), you can choose one of these options:
 
 | Option         | Left Stick         | Right Stick        | ROM flag |
 | -------------- | ------------------ | ------------------ | -------- |
@@ -202,5 +203,4 @@ For example if your game requires a nunchuk and IR cursor usage  (e.g. `Super Ma
 
 ### Custom Textures
 
-The procedure for custom textures for Wii is similar to the one for Gamecube, refer to the [Gamecube section of the wiki](gamecube.md#custom-textures).&#x20;
-
+The procedure for custom textures for Wii is similar to the one for Gamecube, refer to the [Gamecube section of the wiki](gamecube.md#custom-textures).
