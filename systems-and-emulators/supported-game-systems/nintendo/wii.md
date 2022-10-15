@@ -4,7 +4,7 @@ description: Nintendo
 
 # Wii
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wii.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/wii.svg" alt="" width="300"><figcaption></figcaption></figure>
 
 Game Console - Lifespan: 2006 - 2017
 
