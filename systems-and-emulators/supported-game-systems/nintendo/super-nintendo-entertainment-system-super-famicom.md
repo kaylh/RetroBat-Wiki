@@ -6,7 +6,9 @@ description: Nintendo
 
 <figure><img src="https://i.imgur.com/inZ65eS.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/fcfmfq4.png" alt=""><figcaption></figcaption></figure>
+| <img src="https://i.imgur.com/fcfmfq4.png" alt="" data-size="original"> |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
+
 
 Game Console - Lifespan: 1990 - 2003
 
