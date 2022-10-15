@@ -4,8 +4,6 @@ description: Nintendo
 
 # Super Nintendo Entertainment System - Super Famicom
 
-
-
 | <p></p><p><img src="https://i.imgur.com/inZ65eS.png" alt="" data-size="original"></p> | <img src="https://i.imgur.com/fcfmfq4.png" alt="" data-size="original"> |   |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
 
