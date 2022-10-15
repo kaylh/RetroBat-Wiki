@@ -38,7 +38,7 @@ Controller configuration must be performed in the emulator.
 
 <figure><img src="https://i.imgur.com/YoW67OI.png" alt=""><figcaption></figcaption></figure>
 
-## Specific system information
+## System Features
 
 ### Adding PS3 games
 

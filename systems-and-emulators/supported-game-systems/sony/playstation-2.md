@@ -52,6 +52,6 @@ Game Console - Lifespan: 2000 - 2013
 
 <figure><img src="https://i.imgur.com/9sz2VFM.png" alt=""><figcaption></figcaption></figure>
 
-## Specific system information
+## System Features
 
 There is no specific System information documented here yet.

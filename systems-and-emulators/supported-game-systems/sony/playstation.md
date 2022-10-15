@@ -50,7 +50,7 @@ Game Console - Lifespan: 1994 - 2006
 
 <figure><img src="https://i.imgur.com/9sz2VFM.png" alt=""><figcaption></figcaption></figure>
 
-## Specific system information
+## System Features
 
 ### Multi-disc games
 

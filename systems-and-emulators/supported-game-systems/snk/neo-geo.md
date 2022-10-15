@@ -4,7 +4,8 @@ description: SNK
 
 # Neo Geo
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/neogeo.svg" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/neogeo.svg" alt="" data-size="original"></p> |   |   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 
 Game Console - Lifespan: 1990 - 2004
 
@@ -21,11 +22,11 @@ Game Console - Lifespan: 1990 - 2004
 
 Use fbneo 1.0.0.3 romset for the default emulator.
 
-## Bios Information
+## BIOS
 
-| Bios file  | Folder  | md5                              |
-| ---------- | ------- | -------------------------------- |
-| neogeo.zip | `\bios` | dffb72f116d36d025068b23970a4f6df |
+| Bios file  | Folder  | md5 |
+| ---------- | ------- | --- |
+| neogeo.zip | `\bios` |     |
 
 ## Controls
 
@@ -51,6 +52,6 @@ In construction
 | L3                                                    |             |
 | R3                                                    |             |
 
-## Specific system information
+## System Features
 
 There is no specific System information documented here yet.

@@ -26,7 +26,7 @@ No BIOS required.
 
 <figure><img src="https://i.imgur.com/c4dKloK.png" alt=""><figcaption></figcaption></figure>
 
-## Specific system information
+## System Features
 
 ### DLC
 
