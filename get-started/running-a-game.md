@@ -2,7 +2,7 @@
 description: Let's play !
 ---
 
-# Running a Game
+# Running a game
 
 ### Choosing a Game and starting it
 
@@ -16,9 +16,17 @@ A splash screen appears and the Emulator starts the game.
 
 <figure><img src="https://i.imgur.com/qnYUzgA.png" alt=""><figcaption><p>Game in emulator</p></figcaption></figure>
 
+Once you have finished your gaming session, you can press HOTKEY + START to close the emulator and return to the [Game View](../navigation/system-view-and-game-view.md#game-view).
+
+
+
 ### Choosing the Emulator
 
-If the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
+Usually, Retrobat defaults to the best / more stable emulator for each system. However, if the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
+
+{% hint style="info" %}
+The full list of available emulators per system can be found in the [Supported Game Systems](../supported-game-systems/) section of the wiki.
+{% endhint %}
 
 #### Changing emulator for the System
 

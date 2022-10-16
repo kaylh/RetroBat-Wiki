@@ -1,8 +1,8 @@
-# Navigation keys
+# Navigation Keys
 
 You can navigate Retrobat using your controller or your keyboard.
 
-A detailed notice in pdf can be found [here](http://retrobat.ovh/notice/notice.pdf).
+A detailed pdf notice can be found [here](http://retrobat.ovh/notice/notice.pdf).
 
 ### **Controller navigation keys**
 

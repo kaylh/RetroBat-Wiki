@@ -10,7 +10,7 @@ In construction
 
 The integrated Content Downloader can be used to install a wide variety of freely distributed games, themes, and additional Medias.
 
-The Downloads menu is available from the  [MAIN MENU](../navigation/main-menu.md), navigate to **UPDATES\&DOWNLOADS**
+The Downloads menu is available from the  [MAIN MENU](../navigation/main-menu.md), navigate to **UPDATES & DOWNLOADS**
 
 <figure><img src="https://i.imgur.com/9dSyFON.png" alt=""><figcaption></figcaption></figure>
 

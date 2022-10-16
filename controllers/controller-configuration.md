@@ -1,10 +1,14 @@
-# Controller configuration
+# Controllers Configuration
 
 ## General Controller Configuration
 
 Connect a controller and press a button, **CONFIGURE INPUT** screen appears.
 
-<figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>Press any button</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>Press and hold any button</p></figcaption></figure>
+
+Press and hold any button to go to the **CONFIGURING** screen
+
+<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
 
 Press each button accordingly to finalize your controller mapping.
 
@@ -13,8 +17,6 @@ If your controller does not have that many buttons, hold a button (long-press) t
 
 Note that at least you need to map A, B, D-PAD, START, SELECT and Hotkey.
 {% endhint %}
-
-<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
 
 The table hereunder gives you the standard mapping for the following controllers:
 
@@ -44,6 +46,8 @@ The table hereunder gives you the standard mapping for the following controllers
 | R2                                                                           | Right Top                                   | R2                                          | ZR                |
 | L3                                                                           | Left Thumb                                  | Left Thumb                                  | Left Thumb        |
 | R3                                                                           | Right Thumb                                 | Right Thumb                                 | Right Thumb       |
+
+
 
 This is a picture of the controller mapping for some most known controllers in RetroArch:
 

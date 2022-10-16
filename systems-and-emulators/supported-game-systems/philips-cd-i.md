@@ -23,6 +23,8 @@ Game Console - Lifespan: 1990 - 1998
 | ------------ | ---------------- | -------------------------------- |
 | cdi.xml      | `bios\mame\hash` |                                  |
 | cdimono1.zip | `\bios`          | 80efc8294a76783c92e9f7b5a6b6c11b |
+| cdimono2.zip | `\bios`          | 97aa5f47030cd9fdb679d4fafbb0e332 |
+| cdibios.zip  | `\bios`          | 709acce6e9c4043b851ea7429b8e7eff |
 
 ## Controls
 

@@ -59,7 +59,7 @@ From there you will have access to:
 
 ### Controller Settings
 
-This menu item enables you to configure a new controller or to reconfigure a controller.
+This menu item is used to configure a new controller or to reconfigure a controller.
 
 You can also activate/deactivate screen icons (battery level, controller activity) and assign default controllers to players.
 

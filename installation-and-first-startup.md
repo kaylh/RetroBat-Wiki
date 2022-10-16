@@ -2,7 +2,7 @@
 description: Get started !
 ---
 
-# Installation & first startup
+# Installation & First Startup
 
 ## Installation
 
@@ -17,7 +17,7 @@ description: Get started !
 
 <figure><img src="https://i.imgur.com/ey8n2lD.png" alt=""><figcaption><p>Select installation folder</p></figcaption></figure>
 
-* Wait until the Installation is finished, then you can let it create a desktop shortcut, uncheck the box if not and click **Finish**.
+* Wait until the Installation is finished, then you can let it create a desktop shortcut, uncheck the box if not needed, and click **Finish**.
 
 <figure><img src="https://i.imgur.com/8F7dihV.png" alt=""><figcaption><p>Finish !</p></figcaption></figure>
 
@@ -34,16 +34,16 @@ After the video splash screen, the **System View** is shown.
 <figure><img src="https://i.imgur.com/XVFrmz6.png" alt=""><figcaption><p>System View</p></figcaption></figure>
 
 {% hint style="info" %}
-The displayed language may vary, RetroBat detects your OS language at first start-up.
+The language may vary, RetroBat detects your OS language at first start-up.
 {% endhint %}
 
-On this view, you can navigate with the keyboard or a game controller.
+On this view, you can navigate with the keyboard or with a game controller.
 
-* Press any button and if your controller is not set the **CONFIGURE INPUT** screen appears.
+* Press any button and the **CONFIGURE INPUT** screen appears.
 
 <figure><img src="https://i.imgur.com/C8T3fn5.png" alt=""><figcaption><p>CONFIGURE INPUT screen</p></figcaption></figure>
 
-* Press and keep holding a button to enter the **CONFIGURING** screen.
+* Press and hold any button to enter the **CONFIGURING** screen.
 
 <figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>You can hold a button to skip a line if your controller does not have that many buttons</p></figcaption></figure>
 

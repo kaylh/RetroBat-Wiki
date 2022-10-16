@@ -1,4 +1,4 @@
-# Arcade guide
+# Arcade Guide
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/arcade.svg" alt=""><figcaption></figcaption></figure>
 
@@ -6,7 +6,7 @@
 
 There are two families of multi-system arcade emulators available: FinalBurn and MAME.&#x20;
 
-These emulators are available in multiple versions to allow users to best match a core/emulator with their system.&#x20;
+These emulators are available in multiple versions to allow users to best match a core/emulator with their games.&#x20;
 
 
 
@@ -35,11 +35,6 @@ These emulators are available in multiple versions to allow users to best match 
 * **ROM version or romset version**: Each version of an arcade emulator must be used with ROMs that have the same exact version number. \
   For example, MAME 0.37b5 ROMs are required by the MAME 2000 emulator, but will not work correctly with the MAME 2010 emulator, which requires MAME 0.139 ROMs.\
 
-* **Sample**: Some games require an additional zip file with recorded sounds or music in order for audio to work correctly. \
-  The path where these samples should be copied varies from emulator to emulator.\
-
-* **CHD**: Some MAME games require data from an internal hard drive, CD-ROM, laserdisk, or other media in order to be emulated,those forms of media are packaged as CHD files. \
-  CHD files should be copied to subfolders within the folder where the MAME ROM zips have been placed.
 
 ### ROM set types
 
@@ -62,10 +57,8 @@ Merged rom sets are not supported by libretro cores.&#x20;
 We recommend the use of Non-merged rom sets.
 {% endhint %}
 
-{% hint style="warning" %}
-Do not rename the zipped ROM files.
-
-Use scrapping to get the right game name in your library.
+{% hint style="info" %}
+Do not rename the zipped ROM files. Scrapers will recognize the games with the .zip filename and match them with the right game.
 {% endhint %}
 
 ## Additional files

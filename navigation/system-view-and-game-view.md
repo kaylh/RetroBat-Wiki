@@ -4,7 +4,7 @@ description: Retrobat navigation basics
 
 # System View and Game View
 
-All illustrations in this section are using the default Retrobat theme **ES-THEME-CARBON**.
+All screenshots in this section are done with the default Retrobat theme **ES-THEME-CARBON**.
 
 ## System View
 
@@ -13,18 +13,18 @@ The first screen displayed when launching Retrobat is the **System View**, from 
 <figure><img src="https://i.imgur.com/pYMalry.png" alt=""><figcaption><p>System View with <strong>ES-THEME-CARBON</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-Only the systems where ROMs have been placed in the roms folder will appear.
+Only the systems for which ROMs have been placed in the roms folder will appear.
 {% endhint %}
 
 {% hint style="info" %}
-Some systems are grouped, read the [Grouped systems](system-view-and-game-view.md#undefined) section for more information.
+Some systems are grouped, read the [Grouped systems](system-view-and-game-view.md#grouped-systems) section for more information.
 {% endhint %}
 
 From the **System View**, different screens can be accessed.
 
 ### Quick Search&#x20;
 
-The quick search menu is displayed by pressing ![](<../.gitbook/assets/image (2) (1) (1).png>).
+The quick search menu is displayed by pressing ![](<../.gitbook/assets/image (2) (1) (1).png>). It allows you to search for games.
 
 <figure><img src="https://i.imgur.com/4jmo9se.png" alt=""><figcaption><p>The Quick Search allows you to easily find your games</p></figcaption></figure>
 
@@ -105,9 +105,11 @@ Navigate to **GROUPED SYSTEMS**:
 
 <figure><img src="https://i.imgur.com/XksMeTo.png" alt=""><figcaption></figcaption></figure>
 
-Untick systems that need to be ungrouped:
+Untick systems that you want to ungroup:
 
 <figure><img src="https://i.imgur.com/4v2xB5r.png" alt=""><figcaption></figcaption></figure>
+
+Now these systems appear individually in the System View.
 
 ## Game View
 
@@ -121,3 +123,23 @@ Navigate your games using the Directional PAD.
 
 * Press ![](<../.gitbook/assets/image (1) (2) (1).png>) to run the game (long-press to display [Game Options](game-options.md)).
 * Press ![](<../.gitbook/assets/image (4) (1).png>)to navigate back to the **System View**.
+
+The Gamelist can be displayed in multiple ways, this can be configured from the [VIEW OPTIONS](view-options.md) (press SELECT):
+
+<figure><img src="https://i.imgur.com/AUVCOp0.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/tBJzXzb.png" alt=""><figcaption></figcaption></figure>
+
+The value **AUTOMATIC** refers to the view style defined in the [MAIN MENU](main-menu.md#user-interface-settings) > USER INTERFACE SETTINGS > THEME CONFIGURATION.
+
+Press START
+
+<figure><img src="https://i.imgur.com/RTnQYlg.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/hnXOjYm.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/y59e6gz.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Each Theme might have different Gamelist View Styles, just choose the one you like most.
+{% endhint %}

@@ -8,7 +8,7 @@ Adding games is a straight-forward process.
 
 ## Adding a ROM
 
-Game ROMs need to be placed in the `\roms\<system>\` folder, they will be directly detected and added to the library when starting Retrobat or when updating the Game List.
+Game ROMs need to be placed in the `\roms\<system>\` folder, they will be detected and added to the library when starting Retrobat or when updating the Game List.
 
 <figure><img src="https://i.imgur.com/ayxotgu.png" alt=""><figcaption><p>Adding a snes rom</p></figcaption></figure>
 
@@ -16,11 +16,11 @@ Game ROMs need to be placed in the `\roms\<system>\` folder, they will be direct
 More information about ROM format per system in the [Supported Games Systems](../supported-game-systems/) section of the wiki.
 {% endhint %}
 
-The System will be visible upon restart.
+The System will be visible upon restart or upon refreshing the gamelist.
 
 <figure><img src="https://i.imgur.com/8yZ6Dll.png" alt=""><figcaption><p>System View - Super Nintendo system appeared</p></figcaption></figure>
 
-The game will be visible in the Game View.
+The game will be visible in the [Game View](../navigation/system-view-and-game-view.md#game-view).
 
 <figure><img src="https://i.imgur.com/pvbhxaB.png" alt=""><figcaption><p>Game View</p></figcaption></figure>
 

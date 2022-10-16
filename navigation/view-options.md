@@ -4,7 +4,7 @@ description: Configure Game View and apply specific settings for the system
 
 # View Options
 
-**VIEW OPTIONS** is accessible from the **Game View** when pressing **SELECT**.
+**VIEW OPTIONS** is accessible from the [**Game View**](system-view-and-game-view.md#game-view) when pressing **SELECT**.
 
 <figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption><p>View Options menu</p></figcaption></figure>
 
