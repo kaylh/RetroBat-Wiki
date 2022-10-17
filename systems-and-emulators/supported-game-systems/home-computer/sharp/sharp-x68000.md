@@ -26,21 +26,21 @@ Home Computer - Lifespan: 1987 - 1993
 
 ## Controls
 
-Use [pad2key ](../../../controllers/pad2key.md)for this system.
+Use [pad2key ](../../../../controllers/pad2key.md)for this system.
 
-| Retrobat Button                                       | X68000 key |
-| ----------------------------------------------------- | ---------- |
-| START                                                 | JOY\_TRG6  |
-| SELECT                                                | JOY\_TRG7  |
-| D-PAD, Left analog stick                              | D-PAD      |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | JOY\_TRG3  |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | JOY\_TRG2  |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | JOY\_TRG1  |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | JOY\_TRG4  |
-| L1                                                    | JOY\_TRG5  |
-| R1                                                    | JOY\_TRG8  |
-| L2                                                    | Menu       |
-| R2                                                    |            |
+| Retrobat Button                                          | X68000 key |
+| -------------------------------------------------------- | ---------- |
+| START                                                    | JOY\_TRG6  |
+| SELECT                                                   | JOY\_TRG7  |
+| D-PAD, Left analog stick                                 | D-PAD      |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | JOY\_TRG3  |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | JOY\_TRG2  |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | JOY\_TRG1  |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | JOY\_TRG4  |
+| L1                                                       | JOY\_TRG5  |
+| R1                                                       | JOY\_TRG8  |
+| L2                                                       | Menu       |
+| R2                                                       |            |
 
 ## Specific system information
 
