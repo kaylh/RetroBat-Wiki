@@ -26,7 +26,7 @@ Home Computer - Released: 1982
 
 ## Controls
 
-Use [pad2key ](../../../../controllers/pad2key.md)for this system.
+Use [pad2key ](../../../controllers/pad2key.md)for this system.
 
 {% hint style="danger" %}
 In construction.
