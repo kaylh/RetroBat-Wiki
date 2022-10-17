@@ -157,6 +157,7 @@
     * [PlayStation 2](systems-and-emulators/supported-game-systems/sony/playstation-2.md)
     * [Playstation 3](systems-and-emulators/supported-game-systems/sony/playstation-3.md)
     * [PlayStation Portable](systems-and-emulators/supported-game-systems/sony/playstation-portable.md)
+  * [SV-318](systems-and-emulators/supported-game-systems/msx.md)
   * [Super Cassette Vision](systems-and-emulators/supported-game-systems/ti-99-4a.md)
   * [TI-99/4A](systems-and-emulators/supported-game-systems/ti-99-4a-1.md)
   * [TIC-80](systems-and-emulators/supported-game-systems/tic-80.md)
