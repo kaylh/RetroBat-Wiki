@@ -126,6 +126,7 @@
     * [Switch](systems-and-emulators/supported-game-systems/nintendo/switch.md)
   * [Odyssey²](systems-and-emulators/supported-game-systems/odyssey.md)
   * [Open Beats Of Rage](systems-and-emulators/supported-game-systems/game.com-2.md)
+  * [Oric Atmos](systems-and-emulators/supported-game-systems/game.com-3.md)
   * [Philips CD-i](systems-and-emulators/supported-game-systems/philips-cd-i.md)
   * [Pico-8](systems-and-emulators/supported-game-systems/philips-cd-i-1.md)
   * [PV-1000](systems-and-emulators/supported-game-systems/bally-astrocade-1.md)

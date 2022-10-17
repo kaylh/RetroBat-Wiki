@@ -27,24 +27,6 @@ No BIOS required.
 In construction
 {% endhint %}
 
-| Retrobat Button                                    | Colecovision key |
-| -------------------------------------------------- | ---------------- |
-| START                                              | \*               |
-| SELECT                                             | #                |
-| D-PAD                                              | D-PAD            |
-| Left analog stick                                  | D-PAD            |
-| Right analog stick                                 |                  |
-| ![](<../../.gitbook/assets/image (2) (1) (1).png>) | #1               |
-| ![](<../../.gitbook/assets/image (1) (2) (1).png>) | Button 1         |
-| ![](<../../.gitbook/assets/image (4) (1).png>)     | Button 2         |
-| ![](<../../.gitbook/assets/image (3) (1) (2).png>) | #2               |
-| L1                                                 | #4               |
-| R1                                                 | #3               |
-| L2                                                 | #6               |
-| R2                                                 | #5               |
-| L3                                                 | #8               |
-| R3                                                 | #7               |
-
 ## Specific system information
 
 There is no specific System information documented here yet.
