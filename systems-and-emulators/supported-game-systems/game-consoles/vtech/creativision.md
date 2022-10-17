@@ -30,21 +30,21 @@ CreatiVision games come with a decorative overlay that is slot into the rails of
 
 The layout would is unique to each game.
 
-| Retrobat Button                                       | CrVision key |
-| ----------------------------------------------------- | ------------ |
-| START                                                 |              |
-| SELECT                                                | RESET        |
-| D-PAD                                                 | Stick        |
-| Left analog stick                                     | Stick        |
-| Right analog stick                                    |              |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | 2            |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | 0            |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | 6            |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | 1            |
-| L1                                                    |              |
-| R1                                                    | 3            |
-| L2                                                    |              |
-| R2                                                    |              |
+| Retrobat Button                                          | CrVision key |
+| -------------------------------------------------------- | ------------ |
+| START                                                    |              |
+| SELECT                                                   | RESET        |
+| D-PAD                                                    | Stick        |
+| Left analog stick                                        | Stick        |
+| Right analog stick                                       |              |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | 2            |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | 0            |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | 6            |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | 1            |
+| L1                                                       |              |
+| R1                                                       | 3            |
+| L2                                                       |              |
+| R2                                                       |              |
 
 ## Specific system information
 

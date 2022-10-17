@@ -37,7 +37,6 @@
     * [Commodore (game consoles)](systems-and-emulators/supported-game-systems/game-consoles/commodore-game-consoles/README.md)
       * [Amiga CDTV](systems-and-emulators/supported-game-systems/game-consoles/commodore-game-consoles/amiga-cdtv.md)
       * [Amiga CD32](systems-and-emulators/supported-game-systems/game-consoles/commodore-game-consoles/amiga-cd32.md)
-    * [CreatiVision](systems-and-emulators/supported-game-systems/game-consoles/creativision.md)
     * [Intellivision](systems-and-emulators/supported-game-systems/game-consoles/intellivision.md)
     * [Microsoft (consoles)](systems-and-emulators/supported-game-systems/game-consoles/microsoft-consoles/README.md)
       * [Xbox](systems-and-emulators/supported-game-systems/game-consoles/microsoft-consoles/xbox.md)
@@ -83,6 +82,9 @@
       * [Playstation 3](systems-and-emulators/supported-game-systems/game-consoles/sony/playstation-3.md)
     * [Super Cassette Vision](systems-and-emulators/supported-game-systems/game-consoles/ti-99-4a.md)
     * [Super A'Can](systems-and-emulators/supported-game-systems/game-consoles/sharp-x68000.md)
+    * [VTech](systems-and-emulators/supported-game-systems/game-consoles/vtech/README.md)
+      * [CreatiVision](systems-and-emulators/supported-game-systems/game-consoles/vtech/creativision.md)
+      * [V.Smile](systems-and-emulators/supported-game-systems/game-consoles/vtech/creativision-1.md)
     * [Vectrex](systems-and-emulators/supported-game-systems/game-consoles/wonderswan.md)
   * [Portable Game Consoles](systems-and-emulators/supported-game-systems/portable-game-consoles/README.md)
     * [Atari (portable game consoles)](systems-and-emulators/supported-game-systems/portable-game-consoles/atari-portable-game-consoles/README.md)
@@ -191,6 +193,7 @@
     * [Pico-8](systems-and-emulators/supported-game-systems/others/philips-cd-i.md)
     * [ScummVM](systems-and-emulators/supported-game-systems/others/scummvm.md)
     * [TIC-80](systems-and-emulators/supported-game-systems/others/tic-80.md)
+    * [TV Games](systems-and-emulators/supported-game-systems/others/philips-cd-i-1.md)
     * [Windows](systems-and-emulators/supported-game-systems/others/windows.md)
 
 ## Controllers
