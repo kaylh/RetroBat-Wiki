@@ -4,9 +4,8 @@ description: Sega
 
 # Mega-CD - Sega-CD
 
-<figure><img src="https://i.imgur.com/BfbL2hs.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://i.imgur.com/XfuDGNQ.png" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://i.imgur.com/BfbL2hs.png" alt="" data-size="original"></p> | <p></p><p><img src="https://i.imgur.com/XfuDGNQ.png" alt="" data-size="original"></p> |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 Game Console - Lifespan: 1991 - 1996
 

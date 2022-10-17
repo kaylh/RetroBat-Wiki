@@ -4,9 +4,8 @@ description: Sega
 
 # Sega 32X
 
-<figure><img src="https://i.imgur.com/MpFRZpl.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://i.imgur.com/CNRCcAe.png" alt=""><figcaption></figcaption></figure>
+| <p></p><p><img src="https://i.imgur.com/MpFRZpl.png" alt="" data-size="original"></p> | <p></p><p><img src="https://i.imgur.com/CNRCcAe.png" alt="" data-size="original"></p> |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 Game Console - Lifespan: 1994 - 1996
 
