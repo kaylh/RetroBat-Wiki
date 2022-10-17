@@ -41,16 +41,18 @@ In construction
 | Left analog stick                                     | D-PAD       |
 | Right analog stick                                    |             |
 | D-PAD                                                 | D-PAD       |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | C           |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | B           |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | A           |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | D           |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | C / Green   |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | B / Red     |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | A / Yellow  |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | D / Blue    |
 | L1                                                    |             |
 | R1                                                    |             |
 | L2                                                    |             |
 | R2                                                    |             |
 | L3                                                    |             |
 | R3                                                    |             |
+
+<figure><img src="https://i.imgur.com/6BAcHeJ.png" alt=""><figcaption></figcaption></figure>
 
 ## System Features
 

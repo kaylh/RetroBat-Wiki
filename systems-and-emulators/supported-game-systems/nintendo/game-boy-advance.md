@@ -2,51 +2,46 @@
 description: Nintendo
 ---
 
-# Game Boy Advance
+# Virtual Boy
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/gba.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/virtualboy.svg" alt=""><figcaption></figcaption></figure>
 
-Portable Game Console - Lifespan: 2001 - 2008
+Portable Game Console - Lifespan: 1995 - 1996
 
-{% embed url="https://en.wikipedia.org/wiki/Game_Boy_Advance" %}
+{% embed url="https://en.wikipedia.org/wiki/Virtual_Boy" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mgba</li><li>libretro: mednafen_gba</li><li>mgba</li></ul> |   |
-| ------------------- | ---------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gba                               |   |
-| **File extensions** | .gba .zip .7z                                                                |   |
+| **Emulators**       | <ul><li>libretro: mednafen_vb</li></ul>               |   |
+| ------------------- | ----------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: virtualboy |   |
+| **File extensions** | .vb .vboy .bin .zip .7z                               |   |
 
 ## BIOS
 
-| Bios file     | Folder  | md5                              |
-| ------------- | ------- | -------------------------------- |
-| gba\_bios.bin | `\bios` | a860e8c0b6d573d191e4ec7db1b1e4f6 |
-| sgb\_bios.bin | `\bios` | d574d4f9c12f305074798f54c091a8b4 |
-| gb\_bios.bin  | `\bios` | 32fbbd84168d3482956eb3c5051637f5 |
-| gbc\_bios.bin | `\bios` | dbfce9db9deaa2567f6a84fde55f9680 |
+No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                           | Game Boy Advance key |
-| -------------------------------------------------------------------------------------- | -------------------- |
-| START                                                                                  | START                |
-| SELECT / BACK                                                                          | SELECT               |
-| D-PAD                                                                                  | D-PAD                |
-| Left analog stick                                                                      | D-PAD                |
-| Right analog stick                                                                     |                      |
-| ![A](<../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                    |
-| ![B](<../../../.gitbook/assets/image (4) (1).png>)                                     | A                    |
-| <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |                      |
-| <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |                      |
-| L1                                                                                     | L                    |
-| R1                                                                                     | R                    |
-| L2                                                                                     |                      |
-| R2                                                                                     |                      |
-| L3                                                                                     |                      |
-| R3                                                                                     |                      |
+| RetroBat key                                                                           | Virtual Boy key |
+| -------------------------------------------------------------------------------------- | --------------- |
+| START                                                                                  | START           |
+| SELECT                                                                                 | SELECT          |
+| D-PAD                                                                                  | Left D-PAD      |
+| Left analog stick                                                                      | Left D-PAD      |
+| Right analog stick                                                                     | Right D-PAD     |
+| ![A](<../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B               |
+| ![B](<../../../.gitbook/assets/image (4) (1).png>)                                     | A               |
+| <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |                 |
+| <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |                 |
+| L1                                                                                     | Left Shoulder   |
+| R1                                                                                     | Right Shoulder  |
+| L2                                                                                     |                 |
+| R2                                                                                     |                 |
+| L3                                                                                     |                 |
+| R3                                                                                     |                 |
 
-<figure><img src="https://i.imgur.com/hYkmLg3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/L8Na7Mq.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific system information
 
