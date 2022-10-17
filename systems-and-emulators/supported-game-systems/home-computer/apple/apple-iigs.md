@@ -23,7 +23,7 @@ No BIOS files required for Apple IIGS.
 
 ## Controls
 
-Use Pad2Key for this system, see the [Pad2Key ](../../../controllers/pad2key.md)section of this Wiki.
+Use Pad2Key for this system, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
 It is better to use keyboard & Mouse for personal computers.
 

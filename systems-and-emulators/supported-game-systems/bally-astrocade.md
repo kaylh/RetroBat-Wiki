@@ -1,28 +1,25 @@
 ---
-description: Bally Manufacturing
+description: Casio
 ---
 
-# Bally Astrocade
+# PV-1000
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/astrocade.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pv1000.svg" alt=""><figcaption></figcaption></figure>
 
-Game console - Lifespan: 1978 - 1983
+Game console - Lifespan: 1983 - 1984
 
-{% embed url="https://en.wikipedia.org/wiki/Bally_Astrocade" %}
+{% embed url="https://en.wikipedia.org/wiki/PV-1000" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mame</li><li>mame64</li></ul>      |   |
-| ------------------- | ---------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: astrocade |   |
-| **File extensions** | .bin .zip .7z                                        |   |
+| **Emulators**       | <ul><li>libretro: mame</li><li>mame64</li></ul>   |   |
+| ------------------- | ------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: pv1000 |   |
+| **File extensions** | .bin .zip .7z                                     |   |
 
 ## BIOS
 
-| Bios file    | Folder            | md5                              |
-| ------------ | ----------------- | -------------------------------- |
-| astrocde.xml | `\bios\mame\hash` |                                  |
-| astrocde.zip | `\bios`           | f58a3823ab308ef0a02b498d126e5d96 |
+No BIOS required.
 
 ## Controls
 

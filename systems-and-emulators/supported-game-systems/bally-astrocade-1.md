@@ -1,21 +1,21 @@
 ---
-description: Casio
+description: Miles Gordon Technology
 ---
 
-# PV-1000
+# Sam Coupé
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pv1000.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/samcoupe.svg" alt=""><figcaption></figcaption></figure>
 
-Game console - Lifespan: 1983 - 1984
+Game console - Lifespan: 1989 - 1992
 
-{% embed url="https://en.wikipedia.org/wiki/PV-1000" %}
+{% embed url="https://en.wikipedia.org/wiki/SAM_Coup%C3%A9" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mame</li><li>mame64</li></ul>   |   |
-| ------------------- | ------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: pv1000 |   |
-| **File extensions** | .bin .zip .7z                                     |   |
+| **Emulators**       | <ul><li>simcoupe</li></ul>                          |   |
+| ------------------- | --------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: samcoupe |   |
+| **File extensions** | .dsk .mgt .sbt .sad                                 |   |
 
 ## BIOS
 
