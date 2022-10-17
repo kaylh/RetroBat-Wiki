@@ -4,8 +4,7 @@ description: Microsoft
 
 # Windows
 
-| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/windows.svg" alt="" data-size="original"></p> |   |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/windows.svg" alt=""><figcaption></figcaption></figure>
 
 Computer Operating System - Lifespan: 1992 - now
 

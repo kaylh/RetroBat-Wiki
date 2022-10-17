@@ -26,7 +26,7 @@ Computer - Lifespan: 1982 - 1984
 
 ## Controls
 
-Use Pad2Key for this system to use a gamepad, see the [Pad2Key ](../../../controllers/pad2key.md)section of this Wiki.
+Use Pad2Key for this system to use a gamepad, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
 {% hint style="danger" %}
 In construction
