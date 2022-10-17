@@ -169,8 +169,9 @@
   * [TIC-80](systems-and-emulators/supported-game-systems/tic-80.md)
   * [Tomy Tutor](systems-and-emulators/supported-game-systems/ti-99-4a-3.md)
   * [TRS-80 Color Computer](systems-and-emulators/supported-game-systems/trs-80-color-computer.md)
+  * [Vectrex](systems-and-emulators/supported-game-systems/wonderswan.md)
   * [Windows](systems-and-emulators/supported-game-systems/windows.md)
-  * [WonderSwan](systems-and-emulators/supported-game-systems/wonderswan.md)
+  * [WonderSwan](systems-and-emulators/supported-game-systems/wonderswan-1.md)
   * [WonderSwan Color](systems-and-emulators/supported-game-systems/wonderswan-color.md)
 
 ## Controllers

@@ -1,21 +1,21 @@
 ---
-description: Bandai
+description: Smith Engineering
 ---
 
-# WonderSwan
+# Vectrex
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/wonderswan.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/vectrex.svg" alt=""><figcaption></figcaption></figure>
 
-Portable Game Console - Lifespan: 1999 - 2003
+Game Console - Lifespan: 1982 - 1984
 
-{% embed url="https://en.wikipedia.org/wiki/WonderSwan" %}
+{% embed url="https://en.wikipedia.org/wiki/Vectrex" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mednafen_wswan</li></ul>       |   |
-| ------------------- | ------------------------------------------------ | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: wswan |   |
-| **File extensions** | .wsc .zip .7z                                    |   |
+| **Emulators**       | <ul><li>libretro: vecx</li></ul>                   |   |
+| ------------------- | -------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: vectrex |   |
+| **File extensions** | .bin .gam .vec .zip .7z                            |   |
 
 ## BIOS
 
@@ -23,23 +23,25 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                        | WonderSwan key               |
-| ----------------------------------------------------------------------------------- | ---------------------------- |
-| START                                                                               | START                        |
-| SELECT / BACK                                                                       | Rotate screen + active D-Pad |
-| D-PAD                                                                               | D-PAD                        |
-| Left analog stick                                                                   |                              |
-| Right analog stick                                                                  |                              |
-| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                            |
-| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | A                            |
-| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |                              |
-| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |                              |
-| L1                                                                                  | Second D-PAD Left            |
-| R1                                                                                  | Second D-PAD Right           |
-| L2                                                                                  | Second D-PAD Down            |
-| R2                                                                                  | Second D-PAD Up              |
-| L3                                                                                  |                              |
-| R3                                                                                  |                              |
+| RetroBat key                                                                        | Vectrex key |
+| ----------------------------------------------------------------------------------- | ----------- |
+| START                                                                               |             |
+| SELECT                                                                              |             |
+| D-PAD                                                                               | D-PAD       |
+| Left analog stick                                                                   |             |
+| Right analog stick                                                                  |             |
+| ![A](<../../.gitbook/assets/image (1) (2) (1).png>)                                 | 2nd button  |
+| ![B](<../../.gitbook/assets/image (4) (1).png>)                                     | 1st button  |
+| <img src="../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | 3rd button  |
+| <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | 4th button  |
+| L1                                                                                  |             |
+| R1                                                                                  |             |
+| L2                                                                                  |             |
+| R2                                                                                  |             |
+| L3                                                                                  |             |
+| R3                                                                                  |             |
+
+<figure><img src="https://i.imgur.com/t2yZvPr.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific system information
 
