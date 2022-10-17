@@ -2,27 +2,30 @@
 description: Nintendo
 ---
 
-# Super Nintendo Entertainment System - Super Famicom
+# Satellaview
 
-| <img src="https://i.imgur.com/inZ65eS.png" alt="" data-size="original"> | <img src="https://i.imgur.com/fcfmfq4.png" alt="" data-size="original"> |   |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | - |
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/satellaview.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 1990 - 2003
+Game Console Extension - Lifespan: 1995 - 2000
 
-{% embed url="https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" %}
+{% embed url="https://en.wikipedia.org/wiki/Satellaview" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>libretro: mednafen_snes</li><li>libretro: mesen-s</li><li>mednafen</li><li>snes9x</li></ul> |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                                                      |
-| **File extensions** | .smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z                                                                                                                           |
+| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: mesen-s</li></ul> |
+| ------------------- | ------------------------------------------------------------ |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: satellaview       |
+| **File extensions** | .st .fig .bs .smc .sfc .zip .7z                              |
 
 ## BIOS
 
-There is no BIOS files needed to run games.
+| BIOS file | Folder  | md5                              |
+| --------- | ------- | -------------------------------- |
+| BS-X.bin  | `\bios` | fed4d8242cfbed61343d53d48432aced |
 
 ## Controls
+
+Same controls as Super Nintendo.
 
 | RetroBat key                                                                           | Super Nintendo key |
 | -------------------------------------------------------------------------------------- | ------------------ |
