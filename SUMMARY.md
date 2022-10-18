@@ -187,6 +187,7 @@
     * [Solarus](systems-and-emulators/supported-game-systems/game-engines/solarus.md)
   * [Pinball](systems-and-emulators/supported-game-systems/pinball/README.md)
     * [Future Pinball](systems-and-emulators/supported-game-systems/pinball/easyrpg.md)
+    * [Visual Pinball](systems-and-emulators/supported-game-systems/pinball/easyrpg-1.md)
   * [Others](systems-and-emulators/supported-game-systems/others/README.md)
     * [Cave Story](systems-and-emulators/supported-game-systems/others/cave-story.md)
     * [DOS](systems-and-emulators/supported-game-systems/others/ms-dos.md)
