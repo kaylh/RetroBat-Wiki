@@ -2,33 +2,30 @@
 description: Nintendo
 ---
 
-# Game Boy
+# Game Boy 2 players
 
-<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/gb.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/gb2players.svg" alt=""><figcaption></figcaption></figure>
 
-Portable Game Console - Lifespan: 1989 - 2003
+This system is used to emulate the use of the link cable that allows two people to play two-player games on 2 Game Boys connected with the cable.
 
-{% embed url="https://en.wikipedia.org/wiki/Game_Boy" %}
+Only a limited list of titles are compatible.
+
+{% embed url="https://en.wikipedia.org/wiki/List_of_multiplayer_Game_Boy_games" %}
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: gambatte</li><li>libretro: mesen-s</li><li>libretro: bsnes</li><li>libretro: tgbdual</li></ul> |   |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gb                                                                    |   |
-| **File extensions** | .gb .zip .7z                                                                                                     |   |
+| **Emulators**       | <ul><li>libretro: tgbdual</li></ul>                   |   |
+| ------------------- | ----------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gb2players |   |
+| **File extensions** | .gb .zip .7z                                          |   |
 
 ## BIOS
 
-| Bios file      | Folder  | md5                              |
-| -------------- | ------- | -------------------------------- |
-| gb\_bios.bin   | `\bios` | 32fbbd84168d3482956eb3c5051637f5 |
-| gbc\_bios.bin  | `\bios` | dbfce9db9deaa2567f6a84fde55f9680 |
-| sgb\_boot.bin  | `\bios` | d574d4f9c12f305074798f54c091a8b4 |
-| sgb2\_boot.bin | `\bios` | e0430bca9925fb9882148fd2dc2418c1 |
-| SGB1.sfc       | `\bios` | b15ddb15721c657d82c5bab6db982ee9 |
-| SGB2.sfc       | `\bios` | 8ecd73eb4edf7ed7e81aef1be80031d5 |
+Same BIOS as Game Boy system.
 
-sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate Game Boy games.
+| Bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| gb\_bios.bin | `\bios` | 32fbbd84168d3482956eb3c5051637f5 |
 
 ## Controls
 
