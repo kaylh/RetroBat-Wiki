@@ -28,23 +28,23 @@ Portable Game Console - Lifespan: 2001 - 2008
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy Advance key |
-| ----------------------------------------------------------------------------------------- | -------------------- |
-| START                                                                                     | START                |
-| SELECT / BACK                                                                             | SELECT               |
-| D-PAD                                                                                     | D-PAD                |
-| Left analog stick                                                                         | D-PAD                |
-| Right analog stick                                                                        |                      |
-| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                    |
-| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A                    |
-| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> |                      |
-| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     |                      |
-| L1                                                                                        | L                    |
-| R1                                                                                        | R                    |
-| L2                                                                                        |                      |
-| R2                                                                                        |                      |
-| L3                                                                                        |                      |
-| R3                                                                                        |                      |
+| RetroBat key                                                                              | Game Boy Advance key  |
+| ----------------------------------------------------------------------------------------- | --------------------- |
+| START                                                                                     | START                 |
+| SELECT / BACK                                                                             | SELECT                |
+| D-PAD                                                                                     | D-PAD                 |
+| Left analog stick                                                                         | D-PAD                 |
+| Right analog stick                                                                        |                       |
+| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                     |
+| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A                     |
+| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Turbo A               |
+| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Turbo B               |
+| L1                                                                                        | L                     |
+| R1                                                                                        | R                     |
+| L2                                                                                        | Turbo L               |
+| R2                                                                                        | Turbo R               |
+| L3                                                                                        | Darken Solar Sensor   |
+| R3                                                                                        | Brighten Solar Sensor |
 
 <figure><img src="https://i.imgur.com/hYkmLg3.png" alt=""><figcaption></figcaption></figure>
 
