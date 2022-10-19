@@ -89,19 +89,3 @@ To know what the rom name should be, run the **PinMAME32.exe** file located in t
 Additional mp3 or ogg music files are required by some tables, they must be placed in the `\emulators\vpinball\Music` folder:
 
 <figure><img src="https://i.imgur.com/V3nna49.png" alt=""><figcaption></figcaption></figure>
-
-### ScreenRes.txt
-
-By default VPinball will throw an error that the file **ScreenRes.txt** is missing, this file needs to be copied in the `\roms\vpinball` folder of your Retrobat installation from the Vpinball emulator folder, and set as "read-only".
-
-Step 1 : copy the file from the `\emulators\vpinball\Tables` folder:
-
-<figure><img src="https://i.imgur.com/75Iw6iE.png" alt=""><figcaption></figcaption></figure>
-
-Step 2 : paste it in the `\roms\vpinball` folder:
-
-<figure><img src="https://i.imgur.com/aR9axLY.png" alt=""><figcaption></figcaption></figure>
-
-Step 3 : Set the file as "read-only" (right-click > Properties):
-
-<figure><img src="https://i.imgur.com/mP5esBe.png" alt=""><figcaption></figcaption></figure>
