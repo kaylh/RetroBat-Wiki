@@ -197,9 +197,12 @@
     * [DOS](systems-and-emulators/supported-game-systems/others/ms-dos.md)
     * [Flash](systems-and-emulators/supported-game-systems/others/flash.md)
     * [Pico-8](systems-and-emulators/supported-game-systems/others/pico-8.md)
+    * [PrBoom](systems-and-emulators/supported-game-systems/others/prboom.md)
+    * [Ports](systems-and-emulators/supported-game-systems/others/ports.md)
     * [ScummVM](systems-and-emulators/supported-game-systems/others/scummvm.md)
     * [TIC-80](systems-and-emulators/supported-game-systems/others/tic-80.md)
     * [TV Games](systems-and-emulators/supported-game-systems/others/tv-games.md)
+    * [TyrQuake](systems-and-emulators/supported-game-systems/others/tyrquake.md)
     * [Windows](systems-and-emulators/supported-game-systems/others/windows.md)
 
 ## Controllers
