@@ -13,7 +13,7 @@ This Menu gives access to several options.
 ### Navigation
 
 * Ability to filter games (by text or other filters)
-* Select a randome game from the system
+* Select a random game from the system
 * Jump to the game beginning with a specified letter
 * Change game sorting
 
