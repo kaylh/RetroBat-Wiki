@@ -37,11 +37,11 @@ Pinball Simulation Software - Released 2017
 
 ### Cabinet Mode
 
-To being able to launch Pinball FX3 Tables from RetroBat you must meet the following requirements:
+To be able to launch Pinball FX3 tables from RetroBat you must meet the following requirements:
 
-* [x] Owning a legit copy of Pinball FX3 downloaded on Steam.
-* [x] A licence for at least one collection of Tables.
-* [x] A Personal Activation Code to enable Cabinet Mode.
+* [x] Own a legit copy of Pinball FX3, downloaded on Steam.
+* [x] Own a licence for at least one collection of tables.
+* [x] Own a Personal Activation Code to enable Cabinet Mode.
 
 {% hint style="info" %}
 To get a Personal Activation Code you need to make a request to Zen Studios by fullfilling a form on their Website:\
@@ -78,5 +78,5 @@ To easily find this location, just follow these steps:
 * In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation.
 
 {% hint style="info" %}
-Even if all the Tables files exist, only the Table for which you own a licence will play when you launch it in RetroBat.
+Even if all the Tables files exist, only the Tables for which you own a licence will play when you launch them in RetroBat.
 {% endhint %}
