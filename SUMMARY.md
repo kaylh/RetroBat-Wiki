@@ -7,6 +7,7 @@
 * [Installation & First Startup](installation-and-first-startup.md)
 * [Adding a game](get-started/adding-a-game.md)
 * [Running a game](get-started/running-a-game.md)
+* [Adding BIOS files](get-started/adding-bios-files.md)
 
 ## NAVIGATION
 
