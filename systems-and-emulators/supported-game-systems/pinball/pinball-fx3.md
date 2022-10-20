@@ -15,7 +15,7 @@ Pinball Simulation Software - Released 2017
 
 ## Controls
 
-| RetroBat key                                                                           | Pinball FX3 key                       |
+| RetroBat key                                                                           | Pinball FX3 Action                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------- |
 | START                                                                                  | Open Menu                             |
 | SELECT                                                                                 | Open Menu                             |
@@ -75,8 +75,8 @@ To easily find this location, just follow these steps:
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>the Pinball FX3 installation folder</p></figcaption></figure>
 
-* In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`Steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation.
+* In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation.
 
 {% hint style="info" %}
-Even if all the Tables files exist, only the Tables for which you own a licence will play when you launch them in RetroBat.
+Even if all the Tables files exist, only the Table for which you own a licence will play when you launch it in RetroBat.
 {% endhint %}
