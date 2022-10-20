@@ -79,7 +79,7 @@ Some arcade games can use extra files (originally these were physically stored o
 
 The CHD folder must be placed in the rom folder and must have the same name as the game's ZIP file.&#x20;
 
-For example, for `kinst.zip` the game will be looking for `kinst/kinst.chd`.
+For example, for `kinst.zip` the game will be looking for `kinst\kinst.chd`.
 
 <figure><img src="https://i.imgur.com/xl9iImN.png" alt=""><figcaption></figcaption></figure>
 
