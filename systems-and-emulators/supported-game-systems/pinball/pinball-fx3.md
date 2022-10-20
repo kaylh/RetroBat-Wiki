@@ -55,7 +55,7 @@ More information about Cabinet Mode here:\
 
 ### Tables
 
-Once you have the Cabinet Mode activated, you can copy the `.pxp` files of the Tables for which you own a licence in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation to make the Pinball FX3 system appear when you launch the software and navigate in the System View.
+Once you have the Cabinet Mode activated, you can copy the `.pxp` files of the Tables for which you own a licence in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation. Then the Pinball FX3 system will appear when you navigate in the System View.
 
 You will find the Tables `.pxp` files you need to copy in the folder of your Pinball FX3 installation.&#x20;
 
