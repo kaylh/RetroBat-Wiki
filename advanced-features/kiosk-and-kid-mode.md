@@ -1,5 +1,9 @@
 # Kiosk and Kid mode
 
+Kiosk mode and Kid mode can be activated from the [**MAIN MENU > SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings) menu
+
+<figure><img src="https://i.imgur.com/Pfrkc0D.png" alt=""><figcaption></figcaption></figure>
+
 ### Kiosk mode
 
 The main menu will be restricted, only displaying the entry to change the audio volume.&#x20;
