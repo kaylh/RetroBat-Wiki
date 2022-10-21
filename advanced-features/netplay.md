@@ -5,7 +5,7 @@
 Netplay is a feature that enables multiplayer gaming over network, like if you were playing with a friend on the same console.
 
 {% hint style="warning" %}
-Netplay does not simulate the actual console network playing capabilities, you won't be able to join the Playstation Network for example.
+Netplay feature is not a simulation of the actual hardware network capabilities of a system. It does not provide dedicated servers to play games that have online options. For example it is not possible to play Phantasy Star Online with the Flycast Core like it would be possible on Dreamcast, the original hardware.
 {% endhint %}
 
 ## Enabling Netplay
