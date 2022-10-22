@@ -8,7 +8,7 @@ Adding games is a straight-forward process.
 
 ## Adding a ROM
 
-Game ROMs need to be placed in the `\roms\<system>\` folder, they will be detected and added to the library when starting Retrobat or when updating the Game List.
+Game ROMs need to be placed in the `\roms\<system>\` folder, they will be detected and added to the Game Llibrary when starting Retrobat or when updating the Game List.
 
 <figure><img src="https://i.imgur.com/ayxotgu.png" alt=""><figcaption><p>Adding a snes rom</p></figcaption></figure>
 
@@ -82,4 +82,4 @@ The default search string is based on the ROM filename, to change the search str
 
 <figure><img src="https://i.imgur.com/iwdzJqF.png" alt=""><figcaption><p>Select the right game or press INPUT to enter the game name manually</p></figcaption></figure>
 
-CONGRATULATIONS : you have added your first games to the library !
+CONGRATULATIONS : you have added your first games to Retrobat !
