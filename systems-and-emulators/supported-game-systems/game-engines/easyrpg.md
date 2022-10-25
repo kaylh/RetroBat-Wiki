@@ -15,7 +15,7 @@ RPG creation engine
 
 ## BIOS
 
-No BIOS required for LCD games.
+Aucun BIOS nécessaire.
 
 ## Controls
 
