@@ -19,10 +19,10 @@ Computer - Lifespan: 1982 - 1984
 
 ## BIOS
 
-| bios file  | Folder  | md5                              |
-| ---------- | ------- | -------------------------------- |
-| fm7.zip    | `\bios` | b8b459da3cf4ba24cfd77360fdf74ee0 |
-| fm77av.zip | `\bios` | 8c54dbf60867435af07db07b29b1bca1 |
+| bios file  | Folder  | md5                   |
+| ---------- | ------- | --------------------- |
+| fm7.zip    | `\bios` | See below for details |
+| fm77av.zip | `\bios` | See below for details |
 
 ### Content of BIOS files
 
