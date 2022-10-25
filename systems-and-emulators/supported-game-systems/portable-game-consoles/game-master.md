@@ -19,10 +19,17 @@ Portable Game Console - Released: 1990
 
 ## Bios Information
 
-| bios file   | Folder            | md5                              |
-| ----------- | ----------------- | -------------------------------- |
-| gmaster.xml | `\bios\mame\hash` |                                  |
-| gmaster.zip | `\bios`           | 4239d6f44a0d78d27c69f9b95885f48e |
+| bios file   | Folder            | md5       |
+| ----------- | ----------------- | --------- |
+| gmaster.xml | `\bios\mame\hash` |           |
+| gmaster.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+gmaster.zip
+- d78c11agf_e19.u1 "6bff08b5e5f96de405cd56d5f04a08f8"
+```
 
 ## Controls
 

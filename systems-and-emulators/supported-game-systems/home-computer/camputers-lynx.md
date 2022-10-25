@@ -19,9 +19,19 @@ Computer - Lifespan: 1983 - 1984
 
 ## BIOS
 
-| Bios file   | Folder  | md5                              |
-| ----------- | ------- | -------------------------------- |
-| lynx48k.zip | `\bios` | 85ae78a20ffaff388dd09c75d9e1ec0e |
+| Bios file   | Folder  | md5       |
+| ----------- | ------- | --------- |
+| lynx48k.zip | `\bios` | See below |
+
+### Content of BIOS file
+
+```
+lynx48k.zip
+- lynx48-1.ic46 "b0ad5bf3070aea27b637e1998c81fa8c"
+- lynx48-2.ic45 "b665e10211bbdbfaf2defb32d5580892"
+- lynx4811.ic46 "bc0760d8bf61c9683270266d259cd2ae"
+- lynx4812.ic45 "dde90a794e5324002a9fd7f79cec3172"
+```
 
 ## Controls
 

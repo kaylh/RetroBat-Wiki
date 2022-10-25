@@ -19,10 +19,32 @@ Computer - Lifespan: 1989 - 1997
 
 ## BIOS
 
-| bios file     | Folder  | md5                              |
-| ------------- | ------- | -------------------------------- |
-| fmtowns.zip   | `\bios` | b3acc6716b447a111b20ca4c26d676f6 |
-| fmtownsux.zip | `\bios` | b262b19228fe4f13724f0a648ad5f461 |
+| bios file     | Folder          | md5                              |
+| ------------- | --------------- | -------------------------------- |
+| fmtowns.zip   | `\bios`         | Check below                      |
+| fmtownsux.zip | `\bios`         | Check below                      |
+| FMT\_DIC.ROM  | `\bios\fmtowns` | 8fa4e553f28cfc0c30a0a1e589799942 |
+| FMT\_DOS.ROM  | `\bios\fmtowns` | 0585b19930d4a7f4c71bcc8a33746588 |
+| FMT\_F20.ROM  | `\bios\fmtowns` | ac0c7021e9bf48ca84b51ab651169a88 |
+| FMT\_FNT.ROM  | `\bios\fmtowns` | b91300e55b70227ce98b59c5f02fa8dd |
+| FMT\_SYS.ROM  | `\bios\fmtowns` | 86fb6f7280689259f0ca839dd3dd6cde |
+
+### Content of BIOS files
+
+```
+fmtowns.zip
+- fmt_dic.rom "34847786d7de94b5d1133c956ab1d75d"
+- fmt_dos.rom "0585b19930d4a7f4c71bcc8a33746588"
+- fmt_fnt.rom "eb44f2093f51eb7159f03e170b13af76"
+- fmt_sys.rom "feaf8c5675151e00cfe3ad27673bff29"
+
+fmtownsux.zip
+- fmt_dic.rom "8fa4e553f28cfc0c30a0a1e589799942"
+- fmt_dos_a.rom "03c8fac9a5f5f5f35fb5de5a5d0d018f"
+- fmt_fnt.rom "b91300e55b70227ce98b59c5f02fa8dd"
+- fmt_sys_a.rom "90b5e01d42aaa93e8f4503a5e94e120b"
+- mytownsux.rom "1a15f6c1b58ec7e5f850118610a787a7"
+```
 
 ## Controls
 

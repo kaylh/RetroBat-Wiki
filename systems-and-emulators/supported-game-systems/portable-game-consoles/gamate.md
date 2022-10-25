@@ -19,10 +19,18 @@ Portable Game Console - Lifespan: 1990 - 1994
 
 ## BIOS
 
-| bios file  | Folder            | md5                              |
-| ---------- | ----------------- | -------------------------------- |
-| gamate.xml | `\bios\mame\hash` |                                  |
-| gamate.zip | `\bios`           | 320bf3d4142fa1043255db7ff87d17c7 |
+| bios file  | Folder            | md5       |
+| ---------- | ----------------- | --------- |
+| gamate.xml | `\bios\mame\hash` |           |
+| gamate.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+gamate.zip
+- gamate_bios_bit.bin "b411167df6dd563111729296f4c547f6"
+- gamate_bios_umc.bin "ef67993a94503c4b7798b5901c7dda52"
+```
 
 ## Controls
 

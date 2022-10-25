@@ -19,10 +19,19 @@ Game Console - Release year: 1978
 
 ## BIOS
 
-| bios file    | Folder            | md5                              |
-| ------------ | ----------------- | -------------------------------- |
-| apfm1000.xml | `\bios\mame\hash` |                                  |
-| apfm1000.zip | `\bios`           | b197db12f7a13827717bbeb7cfd9542a |
+| bios file    | Folder            | md5       |
+| ------------ | ----------------- | --------- |
+| apfm1000.xml | `\bios\mame\hash` |           |
+| apfm1000.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+apfm1000.zip
+- apf_4000.rom "1f4a976350202ee1e32c2b0477c3fc1b"
+- mod_bios.bin "b325543b36d37edf3fc20761f00c7a37"
+- trash-ii.bin "89a7cfa5469ce24773721d65b28f8544"
+```
 
 ## Controls
 

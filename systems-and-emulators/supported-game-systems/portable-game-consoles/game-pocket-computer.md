@@ -19,10 +19,17 @@ Portable Game Console - Released: 1984
 
 ## Bios Information
 
-| bios file    | Folder            | md5                              |
-| ------------ | ----------------- | -------------------------------- |
-| gamepock.xml | `\bios\mame\hash` |                                  |
-| gamepock.zip | `\bios`           | 887479fe3c69a0b935c57a7a738e26c4 |
+| bios file    | Folder            | md5       |
+| ------------ | ----------------- | --------- |
+| gamepock.xml | `\bios\mame\hash` |           |
+| gamepock.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+gamepock.zip
+- egpcboot.bin "a0dd595eafb407a6a4b4ed800005a394"
+```
 
 ## Controls
 

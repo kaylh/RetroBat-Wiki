@@ -19,9 +19,18 @@ Game Console - Lifespan: 2004 - 2010
 
 ## Bios Information
 
-| bios file  | Folder  | md5                              |
-| ---------- | ------- | -------------------------------- |
-| vsmile.zip | `\bios` | a9809431b9f09e8d0f31e7adfabeb025 |
+| bios file  | Folder  | md5       |
+| ---------- | ------- | --------- |
+| vsmile.zip | `\bios` | See below |
+
+### Content of BIOS file
+
+```
+vsmile.zip
+- vsmile_v100.bin "851ff77a89ec3f4f2793eb4aede30e5f"
+- vsmile_v102.bin "f41fcc19ebe1e90fa359cd0df6293fab"
+- vsmile_v103.bin "11e59253c578c8f16ea2375ec398e4e9"
+```
 
 ## Controls
 

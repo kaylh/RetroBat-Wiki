@@ -19,10 +19,18 @@ Game Console - Lifespan: 1982 - 1983
 
 ## Bios Information
 
-| bios file    | Folder           | md5                              |
-| ------------ | ---------------- | -------------------------------- |
-| advision.zip | `\bios`          | 1c08606408029751fd30ac91d2bf30d5 |
-| advision.xml | `bios\mame\hash` |                                  |
+| bios file    | Folder           | md5       |
+| ------------ | ---------------- | --------- |
+| advision.zip | `\bios`          | See below |
+| advision.xml | `bios\mame\hash` |           |
+
+### Content of BIOS file
+
+```
+advision.zip
+- b225__ins8048-11kdp_n.u5 "5729638bd856c475678467a353bd921c"
+- b8223__cop411l-kcn_n.u8 "fc5e71445e4947a9d00eedbc66b13a8f"
+```
 
 ## Controls
 

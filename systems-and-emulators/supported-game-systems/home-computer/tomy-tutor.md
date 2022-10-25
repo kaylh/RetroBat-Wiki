@@ -19,10 +19,18 @@ Computer - Released: 1982
 
 ## BIOS
 
-| bios file | Folder            | md5                              |
-| --------- | ----------------- | -------------------------------- |
-| tutor.xml | `\bios\mame\hash` |                                  |
-| tutor.zip | `\bios`           | 37c052c1388be33bac2fac88a439322c |
+| bios file | Folder            | md5       |
+| --------- | ----------------- | --------- |
+| tutor.xml | `\bios\mame\hash` |           |
+| tutor.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+tutor.zip
+- tutor1.bin "196ba41dd1184fe754390534cc273116"
+- tutor2.bin "5770834c10946ac2c3617504ba530884"
+```
 
 ## Controls
 

@@ -19,9 +19,22 @@ Computer - Lifespan: 1981 - 1994
 
 ## BIOS
 
-| Bios file | Folder  | md5                              |
-| --------- | ------- | -------------------------------- |
-| bbcb.zip  | `\bios` | 224779dcd4b9aa1bb27865568fb80f72 |
+| Bios file | Folder  | md5       |
+| --------- | ------- | --------- |
+| bbcb.zip  | `\bios` | See below |
+
+### Content of BIOS file
+
+```
+bbcb.zip
+- basic1.rom "521a197d3623682825f1042c1350feb4"
+- basic2.rom "2cc67be4624df4dc66617742571a8e3d"
+- os01.rom "0cad3d0cf0d111aca2b158b9b605913f"
+- os092.rom "46f920a170e88bab7faa96cf80b84324"
+- os10.rom "0199bac73f1dbca291582834a3e61122"
+- os12.rom "0a59a5ba15fe8557b5f7fee32bbd393a"
+- phroma.bin "35e9ab10bcf016bd24b4c716add009b9"
+```
 
 ## Controls
 

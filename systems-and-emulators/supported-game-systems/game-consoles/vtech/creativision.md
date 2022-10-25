@@ -19,10 +19,17 @@ Game Console - Lifespan: 1982 - 1986
 
 ## Bios Information
 
-| bios file    | Folder             | md5                              |
-| ------------ | ------------------ | -------------------------------- |
-| crvision.xml | `\bios\mame\hash\` |                                  |
-| crvision.zip | `\bios`            | 4174d8a42f4a3e8334fa2c6076d616af |
+| bios file    | Folder             | md5       |
+| ------------ | ------------------ | --------- |
+| crvision.xml | `\bios\mame\hash\` |           |
+| crvision.zip | `\bios`            | See below |
+
+### Content of BIOS file
+
+```
+crvision.zip
+- crvision.u20 "3b1ef759d8e3fb4071582efd33dd05f9"
+```
 
 ## Controls
 

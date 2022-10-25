@@ -19,12 +19,23 @@ Computer - Lifespan: 1980 - 1991
 
 ## BIOS
 
-| bios file      | Folder            | md5                              |
-| -------------- | ----------------- | -------------------------------- |
-| coco.zip       | `\bios`           | 1d33d70f35b33873fc75941d95ad1ffa |
-| coco2.zip      | `\bios`           | b81dc552536796d234c08587bac7be43 |
-| coco\_cart.xml | `\bios\mame\hash` |                                  |
-| coco\_flop.xml | `\bios\mame\hash` |                                  |
+| bios file      | Folder            | md5       |
+| -------------- | ----------------- | --------- |
+| coco.zip       | `\bios`           | See below |
+| coco2.zip      | `\bios`           | See below |
+| coco\_cart.xml | `\bios\mame\hash` |           |
+| coco\_flop.xml | `\bios\mame\hash` |           |
+
+### Content of BIOS files
+
+```
+coco.zip
+- bas10.rom "a74f3d95b395dad7cdca19d560eeea74"
+
+coco2.zip
+- bas12.rom "c933316c7d939532a13648850c1c2aa6"
+- extbas11.rom "21070aa0496142b886c562bf76d7c113"
+```
 
 ## Controls
 

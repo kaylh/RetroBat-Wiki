@@ -19,10 +19,17 @@ Game console - Lifespan: 1978 - 1983
 
 ## BIOS
 
-| Bios file    | Folder            | md5                              |
-| ------------ | ----------------- | -------------------------------- |
-| astrocde.xml | `\bios\mame\hash` |                                  |
-| astrocde.zip | `\bios`           | f58a3823ab308ef0a02b498d126e5d96 |
+| Bios file    | Folder            | md5       |
+| ------------ | ----------------- | --------- |
+| astrocde.xml | `\bios\mame\hash` |           |
+| astrocde.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+astrocde.zip
+- astro.bin "7d25a26e5c4841b364cfe6b1735eaf03"
+```
 
 ## Controls
 

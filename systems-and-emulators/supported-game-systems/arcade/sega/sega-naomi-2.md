@@ -19,9 +19,36 @@ Arcade - Released: 2000&#x20;
 
 ## Bios Information
 
-| bios file  | Folder     | md5              |
-| ---------- | ---------- | ---------------- |
-| naomi2.zip | `\bios\dc` | Too many to list |
+| bios file  | Folder     | md5       |
+| ---------- | ---------- | --------- |
+| naomi2.zip | `\bios\dc` | See below |
+
+### Content of BIOS file
+
+```
+naomi2.zip
+- 315-6146.bin "728bfe038ce280872057e365ebfc0fee"
+- 315-6215.bin "baf83367044924067e09856ba164aa6f"
+- epr-23605.ic27 "6f8ad6e3ab04c8ae1cbcaa652b91cf4e"
+- epr-23605a.ic27 "f3f39513484df216d9979f6ae7577942"
+- epr-23605b.ic27 "ab046e62c51d67fb89eade2b8d5f6a8d"
+- epr-23605c.ic27 "096a5217ff6e6c6cafe65a03336760ab"
+- epr-23605c_multi.ic27 "659d579ba9aef5b025d87323044e83f4"
+- epr-23607.ic27 "cbe0984d03d73869c23da5a3dd2ce207"
+- epr-23607b.ic27 "b624ec7b3b90fdf3be103cdfb1679d1d"
+- epr-23607c.ic27 "a9d82db14b823a5a57885bea1a998eb7"
+- epr-23608.ic27 "3b1315be24dc8d17f4fa18f3bfc5fe5c"
+- epr-23608a.ic27 "0143cf852cb2a8a41f217bc688f62105"
+- epr-23608b.ic27 "8b88c1f5a06e9b560e887c3b9f879237"
+- epr-23608c.ic27 "b49702e4fadb3b5f9143a3d20afd04b5"
+- epr-23609b.ic27 "ecadb008179ca1e6f4fe3fa091ab5df2"
+- main_eeprom.bin "edeed38a9795e062a9af28c3eba22040"
+- sp5001.bin "14e6bffff0d4dff6a5a547e7c43680ff"
+- sp5001-a.bin "689d2228b00fb59781f82af6e8ecdb78"
+- sp5001-b.bin "8373a11106c1c2fc21ac839f75ea488f"
+- sp5002-a.bin "7eecfb8e8f82b47ffab92a0c5528100e"
+- x76f100_eeprom.bin "960ece0dc22a7c5ff81c812a2993e7cc"
+```
 
 ## Controls
 

@@ -19,10 +19,18 @@ Portable Game Console - Lifespan: 1997 - 2000
 
 ## Bios Information
 
-| bios file   | Folder            | md5                              |
-| ----------- | ----------------- | -------------------------------- |
-| gamecom.xml | `\bios\mame\hash` |                                  |
-| gamecom.zip | `\bios`           | f2087ed09f7fa8d8856cfafb20dd00dc |
+| bios file   | Folder            | md5       |
+| ----------- | ----------------- | --------- |
+| gamecom.xml | `\bios\mame\hash` |           |
+| gamecom.zip | `\bios`           | See below |
+
+### Content of BIOS file
+
+```
+gamecom.zip
+- external.bin "813364d4863b1d7b7b8fd6a97a416bcf"
+- internal.bin "f7bcefb6daf923c8e5ea2eb69f619efe"
+```
 
 ## Controls
 

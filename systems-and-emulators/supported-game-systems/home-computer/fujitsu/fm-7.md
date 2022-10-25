@@ -24,6 +24,24 @@ Computer - Lifespan: 1982 - 1984
 | fm7.zip    | `\bios` | b8b459da3cf4ba24cfd77360fdf74ee0 |
 | fm77av.zip | `\bios` | 8c54dbf60867435af07db07b29b1bca1 |
 
+### Content of BIOS files
+
+```
+fm7.zip
+- boot_bas.rom "9f9b7d5615ecdbde2cd26e9306ffef13"
+- boot_dos_a.rom "18a461ccaf7ef4e8ecad58cecd3a24b3"
+- fbasic300.rom "6a5da0404b7ee338df9002cdcabc3068"
+- kanji.rom "a330817f8f7ced752a7bcc8dfba8fd2e"
+- subsys_c.rom "d19ed5923aaae2ec43dffe7a0daa80cb"
+
+fm77av.zip
+- fbasic30.rom "71c96a45b78e88a39cb94c1aabd23d8a"
+- initiate.rom "e0f4c0ebee60aee83e863826e59ae1de"
+- subsys_a.rom "ae945a6dfb642b0a5d0529737e8ee5cd"
+- subsys_b.rom "fb83a1a9725c8432acef0c3ce89492e3"
+- subsyscg.rom "7db27dede3e358017d518101850bccfa"
+```
+
 ## Controls
 
 Use Pad2Key for this system to use a gamepad, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.

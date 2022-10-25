@@ -22,9 +22,20 @@ Game Console - Lifespan: 1990 - 1998
 | bios file    | Folder           | md5                              |
 | ------------ | ---------------- | -------------------------------- |
 | cdi.xml      | `bios\mame\hash` |                                  |
-| cdimono1.zip | `\bios`          | 80efc8294a76783c92e9f7b5a6b6c11b |
+| cdimono1.zip | `\bios`          | See below                        |
 | cdimono2.zip | `\bios`          | 97aa5f47030cd9fdb679d4fafbb0e332 |
 | cdibios.zip  | `\bios`          | 709acce6e9c4043b851ea7429b8e7eff |
+
+### Content of BIOS files
+
+```
+cdimono1.zip
+- cdi200.rom "2969341396aa61e0143dc2351aaa6ef6"
+- cdi220.rom "ac80a92c988ce07fbd6a8f21ded34cf1"
+- cdi220b.rom "ac0d468be366779c9df633be98da250a"
+- zx405037p__cdi_servo_2.1__b43t__llek9215.mc68hc705c8a_withtestrom.7201 "3e59b8a9a423d3ecd612a32fe4e2d748"
+- zx405042p__cdi_slave_2.0__b43t__zzmk9213.mc68hc705c8a_withtestrom.7206 "3d20cf7550f1b723158b42a1fd5bac62"
+```
 
 ## Controls
 
