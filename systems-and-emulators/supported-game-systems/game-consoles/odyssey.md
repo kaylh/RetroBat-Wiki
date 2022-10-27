@@ -28,7 +28,7 @@ Game Console - Lifespan: 1978 - 1984
 
 ## Controls
 
-Keyboard mapped to keypoard, Joystick mapping hereunder:
+Keyboard mapped to keyboard, Joystick mapping hereunder:
 
 | Retrobat Button                                       | Odyssey2 key |
 | ----------------------------------------------------- | ------------ |
