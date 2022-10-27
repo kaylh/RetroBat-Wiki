@@ -13,9 +13,9 @@ RPG creation engine
 | **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: easyrpg |   |
 | **File extensions** | .easyrpg .lbd .7z .zip .rar .squashfs                   |   |
 
-## BIOS
+## BIOS information
 
-Aucun BIOS nécessaire.
+No BIOS required
 
 ## Controls
 
