@@ -23,9 +23,9 @@ Use fbneo 1.0.0.3 romset for the default emulator.
 
 ## BIOS
 
-| Bios file  | Folder  | md5 |
-| ---------- | ------- | --- |
-| neogeo.zip | `\bios` |     |
+| Bios file  | Folder  | md5                              | md5 |
+| ---------- | ------- | -------------------------------- | --- |
+| neogeo.zip | `\bios` | dffb72f116d36d025068b23970a4f6df |     |
 
 ## Controls
 
