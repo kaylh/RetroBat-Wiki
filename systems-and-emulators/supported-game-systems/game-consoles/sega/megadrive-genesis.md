@@ -4,8 +4,7 @@ description: Sega
 
 # Megadrive - Genesis
 
-| <img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/megadrive.svg" alt="" data-size="original"> | <img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/genesis.svg" alt="" data-size="original"> |   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/megadrive.svg" alt="" data-size="original"></td><td><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/genesis.svg" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 Game Console - Lifespan: 1988 - 1997
 

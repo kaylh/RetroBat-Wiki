@@ -4,8 +4,7 @@ description: Nintendo
 
 # Nintendo Entertainment System - Family Computer
 
-| <p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nes.svg" alt="" data-size="original"></p> | <p></p><p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Family_Computer_logo.svg" alt="" data-size="original"></p> |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | - |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><p></p><p><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nes.svg" alt="" data-size="original"></p></td><td><p></p><p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Family_Computer_logo.svg" alt="" data-size="original"></p></td><td></td></tr></tbody></table>
 
 Game Console - Lifespan: 1983 - 2003
 
@@ -13,10 +12,7 @@ Game Console - Lifespan: 1983 - 2003
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: fceumm</li><li>libretro: nestopia</li><li>libretro: mesen</li><li>mednafen</li><li>mesen</li></ul> |   |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: nes                                                                       |   |
-| **File extensions** | .fds .nes .wad .zip .7z                                                                                              |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: fceumm</li><li>libretro: nestopia</li><li>libretro: mesen</li><li>mednafen</li><li>mesen</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> nes</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.fds .nes .wad .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 

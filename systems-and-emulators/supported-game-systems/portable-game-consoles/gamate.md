@@ -12,10 +12,7 @@ Portable Game Console - Lifespan: 1990 - 1994
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mame</li><li>mame64</li></ul>        |   |
-| ------------------- | ------------------------------------------------------ | - |
-| **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: gamate |   |
-| **File extensions** | .bin .zip                                              |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gamate</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.bin .zip</td><td></td></tr></tbody></table>
 
 ## BIOS
 

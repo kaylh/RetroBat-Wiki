@@ -12,10 +12,7 @@ Computer - Lifespan: 1989 - 1997
 
 ## Information
 
-| **Emulators**       | <ul><li>libretroo: mame</li><li>tsugaru</li><li>mame64: fmtownsux</li></ul> |   |
-| ------------------- | --------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: fmtowns                          |   |
-| **File extensions** | .m3u .d88 .d77 .xdf .cue .iso .game .cd                                     |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>tsugaru</li><li>mame64: fmtownsux</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fmtowns</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.m3u .d88 .d77 .xdf .cue .iso .game .cd</td><td></td></tr></tbody></table>
 
 ## BIOS
 

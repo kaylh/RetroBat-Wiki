@@ -12,10 +12,7 @@ Game console - Lifespan: 1986 - 1992
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: prosystem</li></ul>                |   |
-| ------------------- | ---------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: atari7800 |   |
-| **File extensions** | .a78 .bin .zip .7z                                   |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: prosystem</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> atari7800</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.a78 .bin .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 

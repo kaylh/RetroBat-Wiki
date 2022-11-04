@@ -10,10 +10,7 @@ Pinball Simulation Software
 
 ## Information
 
-| **Emulators**       | <ul><li>fpinball</li></ul>                               |   |
-| ------------------- | -------------------------------------------------------- | - |
-| **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: fpinball |   |
-| **File extensions** | .fpt .7z .zip .rar                                       |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>fpinball</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fpinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.fpt .7z .zip .rar</td><td></td></tr></tbody></table>
 
 ## BIOS
 

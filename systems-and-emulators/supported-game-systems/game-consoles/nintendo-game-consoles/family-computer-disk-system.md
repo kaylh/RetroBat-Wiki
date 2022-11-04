@@ -12,10 +12,7 @@ Game Console - Lifespan: 1986 - 1990
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: fceumm</li><li>libretro: nestopia</li><li>libretro: mesen</li><li>mesen</li></ul> |   |
-| ------------------- | --------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: fds                                                      |   |
-| **File extensions** | .nes .fds .zip .7z                                                                                  |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: fceumm</li><li>libretro: nestopia</li><li>libretro: mesen</li><li>mesen</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fds</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.nes .fds .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 

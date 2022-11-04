@@ -8,10 +8,7 @@ Pinball Simulation Software - Released 2017
 
 ## Information
 
-| **Emulators**       | <ul><li>Steam</li></ul>                                     |   |
-| ------------------- | ----------------------------------------------------------- | - |
-| **Games Location**  | :open\_file\_folder: roms \ :open\_file\_folder: pinballfx3 |   |
-| **File extensions** | .pxp                                                        |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pinballfx3</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.pxp</td><td></td></tr></tbody></table>
 
 ## Controls
 
@@ -67,7 +64,7 @@ To easily find this location, just follow these steps:
 
 * Left-click in the search field at the top of your Steam games list and type `Pinball FX3`.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>the search field after typing Pinball FX3</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>the search field after typing Pinball FX3</p></figcaption></figure>
 
 * Right-click on Pinball FX3 listed now in the Steam Game List, then hover with the mouse pointer "Manage" and left-click on "Browse local files" when the game sub-menu appears. The File Explorer should open now the location of your Pinball FX3 installation.
 

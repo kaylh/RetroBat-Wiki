@@ -12,17 +12,11 @@ Game Console - Lifespan: 1999- 2001
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mupen64plus next</li><li>project64</li></ul> |   |
-| ------------------- | -------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: n64dd               |   |
-| **File extensions** | .v64 .z64 .n64 .ndd                                            |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mupen64plus next</li><li>project64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> n64dd</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.v64 .z64 .n64 .ndd</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-| <p>IPL_JAP.n64<br>Japan</p>           | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>8d3d9f294b6e174bc7b1d2fd1c727530</code></p> |   |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | - |
-| <p>IPL_USA.n64<br>USA</p>             | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>37c36e4286d36892a9fc70eafe4104be</code></p> |   |
-| <p>IPL_DEV.n64<br>Development Kit</p> | <p><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> </p>                                              |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>IPL_JAP.n64<br>Japan</td><td><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>8d3d9f294b6e174bc7b1d2fd1c727530</code></td><td></td></tr><tr><td>IPL_USA.n64<br>USA</td><td><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> <code>37c36e4286d36892a9fc70eafe4104be</code></td><td></td></tr><tr><td>IPL_DEV.n64<br>Development Kit</td><td><strong>location:</strong> \bios\Mupen64plus<br><strong>md5:</strong> </td><td></td></tr></tbody></table>
 
 ## Controls
 

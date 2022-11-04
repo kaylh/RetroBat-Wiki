@@ -4,6 +4,10 @@ RetroAchievements is a system that allows you to earn achievements on retro game
 
 In order to subscribe to the service, visit the RetroAchievements website [HERE](https://retroachievements.org/) and create an account.
 
+{% hint style="info" %}
+Retroachievements in Retrobat are only available for a predefined list of libretro cores, so far no standalone emulator can be used with Retroachievements in Retrobat.
+{% endhint %}
+
 ## Enabling RetroAchievements
 
 Enter the [**Main Menu**](../navigation/main-menu.md) and select [**Game Settings**](../navigation/main-menu.md#game-settings)****
@@ -32,7 +36,7 @@ You can rerun the indexing process from this menu or let the system perform the 
 
 ## Games Retroachievements information
 
-Games that support RetroAchievements have a small trophy icon ![](<../.gitbook/assets/image (2).png>) in the Game View
+Games that support RetroAchievements have a small trophy icon ![](<../.gitbook/assets/image (2) (4).png>) in the Game View
 
 <figure><img src="https://i.imgur.com/L980WZO.png" alt=""><figcaption></figcaption></figure>
 
