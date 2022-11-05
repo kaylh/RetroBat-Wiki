@@ -59,3 +59,26 @@ In the m3u file, list all game discs from your game:
 Within that text file, write the names of the `.cue` sheets or `.chd` files for your game discs:
 
 <figure><img src="https://i.imgur.com/ZzJ7Ldj.png" alt=""><figcaption></figcaption></figure>
+
+### Custom textures
+
+The mednafen\_psx\_hw core allows to load custom texture packs.
+
+To do so you need to place the custom texture pack in the `\roms\psx` folder in a dedicated directory that has the same name than the game file with the addition of "-texture-replacements", for example:
+
+* If your game name is `Final Fantasy VII (USA).iso`, the texture pack folder must be named `Final Fantasy VII (USA)-texture-replacements`
+* If your game name is `Chrono Cross.fr.m3u`, the texture pack folder must be named `Chrono Cross.fr-texture-replacements`
+
+<figure><img src="https://i.imgur.com/GdXSRWK.png" alt=""><figcaption></figcaption></figure>
+
+Once the texture pack in place, just enable the option within Retrobat:
+
+<figure><img src="https://i.imgur.com/WzHZPKq.png" alt=""><figcaption><p>Advanced options > Visual Rendering</p></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/8yktncM.png" alt=""><figcaption><p>Custom Textures = YES</p></figcaption></figure>
+
+Finally, ensure that you use VULKAN video driver and that you set the resolution above 1X:
+
+<figure><img src="https://i.imgur.com/9hKDYKQ.png" alt=""><figcaption><p>Advanced options > Drivers</p></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/sJgZ14E.png" alt=""><figcaption><p>Advance Options, set internal resolution abov 1X</p></figcaption></figure>

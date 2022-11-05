@@ -68,9 +68,3 @@ When hosting a Netplay server, make sure that your network is either compatible 
 * All players in a Netplay session need to have the same core version, and the same ROM to play together. That means that you need to use the same Retrobat version, and you should always check and compare the MD5 checksums of the ROM that all members in your party are going to use.
 * Check that you use a core that is compatible with Netplay - see below for the list of cores that support Netplay.
 * Check that all the members of your party are using the same architecture. Some cores don't enable cross-architecture Netplay. Whenever this happens, you'll see a message popping-up upon launching the core.
-
-### NetPlay fonctionnality support
-
-{% hint style="danger" %}
-In construction : list of cores supporting Netplay
-{% endhint %}

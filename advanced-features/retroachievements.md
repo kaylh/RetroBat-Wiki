@@ -36,7 +36,7 @@ You can rerun the indexing process from this menu or let the system perform the 
 
 ## Games Retroachievements information
 
-Games that support RetroAchievements have a small trophy icon ![](<../.gitbook/assets/image (2) (4).png>) in the Game View
+Games that support RetroAchievements have a small trophy icon ![](<../.gitbook/assets/image (2).png>) in the Game View
 
 <figure><img src="https://i.imgur.com/L980WZO.png" alt=""><figcaption></figcaption></figure>
 
