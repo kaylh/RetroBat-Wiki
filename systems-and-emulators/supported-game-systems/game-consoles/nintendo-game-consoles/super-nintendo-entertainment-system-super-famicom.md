@@ -17,6 +17,12 @@ Game Console - Lifespan: 1990 - 2003
 | **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes                                                                                                                                      |
 | **File extensions** | .smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .rom .wad .zip .7z                                                                                                                           |
 
+## Features
+
+| Retroachievements | Netplay |
+| ----------------- | ------- |
+| YES               | YES     |
+
 ## BIOS
 
 There is no BIOS files needed to run games.

@@ -17,6 +17,12 @@ Game Console Extension - Lifespan: 1995 - 2000
 | **Games Location**  | :file\_folder: roms \ :open\_file\_folder: satellaview       |
 | **File extensions** | .st .fig .bs .smc .sfc .zip .7z                              |
 
+## Features
+
+| Retroachievements | Netplay |
+| ----------------- | ------- |
+| NO                | YES     |
+
 ## BIOS
 
 | BIOS file | Folder  | md5                              |

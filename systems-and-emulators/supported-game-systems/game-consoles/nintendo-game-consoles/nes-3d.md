@@ -17,6 +17,12 @@ Emulator
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: nes3d |
 | **File extension** | .3dsen                                                 |
 
+## Features
+
+| Retroachievements | Netplay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## Bios Information
 
 No specific BIOS is required to play NES games.
