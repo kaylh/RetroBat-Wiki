@@ -17,9 +17,25 @@ Game Console - Lifespan: 2006 - 2017
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: ps3 |
 | **File extension** | .m3u .ps3 .iso .7z .zip .rar .squashfs               |
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## BIOS
 
-PS3UPDAT.PUP file needs to be installed directly in rpcs3 emulator.
+| BIOS file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| PS3UPDAT.PUP | `\bios` | 95307e1b51d3bcc33a274db91488d29f |
+
+#### Automatic firmware installation
+
+The first time the rpcs3 emulator is launched, if the PS3UPDAT.PUP file is present in you \bios folder, the emulator will automatically prompt to install the firmware, once the firmware installed you can close and relaunch the game.
+
+<figure><img src="https://i.imgur.com/1ovzizA.png" alt=""><figcaption></figcaption></figure>
+
+#### Manual firmware installation
 
 Run rpcs3.exe file in `\emulators\rpcs3` folder and **install firmware**
 
@@ -51,9 +67,3 @@ Once the emulator is configured, the game has been added to the emulator from th
 {% hint style="info" %}
 BATGUI tool offers an automatic m3u creation tool. Refer to the [BATGUI ](../../../../advanced-features/batgui.md)section of the wiki.
 {% endhint %}
-
-### Emulator configuration
-
-Enable the following settings directly in rpcs3.
-
-<figure><img src="https://i.imgur.com/Frjj2kY.png" alt=""><figcaption></figcaption></figure>
