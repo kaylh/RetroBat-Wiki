@@ -17,6 +17,12 @@ Game Console - Lifespan: 1982 - 1983
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: advision |
 | **File extension** | .bin .zip .7z                                             |
 
+## Features
+
+| Retroachievements | Netplay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## Bios Information
 
 | bios file    | Folder           | md5       |
