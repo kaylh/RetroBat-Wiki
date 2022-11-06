@@ -76,6 +76,23 @@ All scraped medias will be stored in the rom folder.
 | manuals | pdf manual                                        |
 | videos  | mp4 videos                                        |
 
+### Using Local Media
+
+You can also decide to use existing images and videos that are already stored on your computer, or media that you have created on your own.\
+\
+To do so, you have to :
+
+* rename the media files exactly like the game file,
+* add the naming extension specific to the media type:
+  * _name\_of\_game_**-thumb** for the image of the box art,
+  * _name\_of\_game_**-image** for the image of the game,
+  * _name\_of\_game_**-marquee** for the image of the game logo,
+  * _name\_of\_game_**-video.mp4** for the game video.
+* place the media files in the "**images**" folders for images and "**videos**" folder for videos
+* From the [**SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings), in "**frontend developer options**", enable "**Search for local art**"
+
+<figure><img src="https://i.imgur.com/dy6VEGP.png" alt=""><figcaption></figcaption></figure>
+
 ### Manual modification of Game Metadata
 
 The [Game Option](../navigation/game-options.md) menu offers the possibility to manually edit/complete metadata for a game
