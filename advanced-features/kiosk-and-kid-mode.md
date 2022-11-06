@@ -20,3 +20,7 @@ Only games marked as being suitable for children will be displayed (this flag is
 
 The game options menu is disabled as is the ability to flag and unflag games as favorites.&#x20;
 
+### Return to Full mode
+
+You can disable the kiosk or kid mode by entering the following pad sentence :\
+A A A B A ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (1) (2) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>)
