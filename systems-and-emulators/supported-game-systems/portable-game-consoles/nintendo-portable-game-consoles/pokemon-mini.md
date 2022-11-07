@@ -25,19 +25,19 @@ Game Console - Released: 2001
 
 ## Controls
 
-| Retrobat Button                                          | CD-i key |
-| -------------------------------------------------------- | -------- |
-| START                                                    | START    |
-| SELECT                                                   | SELECT   |
-| D-PAD                                                    | D-PAD    |
-| Left analog stick                                        | D-PAD    |
-| Right analog stick                                       |          |
-| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) |          |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B        |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A        |
-| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) |          |
-| L1                                                       |          |
-| R1                                                       |          |
+| Retrobat Button                                          | Pokemini key |
+| -------------------------------------------------------- | ------------ |
+| START                                                    | START        |
+| SELECT                                                   | SELECT       |
+| D-PAD                                                    | D-PAD        |
+| Left analog stick                                        | D-PAD        |
+| Right analog stick                                       |              |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) |              |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B            |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A            |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) |              |
+| L1                                                       |              |
+| R1                                                       |              |
 
 ## Specific system information
 

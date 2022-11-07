@@ -12,19 +12,13 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Information
 
-| **Emulators**       | <ul><li>dolphin</li><li>libretro: dolphin</li></ul> |   |
-| ------------------- | --------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gamecube |   |
-| **File extensions** | .gcz .iso .ciso .wbfs .wad .rvz .wia .m3u           |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>dolphin</li><li>libretro: dolphin</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gamecube</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 
 The BIOS files are not mandatory to launch games but some require at least one of their region for better graphic effects and font support.
 
-| <p><code>IPL.bin</code><br>Europe</p> | <p>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></p> |   |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | - |
-| <p><code>IPL.bin</code><br>Japan</p>  | <p>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></p> |   |
-| <p><code>IPL.bin</code><br>USA</p>    | <p>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></p> |   |
+<table data-header-hidden><thead><tr><th>File</th><th>Location &#x26; MD5</th><th data-hidden>MD5 Hash</th></tr></thead><tbody><tr><td><code>IPL.bin</code><br>Europe</td><td>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></td><td></td></tr><tr><td><code>IPL.bin</code><br>Japan</td><td>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></td><td></td></tr><tr><td><code>IPL.bin</code><br>USA</td><td>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></td><td></td></tr></tbody></table>
 
 ## Controls
 

@@ -12,10 +12,7 @@ Computer - Release date: 1981
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: quasi88</li></ul>             |   |
-| ------------------- | ----------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: pc88 |   |
-| **File extensions** | .d88 .u88 .m3u                                  |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: quasi88</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pc88</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.d88 .u88 .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 

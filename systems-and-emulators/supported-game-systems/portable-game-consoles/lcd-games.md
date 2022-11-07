@@ -8,10 +8,7 @@ Handheld LCD Games
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: mame</li><li>libretro: gw</li><li>mame64</li></ul> |   |
-| ------------------- | -------------------------------------------------------------------- | - |
-| **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: lcdgames             |   |
-| **File extensions** | .zip                                                                 |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>libretro: gw</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> lcdgames</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip</td><td></td></tr></tbody></table>
 
 ## BIOS
 

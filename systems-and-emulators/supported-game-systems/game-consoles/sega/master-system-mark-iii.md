@@ -13,10 +13,7 @@ Game Console - Lifespan: 1985 - 1996
 
 ## Information
 
-| **Emulators**       | <ul><li>libretro: genesis_plus_gx</li><li>libretro: picodrive</li><li>libretro: fbneo</li><li>kega-fusion</li></ul> |   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------- | - |
-| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: mastersystem                                                             |   |
-| **File extensions** | .bin .sms .wad .zip .7z                                                                                             |   |
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: genesis_plus_gx</li><li>libretro: picodrive</li><li>libretro: fbneo</li><li>kega-fusion</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> mastersystem</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.bin .sms .wad .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
