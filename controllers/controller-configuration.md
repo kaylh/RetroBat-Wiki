@@ -31,7 +31,7 @@ The table hereunder gives you the standard mapping for the following controllers
 | ![](<../.gitbook/assets/image (3) (1) (2).png>)                              | Y                                           | ![](<../.gitbook/assets/image (7).png>)     | X                 |
 | <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> | X                                           | ![](<../.gitbook/assets/image (10).png>)    | Y                 |
 | START                                                                        | ![](<../.gitbook/assets/image (5) (1).png>) | START / OPTIONS                             | +                 |
-| SELECT                                                                       | ![](<../.gitbook/assets/image (6).png>)     | SELECT / SHARE                              | -                 |
+| SELECT                                                                       | ![](<../.gitbook/assets/image (6) (1).png>) | SELECT / SHARE                              | -                 |
 | D-PAD UP                                                                     | D-PAD UP                                    | D-PAD UP                                    | D-PAD UP          |
 | D-PAD DOWN                                                                   | D-PAD DOWN                                  | D-PAD DOWN                                  | D-PAD DOWN        |
 | D-PAD LEFT                                                                   | D-PAD LEFT                                  | D-PAD LEFT                                  | D-PAD LEFT        |

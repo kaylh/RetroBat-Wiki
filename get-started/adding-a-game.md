@@ -45,7 +45,7 @@ For ScreenScraper, you need to create an account on the [Screenscraper ](https:/
 
 Then enter your credentials (User/Password) in the **SCRAPER SETTINGS** menu.
 
-More details in [Scaping & Metadata](../navigation/scraping-and-metadata.md) section of the wiki.
+More details in [Scaping & Metadata](../advanced-features/scraping-and-metadata.md) section of the wiki.
 {% endhint %}
 
 The following message appears on the top right of the screen, the scraping is in progress.

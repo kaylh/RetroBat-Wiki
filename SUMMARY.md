@@ -17,8 +17,8 @@
 * [Main Menu](navigation/main-menu.md)
 * [View Options](navigation/view-options.md)
 * [Game Options](navigation/game-options.md)
-* [Scraping & Metadata](navigation/scraping-and-metadata.md)
-* [Game Collections](navigation/game-collections.md)
+* [Scraping & Metadata](advanced-features/scraping-and-metadata.md)
+* [Game Collections](advanced-features/game-collections.md)
 
 ## Systems & Emulators
 

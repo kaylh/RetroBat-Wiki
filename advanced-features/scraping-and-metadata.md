@@ -25,7 +25,7 @@ Retrobat supports 4 scraping services:
 
 ### Scraping process
 
-There are two approaches to scraping, either for a single game from the [Game Options](game-options.md), or for multiple games and systems (global scraping) from the [Main Menu](main-menu.md).
+There are two approaches to scraping, either for a single game from the [Game Options](../navigation/game-options.md), or for multiple games and systems (global scraping) from the [Main Menu](../navigation/main-menu.md).
 
 #### Global scraping
 
@@ -39,7 +39,7 @@ Refer to the[ following section of the wiki](../get-started/adding-a-game.md#per
 
 ### Scraping options
 
-Scraping options are available from the [Main Menu](main-menu.md).
+Scraping options are available from the [Main Menu](../navigation/main-menu.md).
 
 <figure><img src="https://i.imgur.com/NBYGcPe.png" alt=""><figcaption></figcaption></figure>
 
@@ -89,13 +89,13 @@ To do so, you have to :
   * _name\_of\_game_**-marquee** for the image of the game logo,
   * _name\_of\_game_**-video.mp4** for the game video.
 * place the media files in the "**images**" folders for images and "**videos**" folder for videos
-* From the [**SYSTEM SETTINGS**](main-menu.md#system-settings), in "**frontend developer options**", enable "**Search for local art**"
+* From the [**SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings), in "**frontend developer options**", enable "**Search for local art**"
 
 <figure><img src="https://i.imgur.com/dy6VEGP.png" alt=""><figcaption></figcaption></figure>
 
 ### Manual modification of Game Metadata
 
-The [Game Option](game-options.md) menu offers the possibility to manually edit/complete metadata for a game
+The [Game Option](../navigation/game-options.md) menu offers the possibility to manually edit/complete metadata for a game
 
 <figure><img src="https://i.imgur.com/80l5jWw.png" alt=""><figcaption></figcaption></figure>
 
@@ -105,4 +105,4 @@ The [Game Option](game-options.md) menu offers the possibility to manually edit/
 * Attach different media files
 * Add game to favorites
 * Hide game
-* Flag game as KID game to display it in the [Kid Mode](../advanced-features/kiosk-and-kid-mode.md#kid-mode)
+* Flag game as KID game to display it in the [Kid Mode](kiosk-and-kid-mode.md#kid-mode)
