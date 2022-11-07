@@ -32,7 +32,7 @@ From the Game View long-press ![A](<../.gitbook/assets/image (1) (2) (1).png>) t
 
 ### Get Pad2Key profiles from external sources
 
-Pad2keys profiles files can be [scraped from screenscraper](../advanced-features/scraping-and-metadata.md).fr if the option is enabled.
+Pad2keys profiles files can be [scraped from screenscraper](../navigation/scraping-and-metadata.md).fr if the option is enabled.
 
 <figure><img src="https://i.imgur.com/zEIRW6F.png" alt=""><figcaption></figcaption></figure>
 

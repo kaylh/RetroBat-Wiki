@@ -17,6 +17,8 @@
 * [Main Menu](navigation/main-menu.md)
 * [View Options](navigation/view-options.md)
 * [Game Options](navigation/game-options.md)
+* [Scraping & Metadata](navigation/scraping-and-metadata.md)
+* [Game Collections](navigation/game-collections.md)
 
 ## Systems & Emulators
 
@@ -219,8 +221,6 @@
 
 ## Advanced Features
 
-* [Scraping & Metadata](advanced-features/scraping-and-metadata.md)
-* [Game Collections](advanced-features/game-collections.md)
 * [Decorations & Bezels](advanced-features/decorations-and-bezels.md)
 * [Updates & Content Download](advanced-features/updates-and-content-download.md)
 * [Kiosk and Kid mode](advanced-features/kiosk-and-kid-mode.md)
@@ -229,3 +229,7 @@
 * [AI Translation Service](advanced-features/ai-translation-service.md)
 * [Batgui](advanced-features/batgui.md)
 * [retrobat.ini](advanced-features/retrobat.ini.md)
+
+## TUTORIALS
+
+* [Symbolic links](tutorials/symbolic-links.md)

@@ -80,7 +80,7 @@ This menu item is used to manage Retrobat sounds :
 | Options                  | Several display options: sorting, show hidden systems...        |
 
 {% hint style="info" %}
-More information on Game Collections is available in the [dedicated wiki section](../advanced-features/game-collections.md).
+More information on Game Collections is available in the [dedicated wiki section](game-collections.md).
 {% endhint %}
 
 ### Scraper
@@ -88,7 +88,7 @@ More information on Game Collections is available in the [dedicated wiki section
 This menu item is used to configure Scrapers and launch game scraping.
 
 {% hint style="info" %}
-More information on Scrapers is available in the [dedicated wiki section.](../advanced-features/scraping-and-metadata.md)
+More information on Scrapers is available in the [dedicated wiki section.](scraping-and-metadata.md)
 {% endhint %}
 
 ### Updates & Downloads
