@@ -10,7 +10,10 @@ Pinball Simulation Software
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>vpinball</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> vpinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.vpx .7z .zip .rar</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>vpinball</li></ul>                               |   |
+| ------------------- | -------------------------------------------------------- | - |
+| **Games Location**  | :open\_file\_folder:roms \ :open\_file\_folder: vpinball |   |
+| **File extensions** | .vpx .7z .zip .rar                                       |   |
 
 ## BIOS
 

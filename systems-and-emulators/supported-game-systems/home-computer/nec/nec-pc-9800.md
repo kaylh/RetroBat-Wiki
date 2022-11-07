@@ -12,7 +12,10 @@ Computer - Release date: 1982
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: np2kai</li><li>libretro: nekop2</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pc98</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.d98 .zip .98d .fdi .fdd .2hd .tfd .d88 .88d .hdm .xdf .dup .cmd .hdi .thd .nhd .hdd .hdn</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: np2kai</li><li>libretro: nekop2</li></ul>                               |   |
+| ------------------- | ----------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: pc98                                           |   |
+| **File extensions** | .d98 .zip .98d .fdi .fdd .2hd .tfd .d88 .88d .hdm .xdf .dup .cmd .hdi .thd .nhd .hdd .hdn |   |
 
 ## BIOS
 

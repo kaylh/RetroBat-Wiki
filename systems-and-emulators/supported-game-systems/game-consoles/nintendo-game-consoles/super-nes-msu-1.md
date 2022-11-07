@@ -10,7 +10,10 @@ description: Nintendo Hack
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>snes9x</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> snes-msu</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.smc .sfc .bml .m3u</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: bsnes</li><li>libretro: bsnes_hd_beta</li><li>snes9x</li></ul> |   |
+| ------------------- | --------------------------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: snes-msu                                                       |   |
+| **File extensions** | .smc .sfc .bml .m3u                                                                                       |   |
 
 ## BIOS
 

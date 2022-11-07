@@ -8,7 +8,10 @@ Pinball Simulation Software - Released 2017
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pinballfx3</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.pxp</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>Steam</li></ul>                                     |   |
+| ------------------- | ----------------------------------------------------------- | - |
+| **Games Location**  | :open\_file\_folder: roms \ :open\_file\_folder: pinballfx3 |   |
+| **File extensions** | .pxp                                                        |   |
 
 ## Controls
 

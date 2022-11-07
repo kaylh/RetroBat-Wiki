@@ -12,7 +12,10 @@ Portable Game Console - Lifespan: 1989 - 2003
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gambatte</li><li>libretro: mesen-s</li><li>libretro: bsnes</li><li>libretro: tgbdual</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .zip .7z</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: gambatte</li><li>libretro: mesen-s</li><li>libretro: bsnes</li><li>libretro: tgbdual</li></ul> |   |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: gb                                                                    |   |
+| **File extensions** | .gb .zip .7z                                                                                                     |   |
 
 ## BIOS
 

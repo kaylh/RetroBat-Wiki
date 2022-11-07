@@ -12,7 +12,10 @@ Game Console - Lifespan: 1977 - 1992
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: stella</li><li>libretro: stella2014</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> atari2600</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.7z .a26 .bin .gz .rom .zip</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: stella</li><li>libretro: stella2014</li></ul> |   |
+| ------------------- | --------------------------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: atari2600            |   |
+| **File extensions** | .7z .a26 .bin .gz .rom .zip                                     |   |
 
 ## BIOS
 

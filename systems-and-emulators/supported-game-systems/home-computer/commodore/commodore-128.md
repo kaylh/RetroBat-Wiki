@@ -12,7 +12,10 @@ Computer - Lifespan: 1985 - 1989
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: vice_x128</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> c128</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.d64 .d81 .prg .lnx .m3u .zip .7z</td><td></td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: vice_x128</li></ul>           |   |
+| ------------------- | ----------------------------------------------- | - |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: c128 |   |
+| **File extensions** | .d64 .d81 .prg .lnx .m3u .zip .7z               |   |
 
 ## BIOS
 
