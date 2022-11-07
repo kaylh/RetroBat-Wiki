@@ -60,22 +60,16 @@ Game Console - Lifespan: 2000 - 2013
 
 PCSX2 allows to load custom texture packs.
 
-To do so you need to place the custom texture pack in the `\emulators\pcsx2\textures` folder in a dedicated directory that has the same code as the game.
+To do so you need to place the custom texture pack in the `\bios\pcsx2\textures` folder in a dedicated directory that has the same code as the game.
 
-<figure><img src="https://i.imgur.com/TQLvdRa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/nOBWsbc.png" alt=""><figcaption></figcaption></figure>
 
 The texture files must be placed in a sub-directory called "replacements":
 
-<figure><img src="https://i.imgur.com/U620JKn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/H7dUscl.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-It is possible to set a different directory for the texture packs directly in the pcsx2 emulator. Launch the emulator from the `\emulators\pcsx2` folder and go to "Configuration" > "General Settings"
-{% endhint %}
-
-<figure><img src="https://i.imgur.com/ZUpXgfI.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-To get the code of the game, you can launch the game a first time directly from the emulator executable located in the `\emulators\pcsx2` folder with the "dump textures" option on, PCSX2 will automatically create the game texture folder.
+To get the code of the game, you can launch the game a first time directly from the emulator executable located in the `\emulators\pcsx2` folder with the "dump textures" option on, PCSX2 will automatically create the game texture folder in the `\bios\pcsx2\textures` folder.
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/ejTZWqt.png" alt=""><figcaption></figcaption></figure>
