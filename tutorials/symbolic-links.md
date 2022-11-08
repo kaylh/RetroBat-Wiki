@@ -36,7 +36,7 @@ Once done, new options will appear in the right-click context menu:
 
 <figure><img src="https://i.imgur.com/TMwcODp.png" alt=""><figcaption></figcaption></figure>
 
-### Create a symbolic link
+### Create a symbolic link with Link Shell Extension
 
 In the next example, we will suppose that you are storing your 3do game ROMs in `D:\Retrobat\3do` and that you Retrobat installation folder is `C:\Retrobat`.
 
@@ -49,3 +49,16 @@ In the next example, we will suppose that you are storing your 3do game ROMs in 
 **CONGRATULATIONS** : you have just created a symbolic link !
 
 You can now repeat this operation for any folder that you would want to store in another place as the default one.
+
+
+
+### Create a symbolic link with native Windows command
+
+Let's use the same example as before and try to perform the Symlink creation manually.
+
+1. sure all your roms are properly copied to `D:\Retrobat\3do` and that your `C:\Retrobat\roms\3do` does not contain any important data you need to keep
+2. Delete the `C:\Retrobat\roms\3do` folder
+3. Open Windows command and type the following command: `mklink /D "C:\Retrobat\roms\3do" "D:\Retrobat\3do`
+4. Your `C:\Retrobat\roms` folder will now show a 3do folder icon with a small arrow ![](<../.gitbook/assets/image (6).png>)&#x20;
+
+<figure><img src="https://i.imgur.com/wgrK31v.png" alt=""><figcaption></figcaption></figure>
