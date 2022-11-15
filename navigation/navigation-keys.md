@@ -12,6 +12,6 @@ A detailed pdf notice can be found [here](http://retrobat.ovh/notice/notice.pdf)
 
 ### **Keyboard navigation keys**
 
-****![](<../.gitbook/assets/image (1) (1) (1).png>)****
+****![](<../.gitbook/assets/image (1) (1) (1) (1).png>)****
 
 ****
