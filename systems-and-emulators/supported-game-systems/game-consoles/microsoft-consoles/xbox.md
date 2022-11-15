@@ -14,12 +14,19 @@ Game Console - Lifespan: 2001 - 2006
 
 <table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>xemu</li><li>cxbx</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> xbox</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.xbe .iso</td><td></td></tr></tbody></table>
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## BIOS
 
-| Bios file         | Folder  | md5                              |
-| ----------------- | ------- | -------------------------------- |
-| mcpx\_1.0.bin     | `\bios` | d49c52a4102f6df7bcf8d0617ac475ed |
-| Complex\_4627.bin | `\bios` | 39cee882148a87f93cb440b99dde3ceb |
+| Bios file         | Folder        | md5                              |
+| ----------------- | ------------- | -------------------------------- |
+| mcpx\_1.0.bin     | `\bios`       | d49c52a4102f6df7bcf8d0617ac475ed |
+| Complex\_4627.bin | `\bios`       | 39cee882148a87f93cb440b99dde3ceb |
+| xbox\_hdd.qcow2   | `\saves\xbox` |                                  |
 
 ## Controls
 
