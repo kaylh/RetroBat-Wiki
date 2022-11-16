@@ -233,4 +233,4 @@
 ## TUTORIALS
 
 * [Symbolic links](tutorials/symbolic-links.md)
-* [Adding Shader Sets to Retroarch](tutorials/adding-shader-sets-to-retroarch.md)
+* [Adding RetroArch Shader Sets to Retrobat](tutorials/adding-retroarch-shader-sets-to-retrobat.md)
