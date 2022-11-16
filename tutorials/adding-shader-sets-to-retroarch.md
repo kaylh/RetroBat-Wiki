@@ -18,9 +18,18 @@ Shaders available in Retrobat are located in the `\system\shaders\configs` folde
 
 ### RetroArch
 
-Shaders available in Retroarch are located in the \retroarch\shaders\shaders\_glsl folder of your Retrobat installation.
+Shaders available in Retroarch are located in the `\retroarch\shaders\` folder of your Retrobat installation.
 
-They are sorted by categories.
+They are sorted first by type of shader (glsl or slang):
+
+* GLSL: Shader format available to OpenGL.
+* Slang: New and recommended shader format, when available. Compatible with Vulkan, Direct3D 10/11/12, OpenGL Core.
+
+{% hint style="info" %}
+Retrobat will automatically search in the right folder based on the video driver defined for the system.
+{% endhint %}
+
+Example of shader folders for GLSL:
 
 <figure><img src="https://i.imgur.com/ijn2wYK.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,11 +37,12 @@ They are sorted by categories.
 
 ## Adding a new Shader in the Retrobat menu
 
-Let's say you want to add the Shader "advcartoon" to Retrobat:
+Let's say you want to add the Shader "advcartoon" to Retrobat, the shader is available both for GLSL and SLANG:
 
-<figure><img src="https://i.imgur.com/SXX0Izf.png" alt=""><figcaption></figcaption></figure>
+| ![](../.gitbook/assets/image.png) | ![](<../.gitbook/assets/image (1).png>) |
+| --------------------------------- | --------------------------------------- |
 
-The shader is located in the `\retroarch\shaders\shaders_glsl\cel` folder and is named "advcartoon.glslp".
+The shader is located in the `\retroarch\shaders\shaders_xxxx\cel` folder and is named "advcartoon.glslp".
 
 To add it to Retrobat, go to the `\system\shaders\configs` folder and create a new folder, name it for example "advcartoon":
 
