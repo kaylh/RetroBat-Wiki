@@ -10,12 +10,6 @@ Emulator
 
 {% embed url="http://www.geodstudio.net" %}
 
-{% hint style="warning" %}
-3DSen is a paid software, it will not be provided by Retrobat team.&#x20;
-
-Once purchased the emulator must be installed in the \emulators\3dsen folder.&#x20;
-{% endhint %}
-
 ## Information
 
 | **Emulators**      | <ul><li>3DSen</li></ul>                                |
@@ -41,10 +35,6 @@ Same controls as [NES system](nintendo-entertainment-system-family-computer.md#c
 
 ### 3DSen ROM file
 
-{% hint style="info" %}
-The RetroBat team has prepared the full set of 3DSen files for you and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset ROM names.
-{% endhint %}
-
 3DSen Emulator has a fixed ID for each compatible game, in order for Retrobat to be able to launch 3DSen with a game, the game ID needs to be specified in a .3dsen file:
 
 <figure><img src="https://i.imgur.com/egozosL.png" alt=""><figcaption></figcaption></figure>
@@ -58,6 +48,10 @@ The actual NES ROM is located in the `\roms\nes` folder.
 Double-click on the game and select the NES ROM:
 
 <figure><img src="https://i.imgur.com/P7Kgbvj.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The RetroBat team has prepared the full set of 3DSen files for you and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset ROM names.
+{% endhint %}
 
 ### Supported Games & IDs
 

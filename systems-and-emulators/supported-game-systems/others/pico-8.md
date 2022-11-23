@@ -12,6 +12,10 @@ Fantasy Console - Released : 2015
 
 {% embed url="https://www.lexaloffle.com/pico-8.php" %}
 
+{% hint style="warning" %}
+PICO-8 is a paid software, it is not provided by the Retrobat team.
+{% endhint %}
+
 ## Information
 
 | **Emulators**      | <ul><li>Libretro: retro8</li><li>pico8</li></ul>       |
