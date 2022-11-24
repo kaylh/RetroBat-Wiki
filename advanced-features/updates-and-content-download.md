@@ -2,9 +2,39 @@
 
 ## Updates
 
-{% hint style="danger" %}
-In construction
-{% endhint %}
+Retrobat has an automatic updater system included.
+
+When a new version is available, a message like the one below appears on the top of the screen:
+
+<figure><img src="https://i.imgur.com/GONxicR.png" alt=""><figcaption></figcaption></figure>
+
+To perform the update, open the [main menu](../navigation/main-menu.md#updates-and-downloads) and select **UPDATES & DOWNLOADS**
+
+<figure><img src="https://i.imgur.com/9dSyFON.png" alt=""><figcaption></figcaption></figure>
+
+Choose _**START UPDATE**_
+
+<figure><img src="https://i.imgur.com/Fv5sNXY.png" alt=""><figcaption></figcaption></figure>
+
+Accept
+
+<figure><img src="https://i.imgur.com/OOCd42n.png" alt=""><figcaption></figcaption></figure>
+
+The update progress will be shown in the top right corner
+
+<figure><img src="https://i.imgur.com/OLp5Qp3.png" alt=""><figcaption></figcaption></figure>
+
+Once the update is finished, reboot the system to apply
+
+<figure><img src="https://i.imgur.com/sQcNE2s.png" alt=""><figcaption></figcaption></figure>
+
+When starting again Retrobat, it will finalize the update
+
+<figure><img src="https://i.imgur.com/1xkI2bR.png" alt=""><figcaption></figcaption></figure>
+
+It is possible to check the current version from the main menu > system settings > information
+
+<figure><img src="https://i.imgur.com/UjXB5fl.png" alt=""><figcaption></figcaption></figure>
 
 ## Download
 
