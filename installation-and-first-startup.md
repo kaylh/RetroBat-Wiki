@@ -6,12 +6,12 @@ description: Get started !
 
 ## Installation
 
-* Download the latest Retrobat Setup on the [Retrobat Website](https://www.retrobat.ovh/dl\_en.html).
+* Download the latest Retrobat Setup on the [Retrobat Website](https://www.retrobat.org/download/).
 * Run the Setup and agree the Licence to continue.
 
-<figure><img src="https://i.imgur.com/BcrxaWC.png" alt=""><figcaption><p>Next ></p></figcaption></figure>
+<figure><img src="https://i.imgur.com/lqlfFYP.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgur.com/08boU9Q.png" alt=""><figcaption><p>I Agree</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/aaUzZR6.png" alt=""><figcaption><p>I Agree</p></figcaption></figure>
 
 * Browse to the destination folder and select **Install**.
 
@@ -19,11 +19,11 @@ description: Get started !
 
 * Wait until the Installation is finished, then you can let it create a desktop shortcut, uncheck the box if not needed, and click **Finish**.
 
-<figure><img src="https://i.imgur.com/8F7dihV.png" alt=""><figcaption><p>Finish !</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/coDjJwj.png" alt=""><figcaption><p>Finish !</p></figcaption></figure>
 
 The Setup folder structure looks like this:
 
-<figure><img src="https://i.imgur.com/Hffa513.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/MwQl2t9.png" alt=""><figcaption></figcaption></figure>
 
 ## First startup
 
