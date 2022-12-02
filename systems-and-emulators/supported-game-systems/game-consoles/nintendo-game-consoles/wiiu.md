@@ -12,7 +12,7 @@ Hybrid Game Console - Lifespan: 2012 - 2017
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>cemu</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> wiiu</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .rpx .wud .wux .m3u</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>cemu</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> wiiu</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .rpx .wud .wux .wua .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -48,13 +48,13 @@ There are several options to manage motion control, [CEMU wiki](https://wiki.cem
 
 DualSense and Switch Pro controllers are tested options.
 
-{% hint style="danger" %}
-In construction
+{% hint style="info" %}
+If you own a controller that supports motion control, you can activate motion controls in the Advanced system options or advanced game options.
 {% endhint %}
 
 ## Specific system information
 
-### Adding Games
+### Adding Games in Loadiine format
 
 The best way to add WiiU games is to use the format known as "Bootloader" format. This is the format of games dumped from your console with Dumpling tool.
 
