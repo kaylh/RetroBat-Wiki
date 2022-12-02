@@ -12,18 +12,18 @@ These emulators are available in multiple versions to allow users to best match 
 
 ### Available Arcade emulators in Retrobat
 
-| Emulator/core            | ROMs folder   | ROM set version          |
-| ------------------------ | ------------- | ------------------------ |
-| libretro: mame (current) | `\roms\mame`  | Current version : 0.248  |
-| libretro: mame2016       | `\roms\mame`  | 0.174                    |
-| libretro: mame2010       | `\roms\mame`  | 0.139                    |
-| Libretro: mame2003\_plus | `\roms\mame`  | 0.78plus                 |
-| Libretro: mame2003       | `\roms\mame`  | 0.78                     |
-| Libretro: mame2000       | `\roms\mame`  | 0.37b5                   |
-| mame64 (standalone)      | `\roms\mame`  | Current version: 0.234   |
-| Libretro: fbneo          | `\roms\fbneo` | Current version: 1.0.0.3 |
-| Libretro: fbalpha        | `\roms\fbneo` | 0.2.97.44                |
-| Libretro: fbalpha2012    | `\roms\fbneo` | 0.2.97.29                |
+| Emulator/core            | ROMs folder   | ROM set version |
+| ------------------------ | ------------- | --------------- |
+| libretro: mame (current) | `\roms\mame`  | 0.247           |
+| libretro: mame2016       | `\roms\mame`  | 0.174           |
+| libretro: mame2010       | `\roms\mame`  | 0.139           |
+| Libretro: mame2003\_plus | `\roms\mame`  | 0.78plus        |
+| Libretro: mame2003       | `\roms\mame`  | 0.78            |
+| Libretro: mame2000       | `\roms\mame`  | 0.37b5          |
+| mame64 (standalone)      | `\roms\mame`  | 0.234           |
+| Libretro: fbneo          | `\roms\fbneo` | 1.0.0.3         |
+| Libretro: fbalpha        | `\roms\fbneo` | 0.2.97.44       |
+| Libretro: fbalpha2012    | `\roms\fbneo` | 0.2.97.29       |
 
 ## ROMs
 
