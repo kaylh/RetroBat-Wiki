@@ -47,12 +47,6 @@ The table hereunder gives you the standard mapping for the following controllers
 | L3                                                                           | Left Thumb                                  | Left Thumb                                  | Left Thumb        |
 | R3                                                                           | Right Thumb                                 | Right Thumb                                 | Right Thumb       |
 
-
-
-This is a picture of the controller mapping for some most known controllers in RetroArch:
-
-<figure><img src="https://i.imgur.com/q9Uesov.png" alt=""><figcaption><p>Courtesy of RetroArch</p></figcaption></figure>
-
 ## Per-Game Controller Configuration
 
 If, for any reason, the default controller configuration does not work for you or if you want to tweak your system, there is a possibility to deactivate controller autoconfiguration and to manage controller configuration directly in the emulator/core itself.
