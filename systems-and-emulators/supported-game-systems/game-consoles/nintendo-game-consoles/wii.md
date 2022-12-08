@@ -46,8 +46,8 @@ The mapping hereunder is the default mapping when using **EMULATED**
 | D-PAD                                                                                     | D-PAD                    |
 | Left Analog Stick                                                                         | IR control (wii pointer) |
 | Right Analog Stick                                                                        | Tilt control             |
-| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                        |
-| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A                        |
+| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | A                        |
+| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | B                        |
 | <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | 2                        |
 | <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | 1                        |
 | LB (L1)                                                                                   | -                        |
