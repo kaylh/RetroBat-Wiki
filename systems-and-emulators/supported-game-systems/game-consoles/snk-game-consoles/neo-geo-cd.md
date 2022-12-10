@@ -19,6 +19,25 @@ Game Console - Lifespan: 1994 - 1997
 
 ## Bios Information
 
+For neocd core:
+
+| Bios file      | Folder        | sha-1                                    |
+| -------------- | ------------- | ---------------------------------------- |
+| neocd\_f.rom   | `\bios\neocd` | a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b |
+| neocd\_sf.rom  | `\bios\neocd` | 4a94719ee5d0e3f2b981498f70efc1b8f1cef325 |
+| neocd\_t.rom   | `\bios\neocd` | cc92b54a18a8bff6e595aabe8e5c360ba9e62eb5 |
+| neocd\_st.rom  | `\bios\neocd` | 19729b51bdab60c42aafef6e20ea9234c7eb8410 |
+| neocd\_z.rom   | `\bios\neocd` | b0f1c4fa8d4492a04431805f6537138b842b549f |
+| neocd\_sz.rom  | `\bios\neocd` | 6a947457031dd3a702a296862446d7485aa89dbb |
+| front-sp1.bin  | `\bios\neocd` | 53bc1f283cdf00fa2efbb79f2e36d4c8038d743a |
+| top-sp1.bin    | `\bios\neocd` | 235f4d1d74364415910f73c10ae5482d90b4274f |
+| neocd.bin      | `\bios\neocd` | 7bb26d1e5d1e930515219cb18bcde5b7b23e2eda |
+| uni-bioscd.rom | `\bios\neocd` | 5142f205912869b673a71480c5828b1eaed782a8 |
+
+
+
+For FBNEO core:
+
 | Bios file  | Folder  | md5                              |
 | ---------- | ------- | -------------------------------- |
 | neogeo.zip | `\bios` | dffb72f116d36d025068b23970a4f6df |
