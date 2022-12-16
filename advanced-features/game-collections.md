@@ -76,7 +76,7 @@ For the FAVORITE collection, you need to flage your favorite games, this can be 
 <figure><img src="https://i.imgur.com/SDH2wuU.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can also add a game to the Favorites list by highlighting the game in the Gae View and long-press ![](<../.gitbook/assets/image (3) (1) (2).png>)
+You can also add a game to the Favorites list by highlighting the game in the Game View and long-press ![](<../.gitbook/assets/image (3) (1) (2).png>)
 {% endhint %}
 
 In addition, Favorite games can also be displayed at the top of the list in the [Game View](../navigation/system-view-and-game-view.md).
