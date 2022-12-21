@@ -18,15 +18,15 @@ This will replace the current 2.24 version and might fix some issues.
 
 
 
-### Xenia feature licence key overwritten by RetroBat
+### Xenia feature licence mask overwritten by RetroBat
 
-The licence key value gets systematically overwritten by RetroBat, making it impossible to set the value correctly and to play Xbox Live Arcade titles.
+The licence mask value gets systematically overwritten by RetroBat, making it impossible to set the value correctly and to play Xbox Live Arcade titles.
 
 This is due to a missing feature that will be corrected in next RetroBat version, in the meantime, you can download the following "es\_features.cfg" file and copy it to the `\emulationstation\.emulationstation\` of your RetroBat installation.
 
 {% file src="../.gitbook/assets/es_features.cfg" %}
 
-This will overwrite the existing es\_features file and bring you the licence key as a feature in RetroBat:
+This will overwrite the existing es\_features file and bring you the licence mask as a feature in RetroBat:
 
 <figure><img src="https://i.imgur.com/G7TVdhI.png" alt=""><figcaption></figcaption></figure>
 
