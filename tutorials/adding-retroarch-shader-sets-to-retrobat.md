@@ -1,4 +1,4 @@
-# Adding Shader Sets to Retroarch
+# Adding RetroArch Shader Sets to Retrobat
 
 Retrobat comes bundled with a set of shaders, however it does not include all shaders available in Retroarch.
 
@@ -39,8 +39,8 @@ Example of shader folders for GLSL:
 
 Let's say you want to add the Shader "advcartoon" to Retrobat, the shader is available both for GLSL and SLANG:
 
-| ![](../.gitbook/assets/image.png) | ![](<../.gitbook/assets/image (1).png>) |
-| --------------------------------- | --------------------------------------- |
+| ![](<../.gitbook/assets/image (7).png>) | ![](<../.gitbook/assets/image (1).png>) |
+| --------------------------------------- | --------------------------------------- |
 
 The shader is located in the `\retroarch\shaders\shaders_xxxx\cel` folder and is named "advcartoon.glslp".
 

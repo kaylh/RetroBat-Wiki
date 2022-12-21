@@ -42,16 +42,16 @@ All controllers introduced before the Xbox One S (Xbox 360, Xbox One controllers
 
 The Switch Pro controller will be ideal for use in CEMU (WiiU emulator) or Yuzu (Switch emulator) as it is natively compatible with these emulators and it will support motion control for games that require motion.
 
-However, it has been reported that this controller does not work well with Retrobat interface due to issues with sdl drivers.
-
-{% hint style="info" %}
-In order to use best of both worlds, it is possible to use a 3rd party program such as DS4Windows (by Ryochan) to set this controller as XINPUT in Windows/Retrobat and make it visible in CEMU or Yuzu as sdl controller with motion.
-{% endhint %}
+However, it has been reported that this controller does not work well with Retrobat interface due to issues with sdl version used in RetroBat.
 
 ### Playstation 5 controller (DualSense)
 
 ![](<../../.gitbook/assets/image (1) (3).png>)
 
-DualSense controllers supports motion and is reported to work natively with Retrobat, however it will cause issues with some standalone emulators (e.g. Dolphin).
+DualSense controllers supports motion and is reported to work natively with Retrobat.
 
-The same tip as explained for the Switch Pro Controller can be used to unlock the use of motion with this controller.
+### Playstation 4 controller (DualShock 4)
+
+![](../../.gitbook/assets/image.png)
+
+DS4 controllers supports motion and is reported to work natively with Retrobat.
