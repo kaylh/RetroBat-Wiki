@@ -11,7 +11,7 @@ This wiki is the official RetroBat documentation.
 
 You can use the main menu on the left hand side to navigate through the sections of the wiki.&#x20;
 
-* If you are a beginner with RetroBat, you can head to the [GET STARTED](get-started/prerequisites.md) section and let it guide you through the installation and first setup phase.
+* If you are a beginner with RetroBat, you can head to the [GET STARTED](get-started/prerequisites.md) section and let it guide you through the installation and first setup steps.
 * If you are an advanced user and you are looking for information about a specific Game System, you can head over to the [SUPPORTED GAME SYSTEMS](supported-game-systems/) section, which will provide information about available emulators, BIOS requirements and detailed per-system features.
 * The [ADVANCED FEATURES](broken-reference) section contains information about specific functionalities provided with RetroBat
 
@@ -32,7 +32,7 @@ If the information you are looking for does not exist (yet), you can reach out t
 
 
 
-Last but not least, if you want to support the project, [please consider a donation](https://www.paypal.com/paypalme/AdrienChalard), this will help us pay for the the server infrastructure and get additional hardware for further compatibility.&#x20;
+Last but not least, if you want to support the project, [please consider a donation](https://www.paypal.com/paypalme/AdrienChalard), this will help us pay for the server infrastructure and get additional hardware for further compatibility.&#x20;
 
 
 
