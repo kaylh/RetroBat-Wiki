@@ -233,5 +233,6 @@
 
 ## TUTORIALS
 
+* [Know issues & fixes](tutorials/know-issues-and-fixes.md)
 * [Symbolic links](tutorials/symbolic-links.md)
 * [Adding RetroArch Shader Sets to Retrobat](tutorials/adding-retroarch-shader-sets-to-retrobat.md)
