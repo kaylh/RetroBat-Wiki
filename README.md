@@ -5,11 +5,44 @@ coverY: 0
 
 # Welcome!
 
-RetroBat is a software distribution designed for emulation as the best way to play your game collection on your Windows computer. The provided EmulationStation interface is fully functional and highly customizable. You can launch all your games from it and search online for medias to pimp your collection.
+This wiki is the official RetroBat documentation.
 
-RetroBat can download, update and configure all the best available emulators directly from its interface. You can discover or rediscover the best console, arcade or computer games released until today.
 
-No need to get lost in the options of a multitude of software, all the important options are accessible from the same unified interface.
 
-With RetroBat, you will save lot of time that you can use to play!
+You can use the main menu on the left hand side to navigate through the sections of the wiki.&#x20;
+
+* If you are a beginner with RetroBat, you can head to the [GET STARTED](get-started/prerequisites.md) section and let it guide you through the installation and first setup phase.
+* If you are an advanced user and you are looking for information about a specific Game System, you can head over to the [SUPPORTED GAME SYSTEMS](supported-game-systems/) section, which will provide information about available emulators, BIOS requirements and detailed per-system features.
+* The [ADVANCED FEATURES](broken-reference) section contains information about specific functionalities provided with RetroBat
+
+
+
+The RetroBat team has also included some specific [TUTORIALS](broken-reference) that will be enhanced by the Team based on common support requirements.
+
+
+
+If the information you are looking for does not exist (yet), you can reach out to the Team through the following channels:
+
+* Official [Discord channel](https://discord.gg/7GU8Z8e4BJ)
+* RetroBat [website](https://www.retrobat.org)
+* Official [Facebook page](https://www.facebook.com/groups/531886007636890)
+* Official [Twitter feed](https://twitter.com/retrobat\_off)
+
+
+
+Last but not least, if you want to support the project, [please consider a donation](https://www.paypal.com/paypalme/AdrienChalard), this will help us pay for the the server infrastructure and get additional hardware for further compatibility.&#x20;
+
+
+
+The wiki is available in english and french languages
+
+
+
+Thank you!
+
+
+
+
+
+
 
