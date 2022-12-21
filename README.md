@@ -13,14 +13,3 @@ No need to get lost in the options of a multitude of software, all the important
 
 With RetroBat, you will save lot of time that you can use to play!
 
-### 💻 System Requirements
-
-| **OS supported:** | Windows 11, Windows 10, Windows 8.1                                                                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Processor:**    | CPU with SSE2 support. 3 GHz and Dual Core, not older than 2008 is highly recommended.                                                                        |
-| **Graphics:**     | Modern graphics card that supports Direct3D 11.1 / OpenGL 4.4 / Vulkan                                                                                        |
-| **Dependancies:** | [Visual C++ 2010 Redistributable Packages (32 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)                |
-|                   | [Visual C++ 2015, 2017 and 2019 Redistributable Packages (32 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) |
-|                   | [Visual C++ 2015, 2017 and 2019 Redistributable Packages (64 bit)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) |
-|                   | [DirectX](https://www.microsoft.com/download/details.aspx?id=35)                                                                                              |
-| **Controllers:**  | Xinput controllers hightly recommanded. Test your controller [HERE](https://gamepad-tester.com)                                                               |

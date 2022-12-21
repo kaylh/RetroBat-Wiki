@@ -4,6 +4,7 @@
 
 ## Get Started
 
+* [Prerequisites](get-started/prerequisites.md)
 * [Installation & First Startup](installation-and-first-startup.md)
 * [Adding a game](get-started/adding-a-game.md)
 * [Running a game](get-started/running-a-game.md)
