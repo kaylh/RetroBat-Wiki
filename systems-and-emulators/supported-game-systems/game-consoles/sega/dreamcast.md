@@ -19,10 +19,21 @@ Game Console - Lifespan: 1998 - 2001
 
 ## Bios Information
 
-| bios file     | Folder     | md5                              |
-| ------------- | ---------- | -------------------------------- |
-| dc\_boot.bin  | `\bios\dc` | e10c53c2f8b90bab96ead2d368858623 |
-| dc\_flash.bin | `\bios\dc` | 0a93f7940c455905bea6e392dfde92a4 |
+| bios file     | Folder     | md5                                 |
+| ------------- | ---------- | ----------------------------------- |
+| dc\_boot.bin  | `\bios\dc` | e10c53c2f8b90bab96ead2d368858623    |
+| dc\_flash.bin | `\bios\dc` | 0a93f7940c455905bea6e392dfde92a4    |
+| dc.zip        | `\bios`    | See below (required for demul only) |
+
+#### Content of BIOS file
+
+```
+dc.zip
+- 1_01d_01.bin "E10C53C2F8B90BAB96EAD2D368858623"
+- 1_01d_02.bin "A5C6A00818F97C5E3E91569EE22416DC"
+- 1_004_01.bin "37C921EB47532CAE8FB70E5D987CE91C"
+- 1_011_01.bin "EAFCA1EED2D7F76C487E940597C2A786"
+```
 
 ## Controls
 
