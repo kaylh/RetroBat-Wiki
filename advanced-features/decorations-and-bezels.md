@@ -122,6 +122,10 @@ In addition, set **DECORATIONS** to **NONE** and **GAME ASPECT RATIO** to **FULL
 
 <figure><img src="https://i.imgur.com/xFINt8C.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+You can leave GAME ASPECT RATIO on "AUTO" if you are using a 4/3 screen.
+{% endhint %}
+
 Last but not least, Mega Bezels only work with **VULKAN** video driver, so ensure it is set properly in the [**Advanced Settings > Drivers** menu](../navigation/view-options.md#advanced-system-options)
 
 <figure><img src="https://i.imgur.com/nuSg307.png" alt=""><figcaption></figcaption></figure>
