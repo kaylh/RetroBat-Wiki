@@ -20,6 +20,8 @@ No BIOS files required for Apple IIGS.
 
 ## Controls
 
+No autoconfiguration is performed for gsplus.
+
 Use Pad2Key for this system, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
 It is better to use keyboard & Mouse for personal computers.
