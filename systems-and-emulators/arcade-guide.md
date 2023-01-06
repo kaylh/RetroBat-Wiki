@@ -2,15 +2,26 @@
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/arcade.svg" alt=""><figcaption></figcaption></figure>
 
-## Emulators
+## Introduction
+
+Arcade emulators can be split in 2 categories:
+
+* Multi-Arcade-Machine Emulators
+* Single-Arcade-Board Emulators
+
+There are a huge variety of Arcade Machines, this is why Arcade Emulation is complex.
+
+
+
+In this guide, we will focus on 2 families of emulators, and give you the main keys to understand Arcade Emulation, we will group the Emulators in the 2 families described above.
+
+## Multi Machine Emulators
 
 There are two families of multi-system arcade emulators available: FinalBurn and MAME.&#x20;
 
 These emulators are available in multiple versions to allow users to best match a core/emulator with their games.&#x20;
 
-
-
-### Available Arcade emulators in Retrobat
+### Available Multi-Machine Arcade emulators in Retrobat
 
 | Emulator/core            | ROMs folder   | ROM set version |
 | ------------------------ | ------------- | --------------- |
@@ -24,6 +35,30 @@ These emulators are available in multiple versions to allow users to best match 
 | Libretro: fbneo          | `\roms\fbneo` | 1.0.0.3         |
 | Libretro: fbalpha        | `\roms\fbneo` | 0.2.97.44       |
 | Libretro: fbalpha2012    | `\roms\fbneo` | 0.2.97.29       |
+
+MAME is the usual emulator used for common Arcade games (the likes of Pac-Man, Asteroids, etc.)
+
+FBNeo is specialized in Fighting Games and Beat-them-up.
+
+
+
+## Single Board Emulators
+
+| Arcade Machine(s)          | ROMs folder         | Emulator         |
+| -------------------------- | ------------------- | ---------------- |
+| FMV LaserDisc Arcade Games | `\roms\daphne`      | DAPHNE / Hypseus |
+| ATOMISWAVE                 | `\roms\atomiswave`  | FLYCAST / Demul  |
+| GAELCO                     | `\roms\gaelco`      | Demul            |
+| SEGA MODEL 2               | `\roms\model2`      | m2emulator       |
+| SEGA MODEL 3               | `\roms\model3`      | Supermodel       |
+| SEGA NAOMI                 | `\roms\naomi`       | FLYCAST / Demul  |
+| SEGA NAOMI 2               | `\roms\naomi2`      | FLYCAST / Demul  |
+| HIKARU                     | `\roms\hikaru`      | Demul            |
+| TRIFORCE                   | `\roms\triforce`    | DOLPHIN          |
+| CHIHIRO                    | `\roms\chihiro`     | CXBX-RELOADED    |
+| PC-BASED ARCADE            | `\roms\teknoparrot` | TEKNOPARROT      |
+
+
 
 ## ROMs
 
