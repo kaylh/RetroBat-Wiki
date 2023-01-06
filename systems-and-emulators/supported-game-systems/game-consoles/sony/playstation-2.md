@@ -32,6 +32,24 @@ Game Console - Lifespan: 2000 - 2013
 | rom1.bin       | `\bios` | 44552702b05697a14ccbe2ca22ee7139 |
 | ROM2.BIN       | `\bios` | b406d05922dac2eaf3c2e68157b1b468 |
 
+### Other possible non-mandatory BIOS files
+
+| Bios file                           | Folder  |
+| ----------------------------------- | ------- |
+| SCPH-39004\_BIOS\_V7\_EUR\_160.BIN  | `\bios` |
+| SCPH-39001\_BIOS\_V7\_USA\_160.BIN  | `\bios` |
+| SCPH-70000\_BIOS\_V12\_JAP\_200.BIN | `\bios` |
+
+### Logic for BIOS search
+
+RetroBat will search BIOS to use with the following logic:
+
+1. Search for existing BIOS in folder `\bios\pcsx2\bios`, use first BIOS found in this folder
+2. If no BIOS found, search for BIOS in `\bios` folder, use the first BIOS found in this folder
+3. If no BIOS found: force _SCPH30004R.bin_ in emulator configuration file
+
+This means that if you want to use a dedicated BIOS file instead of standard _SCPH30004R.bin_, the best solution is to place the BIOS you want to use in the `\bios\pcsx2\bios` directory.
+
 ## Controls
 
 | RetroBat key                                                                              | Playstation 2 key  |
