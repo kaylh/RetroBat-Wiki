@@ -4,9 +4,13 @@ BIOS files are files required for some emulators to operate correctly.&#x20;
 
 ### Location
 
-BIOS files must be placed in the `\bios` folder in your Retrobat installation:
+For most systems, BIOS files must be placed in the `\bios` folder in your Retrobat installation:
 
 <figure><img src="https://i.imgur.com/5vAbqqT.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+A few systems need the bios files to be placed in subfolders. Refer to the individual system wiki page for detailed information about BIOS placement.
+{% endhint %}
 
 ### Missing BIOS check
 
