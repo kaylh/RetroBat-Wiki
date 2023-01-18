@@ -87,7 +87,7 @@ Arcade ROMs can be formatted four ways:
 
 
 {% hint style="warning" %}
-Merged rom sets are not supported by libretro cores.&#x20;
+Merged rom sets are not supported, as only the main game will be seen in RetroBat and launched by Mame core.&#x20;
 
 We recommend the use of Non-merged rom sets.
 {% endhint %}
