@@ -37,7 +37,7 @@ In order for RetroBat to see the Hack version, the rom will have to be "un-merge
 
 #### **Step 1: checking the rom**
 
-Check that the rom you have is correct, this can be achieved by downloading the official HBMameUI software here, placing the rom in the rom folder of the downloaded HBMame and auditing the set.
+Check that the rom you have is correct, this can be achieved by downloading the official HBMameUI software [here](https://hbmame.1emulation.com/), placing the rom in the rom folder of the downloaded HBMame and auditing the set.
 
 #### **Step 2: un-merging the rom**
 
