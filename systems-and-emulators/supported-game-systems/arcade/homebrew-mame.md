@@ -27,7 +27,7 @@ Refer to the [MAME page](mame.md#bios-information), HBMAME requires the same bio
 
 ## Specific system information
 
-### Add HBMame to RetroBat
+### Adding HBMame games to RetroBat
 
 Most Romsets for HBMame come in a "merged" presentation, meaning that the rom will contain the main game and the hack inside of the same zip file.
 
