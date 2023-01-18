@@ -27,6 +27,50 @@ Refer to the [MAME page](mame.md#bios-information), HBMAME requires the same bio
 
 ## Specific system information
 
+### Add HBMame to RetroBat
+
+Most Romsets for HBMame come in a "merged" presentation, meaning that the rom will contain the main game and the hack inside of the same zip file.
+
+In order for RetroBat to see the Hack version, the rom will have to be "un-merged", here is an example for the "Arrange Ver. 1.1" hack for DoDonPachi:
+
+<figure><img src="https://i.imgur.com/5Zh2T6D.png" alt=""><figcaption></figcaption></figure>
+
+#### **Step 1: checking the rom**
+
+Check that the rom you have is correct, this can be achieved by downloading the official HBMameUI software here, placing the rom in the rom folder of the downloaded HBMame and auditing the set.
+
+#### **Step 2: un-merging the rom**
+
+Place your rom in the `\roms\hbmame` folder of your RetroBat installation.
+
+Open the rom archive and extract the hack you want to launch from RetroBat.
+
+Here for example we will extract ddonpacha from the archive:
+
+<figure><img src="https://i.imgur.com/uPE1ZDY.png" alt=""><figcaption></figcaption></figure>
+
+Now, go inside the extracted ddonpacha folder and zip the content, the zip name must be `ddonpacha.zip` (the official hack name):
+
+<figure><img src="https://i.imgur.com/QiLS3QV.png" alt=""><figcaption></figcaption></figure>
+
+The content of the zip should look as follows:
+
+<figure><img src="https://i.imgur.com/dmRocxJ.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+When zipping, ensure there is no ddonpacha subdirectory before the rom files !
+{% endhint %}
+
+#### **Step 3: run the game**
+
+Now both roms will appear in RetroBat : the main one and the hack
+
+<figure><img src="https://i.imgur.com/hVLvQ5N.png" alt=""><figcaption></figcaption></figure>
+
+And you will be able to run the hack rom with the emulators / cores provided in RetroBat:
+
+<figure><img src="https://i.imgur.com/ERVSQi8.png" alt=""><figcaption></figcaption></figure>
+
 ### ROM set versions&#x20;
 
 Current ROM set : 0.245
