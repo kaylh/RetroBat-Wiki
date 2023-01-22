@@ -59,6 +59,12 @@ Example with the full game "SimCity 64":
 * Pick any n64 roms file and rename it `SimCity 64 (Japan).n64`
 * Then run `SimCity 64 (Japan).n64` in RetroBat.
 
+{% hint style="info" %}
+Always run the .n64 or .z64 file from RetroBat, as running the .ndd will lead to an error message.
+
+To avoid confusion, you can hide the .ndd extensions for the system.
+{% endhint %}
+
 ### BIOS selection
 
 Althrough only commercialized in Japan, US games are available for the n64dd system, as well as prototypes using a specific "dev" BIOS.
