@@ -17,6 +17,12 @@ Arcade - Released: 2000&#x20;
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: naomi2 |
 | **File extension** | .zip .7z                                                |
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## Bios Information
 
 | bios file  | Folder     | md5       |

@@ -12,10 +12,10 @@ Game Console - Lifespan: 1993 - 1999
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: 4do</li><li>Libretro: opera</li></ul> |
-| ------------------ | ------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: 3do    |
-| **File extension** | .cue .iso .chd .m3u                                     |
+| **Emulators**      | <ul><li>Libretro: 4do</li><li>Libretro: opera</li><li>phoenix</li></ul> |
+| ------------------ | ----------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: 3do                    |
+| **File extension** | .cue .iso .chd .m3u                                                     |
 
 ## Bios Information
 

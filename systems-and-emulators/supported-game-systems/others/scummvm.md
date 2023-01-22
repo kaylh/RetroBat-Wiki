@@ -44,3 +44,7 @@ In the .txt file, enter the ScummVM **game shortname**, refer to [https://www.sc
 Finally, rename the \*._txt_ files into \*._scummvm_ file, for example:\
 \
 Full Throttle.**txt**  **==>** Full Throttle.**scummvm**
+
+### Accessing ScummVM menu (libretro core)
+
+When the option "Game Focus" is enabled, use CTRL + F5 to access ScummVM menu, as usual RetroArch hotkeys are disabled.

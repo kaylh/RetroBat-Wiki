@@ -139,3 +139,7 @@ Here are some examples of Mega Bezel:
 <figure><img src="https://i.imgur.com/HYSzHRZ.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://i.imgur.com/mmaoUzW.png" alt=""><figcaption></figcaption></figure>
+
+### Customize Mega-bezels
+
+Refer to [section "Customize Mega-bezels"](decorations-and-bezels.md#customize-mega-bezels)

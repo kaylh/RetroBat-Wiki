@@ -14,6 +14,12 @@ Hybrid Game Console - Lifespan: 2012 - 2017
 
 <table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>cemu</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> wiiu</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .rpx .wud .wux .wua .m3u</td><td></td></tr></tbody></table>
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## BIOS
 
 There is no BIOS files needed to run games, however, when using .wud or .wux game files, it is necessary to have a keys.txt file in the emulator folder with the right game keys.
@@ -21,6 +27,14 @@ There is no BIOS files needed to run games, however, when using .wud or .wux gam
 The Game keys can be dumped from your WiiU console, see [CEMU guide](https://wiki.cemu.info/wiki/Obtaining\_Keys\_for\_Keys.txt) for more information.
 
 ## Controls
+
+{% hint style="info" %}
+The following controllers can be autoconfigured from Retrobat to Cemu:
+
+* XInput controllers
+* Dualshock & DualSense controllers
+* Nintendo Switch Pro controller
+{% endhint %}
 
 | RetroBat key                                                                              | WiiU Key    |
 | ----------------------------------------------------------------------------------------- | ----------- |

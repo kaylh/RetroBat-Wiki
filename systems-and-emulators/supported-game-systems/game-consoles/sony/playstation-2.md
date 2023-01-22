@@ -16,9 +16,9 @@ Game Console - Lifespan: 2000 - 2013
 
 ## Features
 
-| Retroachievements | NetPlay |
-| ----------------- | ------- |
-| NO                | NO      |
+| Retroachievements         | NetPlay |
+| ------------------------- | ------- |
+| YES (with PCSX2 1.7 only) | NO      |
 
 ## BIOS
 
@@ -51,6 +51,14 @@ RetroBat will search BIOS to use with the following logic:
 This means that if you want to use a dedicated BIOS file instead of standard _SCPH30004R.bin_, the best solution is to place the BIOS you want to use in the `\bios\pcsx2\bios` directory.
 
 ## Controls
+
+{% hint style="info" %}
+The following controllers can be autoconfigured from Retrobat to PCSX2:
+
+* XInput controllers
+* Dualshock & DualSense controllers
+* Nintendo Switch Pro controller
+{% endhint %}
 
 | RetroBat key                                                                              | Playstation 2 key  |
 | ----------------------------------------------------------------------------------------- | ------------------ |

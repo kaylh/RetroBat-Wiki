@@ -66,6 +66,8 @@ Within that text file, write the names of the `.cue` sheets or `.chd` files for 
 
 <figure><img src="https://i.imgur.com/ZzJ7Ldj.png" alt=""><figcaption></figcaption></figure>
 
+Finally save the file as a .m3u file.
+
 ### Custom textures
 
 The mednafen\_psx\_hw core allows to load custom texture packs.

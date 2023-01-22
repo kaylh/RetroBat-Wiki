@@ -49,9 +49,31 @@ Firmware will appear at the bottom of the emulator:
 
 ## Controls
 
-Controller configuration must be performed in the emulator.
+{% hint style="info" %}
+The following controllers can be autoconfigured from Retrobat to RPCS3:
 
-<figure><img src="https://i.imgur.com/YoW67OI.png" alt=""><figcaption></figcaption></figure>
+* XInput controllers
+* Dualshock & DualSense controllers
+* Nintendo Switch Pro controller
+{% endhint %}
+
+| RetroBat key                                                                              | Playstation 3 key  |
+| ----------------------------------------------------------------------------------------- | ------------------ |
+| START                                                                                     | START              |
+| SELECT / BACK                                                                             | SELECT             |
+| D-PAD                                                                                     | D-PAD              |
+| Left analog stick                                                                         | Left analog stick  |
+| Right analog stick                                                                        | Right analog stick |
+| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Cross              |
+| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | Circle             |
+| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Triangle           |
+| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Square             |
+| L1                                                                                        | L1                 |
+| R1                                                                                        | R1                 |
+| L2                                                                                        | L2                 |
+| R2                                                                                        | R2                 |
+| L3                                                                                        | L3                 |
+| R3                                                                                        | R3                 |
 
 ## System Features
 

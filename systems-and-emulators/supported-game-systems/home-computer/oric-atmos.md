@@ -12,7 +12,7 @@ Computer - Lifespan: 1984 - 1985
 
 ## Information
 
-| **Emulators**      | <ul><li>oricutron</li></ul>                                |
+| **Emulators**      | <ul><li>oricutron</li><li>libretro: mame</li></ul>         |
 | ------------------ | ---------------------------------------------------------- |
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: oricatmos |
 | **File extension** | .dsk .tap                                                  |

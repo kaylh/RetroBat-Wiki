@@ -31,4 +31,14 @@ In construction : default RetroArch mapping.
 
 ## Specific system information
 
-No specific system information yet.
+### Service Menu
+
+Some games have a per-game menu for accessing the machine's advanced configuration such as its dip switches, service mode and diagnostic input.
+
+To access the service menu for ATOMISWAVE games, you need first to enable the Service Mode from the RetroBat advanced menu (set it to YES):
+
+<figure><img src="https://i.imgur.com/ztsYbF4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/FcFsHjG.png" alt=""><figcaption></figcaption></figure>
+
+Once done, you will be able access the per-game Service Menu by pressing L3 + R3 buttons on the controller.

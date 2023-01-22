@@ -52,6 +52,6 @@ DualSense controllers supports motion and is reported to work natively with Retr
 
 ### Playstation 4 controller (DualShock 4)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 DS4 controllers supports motion and is reported to work natively with Retrobat.

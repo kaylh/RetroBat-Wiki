@@ -17,13 +17,19 @@ Game Console - Lifespan: 1998 - 2001
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: dreamcast                                  |
 | **File extension** | .mds .mdf .cue .cdi .gdi .chd .m3u                                                          |
 
+## Features
+
+| Retroachievements | NetPlay                      |
+| ----------------- | ---------------------------- |
+| YES               | YES (libretro: redream only) |
+
 ## Bios Information
 
 | bios file     | Folder     | md5                                 |
 | ------------- | ---------- | ----------------------------------- |
 | dc\_boot.bin  | `\bios\dc` | e10c53c2f8b90bab96ead2d368858623    |
 | dc\_flash.bin | `\bios\dc` | 0a93f7940c455905bea6e392dfde92a4    |
-| dc.zip        | `\bios`    | See below (required for demul only) |
+| dc.zip        | `\bios\dc` | See below (required for demul only) |
 
 #### Content of BIOS file
 

@@ -18,6 +18,12 @@ Hybrid Game Console - Lifespan: 2017 - present
 You need to be a Yuzu Patreon to use Yuzu Early Access.
 {% endhint %}
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## BIOS
 
 Switch firmware files and prod.keys need to be dumped from your console and placed in dedicated directories in the emulator folders:
@@ -37,6 +43,14 @@ Install firmware directly in the emulator
 <figure><img src="https://i.imgur.com/CVXr1y7.png" alt=""><figcaption><p>Tools > Install Firmware</p></figcaption></figure>
 
 ## Controls
+
+{% hint style="info" %}
+The following controllers can be autoconfigured from Retrobat to Yuzu/Ryujinx:
+
+* XInput controllers
+* Dualshock & DualSense controllers
+* Nintendo Switch Pro controller
+{% endhint %}
 
 | RetroBat key                                                                              | Switch Key  |
 | ----------------------------------------------------------------------------------------- | ----------- |

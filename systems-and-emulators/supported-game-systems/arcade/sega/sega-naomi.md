@@ -17,6 +17,12 @@ Arcade - Released: 1998&#x20;
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: naomi |
 | **File extension** | .bin .dat .lst .zip .7z                                |
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## Bios Information
 
 | bios file | Folder     | md5                              |

@@ -119,6 +119,7 @@
       * [Neo Geo Pocket Color](systems-and-emulators/supported-game-systems/portable-game-consoles/snk/neo-geo-pocket-color.md)
     * [Sony (portable game consoles)](systems-and-emulators/supported-game-systems/portable-game-consoles/sony-portable-game-consoles/README.md)
       * [PlayStation Portable](systems-and-emulators/supported-game-systems/portable-game-consoles/sony-portable-game-consoles/playstation-portable.md)
+      * [PlayStation Vita](systems-and-emulators/supported-game-systems/portable-game-consoles/sony-portable-game-consoles/psvita.md)
     * [Supervision](systems-and-emulators/supported-game-systems/portable-game-consoles/supervision.md)
     * [Wonderswan](systems-and-emulators/supported-game-systems/portable-game-consoles/wonderswan/README.md)
       * [WonderSwan](systems-and-emulators/supported-game-systems/portable-game-consoles/wonderswan/wonderswan.md)
@@ -236,3 +237,4 @@
 * [Know issues & fixes](tutorials/know-issues-and-fixes.md)
 * [Symbolic links](tutorials/symbolic-links.md)
 * [Adding RetroArch Shader Sets to Retrobat](tutorials/adding-retroarch-shader-sets-to-retrobat.md)
+* [Customize Mega-Bezels](tutorials/customize-mega-bezels.md)

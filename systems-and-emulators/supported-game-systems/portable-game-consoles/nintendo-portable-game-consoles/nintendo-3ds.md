@@ -20,23 +20,38 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                              | 3DS key        |
-| ----------------------------------------------------------------------------------------- | -------------- |
-| START                                                                                     | START          |
-| SELECT / BACK                                                                             | SELECT         |
-| D-PAD                                                                                     | D-PAD          |
-| Left analog stick                                                                         | Left stick     |
-| Right analog stick                                                                        | Cursor         |
-| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B              |
-| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A              |
-| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X              |
-| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y              |
-| L1                                                                                        | L              |
-| R1                                                                                        | R              |
-| L2                                                                                        | ZL             |
-| R2                                                                                        | ZR             |
-| L3                                                                                        |                |
-| R3                                                                                        | Cursor L-click |
+{% hint style="info" %}
+The following controllers can be autoconfigured from RetroBat to citra standalone:
+
+* XInput controllers
+* Dualshock 4 and Dualsense controllers
+* Nintendo Switch Pro controller
+{% endhint %}
+
+{% hint style="info" %}
+The 3DS has a touchpad that is difficult to emulate, the best way to use it is with a mouse connected.
+
+Libretro core can also be set to use the right joystick for the touchpad screen.
+{% endhint %}
+
+| RetroBat key                                                                              | 3DS key                                                                 |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| START                                                                                     | START                                                                   |
+| SELECT / BACK                                                                             | SELECT                                                                  |
+| D-PAD                                                                                     | D-PAD                                                                   |
+| Left analog stick                                                                         | Left stick                                                              |
+| Right analog stick                                                                        | <p>On libretro core : touchscreen cursor<br>On standalone : c-stick</p> |
+| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                                                                       |
+| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A                                                                       |
+| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X                                                                       |
+| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y                                                                       |
+| L1                                                                                        | L                                                                       |
+| R1                                                                                        | R                                                                       |
+| L2                                                                                        | ZL                                                                      |
+| R2                                                                                        | ZR                                                                      |
+| L3                                                                                        |                                                                         |
+| R3                                                                                        | On libretro core : touchscreen tap                                      |
+| MOUSE                                                                                     | Touchscreen cursor and tap                                              |
 
 ## Specific System Information
 

@@ -6,7 +6,7 @@ description: Sony
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psp.svg" alt=""><figcaption></figcaption></figure>
 
-Game Console - Lifespan: 2004 - 2014
+Portable Game Console - Lifespan: 2004 - 2014
 
 {% embed url="https://en.wikipedia.org/wiki/PlayStation_Portable" %}
 
@@ -16,6 +16,12 @@ Game Console - Lifespan: 2004 - 2014
 | ------------------ | ---------------------------------------------------- |
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: psp |
 | **File extension** | .iso .cso .pbp .elf .prx                             |
+
+## Features
+
+| RetroAchievements | NetPlay |
+| ----------------- | ------- |
+| YES               | YES     |
 
 ## BIOS
 

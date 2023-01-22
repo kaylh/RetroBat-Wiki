@@ -12,9 +12,7 @@ Game Console - Lifespan: 2001 - 2007
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>dolphin</li><li>libretro: dolphin</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gamecube</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u*</td><td></td></tr></tbody></table>
-
-\*m3u files are only supported by libretro: dolphin as of now
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>dolphin</li><li>libretro: dolphin</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gamecube</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gcz .iso .ciso .wbfs .wad .rvz .wia .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -23,6 +21,15 @@ The BIOS files are not mandatory to launch games but some require at least one o
 <table data-header-hidden><thead><tr><th>File</th><th>Location &#x26; MD5</th><th data-hidden>MD5 Hash</th></tr></thead><tbody><tr><td><code>IPL.bin</code><br>Europe</td><td>location: <code>\emulators\dolphin-emu\User\GC\EUR</code><br>md5: <code>0cdda509e2da83c85bfe423dd87346cc</code></td><td></td></tr><tr><td><code>IPL.bin</code><br>Japan</td><td>location: <code>\emulators\dolphin-emu\User\GC\JAP</code><br>md5: <code>fc924a7c879b661abc37cec4f018fdf3</code></td><td></td></tr><tr><td><code>IPL.bin</code><br>USA</td><td>location: <code>\emulators\dolphin-emu\User\GC\USA</code><br>md5: <code>019e39822a9ca3029124f74dd4d55ac4</code></td><td></td></tr></tbody></table>
 
 ## Controls
+
+{% hint style="info" %}
+The following controllers can be autoconfigured from RetroBat to Dolphin:
+
+* XInput controllers
+* Dualshock 4 and Dualsense controllers
+* Nintendo Switch Pro controller
+* Original Gamecube controller through Gamecube Adapter
+{% endhint %}
 
 | RetroBat key                                                                              | GameCube key             |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
@@ -39,6 +46,20 @@ The BIOS files are not mandatory to launch games but some require at least one o
 | RT (R2)                                                                                   | R                        |
 
 ## Specific system information
+
+### Multi-disc games
+
+To automatically load the next disc of a game, you can use a `.m3u` playlist file.&#x20;
+
+In the m3u file, list all game discs from your game:
+
+<figure><img src="https://i.imgur.com/Hh12kWj.png" alt=""><figcaption></figcaption></figure>
+
+Within that text file, write the names of the game files for your game discs:
+
+<figure><img src="https://i.imgur.com/aBZpJ4W.png" alt=""><figcaption></figcaption></figure>
+
+Finally save the file as a .m3u file.
 
 ### Custom Textures
 

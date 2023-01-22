@@ -23,6 +23,16 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
+{% hint style="info" %}
+The following controllers can be autoconfigured from RetroBat to Dolphin:
+
+* REAL Wiimotes (with Dolphinbar) / default
+* XInput controllers
+* Dualshock 4 and Dualsense controllers
+* Nintendo Switch Pro controller
+* Original Gamecube controller through Gamecube Adapter
+{% endhint %}
+
 ### REAL WIIMOTE
 
 For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in Retrobat from the [System View Options](../../../../navigation/view-options.md) or from the [Game Options](../../../../navigation/game-options.md)
