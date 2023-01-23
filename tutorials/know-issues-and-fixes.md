@@ -16,8 +16,17 @@ The issue has been fixed and will be officially provided with v5.1.1, however yo
 
 With V5.1, there is a regression with PinballFX3, tables will not launch automatically, instead the game will present the game menu.
 
-To fix this, download the following éfile and extract its content in the `eumlationstation\` folder of your RetroBat installation.
+To fix this, download the following file and extract its content in the `eumlationstation\` folder of your RetroBat installation.
 
 This will replace your existing "EmulatorLauncher.exe" file and fix the issue.
 
 {% file src="../.gitbook/assets/EmulationStation.zip" %}
+
+## Impossible to exit some emulators with hotkey + start
+
+This issue is caused by a new setting that was introduced : "game focus".
+
+You can disable this setting in GAME SETTINGS > CONTROLS > GAME FOCUS, or download the following file and extract its content in the `eumlationstation\` folder of your RetroBat installation.
+
+{% file src="../.gitbook/assets/EmulationStation.zip" %}
+
