@@ -81,6 +81,10 @@ Vita3K currently supports .pkg, NoNpDrm, FAGDec, or manually decrypted games.&#x
 1. The game is already installed in vita3k
 2. The game is in your roms\psvita folder and is not yet installed in vita3k emulator
 
+{% hint style="info" %}
+Games are installed in the `emulators\vita3k\ux0\app` folder of your RetroBat installation.
+{% endhint %}
+
 #### Case 1 : game is already installed in vita3k
 
 Create a .m3u file in the `\roms\psvita` folder of your RetroBat installation with game name:
