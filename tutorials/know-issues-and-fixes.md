@@ -26,7 +26,15 @@ This will replace your existing "EmulatorLauncher.exe" file and fix the issue.
 
 This issue is caused by a new setting that was introduced : "game focus".
 
-You can disable this setting in GAME SETTINGS > CONTROLS > GAME FOCUS, or download the following file and extract its content in the `eumlationstation\` folder of your RetroBat installation.
+You can disable this setting in GAME SETTINGS > CONTROLS > GAME FOCUS,&#x20;
+
+<figure><img src="https://i.imgur.com/BLZAP5y.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/soxPAC8.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/bFZwPeA.png" alt=""><figcaption></figcaption></figure>
+
+or download the following file and extract its content in the `eumlationstation\` folder of your RetroBat installation.
 
 {% file src="../.gitbook/assets/EmulationStation.zip" %}
 
