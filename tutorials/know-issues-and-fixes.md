@@ -4,6 +4,12 @@ This section is constantly updated with official fixes provided by the Team for 
 
 
 
+## Axis inversion in RPCS3 emulator
+
+The issue has been fixed and will be officially provided with v5.1.1, however you can fix it now by downloading this file and unzipping the content inside the `\emulationstation` folder of your RetroBat installation.
+
+{% file src="../.gitbook/assets/EmulationStation.zip" %}
+
 ## Error message when running emulators "null value"
 
 This issue has been raised in v5.1 when people use twice the same model of controllers.
