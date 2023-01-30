@@ -12,10 +12,10 @@ Game Console - Lifespan: 1998 - 2001
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: flycast</li><li>Libretro: redream</li><li>redream</li><li>demul</li></ul> |
-| ------------------ | ------------------------------------------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: dreamcast                                  |
-| **File extension** | .mds .mdf .cue .cdi .gdi .chd .m3u                                                          |
+| **Emulators**      | <ul><li>Libretro: flycast</li><li>redream</li><li>demul</li></ul> |
+| ------------------ | ----------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: dreamcast        |
+| **File extension** | .mds .mdf .cue .cdi .gdi .chd .m3u                                |
 
 ## Features
 

@@ -127,3 +127,11 @@ Note that Hypseus games will only work if you activate the "Developper Mode" in 
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/9fAIgE0.png" alt=""><figcaption></figcaption></figure>
+
+### Add Actionmax games
+
+Drop the actionmax folder in your roms\daphne folder.
+
+Create an empty file and name it with the name of the game and the extension .actionmax in the roms\daphne folder (eg. `sonicfury.actionmax`).
+
+As for Hypseus, the Developper Mode must be enabled in Windows to run Actionmax games.
