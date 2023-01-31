@@ -16,7 +16,9 @@ Computer - Lifespan: 1986 - 1992
 
 ## BIOS
 
-No BIOS files required for Apple IIGS.
+| bios file    | Folder  | md5 |
+| ------------ | ------- | --- |
+| APPLE2GS.ROM | `\bios` |     |
 
 ## Controls
 
