@@ -16,9 +16,9 @@ Computer - Lifespan: 1986 - 1992
 
 ## BIOS
 
-| bios file    | Folder  | md5 |
-| ------------ | ------- | --- |
-| APPLE2GS.ROM | `\bios` |     |
+| bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| APPLE2GS.ROM | `\bios` | 20a0334c447cb069a040ae5be1d938df |
 
 ## Controls
 
