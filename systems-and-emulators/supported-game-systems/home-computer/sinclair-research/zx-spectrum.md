@@ -24,13 +24,15 @@ In order to have proper controls in fuse core, you need to call RetroArch menu (
 
 <figure><img src="https://i.imgur.com/I8uusJl.png" alt=""><figcaption></figcaption></figure>
 
-Port 1 and 2 controls should be set to a ZX Spectrum compatible Joystick type (Kempston et Sinclair).
+Port 1 and 2 controls should be set to a ZX Spectrum compatible Joystick type (Kempston and Sinclair).
 
 <figure><img src="https://i.imgur.com/tCQKdy6.png" alt=""><figcaption></figcaption></figure>
 
 If you want to use a keyboard, you should set Ports 1 & 2 to "none" and use Sinclair Keyboard in port 3.
 
-You can use SELECT button on your Joystick to bring the visual keyboard once the ports have been configured when using a joystick.
+You can use SELECT button on your Joystick to bring the visual keyboard once the ports have been configured when using a joystick:
+
+<figure><img src="https://i.imgur.com/UR8CfrL.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific system information
 
