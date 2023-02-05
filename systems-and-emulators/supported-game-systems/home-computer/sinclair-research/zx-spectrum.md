@@ -20,15 +20,25 @@ No BIOS required for ZX Spectrum.
 
 ## Controls
 
-In order to have proper controls in fuse core, you need to call RetroArch menu (HOTKEY + ![](<../../../../.gitbook/assets/image (1) (2) (1).png>)) and configure the controls in the quick menu:
+Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-<figure><img src="https://i.imgur.com/I8uusJl.png" alt=""><figcaption></figcaption></figure>
-
-Port 1 and 2 controls should be set to a ZX Spectrum compatible Joystick type (Kempston et Sinclair).
-
-If you want to use a keyboard, you should set Ports 1 & 2 to "none" and use Sinclair Keyboard in port 3.
-
-You can use SELECT button on your Joystick to bring the visual keyboard once the ports have been configured when using a joystick.
+| Retrobat Button                                          | ZX Spectrum key    |
+| -------------------------------------------------------- | ------------------ |
+| START                                                    |                    |
+| SELECT                                                   | On-screen keyboard |
+| D-PAD                                                    |                    |
+| Left analog stick                                        |                    |
+| Right analog stick                                       |                    |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | Fire               |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | Fire               |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | Fire               |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | Up arrow           |
+| L1                                                       | Return             |
+| R1                                                       | Space              |
+| L2                                                       |                    |
+| R2                                                       |                    |
+| L3                                                       |                    |
+| R3                                                       |                    |
 
 ## Specific system information
 
