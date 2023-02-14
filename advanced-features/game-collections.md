@@ -91,6 +91,10 @@ In the [View Options](../navigation/view-options.md) enable **SHOW FAVORITES ON 
 
 ## Editable Game Collections
 
+Editable game collections are designed to let you manually manage your collection, the only way to add games to an editable collection is to manually add them as shown below.
+
+
+
 From the GAME COLLECTION SETTINGS screen, select **CREATE NEW EDITABLE COLLECTION**.
 
 <figure><img src="https://i.imgur.com/EMAdRtw.png" alt=""><figcaption></figcaption></figure>
@@ -107,7 +111,7 @@ The **COLLECTIONS** item contains the list of your collections, including the on
 
 <figure><img src="https://i.imgur.com/AWmu3sN.png" alt=""><figcaption><p>Mario Games collection appears in the Collections folder</p></figcaption></figure>
 
-The next step is to add games to the newly created collection, to do so, highlight a game in the [Game View](../navigation/system-view-and-game-view.md) and long-press  to show the [Game Options](../navigation/game-options.md) menu and in the **COLLECTIONS** part select the collections in which the game must be added.
+The next step is to add games to the newly created collection, to do so, highlight a game in the [Game View](../navigation/system-view-and-game-view.md) and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) to show the [Game Options](../navigation/game-options.md) menu and in the **COLLECTIONS** part select the collections in which the game must be added.
 
 <figure><img src="https://i.imgur.com/YNiR0a2.png" alt=""><figcaption><p>Adding MARIOS BROS to the Mario Games collection</p></figcaption></figure>
 
@@ -116,6 +120,10 @@ The Game is now added to the collection and appears in the Collection Game View.
 <figure><img src="https://i.imgur.com/I4Rv2Fi.png" alt=""><figcaption></figcaption></figure>
 
 ## Dynamic Game Collections
+
+Dynamic game collections offer a more powerful tool to automatically add games to a collection based on multiple criterias and filters. When displaying the collection, the system will automatically show all games that meet the criterias defined in the filters.
+
+
 
 From the GAME COLLECTION SETTINGS screen, select **CREATE NEW DYNAMIC COLLECTION**.
 
