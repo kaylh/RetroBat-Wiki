@@ -231,6 +231,7 @@
 * [AI Translation Service](advanced-features/ai-translation-service.md)
 * [Batgui](advanced-features/batgui.md)
 * [retrobat.ini](advanced-features/retrobat.ini.md)
+* [Translations](advanced-features/translations.md)
 
 ## TUTORIALS
 
