@@ -34,7 +34,7 @@ This folder can be used to store magazines, these will appear in RetroBat in a "
 
 ## roms folder
 
-This \*is the folder where the games rom need to be copied, each game has to be placed in the correct system subfolder and must have an extension that is accepted by the emulator.
+This is the folder where the games rom need to be copied, each game has to be placed in the correct system subfolder and must have an extension that is accepted by the emulator.
 
 More information can be found in each [system individual pages](../supported-game-systems/).
 
