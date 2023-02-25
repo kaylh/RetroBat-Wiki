@@ -90,3 +90,12 @@ To access the Emulator, you can go in the Retrobat System in the System View.
 
 For RetroArch cores, you can create your own Game Controller mapping for the game by pressing F1 (hotkey + ![B](<../.gitbook/assets/image (4) (1).png>)) during game emulation and changing the controller configuration.
 {% endhint %}
+
+## Fixing controller configuration issues
+
+In case of issue with controls, follow the steps below:&#x20;
+
+1. Try to reconfigure your controller mapping
+2. Use the [Batgui ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to reset the controller configuration
+3. Use the [batgui ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to try different SDL version
+4. Contact the RetroBat team
