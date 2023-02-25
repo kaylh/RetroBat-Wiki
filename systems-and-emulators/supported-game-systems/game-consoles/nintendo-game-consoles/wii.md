@@ -183,6 +183,7 @@ It used the default mapping with the following changes:
 | ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | 2           |
 | <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | B           |
 | <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | A           |
+| L2                                                                                        | Shake       |
 
 (ROM name example : `New Super Mario WII.side.iso`)
 
