@@ -23,23 +23,19 @@ No BIOS required.
 
 ## Controls
 
-{% hint style="warning" %}
-No automatic generation, controls should be configured in emulator and automatic configuration disabled in RetroBat
-{% endhint %}
-
 | Retrobat Button                                       | OpenBOR key |
 | ----------------------------------------------------- | ----------- |
-| START                                                 |             |
-| SELECT                                                |             |
-| D-PAD                                                 |             |
-| Left analog stick                                     |             |
+| START                                                 | START       |
+| SELECT                                                | ESC         |
+| D-PAD                                                 | D-PAD       |
+| Left analog stick                                     | DIRECTIONS  |
 | Right analog stick                                    |             |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) |             |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) |             |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     |             |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) |             |
-| L1                                                    |             |
-| R1                                                    |             |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Attack      |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Jump        |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Attack 2    |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Special     |
+| L1                                                    | Attack 4    |
+| R1                                                    | Attack 3    |
 | L2                                                    |             |
 | R2                                                    |             |
 | L3                                                    |             |

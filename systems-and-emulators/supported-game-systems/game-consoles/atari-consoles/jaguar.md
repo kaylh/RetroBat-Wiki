@@ -28,7 +28,19 @@ Game Console - Lifespan: 1993 - 1996
 
 ## Controls
 
+### VirtualJaguar
+
 <figure><img src="https://i.imgur.com/dOWkQMI.png" alt=""><figcaption></figcaption></figure>
+
+### BigPEmu
+
+Controls have to be configured directly in the emulator.
+
+{% hint style="warning" %}
+You need to use the _**Configure BigPEmu.bat**_ file to run BigPEmu or run it from within RetroBat for the configuration to be correctly saved.
+
+All configuration done by launching directly _**BigPEmu.exe**_ will be ignored by RetroBat.
+{% endhint %}
 
 ## Specific system information
 

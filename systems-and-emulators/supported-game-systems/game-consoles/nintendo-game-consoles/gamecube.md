@@ -65,9 +65,9 @@ Finally save the file as a .m3u file.
 
 It is possible to launch Custom Texture packs with the Dolphin Emulator.
 
-The texture pack needs to be placed in the `\emulators\dolphin-emu\User\Load\Textures` folder.
+The texture pack needs to be placed in the `\bios\dolphin-emu\User\Load\Textures` folder.
 
-<figure><img src="https://i.imgur.com/sKxzXS3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/uIm7U0E.png" alt=""><figcaption></figcaption></figure>
 
 The name of the custom texture folder must be strictly identical to the **Game ID** that can be found in the game properties inside Dolphin.
 

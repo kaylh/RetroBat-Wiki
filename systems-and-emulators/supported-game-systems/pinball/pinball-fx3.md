@@ -68,7 +68,7 @@ To easily find this location, just follow these steps:
 
 * Right-click on Pinball FX3 listed now in the Steam Game List, then hover with the mouse pointer "Manage" and left-click on "Browse local files" when the game sub-menu appears. The File Explorer should open now the location of your Pinball FX3 installation.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>the game sub-menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>the game sub-menu</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>the Pinball FX3 installation folder</p></figcaption></figure>
 

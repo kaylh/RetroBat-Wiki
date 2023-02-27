@@ -123,10 +123,10 @@ The process is similar as for Daphne games but there is no zip file to place in 
 <figure><img src="https://i.imgur.com/QPFt4jZ.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note that Hypseus games will only work if you activate the "Developper Mode" in Windows.
+~~Note that Hypseus games will only work if you activate the "Developper Mode" in Windows.~~
 {% endhint %}
 
-<figure><img src="https://i.imgur.com/9fAIgE0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/9fAIgE0.png" alt=""><figcaption><p>NOT NECESSARY SINCE RETROBAT VERSION 5.2.0</p></figcaption></figure>
 
 ### Add Actionmax games
 

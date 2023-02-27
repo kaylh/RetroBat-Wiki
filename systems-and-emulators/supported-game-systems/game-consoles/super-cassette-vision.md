@@ -12,14 +12,15 @@ Game Console - Lifespan: 1984 - 1987
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> scv</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.bin .zip</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: emuscv</li><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> scv</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.bin .zip</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-| bios file | Folder            | md5                              |
-| --------- | ----------------- | -------------------------------- |
-| scv.xml   | `\bios\mame\hash` |                                  |
-| scv.zip   | `\bios`           | 33df021613fb12abe2ad14b9eb17c7fe |
+| bios file    | Folder            | md5                              |
+| ------------ | ----------------- | -------------------------------- |
+| upd7801g.s01 | `\bios`           | 635a978fd40db9a18ee44eff449fc126 |
+| scv.xml      | `\bios\mame\hash` |                                  |
+| scv.zip      | `\bios`           | 33df021613fb12abe2ad14b9eb17c7fe |
 
 ## Controls
 

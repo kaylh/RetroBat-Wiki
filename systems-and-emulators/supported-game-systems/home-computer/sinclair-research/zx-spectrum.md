@@ -12,7 +12,7 @@ Computer - Lifespan: 1982 - 1992
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: fuse</li><li>libretro: fbneo</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> zxspectrum</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>tzx .tap .z80 .rzx .scl .trd .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: fuse</li><li>libretro: fbneo</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> zxspectrum</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.tzx .tap .z80 .rzx .scl .trd .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -20,19 +20,19 @@ No BIOS required for ZX Spectrum.
 
 ## Controls
 
-In order to have proper controls in fuse core, you need to call RetroArch menu (HOTKEY + ![](<../../../../.gitbook/assets/image (1) (2) (1).png>)) and configure the controls in the quick menu:
+Buttons A, X and Y are mapped to the joystick's fire button, button B is mapped to the UP directional button.&#x20;
 
-<figure><img src="https://i.imgur.com/I8uusJl.png" alt=""><figcaption></figcaption></figure>
+Buttons L1 and R1 are mapped to RETURN and SPACE, respectively.&#x20;
 
-Port 1 and 2 controls should be set to a ZX Spectrum compatible Joystick type (Kempston and Sinclair).
+The SELECT button brings up the embedded, on-screen keyboard which is useful if you only have controllers attached to your computer.
 
-<figure><img src="https://i.imgur.com/tCQKdy6.png" alt=""><figcaption></figcaption></figure>
+* For joystick games: in the RetroBat [advanced system settings or game settings](../../../../navigation/view-options.md#advanced-system-options), select the option "**JOYSTICK ONLY**" and set user 1 to a joystick type. Optionally, set user 2 to another joystick type (local cooperative games).
 
-If you want to use a keyboard, you should set Ports 1 & 2 to "none" and use Sinclair Keyboard in port 3.
+<figure><img src="https://i.imgur.com/wIyIvF9.png" alt=""><figcaption></figcaption></figure>
 
-You can use SELECT button on your Joystick to bring the visual keyboard once the ports have been configured when using a joystick:
+* For keyboard games: select the option "**Keyboard Only**". You won't have any joystick and the embedded keyboard won't work, but the entire physical keyboard will be available for you to type in those text adventure commands.
 
-<figure><img src="https://i.imgur.com/UR8CfrL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/o9rRm4B.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific system information
 
