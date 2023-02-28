@@ -23,6 +23,10 @@ No BIOS required.
 
 ## Controls
 
+{% hint style="warning" %}
+Automatic controller configuration for Teknoparrot is not fully reliable (yet), there might be cases (depending on game and type of Gamepad) where you will need to disable automatic controller configuration in RetroBat and configure controls directly in TeknoParrot.
+{% endhint %}
+
 | Retrobat Button                                       | Arcade Key               |
 | ----------------------------------------------------- | ------------------------ |
 | START                                                 | START                    |
