@@ -19,21 +19,25 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | PrBoom key      |
-| ----------------------------------------------------- | --------------- |
-| START                                                 | Show/Hide Menu  |
-| SELECT                                                | Show/Hide Map   |
-| D-PAD                                                 | D-PAD           |
-| Left analog stick                                     |                 |
-| Reft analog stick                                     |                 |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Run             |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Use             |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Fire            |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Strafe          |
-| L1                                                    | Strafe Left     |
-| R1                                                    | Strafe Right    |
-| L2                                                    | Previous Weapon |
-| R2                                                    | Next Weapon     |
+PrBoom allows you to choose between 2 controller layouts from RetroBat menu.
+
+| Retrobat Button                                       | Classic         | Modern                                                       |
+| ----------------------------------------------------- | --------------- | ------------------------------------------------------------ |
+| START                                                 | Show/Hide Menu  | Show/Hide Menu                                               |
+| SELECT                                                | Show/Hide Map   | Show/Hide Map                                                |
+| D-PAD                                                 | D-PAD           | D-PAD                                                        |
+| Left analog stick                                     |                 | <p>X-axis: strafe<br>Y-axis: move forwards and backwards</p> |
+| Reft analog stick                                     |                 | X-axis: look left/right                                      |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Run             | Quick save                                                   |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Use             | Menu cancel                                                  |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Fire            | Menu select                                                  |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Strafe          | Quick load                                                   |
+| L1                                                    | Strafe Left     | Previous Weapon                                              |
+| R1                                                    | Strafe Right    | Next Weapon                                                  |
+| L2                                                    | Previous Weapon | Use                                                          |
+| R2                                                    | Next Weapon     | Fire                                                         |
+| L3                                                    |                 | Toggle run                                                   |
+| R3                                                    |                 | 180 turn                                                     |
 
 ## Specific system information
 
@@ -54,7 +58,8 @@ Hereunder is the recommendation for the organization of your prboom folder:
 </strong>        └── doom 2\
         │   └── doom2.wad
         └── Doom Ultimate\
-        │   └── doomu.wad</code></pre>
+        │   └── doomu.wad
+</code></pre>
 
 If you are going to use pwad files, they will have to be placed in a subfolder inside the main wad game folder:
 
@@ -67,4 +72,5 @@ If you are going to use pwad files, they will have to be placed in a subfolder i
         └── Doom 2\
             └── doom2.wad
             └── Goldeneye\
-                    └── goldeneye.pwad        </code></pre>
+                    └── goldeneye.pwad        
+</code></pre>
