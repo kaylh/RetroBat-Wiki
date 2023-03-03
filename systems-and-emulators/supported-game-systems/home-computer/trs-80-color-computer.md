@@ -20,6 +20,9 @@ Computer - Lifespan: 1980 - 1991
 | -------------- | ----------------- | --------- |
 | coco.zip       | `\bios`           | See below |
 | coco2.zip      | `\bios`           | See below |
+| coco2b.zip     | `\bios`           | See below |
+| coco3.zip      | `\bios`           | See below |
+| coco3p.zip     | `\bios`           | See below |
 | coco\_cart.xml | `\bios\mame\hash` |           |
 | coco\_flop.xml | `\bios\mame\hash` |           |
 
@@ -32,6 +35,18 @@ coco.zip
 coco2.zip
 - bas12.rom "c933316c7d939532a13648850c1c2aa6"
 - extbas11.rom "21070aa0496142b886c562bf76d7c113"
+
+coco2b.zip
+- bas13.rom "c2fc43556eb6b7b25bdf5955bd9df825"
+- extbas11.rom "21070aa0496142b886c562bf76d7c113"
+
+coco3.zip
+- coco3.rom "7233c6c429f3ce1c7392f28a933e0b6f"
+- disk11.rom "8cab28f4b7311b8df63c07bb3b59bfd5"
+
+coco3p.zip
+- coco3p.rom "4ae57e5a8e7494e5485446fefedb580b"
+- disk11.rom "8cab28f4b7311b8df63c07bb3b59bfd5"
 ```
 
 ## Controls
