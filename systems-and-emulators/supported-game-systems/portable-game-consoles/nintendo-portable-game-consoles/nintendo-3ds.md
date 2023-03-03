@@ -63,6 +63,12 @@ The texture pack needs to be placed in the `\emulators\citra\User\Load\Textures\
 
 <figure><img src="https://i.imgur.com/6dLxUWC.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+When using the libretro core, textures must be placed in:
+
+`\saves\3ds\citra\Load\Textures\<gameID>`
+{% endhint %}
+
 The name of the custom texture folder can be found by right-clicking on the game in the emulator and selecting "Open Custom Texture Location".
 
 <figure><img src="https://i.imgur.com/xijuvR0.png" alt=""><figcaption></figcaption></figure>
