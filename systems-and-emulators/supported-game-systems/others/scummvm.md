@@ -41,6 +41,12 @@ In each games folder, create a .txt file with the name of the game, for example 
 
 In the .txt file, enter the ScummVM **game shortname**, refer to [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/) to get the correct shortname.
 
+{% hint style="info" %}
+When using the standalone emulator, you might need for some games to put the full shortname with the game engine.
+
+For example for "Indiana Jones and The Fate Of Atlantis", you will need to write `scumm:atlantis` in the atlantis.scummvm file, as there is a second game `cryomni3d:atlantis`.
+{% endhint %}
+
 Finally, rename the \*._txt_ files into \*._scummvm_ file, for example:\
 \
 Full Throttle.**txt**  **==>** Full Throttle.**scummvm**
