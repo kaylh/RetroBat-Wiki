@@ -16,7 +16,9 @@ Game Console - Lifespan: 1982 - 1985
 
 ## BIOS
 
-No BIOS required.
+| bios file        | Folder  | md5                              |
+| ---------------- | ------- | -------------------------------- |
+| colecovision.rom | `\bios` | 2c66f5911e5b42b8ebe113403548eee7 |
 
 ## Controls
 
