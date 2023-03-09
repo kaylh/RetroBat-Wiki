@@ -25,7 +25,7 @@ Use fbneo 1.0.0.3 romset for the default emulator.
 
 | RetroAchievements | NetPlay |
 | ----------------- | ------- |
-| YES               | YES     |
+| NO                | YES     |
 
 ## BIOS
 
