@@ -27,12 +27,12 @@ Game Console - Lifespan: 1987 - 1994
 
 | Retrobat Button                                          | PC Engine key |
 | -------------------------------------------------------- | ------------- |
-| START                                                    | START         |
+| START                                                    | START / RUN   |
 | SELECT                                                   | SELECT        |
 | D-PAD, Left analog stick                                 | D-PAD         |
 | ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) |               |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B             |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A             |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B / II        |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A / I         |
 | ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) |               |
 | L1                                                       |               |
 | R1                                                       |               |
