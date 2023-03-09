@@ -17,6 +17,12 @@ Emulator - Creation year: 2001
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: scummvm |
 | **File extension** | .scummvm .7z .zip .rar .squashfs                         |
 
+## Features
+
+| Retroachievements | NetPlay |
+| ----------------- | ------- |
+| NO                | NO      |
+
 ## BIOS
 
 No specific BIOS is required to play ScummVM games.
