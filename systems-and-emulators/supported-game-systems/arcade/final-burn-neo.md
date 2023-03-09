@@ -11,6 +11,12 @@ Arcade
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: fbneo                                                                         |
 | **File extension** | .fba .zip .chd .7z .bin                                                                                                        |
 
+## Features
+
+| RetroAchievements | NetPlay |
+| ----------------- | ------- |
+| YES               | YES     |
+
 ## Bios Information
 
 Althrough no BIOS file is necessary for most of the games, some systems emulated by fbneo do require BIOS files.
@@ -50,23 +56,28 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
 ### Controller mapping
 
-| Retrobat Button                                       | Arcade Key |
-| ----------------------------------------------------- | ---------- |
-| START                                                 | START      |
-| SELECT                                                | COIN       |
-| Left analog stick                                     | Stick      |
-| Right analog stick                                    |            |
-| D-PAD                                                 | Stick      |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | 3          |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | 1          |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | 2          |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | 4          |
-| L1                                                    | 5          |
-| R1                                                    | 6          |
-| L2                                                    |            |
-| R2                                                    |            |
-| L3                                                    |            |
-| R3                                                    |            |
+For FBNEO and FBALPHA cores, 2 controller layouts are available:
+
+* CLASSIC
+* MODERN
+
+| Retrobat Button                                       | CLASSIC | MODERN |
+| ----------------------------------------------------- | ------- | ------ |
+| START                                                 | START   | START  |
+| SELECT                                                | COIN    | COIN   |
+| Left analog stick                                     | Stick   | Stick  |
+| Right analog stick                                    |         |        |
+| D-PAD                                                 | Stick   | Stick  |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | 3       | 3      |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | 1       | 1      |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | 2       | 2      |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | 4       | 4      |
+| L1                                                    | 5       |        |
+| R1                                                    | 6       | 5      |
+| L2                                                    |         |        |
+| R2                                                    |         | 6      |
+| L3                                                    |         |        |
+| R3                                                    |         |        |
 
 ## Specific system information
 

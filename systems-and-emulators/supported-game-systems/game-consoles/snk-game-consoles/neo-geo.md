@@ -21,33 +21,40 @@ Game Console - Lifespan: 1990 - 2004
 
 Use fbneo 1.0.0.3 romset for the default emulator.
 
+## Features
+
+| RetroAchievements | NetPlay |
+| ----------------- | ------- |
+| YES               | YES     |
+
 ## BIOS
 
 <table><thead><tr><th>Bios file</th><th>Folder</th><th>md5</th><th data-hidden>md5</th></tr></thead><tbody><tr><td>neogeo.zip</td><td><code>\bios</code></td><td>dffb72f116d36d025068b23970a4f6df</td><td></td></tr></tbody></table>
 
 ## Controls
 
-{% hint style="danger" %}
-In construction
-{% endhint %}
+For FBNEO and FBALPHA cores, 2 controller layouts are available:
 
-| Retrobat Button                                          | Neo Geo Key |
-| -------------------------------------------------------- | ----------- |
-| START                                                    | START       |
-| SELECT                                                   | SELECT      |
-| Left analog stick                                        |             |
-| Right analog stick                                       |             |
-| D-PAD                                                    | D-PAD       |
-| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | C / Green   |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | A / Red     |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | B / Yellow  |
-| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | D / Blue    |
-| L1                                                       |             |
-| R1                                                       |             |
-| L2                                                       |             |
-| R2                                                       |             |
-| L3                                                       |             |
-| R3                                                       |             |
+* CLASSIC
+* MODERN
+
+| Retrobat Button                                          | CLASSIC    | MODERN     |
+| -------------------------------------------------------- | ---------- | ---------- |
+| START                                                    | START      | START      |
+| SELECT                                                   | SELECT     | SELECT     |
+| Left analog stick                                        |            |            |
+| Right analog stick                                       |            |            |
+| D-PAD                                                    | D-PAD      | D-PAD      |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | C / Green  | C / Green  |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | A / Red    | A / Red    |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | B / Yellow | B / Yellow |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | D / Blue   | D / Blue   |
+| L1                                                       | 5th button |            |
+| R1                                                       | 6th button | 5th button |
+| L2                                                       |            |            |
+| R2                                                       |            | 6th button |
+| L3                                                       |            |            |
+| R3                                                       |            |            |
 
 <figure><img src="https://i.imgur.com/6BAcHeJ.png" alt=""><figcaption></figcaption></figure>
 

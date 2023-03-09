@@ -17,6 +17,12 @@ Game Console - Lifespan: 1994 - 1997
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: neogeocd               |
 | **File extension** | .txt .m3u .cue .iso .cso .chd .zip .7z                                  |
 
+## Features
+
+| RetroAchievements | NetPlay |
+| ----------------- | ------- |
+| NO                | YES     |
+
 ## Bios Information
 
 For neocd core:
