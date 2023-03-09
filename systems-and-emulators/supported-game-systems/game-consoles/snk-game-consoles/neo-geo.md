@@ -35,12 +35,12 @@ In construction
 | -------------------------------------------------------- | ----------- |
 | START                                                    | START       |
 | SELECT                                                   | SELECT      |
-| Left analog stick                                        | D-PAD       |
+| Left analog stick                                        |             |
 | Right analog stick                                       |             |
 | D-PAD                                                    | D-PAD       |
 | ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | C / Green   |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B / Red     |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A / Yellow  |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | A / Red     |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | B / Yellow  |
 | ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | D / Blue    |
 | L1                                                       |             |
 | R1                                                       |             |
