@@ -163,7 +163,7 @@
     * [Sinclair Research](systems-and-emulators/supported-game-systems/home-computer/sinclair-research/README.md)
       * [ZX 81](systems-and-emulators/supported-game-systems/home-computer/sinclair-research/zx-81.md)
       * [ZX Spectrum](systems-and-emulators/supported-game-systems/home-computer/sinclair-research/zx-spectrum.md)
-    * [SV-318](systems-and-emulators/supported-game-systems/home-computer/sv-318.md)
+    * [SpectraVideo (SV-318)](systems-and-emulators/supported-game-systems/home-computer/spectravideo-sv-318.md)
     * [Thomson - MO/TO](systems-and-emulators/supported-game-systems/home-computer/thomson-mo-to.md)
     * [TI-99/4A](systems-and-emulators/supported-game-systems/home-computer/ti-99-4a.md)
     * [Tomy Tutor](systems-and-emulators/supported-game-systems/home-computer/tomy-tutor.md)
