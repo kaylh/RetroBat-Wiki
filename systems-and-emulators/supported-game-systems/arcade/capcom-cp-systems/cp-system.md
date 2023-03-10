@@ -31,23 +31,28 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
 ### Controller mapping
 
-| Retrobat Button                                          | Retroarch Key      |
-| -------------------------------------------------------- | ------------------ |
-| START                                                    | START              |
-| SELECT                                                   | SELECT             |
-| Left analog stick                                        | Left analog stick  |
-| Right analog stick                                       | Right analog stick |
-| D-PAD                                                    | D-PAD              |
-| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | Y                  |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | B                  |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | A                  |
-| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | X                  |
-| L1                                                       | Left Shoulder      |
-| R1                                                       | Right Shoulder     |
-| L2                                                       | Left Trigger       |
-| R2                                                       | Right Trigger      |
-| L3                                                       | Left Thumb         |
-| R3                                                       | Right Thumb        |
+For FBNEO and FBALPHA cores, 2 controller layouts are available:
+
+* CLASSIC
+* MODERN
+
+| Retrobat Button                                          | CLASSIC | MODERN |
+| -------------------------------------------------------- | ------- | ------ |
+| START                                                    | START   | START  |
+| SELECT                                                   | COIN    | COIN   |
+| Left analog stick                                        | Stick   | Stick  |
+| Right analog stick                                       |         |        |
+| D-PAD                                                    | Stick   | Stick  |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | 3       | 3      |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | 1       | 1      |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | 2       | 2      |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | 4       | 4      |
+| L1                                                       | 5       |        |
+| R1                                                       | 6       | 5      |
+| L2                                                       |         |        |
+| R2                                                       |         | 6      |
+| L3                                                       |         |        |
+| R3                                                       |         |        |
 
 ## Specific system information
 
