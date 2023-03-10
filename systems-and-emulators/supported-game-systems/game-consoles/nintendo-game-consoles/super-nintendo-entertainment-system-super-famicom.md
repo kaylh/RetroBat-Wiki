@@ -43,6 +43,23 @@ There is no BIOS files needed to run games.
 
 <figure><img src="https://i.imgur.com/bJOE7jD.png" alt=""><figcaption></figcaption></figure>
 
+### Libretro cores controller types
+
+#### Player 1 controller types:
+
+* Joypad
+* Mouse (all except mednafen\_snes)
+* Multitap (snes9x only)
+
+#### Player 2 controller types:
+
+* Joypad
+* Mouse (all except mednafen\_snes)
+* Multitap (all except mednafen\_snes)
+* Superscope (all except mednafen\_snes)
+* Justifier (all except mednafen\_snes and mesen-s)
+* M.A.C.S. Rifle (snes9x only)
+
 ## Specific system information
 
 There is no specific System information documented here yet.

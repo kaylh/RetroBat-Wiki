@@ -31,21 +31,7 @@ Game Console Extension - Lifespan: 1995 - 2000
 
 ## Controls
 
-Same controls as Super Nintendo.
-
-| RetroBat key                                                                              | Super Nintendo key |
-| ----------------------------------------------------------------------------------------- | ------------------ |
-| START                                                                                     | START              |
-| SELECT / BACK                                                                             | SELECT             |
-| D-PAD                                                                                     | D-PAD              |
-| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B                  |
-| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A                  |
-| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | X                  |
-| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Y                  |
-| LB (L1)                                                                                   | L                  |
-| RB (R1)                                                                                   | R                  |
-
-<figure><img src="https://i.imgur.com/bJOE7jD.png" alt=""><figcaption></figcaption></figure>
+Same controls as [Super Nintendo](super-nintendo-entertainment-system-super-famicom.md#controls).
 
 ## Specific system information
 
