@@ -31,6 +31,12 @@ Use fbneo 1.0.0.3 romset for the default emulator.
 
 <table><thead><tr><th>Bios file</th><th>Folder</th><th>md5</th><th data-hidden>md5</th></tr></thead><tbody><tr><td>neogeo.zip</td><td><code>\bios</code></td><td>dffb72f116d36d025068b23970a4f6df</td><td></td></tr></tbody></table>
 
+{% hint style="info" %}
+If you are using fbalpha2012\_neogeo core, you will need to place your bios files also in the `\roms\neogeo` folder.
+
+The core does not search the `\bios` folder.
+{% endhint %}
+
 ## Controls
 
 For FBNEO and FBALPHA cores, 2 controller layouts are available:

@@ -46,6 +46,12 @@ Althrough no BIOS file is necessary for most of the games, some systems emulated
 | spec1282a.zip | `\bios` | ZX Spectrum 128 +2a BIOS                   |
 | channelf.zip  | `\bios` | Fairchild Channel F BIOS                   |
 
+{% hint style="info" %}
+If you are using fbalpha2012\_neogeo core, you will need to place your bios files also in the `\roms\fbneo` folder.
+
+The core does not search the `\bios` folder.
+{% endhint %}
+
 ## Controls
 
 ### Arcade stick mapping
