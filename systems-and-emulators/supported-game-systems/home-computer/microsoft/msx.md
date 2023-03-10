@@ -34,9 +34,10 @@ Home Computer - Released: 1983
 
 ## Controls
 
-Use [PAD2KEY ](../../../../controllers/pad2key.md)for this system.
+Bluemsx core allows you to choose between the following controller types:
 
-The system uses default RetroArch controls.
+* RETROPAD
+* KEYBOARD
 
 | Retrobat Button                                          | MSX key   |
 | -------------------------------------------------------- | --------- |
@@ -46,8 +47,8 @@ The system uses default RetroArch controls.
 | Left analog stick                                        | D-PAD     |
 | Right analog stick                                       |           |
 | ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | Button 3  |
-| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | Button 1  |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | Button 2  |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | Button 2  |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | Button 1  |
 | ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | Button 4  |
 | L1                                                       | Button 5  |
 | R1                                                       | Button 6  |
