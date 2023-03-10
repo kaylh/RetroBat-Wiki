@@ -26,23 +26,27 @@ No BIOS files required for Amstrad CPC.
 
 ## Controls
 
-Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../controllers/pad2key.md)section of this Wiki.
+Cap32 & crocods cores allow you to choose between the following controller types:
+
+* JOYSTICK
+* KEYBOARD (Consider enabling Game Focus feature for keyboard games)
+* LIGHTGUN (cap32 only)
 
 | Retrobat Button                                       | Amstrad CPC key |
 | ----------------------------------------------------- | --------------- |
-| START                                                 |                 |
-| SELECT                                                |                 |
+| START                                                 | RETURN          |
+| SELECT                                                | SPARE           |
 | D-PAD                                                 | D-PAD           |
 | Left analog stick                                     | D-PAD           |
 | Right analog stick                                    |                 |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Y               |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Z               |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Fire / X        |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) |                 |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Fire 2          |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Fire 1          |
 | ![](<../../../.gitbook/assets/image (3) (1) (2).png>) |                 |
-| L1                                                    | N               |
-| R1                                                    | ENTER           |
-| L2                                                    | 1               |
-| R2                                                    | 2               |
+| L1                                                    | cap32: CTRL     |
+| R1                                                    | cap32: INTRO    |
+| L2                                                    | cap32: F1       |
+| R2                                                    | cap32: F2       |
 | L3                                                    |                 |
 | R3                                                    |                 |
 
