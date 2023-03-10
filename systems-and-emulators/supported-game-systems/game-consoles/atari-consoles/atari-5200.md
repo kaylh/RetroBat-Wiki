@@ -58,6 +58,13 @@ This is necessary when you play with your keyboard.
 
 &#x20;**SWAP PORTS** option: will fix gamepad ports inversion in the game "Wizard of Wor".
 
+#### ATARI800 core specifics
+
+Libretro atari800 core allows you to select between the following control options:
+
+* ATARI JOYSTICK
+* ATARI KEYBOARD
+
 ## Specific system information
 
 There is no specific System information documented here yet.
