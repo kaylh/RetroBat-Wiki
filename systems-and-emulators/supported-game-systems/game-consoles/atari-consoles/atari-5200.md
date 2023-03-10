@@ -26,8 +26,6 @@ Game console - Lifespan: 1982 - 1984
 
 ## Controls
 
-Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
-
 | Retrobat Button                                          | Atari 5200 key          |
 | -------------------------------------------------------- | ----------------------- |
 | START                                                    | START key               |
@@ -37,14 +35,28 @@ Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../
 | Right analog stick                                       |                         |
 | ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | Virtual keyboard on/off |
 | ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | Return key              |
-| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | Joystick button         |
-| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) |                         |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | FIRE 1                  |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | FIRE 2                  |
 | L1                                                       | Option key              |
 | R1                                                       | Open emulator menu      |
 | L2                                                       | Space key               |
 | R2                                                       | ESC key                 |
 | L3                                                       |                         |
 | R3                                                       |                         |
+
+### Control Options
+
+#### KEYBOARD DIRECT INPUT
+
+Enables the core to have direct access to keyboard inputs by disabling RetroArch shortcuts bound to certain keys.
+
+This is necessary when you play with your keyboard.
+
+#### INPUT HACK
+
+**DUAL STICK** option: player 2 pad will control right stick of player 1 pad, this is required for few cooperation games.
+
+&#x20;**SWAP PORTS** option: will fix gamepad ports inversion in the game "Wizard of Wor".
 
 ## Specific system information
 
