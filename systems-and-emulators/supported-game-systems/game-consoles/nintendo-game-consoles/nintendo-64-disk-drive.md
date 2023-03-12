@@ -24,21 +24,20 @@ Same as [N64](nintendo-64.md#controls)
 
 ## Specific System Information
 
-### Running Games
+### Running Games with Mupen64plus\_next core
 
 There are two types of games on the Nintendo 64DD, full games and game expansions.&#x20;
 
-In order to get n64dd games running successfully, it is required to have two files per game.&#x20;
+In order to get n64dd games running successfully, it is required to have **two files per game**.&#x20;
 
-One of the files is a n64 ROM file and the other is a n64dd .ndd file.&#x20;
+* a .n64 or .z64 game rom
+* a .ndd file (which contains the hard drive part of the game)
 
-Both files need to have the exact same filename and in the case of the n64dd .ndd file, it must have a double extension with the same extension than the n64 rom file, added before its own extension.\
+Both files need to have the exact same filename and in the case of the n64dd .ndd file, it must have a double extension with the same extension than the n64 rom file, added before its own extension.
 
+#### Running a n64dd game extension
 
 In the case of game expansion like the one in the example below, the n64 game is the actual ROM file for which the n64dd .ndd file is the expansion.&#x20;
-
-For the full games, you also always need two files, so the n64dd .ndd file of the full game and another n64 rom of any title that you just need to rename.\
-
 
 Example filenames with the expansion "F-Zero X Expansion Kit":
 
@@ -53,16 +52,35 @@ Example filenames with the expansion "F-Zero X Expansion Kit":
 * Run expansion with\
   `F-Zero X - Expansion Kit (Japan).n64`
 
+Now from RetroBat:&#x20;
+
+* [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
+* Launch the .n64 (or .z64) file, not the .ndd file:
+
+<figure><img src="https://i.imgur.com/dlLRJ9Q.png" alt=""><figcaption></figcaption></figure>
+
+#### Running a n64dd full game
+
+For the full games, you also always need two files, so the n64dd .ndd file of the full game and another n64 rom of any title that you just need to rename (pick any game from the same region as the full ndd game).\
+
+
 Example with the full game "SimCity 64":
 
 * Rename `SimCity 64 (Japan).ndd` to `SimCity 64 (Japan).n64.ndd`
 * Pick any n64 roms file and rename it `SimCity 64 (Japan).n64`
 * Then run `SimCity 64 (Japan).n64` in RetroBat.
 
-{% hint style="info" %}
-Always run the .n64 or .z64 file from RetroBat, as running the .ndd will lead to an error message.
+Now from RetroBat:&#x20;
 
-To avoid confusion, you can hide the .ndd extensions for the system.
+* [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
+* Launch the .n64 (or .z64) file, not the .ndd file:
+
+<figure><img src="https://i.imgur.com/PaYnyTC.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+WARNING: the core is very picky with the .ndd dump used.
+
+If you notice that the running game is the one from the "fake .n64 or .z64 rom used", it usually means that you are not using a correct .ndd file dump.
 {% endhint %}
 
 ### BIOS selection
