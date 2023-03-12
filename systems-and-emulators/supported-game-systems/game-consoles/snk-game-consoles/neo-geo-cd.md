@@ -17,6 +17,10 @@ Game Console - Lifespan: 1994 - 1997
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: neogeocd               |
 | **File extension** | .txt .m3u .cue .iso .cso .chd .zip .7z                                  |
 
+{% hint style="info" %}
+When using fbneo, your games must be in bin+cue format.
+{% endhint %}
+
 ## Features
 
 | RetroAchievements | NetPlay |
