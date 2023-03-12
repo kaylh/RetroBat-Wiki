@@ -17,6 +17,12 @@ Game Console - Lifespan: 1990 - 1998
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: cdi                       |
 | **File extension** | .chd .cue .toc .nrg .gdi .iso .cdr                                         |
 
+{% hint style="warning" %}
+Note that games requiring a digital cartdridge are not yet possible to emulate through MAME or SAME\_CDI.
+
+This means that games like Dragon's Lair, BrainDead 13 or Mad Dog McCree will not work.
+{% endhint %}
+
 ## Bios Information
 
 **For same\_cdi:**
