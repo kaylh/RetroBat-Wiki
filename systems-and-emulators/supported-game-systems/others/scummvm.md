@@ -25,7 +25,10 @@ Emulator - Creation year: 2001
 
 ## BIOS
 
-No specific BIOS is required to play ScummVM games.
+| BIOS file         | Folder                | md5                              |
+| ----------------- | --------------------- | -------------------------------- |
+| MT32\_CONTROL.ROM | `\bios\scummvm\extra` | 5626206284b22c2734f3e9efefcd2675 |
+| MT32\_PCM.ROM     | `\bios\scummvm\extra` | 89e42e386e82e0cacb4a2704a03706ca |
 
 ## Controls
 
