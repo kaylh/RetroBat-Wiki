@@ -59,7 +59,11 @@ TIMEOUT /t 30
 REM HERE YOU MUST ENTER THE RIGHT NAME OF THE EXECUTABLE, FOR EXAMPLE: "MyGame.exe"
 tasklist|findstr "Mygame.exe" > nul
 
-if %errorlevel%==1 timeout /t 5 &#x26; taskkill /F /IM Steam.exe /T &#x26; GOTO ENDLOOP</code></pre>
+if %errorlevel%==1 timeout /t 5 &#x26; taskkill /F /IM Steam.exe /T &#x26; GOTO ENDLOOP
+timeout /t 2
+GOTO RUNNING
+:ENDLOOP
+</code></pre>
 
 This is code of your .bat file **without Steam kill**:
 
@@ -76,6 +80,9 @@ REM HERE YOU MUST ENTER THE RIGHT NAME OF THE EXECUTABLE, FOR EXAMPLE: "MyGame.e
 tasklist|findstr "Mygame.exe" > nul
 
 if %errorlevel%==1 timeout /t 5 & GOTO ENDLOOP
+timeout /t 2
+GOTO RUNNING
+:ENDLOOP
 ```
 
 **All you need is to inquire Steam game ID and executable name, proceed as follows:**
