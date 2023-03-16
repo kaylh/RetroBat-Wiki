@@ -135,6 +135,27 @@ ActionMax games are compatible with Hypseus emulator but they require a very spe
 All Actionmax games must be located inside `roms\daphne\actionmax` folder with the following content:
 
 ```
++---38ambushalley
+|       video_38ambushalley.dat
+|       video_38ambushalley.m2v
+|       video_38ambushalley.ogg
+|       
++---bluethunder
+|       video_bluethunder.m2v
+|       video_bluethunder.ogg
+|       
++---hydrosub2021
+|       video_hydrosub2021.m2v
+|       video_hydrosub2021.ogg
+|       
++---popsghostly
+|       video_popsghostly.m2v
+|       video_popsghostly.ogg
+|       
++---sonicfury
+        video_sonicfury.m2v
+        video_sonicfury.ogg
+|
 |   38ambushalley.singe
 |   38ambushalley.txt
 |   bluethunder.singe
@@ -146,7 +167,6 @@ All Actionmax games must be located inside `roms\daphne\actionmax` folder with t
 |   framework.singe
 |   hydrosub2021.singe
 |   hydrosub2021.txt
-|   output.doc
 |   popsghostly.singe
 |   popsghostly.txt
 |   sonicfury.singe
@@ -175,27 +195,6 @@ All Actionmax games must be located inside `roms\daphne\actionmax` folder with t
 |   video_menu.dat
 |   video_menu.m2v
 |   video_menu.ogg
-|   
-+---38ambushalley
-|       video_38ambushalley.dat
-|       video_38ambushalley.m2v
-|       video_38ambushalley.ogg
-|       
-+---bluethunder
-|       video_bluethunder.m2v
-|       video_bluethunder.ogg
-|       
-+---hydrosub2021
-|       video_hydrosub2021.m2v
-|       video_hydrosub2021.ogg
-|       
-+---popsghostly
-|       video_popsghostly.m2v
-|       video_popsghostly.ogg
-|       
-\---sonicfury
-        video_sonicfury.m2v
-        video_sonicfury.ogg
 ```
 
 Create an empty file and name it with the name of the game and the extension .actionmax in the `roms\daphne` folder (eg. `sonicfury.actionmax`).
