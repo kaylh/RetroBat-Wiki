@@ -8,7 +8,7 @@ Arcade - First LaserDisc game release : 1983
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>hypseus</li><li>daphne</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> daphne</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.daphne .7z .zip .rar .squashfs</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>hypseus</li><li>daphne</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> daphne</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.daphne .actionmax .7z .zip .rar .squashfs</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -130,8 +130,76 @@ The process is similar as for Daphne games but there is no zip file to place in 
 
 ### Add Actionmax games
 
-Drop the actionmax folder in your roms\daphne folder.
+ActionMax games are compatible with Hypseus emulator but they require a very specific folder structure.
 
-Create an empty file and name it with the name of the game and the extension .actionmax in the roms\daphne folder (eg. `sonicfury.actionmax`).
+All Actionmax games must be located inside `roms\daphne\actionmax` folder with the following content:
+
+```
+|   38ambushalley.singe
+|   38ambushalley.txt
+|   bluethunder.singe
+|   bluethunder.txt
+|   emulator.singe
+|   font_bluestone.ttf
+|   font_chemrea.ttf
+|   font_led_real.ttf
+|   framework.singe
+|   hydrosub2021.singe
+|   hydrosub2021.txt
+|   output.doc
+|   popsghostly.singe
+|   popsghostly.txt
+|   sonicfury.singe
+|   sonicfury.txt
+|   sound_actionmax.wav
+|   sound_asteadyaimiscritical.wav
+|   sound_badhit.wav
+|   sound_gameover.wav
+|   sound_getreadyforaction.wav
+|   sound_goodhit.wav
+|   sound_gunshot.wav
+|   sprite_38ambushalley.png
+|   sprite_actionmax.png
+|   sprite_actionmax_orig.png
+|   sprite_bluethunder.png
+|   sprite_bullet.png
+|   sprite_crosshair.png
+|   sprite_hydrosub2021.png
+|   sprite_lightoff.png
+|   sprite_lighton.png
+|   sprite_popsghostly.png
+|   sprite_sonicfury.png
+|   video_actionmaxintro.dat
+|   video_actionmaxintro.m2v
+|   video_actionmaxintro.ogg
+|   video_menu.dat
+|   video_menu.m2v
+|   video_menu.ogg
+|   
++---38ambushalley
+|       video_38ambushalley.dat
+|       video_38ambushalley.m2v
+|       video_38ambushalley.ogg
+|       
++---bluethunder
+|       video_bluethunder.m2v
+|       video_bluethunder.ogg
+|       
++---hydrosub2021
+|       video_hydrosub2021.m2v
+|       video_hydrosub2021.ogg
+|       
++---popsghostly
+|       video_popsghostly.m2v
+|       video_popsghostly.ogg
+|       
+\---sonicfury
+        video_sonicfury.m2v
+        video_sonicfury.ogg
+```
+
+Create an empty file and name it with the name of the game and the extension .actionmax in the `roms\daphne` folder (eg. `sonicfury.actionmax`).
+
+<figure><img src="https://i.imgur.com/NQX8l4t.png" alt=""><figcaption></figcaption></figure>
 
 As for Hypseus, the Developper Mode must be enabled in Windows to run Actionmax games.
