@@ -12,10 +12,14 @@ Portable Game Console - Released: 1990
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
-| ------------------ | -------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: gmaster |
-| **File extension** | .bin .zip .7z                                            |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
+| ----------------------- | -------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: gmaster |
+| **File extension**      | .bin .zip .7z                                            |
+| **Group**               | MESS                                                     |
+| **Emulated Model**      | gmaster                                                  |
+| **Softlists available** | gmaster                                                  |
+| **Media Types**         | cartridge                                                |
 
 ## Bios Information
 

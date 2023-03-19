@@ -12,10 +12,14 @@ Game Console - Lifespan: 1982 - 1986
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
-| ------------------ | --------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: crvision |
-| **File extension** | .bin .rom .zip .7z                                        |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
+| ----------------------- | --------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: crvision |
+| **File extension**      | .bin .rom .zip .7z                                        |
+| **Group**               | MESS                                                      |
+| **Model Emulated**      | crvision                                                  |
+| **Softlists available** | crvision                                                  |
+| **Media Types**         | cassette, cartridge                                       |
 
 ## Bios Information
 

@@ -17,6 +17,13 @@ Portable Game Console - Released: 1993
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: megaduck                  |
 | **File extension** | .bin .zip .7z                                                              |
 
+### Libretro:mame information
+
+| **Emulated Model**      | megaduck  |
+| ----------------------- | --------- |
+| **Softlists available** | megaduck  |
+| **Media Types**         | cartridge |
+
 ## Bios Information
 
 No BIOS required.

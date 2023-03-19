@@ -12,7 +12,7 @@ Computer - Lifespan: 1982 - 1984
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>mame64: fm7</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fm7</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.wav .t77 .mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .1dd .cqm .cqi .dsk .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>mame64: fm7</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fm7</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.wav .t77 .mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .1dd .cqm .cqi .dsk .zip .7z</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>fm7, fm77av</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>fm77av, fm7_cass, fm7_disk</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>cassette, floppy</td><td></td></tr></tbody></table>
 
 ## BIOS
 

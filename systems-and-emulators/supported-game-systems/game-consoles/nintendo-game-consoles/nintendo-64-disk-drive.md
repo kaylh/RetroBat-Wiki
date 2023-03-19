@@ -12,7 +12,7 @@ Game Console - Lifespan: 1999- 2001
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mupen64plus next</li><li>project64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> n64dd</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.v64 .z64 .n64 .ndd</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mupen64plus next</li><li>libretro: parallel_n64 (only for full NDD games)</li><li>project64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> n64dd</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.v64 .z64 .n64 .ndd</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -82,6 +82,12 @@ WARNING: the core is very picky with the .ndd dump used.
 
 If you notice that the running game is the one from the "fake .n64 or .z64 rom used", it usually means that you are not using a correct .ndd file dump.
 {% endhint %}
+
+### Running Games with parallel\_n64 core
+
+Parallel\_n64 core can run directly .ndd files, however it is only possible to run full N64DD games as of now (such as SimCity64), game extensions will not run with this core.
+
+Just place the full .ndd game in your `\roms\n64dd` folder, select the parallel\_n64 core in RetroBat and the [right BIOS](nintendo-64-disk-drive.md#bios-selection), and launch the .ndd game.
 
 ### BIOS selection
 

@@ -12,10 +12,14 @@ Game Console - Lifespan: 1982 - 1983
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64: advision</li></ul> |
-| ------------------ | --------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: advision |
-| **File extension** | .bin .zip .7z                                             |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
+| ----------------------- | --------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: advision |
+| **File extension**      | .bin .zip .7z                                             |
+| **Group**               | MESS                                                      |
+| **Emulated Model**      | advision                                                  |
+| **Softlists available** | advision                                                  |
+| **Media Types**         | cartridge                                                 |
 
 ## Features
 

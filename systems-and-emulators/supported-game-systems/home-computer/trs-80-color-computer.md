@@ -12,7 +12,7 @@ Computer - Lifespan: 1980 - 1991
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> coco</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.dsk .wav .cas .ccc .rom .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> coco</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.dsk .wav .cas .ccc .rom .zip .7z</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>coco3, coco3p, coco, coco2, coco2b</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>coco_cart, coco_flop</td><td></td></tr><tr><td><strong>Media Type</strong></td><td>cassette, cartridge, floppy, hard drive</td><td></td></tr></tbody></table>
 
 ## BIOS
 

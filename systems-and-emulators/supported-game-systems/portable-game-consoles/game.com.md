@@ -12,10 +12,14 @@ Portable Game Console - Lifespan: 1997 - 2000
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
-| ------------------ | -------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: gamecom |
-| **File extension** | .bin .zip .7z .tgc                                       |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
+| ----------------------- | -------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: gamecom |
+| **File extension**      | .bin .zip .7z .tgc                                       |
+| **Group**               | MESS                                                     |
+| **Emulated System**     | gamecom                                                  |
+| **Softlists available** | gamecom                                                  |
+| **Media Types**         | cartridge                                                |
 
 ## Bios Information
 

@@ -17,6 +17,12 @@ Computer - Lifespan: 1984 - 1985
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: oricatmos |
 | **File extension** | .dsk .tap                                                  |
 
+### libretro:mame information
+
+| **Emulated Model** | orica    |
+| ------------------ | -------- |
+| **Media Types**    | cassette |
+
 ## Bios Information
 
 No BIOS required.

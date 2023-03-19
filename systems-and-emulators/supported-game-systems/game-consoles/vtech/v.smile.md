@@ -12,10 +12,14 @@ Game Console - Lifespan: 2004 - 2010
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>         |
-| ------------------ | ------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: vsmile |
-| **File extension** | .bin .zip                                               |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>         |
+| ----------------------- | ------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: vsmile |
+| **File extension**      | .bin .zip                                               |
+| **Group**               | MESS                                                    |
+| **Emulated Model**      | vsmile, vsmilem, vsmilpro                               |
+| **Softlists available** | vsmile\_cart, vsmilem\_cart, vsmile\_cd                 |
+| **Media Types**         | cartridge, cdrom                                        |
 
 ## Bios Information
 

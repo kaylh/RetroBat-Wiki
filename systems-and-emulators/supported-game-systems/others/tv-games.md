@@ -10,6 +10,7 @@ TV plug and play devices.
 | ------------------ | -------------------------------------------------------- |
 | **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: tvgames |
 | **File extension** | .zip .7z                                                 |
+| **Group**          | MESS                                                     |
 
 ## Bios Information
 

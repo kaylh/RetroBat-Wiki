@@ -1,5 +1,5 @@
 ---
-description: Acorn Electronics
+description: Acorn Computers
 ---
 
 # BBC Micro
@@ -12,7 +12,7 @@ Computer - Lifespan: 1981 - 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> bbcmicro</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .7zip</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> bbcmicro</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .7zip</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>bbcb, bbcm, bbcm512, bbcmc</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>bbc_cass, bbc_rom, bbcb_flop, bbcb_flop_orig, bbcb_flop_us, bbcm_cart, bbcm_flop, bbcmc_flop</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>cassette, rom, floppy, cartridge</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -82,7 +82,7 @@ bbc.zip
 
 ## Controls
 
-Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../controllers/pad2key.md)section of this Wiki.
+Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
 {% hint style="danger" %}
 In construction

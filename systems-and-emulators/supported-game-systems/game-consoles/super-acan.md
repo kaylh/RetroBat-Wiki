@@ -12,10 +12,14 @@ Game Console - Lifespan: 1995 - 1996
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
-| ------------------ | --------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: supracan |
-| **File extension** | .bin .zip                                                 |
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
+| ----------------------- | --------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: supracan |
+| **File extension**      | .bin .zip                                                 |
+| **Group**               | MESS                                                      |
+| **Emulated Model**      | supracan                                                  |
+| **Softlists available** | supracan                                                  |
+| **Media Types**         | cartridge                                                 |
 
 ## Bios Information
 
