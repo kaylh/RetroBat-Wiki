@@ -12,7 +12,7 @@ Game Console - Lifespan: 2000 - 2013
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>pcsx2-sse4</li><li>pcsx2-avx2</li><li>pcsx2-16</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ps2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .cso .bin .mdf .gz .chd</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>pcsx2</li><li>pcsx2-16</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ps2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .cso .bin .mdf .gz .chd</td><td></td></tr></tbody></table>
 
 ## Features
 
@@ -107,3 +107,19 @@ Once the texure pack in the right folder, set Retrobat to load custom textures, 
 <figure><img src="https://i.imgur.com/kMCqWFr.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://i.imgur.com/zLj3F55.png" alt=""><figcaption></figcaption></figure>
+
+### Multi-disc games
+
+PCSX2 does not support m3u usage for multi-disc games.
+
+<figure><img src="https://i.imgur.com/5n2VsbQ.png" alt=""><figcaption></figcaption></figure>
+
+In order to swap disc in PCSX2, the following must be used within the emulator:
+
+When the game prompts you to swap disc,access the PCSX2 quick menu by pressing SELECT + ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>) on your controller, select the "**Change Disc**" option
+
+<figure><img src="https://i.imgur.com/fihyt1U.png" alt=""><figcaption></figcaption></figure>
+
+In the next screen, choose the right disc image and press ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)
+
+<figure><img src="https://i.imgur.com/leMX1Ob.png" alt=""><figcaption></figcaption></figure>
