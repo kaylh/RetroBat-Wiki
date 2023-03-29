@@ -142,4 +142,4 @@ Here are some examples of Mega Bezel:
 
 ### Customize Mega-bezels
 
-Refer to section ["Customize Mega-bezels"](../tutorials/customize-mega-bezels.md#step-1-preset-customization)
+Refer to [section "Customize Mega-bezels"](../tutorials/customize-mega-bezels.md#adding-a-new-mega-bezel-preset-entry-to-retrobat)
