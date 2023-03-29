@@ -142,4 +142,4 @@ Here are some examples of Mega Bezel:
 
 ### Customize Mega-bezels
 
-Refer to [section "Customize Mega-bezels"](decorations-and-bezels.md#customize-mega-bezels)
+Refer to section ["Customize Mega-bezels"](../tutorials/customize-mega-bezels.md#step-1-preset-customization)
