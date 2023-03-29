@@ -47,7 +47,7 @@ On this view, you can navigate with the keyboard or with a game controller.
 
 * Press and hold any button to enter the **CONFIGURING** screen.
 
-<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>You can hold a button to skip a line if your controller does not have that many buttons</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/NhgVTbZ.png" alt=""><figcaption></figcaption></figure>
 
 * Define all the keys based on your controller layout.&#x20;
 

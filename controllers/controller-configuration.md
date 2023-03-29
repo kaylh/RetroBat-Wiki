@@ -8,7 +8,7 @@ Connect a controller and press a button, **CONFIGURE INPUT** screen appears.
 
 Press and hold any button to go to the **CONFIGURING** screen
 
-<figure><img src="https://i.imgur.com/b3mepeW.png" alt=""><figcaption><p>Define your buttons mapping</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/NhgVTbZ.png" alt=""><figcaption></figcaption></figure>
 
 Press each button accordingly to finalize your controller mapping.
 
