@@ -153,3 +153,38 @@ Wait until the installation finishes
 You should now see the Update or DLC information in the gamelist
 
 <figure><img src="https://i.imgur.com/OY3g3cd.png" alt=""><figcaption></figcaption></figure>
+
+### Graphic packs
+
+Cemu emulator uses Graphic Packs to enhance games graphics but also to fix bugs in some games.
+
+Graphic Packs are not managed automatically from RetroBat and need to be enabled in the emulator, once enabled, they will be used when launching the game from RetroBat.
+
+Proceed as follows to enable Graphic Packs.
+
+* Open CEMU and select "Graphic Packs":
+
+<figure><img src="https://i.imgur.com/6706fCT.png" alt=""><figcaption></figcaption></figure>
+
+* Click the "Download latest community graphic packs" in the bottom left corner of the screen:
+
+<figure><img src="https://i.imgur.com/Y98rMBK.png" alt=""><figcaption></figcaption></figure>
+
+This will automatically download the graphic packs for the games you own
+
+* Check the list of items available and enable the ones required for the game (or the ones you want to activate)
+
+<figure><img src="https://i.imgur.com/CKKBWGK.png" alt=""><figcaption></figcaption></figure>
+
+In this example, the option ticked is mandatory to avoid a crash after the title screen in the game "New Super Mario Bros WiiU"
+
+* Once done: quit the emulator
+
+The settings will automatically be saved
+
+{% hint style="info" %}
+You can check the specific requirements on the CEMU compatibility wiki:
+
+[https://compat.cemu.info/](https://compat.cemu.info/)
+{% endhint %}
+

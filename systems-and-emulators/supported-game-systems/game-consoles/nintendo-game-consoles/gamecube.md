@@ -55,6 +55,10 @@ The following controllers can be autoconfigured from RetroBat to Dolphin:
 Rumble can be activated in the advanced options.
 {% endhint %}
 
+### Creating a game-specific control profile
+
+It is possible to create a custom controller profile in Dolphin and assign it to a specific game, [follow this guide if required](../../../../controllers/specific\_mapping/dolphin-controller-mapping.md).
+
 ## Specific system information
 
 ### Multi-disc games

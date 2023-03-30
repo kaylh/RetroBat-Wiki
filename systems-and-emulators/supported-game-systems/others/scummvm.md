@@ -63,3 +63,52 @@ Full Throttle.**txt**  **==>** Full Throttle.**scummvm**
 ### Accessing ScummVM menu (libretro core)
 
 When the option "Game Focus" is enabled, use CTRL + F5 to access ScummVM menu, as usual RetroArch hotkeys are disabled.
+
+### Running a specific version of a game with dedicated per-game options
+
+Some games have been issued on multiple platforms, SCUMMVM is able to run most of these versions.
+
+If you own multiple versions of the same game and want to be able to select the version to run, you will first need to add the games to SCUMMVM directly within the emulator.
+
+To do so, proceed as follows.
+
+* Open SCUMMVM and select "add games":
+
+<figure><img src="https://i.imgur.com/iJoG99n.png" alt=""><figcaption></figcaption></figure>
+
+Locate your game folder.
+
+* Pick the version of the game to be added (if multiple versions exist in your game file):
+
+<figure><img src="https://i.imgur.com/AOzAJp2.png" alt=""><figcaption></figcaption></figure>
+
+* Define the game short ID and the options to enable when running this game
+
+<figure><img src="https://i.imgur.com/SSQCrt7.png" alt=""><figcaption></figcaption></figure>
+
+Click OK once finished
+
+The game is now added to SCUMMVM:
+
+<figure><img src="https://i.imgur.com/Ok0JkMy.png" alt=""><figcaption></figcaption></figure>
+
+* Create a dedicated .scummvm file to run this specific version of the game:
+
+<figure><img src="https://i.imgur.com/nCNTake.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/5DiPExS.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The name inside the .scummvm file must match the short ID specified when adding the game in the emulator.
+{% endhint %}
+
+* In RetroBat, both versions will now be available
+
+<figure><img src="https://i.imgur.com/OTcJf0h.png" alt=""><figcaption></figcaption></figure>
+
+Note that you can check all installed games and their short-ID in the scummvm.ini file, this file is located in:
+
+* \emulators\scummvm folder (for SCUMMVM standalone)
+* \bios folder for libretro:scummvm
+
+<figure><img src="https://i.imgur.com/YUsciw5.png" alt=""><figcaption></figcaption></figure>

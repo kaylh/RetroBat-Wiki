@@ -223,13 +223,17 @@
 
 ## Controllers
 
-* [Controllers Configuration](controllers/controller-configuration.md)
 * [Supported Controllers](controllers/supported-controllers/README.md)
   * [🎮 Gamepads](controllers/supported-controllers/gamepads.md)
   * [🕹 Arcade Sticks](controllers/supported-controllers/arcade-sticks.md)
   * [🔫 Lightguns](controllers/supported-controllers/lightguns/README.md)
     * [WiimoteGun](controllers/supported-controllers/lightguns/wiimotegun.md)
   * [⌨ Keyboard](controllers/supported-controllers/keyboard.md)
+* [Controllers Configuration](controllers/controller-configuration.md)
+* [Emulator specific controls mapping](controllers/specific\_mapping/README.md)
+  * [Dolphin controller mapping](controllers/specific\_mapping/dolphin-controller-mapping.md)
+  * [MAME64 controller mapping](controllers/specific\_mapping/mame64-controller-mapping.md)
+  * [RetroArch controller mapping](controllers/specific\_mapping/retroarch-controller-mapping.md)
 * [Pad2Key](controllers/pad2key.md)
 
 ## Advanced Features

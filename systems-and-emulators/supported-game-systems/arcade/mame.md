@@ -66,6 +66,10 @@ Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 | L3                                                    |            |
 | R3                                                    |            |
 
+{% hint style="info" %}
+MAME64 Emulator natively accepts Xinput controllers, other controllers will require dedicated mapping ([refer to this guide](../../../controllers/specific\_mapping/mame64-controller-mapping.md)).
+{% endhint %}
+
 ## Specific system information
 
 ### ROM set versions&#x20;
