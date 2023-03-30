@@ -21,7 +21,7 @@ You can test you Gamepad [HERE](https://gamepad-tester.com/) to check if it is d
 To turn on the XINPUT mode, the controller must be started with `START` + `X` before being paired to the computer. (`START`+ `Y` will enable sdl mode)
 
 {% hint style="info" %}
-XINPUT does not support motion control. If you need to use your controller in games requiring motion, it is better to use sdl mode.
+XINPUT does not support motion control. If you need to use your controller in games requiring motion, it is better to use sdl (switch) mode.
 {% endhint %}
 
 When using a wired 8bitdo controller, the switch between XInput and sdl is done by maintaining `X` or `Y` button while plugging the USB cable (instead of pressing `START`)
@@ -41,8 +41,6 @@ All controllers introduced before the Xbox One S (Xbox 360, Xbox One controllers
 ![](<../../.gitbook/assets/image (2) (2).png>)
 
 The Switch Pro controller will be ideal for use in CEMU (WiiU emulator) or Yuzu (Switch emulator) as it is natively compatible with these emulators and it will support motion control for games that require motion.
-
-However, it has been reported that this controller does not work well with Retrobat interface due to issues with sdl version used in RetroBat.
 
 ### Playstation 5 controller (DualSense)
 
