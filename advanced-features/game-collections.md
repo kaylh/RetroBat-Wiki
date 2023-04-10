@@ -25,7 +25,7 @@ From the GAME COLLECTION SETTINGS screen, select **AUTOMATIC GAME COLLECTIONS**.
 
 A list of Collections will be available, check the collection box to enable the collection.
 
-For example to display the Arcade **** Collection, select **ARCADE.**
+For example to display the Arcade Collection, select **ARCADE.**
 
 <figure><img src="https://i.imgur.com/OIpc3Qc.png" alt=""><figcaption></figcaption></figure>
 

@@ -52,7 +52,7 @@ On this view, you can navigate with the keyboard or with a game controller.
 * Define all the keys based on your controller layout.&#x20;
 
 {% hint style="info" %}
-We recommend to use **SELECT** (or Back) **** as hotkey.
+We recommend to use **SELECT** (or Back) as hotkey.
 {% endhint %}
 
 CONGRATULATIONS: You have installed RetroBat and launched it for the first time successfully.

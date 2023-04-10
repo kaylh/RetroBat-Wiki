@@ -10,7 +10,7 @@ Retroachievements in Retrobat are only available for a predefined list of libret
 
 ## Enabling RetroAchievements
 
-Enter the [**Main Menu**](../navigation/main-menu.md) and select [**Game Settings**](../navigation/main-menu.md#game-settings)****
+Enter the [**Main Menu**](../navigation/main-menu.md) and select [**Game Settings**](../navigation/main-menu.md#game-settings)
 
 <figure><img src="https://i.imgur.com/BaBOnEZ.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ To display the list of RetroAchievements available for a game, select it and hol
 
 ## RetroAchievement user Information
 
-To display your RetroAchievements global status, from the [**MAIN MENU**](../navigation/main-menu.md) **** select RETROACHIEVEMENTS
+To display your RetroAchievements global status, from the [**MAIN MENU**](../navigation/main-menu.md) select RETROACHIEVEMENTS
 
 <figure><img src="https://i.imgur.com/sPPAnUU.png" alt=""><figcaption></figcaption></figure>
 

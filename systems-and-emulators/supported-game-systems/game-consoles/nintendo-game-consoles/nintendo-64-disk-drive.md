@@ -43,11 +43,11 @@ Example filenames with the expansion "F-Zero X Expansion Kit":
 
 * Rename n64dd .ndd file\
   `F-Zero X - Expansion Kit (Japan).ndd`\
-  ``to\
+  to\
   `F-Zero X - Expansion Kit (Japan).n64.ndd`
 * Rename n64 rom file\
   `F-Zero X (Japan).n64`\
-  `` to \
+  &#x20;to \
   `F-Zero X - Expansion Kit (Japan).n64`
 * Run expansion with\
   `F-Zero X - Expansion Kit (Japan).n64`

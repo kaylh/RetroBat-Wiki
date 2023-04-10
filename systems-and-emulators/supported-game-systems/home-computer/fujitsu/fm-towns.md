@@ -57,7 +57,7 @@ In construction
 
 Your games folder, for CD games, with **.cue** inside, need to be renamed **.game** or **.cd.**
 
-For example, **Super Street Fighter II** folder must be **** renamed
+For example, **Super Street Fighter II** folder must be renamed
 
 * `Super Street Fighter II.game`, or
 * `Super Street Fighter II.cd`

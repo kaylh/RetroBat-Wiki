@@ -101,4 +101,3 @@ For example, the game folder of _Mario Kart: Arcade GP DX_ must be renamed**:**&
 
 <figure><img src="https://i.imgur.com/wKid67O.png" alt=""><figcaption></figcaption></figure>
 
-****

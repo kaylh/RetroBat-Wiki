@@ -101,7 +101,7 @@ You can use use the [**VIEW OPTIONS**](../../../navigation/view-options.md) to h
 
 <figure><img src="https://i.imgur.com/dQngpx5.png" alt=""><figcaption></figcaption></figure>
 
-Navigate to [**VIEW CUSTOMIZATION**](../../../navigation/view-options.md#view-options) **** and FILE EXTENSIONS
+Navigate to [**VIEW CUSTOMIZATION**](../../../navigation/view-options.md#view-options) and FILE EXTENSIONS
 
 <figure><img src="https://i.imgur.com/JT7AqDc.png" alt=""><figcaption></figcaption></figure>
 
