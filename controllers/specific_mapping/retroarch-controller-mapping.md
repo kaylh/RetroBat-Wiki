@@ -36,15 +36,12 @@ Once the mapping is performed, exit and go back to the **CONTROLS** menu, then s
 
 <figure><img src="https://i.imgur.com/g5xiFro.png" alt=""><figcaption></figcaption></figure>
 
-In the next submenu, you can either:
+In the next submenu, save the remap file for the game (it will apply to this game only)
 
-* Save the remap file for the game (it will apply to this game only)
-* Save the remap file for the content directory (it will apply to all games stored in the same folder as the running game)
-
-Once saved, the new remap will now be used next time you run the game (or a game from the same folder).
+Once saved, the new remap will now be used next time you run the game.
 
 {% hint style="info" %}
-You cannot use the option to save for the core, as this would automatically be erased by RetroBat upon next launch.
+You cannot use the option to save for content directory, as this would automatically be erased by RetroBat upon next launch.
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/4WyqBdQ.png" alt=""><figcaption></figcaption></figure>
