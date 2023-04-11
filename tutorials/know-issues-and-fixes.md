@@ -37,3 +37,15 @@ You can either place your artworks in `retrobat\emulators\mame\artwork` folder, 
 Open the file **es\_systems.cfg** located in `retrobat\emulationstation\.emulationstation` folder and find the Cannonball session, than change the `<theme>ports</theme>` value to `<theme>cannonball</theme>`:
 
 <figure><img src="https://i.imgur.com/EiKMiME.png" alt=""><figcaption></figcaption></figure>
+
+## Wii bezels not working when in 4/3
+
+Unzip the following file in your `retrobat\emulationstation` folder:
+
+{% file src="../.gitbook/assets/EmulationStation.zip" %}
+
+## FBNEO: patched rom setting preventing the use of Retroachievements Hardcore mode
+
+Unzip the following file in your `retrobat\emulationstation` folder:
+
+{% file src="../.gitbook/assets/EmulationStation.zip" %}
