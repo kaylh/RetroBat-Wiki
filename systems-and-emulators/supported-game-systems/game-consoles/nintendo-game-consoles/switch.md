@@ -105,11 +105,6 @@ For Early Access, copy the content of the `yuzu-windows-msvc-early-access` must 
 
 <figure><img src="https://i.imgur.com/CQhfYCR.png" alt=""><figcaption></figcaption></figure>
 
-The content of this folder is to be copied in:
-
-* `\emulators\yuzu\user` for yuzu
-* `\emulators\yuzu-early-access\user` for yuzu early access
-
 ### Installing game updates
 
 Game updates can be installed both in Yuzu and Ryujinx. They are dumped from your Switch in the format of .nsp files.
