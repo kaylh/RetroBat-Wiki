@@ -146,7 +146,7 @@ This is code of your .bat file **with EpicGameLauncher kill**:
 ```batch
 @echo OFF
 
-REM HERE MODIFY YOUR STEAM APPID:
+REM HERE MODIFY YOUR EPIC GAME SHORTCUT URL:
 START "" "C:\retrobat\roms\windows\.EPIC\Game shortcut.url"
 
 TIMEOUT /t 30
@@ -166,7 +166,7 @@ This is code of your .bat file **without EpicGameLauncher kill**:
 ```batch
 @echo OFF
 
-REM HERE MODIFY YOUR STEAM APPID:
+REM HERE MODIFY YOUR EPIC GAME SHORTCUT URL:
 START "" "C:\retrobat\roms\windows\.EPIC\Game shortcut.url"
 
 TIMEOUT /t 30
@@ -201,6 +201,10 @@ You can find the executable name in the game install folder on your hard drive o
 
 ### Adding an UBISOFT game (Ubisoft Connect)
 
+{% hint style="info" %}
+You need to ensure that the Ubisoft Connect Launcher is set to automatically login, else the login window might appear.
+{% endhint %}
+
 Create a .bat file with a scrapable name for your game.
 
 You have 2 possibilities, quit Ubisoft Connect at the end of each game or not, both work since emulationstation is waiting on the end of the execution of the script to reactivate.
@@ -212,7 +216,7 @@ This is code of your .bat file **with Ubisoft Connect kill**:
 ```batch
 @echo OFF
 
-REM HERE MODIFY YOUR STEAM APPID:
+REM HERE MODIFY YOUR UBISOFT APPID:
 START uplay://launch/00000/0
 
 TIMEOUT /t 30
@@ -232,7 +236,7 @@ This is code of your .bat file **without Ubisoft Connect kill**:
 ```batch
 @echo OFF
 
-REM HERE MODIFY YOUR STEAM APPID:
+REM HERE MODIFY YOUR UBISOFT APPID:
 START uplay://launch/00000/0
 
 TIMEOUT /t 30
@@ -268,7 +272,7 @@ Click the "Open folder" button in the Local files section and find the game exec
 <figure><img src="https://i.imgur.com/CT9qODE.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-lternatively you could run the game and open the task manager to find the executable name.
+Alternatively you could run the game and open the task manager to find the executable name.
 {% endhint %}
 
 Next, report these two pieces of information in your.bat file as follows:
