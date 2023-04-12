@@ -44,7 +44,9 @@ Create a .bat file with a scrapable name for your game.
 
 You have 2 possibilities, quit Steam at the end of each game or not, both work since emulationstation is waiting on the end of the execution of the script to reactivate.
 
-The solution without switching off Steam launches the games faster since the connection step is no longer to be done once launched for the first time or if Steam is launched when Windows starts.
+The solution without switching off Steam launches the games faster since the connection step is no longer required once launched for the first time, same This is code of your .bat file **with Steam kill**:
+
+if Steam is launched when Windows starts.
 
 This is code of your .bat file **with Steam kill**:
 
@@ -109,9 +111,11 @@ Then find the game executable as follows:
 Alternatively you could run the game and open the task manager to find the executable name.
 {% endhint %}
 
-Finally, report these two pieces of information in your.bat file as follows:
+Next, report these two pieces of information in your.bat file as follows:
 
 <figure><img src="https://i.imgur.com/CHGYrxn.png" alt=""><figcaption></figcaption></figure>
+
+Finally save the bat file in the `roms\windows` folder of your RetroBat installation.
 
 ### Adding a game from EPIC Game Store
 
@@ -143,13 +147,13 @@ This is code of your .bat file **with EpicGameLauncher kill**:
 @echo OFF
 
 REM HERE MODIFY YOUR STEAM APPID:
-START "" "C:\retrobat\roms\windows\.EPIC\Death Stranding.url"
+START "" "C:\retrobat\roms\windows\.EPIC\Game shortcut.url"
 
 TIMEOUT /t 30
 :RUNNING
 
 REM HERE YOU MUST ENTER THE Right NAME of THE EXECUTABLE, FOR EXAMPLE: "MyGame.exe"
-tasklist|findstr "DeathStranding.exe" > nul
+tasklist|findstr "MyGame.exe" > nul
 
 IF %errorlevel%==1 timeout /t 5 & taskkill /F /IM EpicGamesLauncher.exe /T & GOTO ENDLOOP
 timeout /t 2
@@ -163,13 +167,13 @@ This is code of your .bat file **without EpicGameLauncher kill**:
 @echo OFF
 
 REM HERE MODIFY YOUR STEAM APPID:
-START "" "C:\retrobat\roms\windows\.EPIC\Death Stranding.url"
+START "" "C:\retrobat\roms\windows\.EPIC\Game shortcut.url"
 
 TIMEOUT /t 30
 :RUNNING
 
 REM HERE YOU MUST ENTER THE Right NAME of THE EXECUTABLE, FOR EXAMPLE: "MyGame.exe"
-tasklist|findstr "DeathStranding.exe" > nul
+tasklist|findstr "MyGame.exe" > nul
 
 IF %errorlevel%==1 timeout /t 5 & GOTO ENDLOOP
 timeout /t 2
@@ -194,3 +198,81 @@ The second one is the game executable name, this is necessary to ensure that Ret
 You can find the executable name in the game install folder on your hard drive or in the Windows task manager while running the game:
 
 <figure><img src="https://i.imgur.com/9CejRnl.png" alt=""><figcaption></figcaption></figure>
+
+### Adding an UBISOFT game (Ubisoft Connect)
+
+Create a .bat file with a scrapable name for your game.
+
+You have 2 possibilities, quit Ubisoft Connect at the end of each game or not, both work since emulationstation is waiting on the end of the execution of the script to reactivate.
+
+The solution without switching off Unbisoft Connect launches the games faster since the connection step is no longer required once launched for the first time, same if Ubisoft Connect is launched when Windows starts.
+
+This is code of your .bat file **with Ubisoft Connect kill**:
+
+```batch
+@echo OFF
+
+REM HERE MODIFY YOUR STEAM APPID:
+START uplay://launch/00000/0
+
+TIMEOUT /t 30
+:RUNNING
+
+REM HERE YOU MUST ENTER THE Right NAME of THE EXECUTABLE, FOR EXAMPLE: "MyGame.exe"
+tasklist|findstr "MyGame.exe" > nul
+
+IF %errorlevel%==1 timeout /t 5 & taskkill /F /IM upc.exe /T & GOTO ENDLOOP
+timeout /t 2
+GOTO RUNNING
+:ENDLOOP
+```
+
+This is code of your .bat file **without Ubisoft Connect kill**:
+
+```batch
+@echo OFF
+
+REM HERE MODIFY YOUR STEAM APPID:
+START uplay://launch/00000/0
+
+TIMEOUT /t 30
+:RUNNING
+
+REM HERE YOU MUST ENTER THE Right NAME of THE EXECUTABLE, FOR EXAMPLE: "MyGame.exe"
+tasklist|findstr "MyGame.exe" > nul
+
+IF %errorlevel%==1 timeout /t 5 & GOTO ENDLOOP
+timeout /t 2
+GOTO RUNNING
+:ENDLOOP
+```
+
+**All you need is to inquire Ubisoft game launch command and executable name, proceed as follows:**
+
+Open Ubisoft Connect, then select your installed game and choose to "Create desktop shortcut":
+
+<figure><img src="https://i.imgur.com/BlqMJIB.png" alt=""><figcaption></figcaption></figure>
+
+Right-click the created shortcut and retrieve the launch command from the shortcut properties:
+
+<figure><img src="https://i.imgur.com/MmzV6ec.png" alt=""><figcaption></figcaption></figure>
+
+Next find the game executable as follows:
+
+From Ubisoft Connect, open Game details and go to properties:
+
+<figure><img src="https://i.imgur.com/rdBgCA7.png" alt=""><figcaption></figcaption></figure>
+
+Click the "Open folder" button in the Local files section and find the game executable name:
+
+<figure><img src="https://i.imgur.com/CT9qODE.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+lternatively you could run the game and open the task manager to find the executable name.
+{% endhint %}
+
+Next, report these two pieces of information in your.bat file as follows:
+
+<figure><img src="https://i.imgur.com/BAx77xx.png" alt=""><figcaption></figcaption></figure>
+
+Finally save the bat file in the `roms\windows` folder of your RetroBat installation.
