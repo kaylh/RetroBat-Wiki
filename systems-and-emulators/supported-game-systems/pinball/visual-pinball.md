@@ -47,11 +47,11 @@ Visual Pinball is a complex system, each table can require different type of fil
 
 * .vpx table file
 * .directb2s (backglass)
-* .UltraDMD folder
-* rom files
+* .UltraDMD folder (dot matrix display)
+* rom files (original pinball machine ROM)
 * music files
 
-Some tables require only the .vpx file, others might require more information.
+Some tables require only the .vpx file, but most require at least the directb2s and rom file in addition.
 
 #### VPX files
 
