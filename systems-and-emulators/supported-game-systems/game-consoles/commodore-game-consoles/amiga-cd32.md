@@ -24,6 +24,18 @@ Game Console - Lifespan: 1993 - 1994
 | kick40060.CD32.ext | `\bios` | bb72565701b1b6faece07d68ea5da639 |
 | kick40060.CD32k    | `\bios` | 5f8924d013dd57a89cf349f4cdedc6b1 |
 
+### WinUAE
+
+<details>
+
+<summary>WinUAE BIOS list</summary>
+
+kick40060.CD32
+
+kick40060.CD32.ext
+
+</details>
+
 ## Controls
 
 | Retrobat Button                                          | Amiga CD32 key |

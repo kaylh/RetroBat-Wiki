@@ -24,6 +24,22 @@ The amiga4000 rom folder is not created during installation. You can add it manu
 | --------------- | ------- | -------------------------------- |
 | kick40068.A4000 | `\bios` | 9bdedde6a4f33555b4a270c8ca53297d |
 
+### WinUAE
+
+<details>
+
+<summary>WinUAE BIOS list</summary>
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
+
+Kickstart v3.1 r40.68 (1993)(Commodore)(A1200)\[!].rom
+
+KICK13.ROM
+
+</details>
+
 ## Controls
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.

@@ -22,6 +22,22 @@ Computer - Lifespan: 1992 - 1996
 | --------------- | ------- | -------------------------------- |
 | kick40068.A1200 | `\bios` | 646773759326fbac3b2311fd8c8793ee |
 
+### WinUAE
+
+<details>
+
+<summary>WinUAE BIOS list</summary>
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
+
+Kickstart v3.1 r40.68 (1993)(Commodore)(A1200)\[!].rom
+
+KICK13.ROM
+
+</details>
+
 ## Controls
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.

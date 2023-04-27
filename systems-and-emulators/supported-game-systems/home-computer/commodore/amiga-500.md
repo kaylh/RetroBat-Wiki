@@ -22,6 +22,20 @@ Computer - Lifespan: 1987 - 1992
 | kick34005.A500 | `\bios` | 82a21c1890cae844b3df741f2762d48d |
 | kick37175.A500 | `\bios` | dc10d7bdd1b6f450773dfb558477c230 |
 
+### WinUAE
+
+<details>
+
+<summary>WinUAE BIOS list</summary>
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
+
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
+
+KICK13.ROM
+
+</details>
+
 ## Controls
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
