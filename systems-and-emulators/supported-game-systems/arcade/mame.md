@@ -36,6 +36,30 @@ Refer to the [Arcade page for more information about ROM set types](../../arcade
 
 BIOS files must be placed at the root of the `\bios` folder of your RetroBat installation.
 
+##
+
+## MAME folders
+
+**Rompath**: \bios ainsi que le dossier du jeu
+
+**Samples**: \bios\mame\samples
+
+**Cfg**: \bios\mame\cfg
+
+**Ini**: \bios\mame\ini
+
+**Hash**: \bios\mame\hash
+
+**Artworks**: \saves\mame\artwork
+
+**Cheats**: \cheats\mame
+
+**Nvram**: \saves\mame\nvram
+
+**Ctrl**: \saves\mame\ctrlr
+
+##
+
 ## Controls
 
 ### Arcade stick mapping
