@@ -4,6 +4,15 @@ MAME64 emulator is compatible natively with XInput controllers.
 
 When using another type of controllers (or to simply use a specific mapping for a game), it is possible to perform a dedicated mapping within the emulator.
 
+## STEP 0 : Preliminary explanations
+
+MAME standalone will read the controller configuration files in the following ordre of priority (from less priority to highest priority - meaning the last file found will override what is found before):
+
+1. Native controller configuration
+2. Default.cfg file located in `\bios\mame\cfg` folder
+3. Game specific config files located in `\bios\mame\cfg` folder
+4. Controller configuration file located in `\saves\mame\ctrlr` folder as per selection in RetroBat options
+
 ## STEP 1 : Create controller mapping file in MAME
 
 Run _mame.exe_, the executable is located in the `emulators\mame` folder of your RetroBat installation.
@@ -53,7 +62,11 @@ The file has an xml format, the mapping that you have performed is located in th
 
 _In the example, the keyboard key "Q" has been assigned to the action "UI\_MENU" that opens the MAME menu._
 
-Rename the file to one of the following values:
+Finally, copy the default.cfg file in the `\bios\mame\cfg` folder of your installation : this will now be the default controller configuration.
+
+## STEP 3 : Create a dedicated profile
+
+Proceed as explained in step 1, then rename the file to one of the following values:
 
 * custom1.cfg
 * custom2.cfg
@@ -74,7 +87,7 @@ Additional information on the file structure can be found here:
 [https://docs.mamedev.org/advanced/ctrlr\_config.html](https://docs.mamedev.org/advanced/ctrlr\_config.html)
 {% endhint %}
 
-## STEP 3 : Select the controller profile in RetroBat
+## STEP 4 : Select the controller profile in RetroBat
 
 From the MAME [Game view](../../navigation/system-view-and-game-view.md#game-view), press SELECT to open the [View Options](../../navigation/view-options.md) menu and select "ADVANCED SYSTEM OPTIONS"
 
