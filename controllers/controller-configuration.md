@@ -8,7 +8,11 @@ Connect a controller and press a button, **CONFIGURE INPUT** screen appears.
 
 Press and hold any button to go to the **CONFIGURING** screen
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/NhgVTbZ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Press each button accordingly to finalize your controller mapping.
 
@@ -57,31 +61,55 @@ Autoconfiguration can be disabled globally, per system or per game.
 
 Open the [Main Menu](../navigation/main-menu.md) and go to **GAME SETTINGS.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/LL6eTfL.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Disable **AUTOCONFIGURE CONTROLLERS.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/USc60bs.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **Per system d**eactivation
 
 Open the [System View Options](../navigation/view-options.md) and go to **ADVANCED SYSTEM OPTIONS.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/OwqDv4H.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Then set **AUTOCONFIGURE CONTROLLERS** to **OFF.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/DnYtGMf.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **Per Game d**eactivation
 
 Open the [Game Options](../navigation/game-options.md) menu and go to **ADVANCED GAME OPTIONS.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/tUJldiK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Set **AUTOCONFIGURE CONTROLLERS** to **OFF**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/b6Z10Rc.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="warning" %}
 With AUTOCONFIGURE CONTROLLERS set to OFF, you need to configure your controllers directly in the Emulator.

@@ -4,7 +4,11 @@ description: NEC
 
 # NEC PC-9800
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/Cn9WzBZ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Release date: 1982
 

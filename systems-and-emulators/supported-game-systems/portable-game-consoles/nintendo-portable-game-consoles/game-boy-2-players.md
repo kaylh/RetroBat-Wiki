@@ -4,7 +4,11 @@ description: Nintendo
 
 # Game Boy 2 players
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/gb2players.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 This system is used to emulate the use of the link cable that allows two people to play two-player games on 2 Game Boys connected with the cable.
 
@@ -44,7 +48,11 @@ Same BIOS as Game Boy system.
 | L3                                                                                        |              |
 | R3                                                                                        |              |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/yDQp2P6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

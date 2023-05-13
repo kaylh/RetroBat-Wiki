@@ -42,7 +42,11 @@ Same BIOS as Game Boy Advance system.
 | L3                                                                                        | Darken Solar Sensor   |
 | R3                                                                                        | Brighten Solar Sensor |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/hYkmLg3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

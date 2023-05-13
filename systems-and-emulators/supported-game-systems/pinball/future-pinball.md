@@ -1,6 +1,10 @@
 # Future Pinball
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/fpinball.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Pinball Simulation Software
 
@@ -59,7 +63,11 @@ roms\
 
 If you receive an error message like the following one:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/UjD7GIy.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 You need to launch Future Pinball as administrator once only.\
 \
@@ -67,6 +75,10 @@ So, go to the "**fpinball**" folder in the "**emulators**" folder at the root of
 \
 Then right-click on the Future Pinball executable "**Future Pinball.exe**" and, as showed on the picture, select "**Run as administrator**"
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/2XXANBV.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once Future Pinball has started, you can close it and start it again from Retrobat.

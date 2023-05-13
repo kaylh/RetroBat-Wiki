@@ -4,7 +4,11 @@ description: G&W
 
 # Game & Watch
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/gameandwatch.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 1980 - 1991
 
@@ -120,10 +124,18 @@ These games need 2 different files to work: a file of type "_rom"_ and a file of
 \
 Place the rom file in .zip format in the `\roms\gameandwatch` folder.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ALEygG9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Place the artwork in the `\bios\mame\artwork`folder, files must have exactly the same name as the roms and also be in .zip format.&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/H39e9W9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Then, in Retrobat, go to the **Game & Watch** system and [change the emulator for the game](../../../get-started/running-a-game.md#choosing-the-emulator).

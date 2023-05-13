@@ -1,6 +1,10 @@
 # EasyRPG
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/khOjbUH.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 RPG creation engine
 
@@ -40,6 +44,10 @@ No BIOS required
 
 EasyRPG games are provided as a folder with the following structure:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/fW4ypgs.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Just add `.easyrpg` to the folder name and place the folder in your `roms\easyrpg` folder.

@@ -4,7 +4,11 @@ description: MAME Team
 
 # MAME
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/mame.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Multi-Arcade Emulator - Release year: 1997
 
@@ -66,7 +70,11 @@ BIOS files must be placed at the root of the `\bios` folder of your RetroBat ins
 
 Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/kXBcdsB.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Controller mapping
 

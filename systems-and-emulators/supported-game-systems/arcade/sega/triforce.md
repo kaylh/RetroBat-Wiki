@@ -4,7 +4,11 @@ description: Namco, Sega, Nintendo
 
 # Triforce
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/triforce.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - Released: 2002
 

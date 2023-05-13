@@ -4,7 +4,11 @@ description: Aduros
 
 # WASM-4
 
+<div align="left">
+
 <figure><img src="https://github.com/fabricecaruso/es-theme-carbon/blob/master/art/logos/wasm4.png?raw=true" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Fantasy Console - Released : 2021
 

@@ -4,7 +4,11 @@ description: Capcom
 
 # CPS II
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/cps2.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - Lifespan: 1993 - 2003
 
@@ -27,7 +31,11 @@ No BIOS necessary for CPS systems.
 
 Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/kXBcdsB.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Controller mapping
 

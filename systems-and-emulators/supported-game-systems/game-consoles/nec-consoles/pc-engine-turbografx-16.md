@@ -4,7 +4,11 @@ description: NEC
 
 # PC Engine/TurboGrafx-16
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pcengine.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1987 - 1994
 
@@ -37,7 +41,11 @@ Game Console - Lifespan: 1987 - 1994
 | L1                                                       |               |
 | R1                                                       |               |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rKnEZ9C.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

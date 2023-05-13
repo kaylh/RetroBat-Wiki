@@ -22,7 +22,11 @@ In order to prevent this from happening, you can either disable controller autoc
 
 If you get a message like that when running BigPEmu from RetroBat:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/YBpU8yk.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Just delete the _**BigPEmuConfig.bigpcfg**_ file located in the `\emulators\bigpemu\userdata` folder of your RetroBat installation.
 
@@ -36,7 +40,11 @@ You can either place your artworks in `retrobat\emulators\mame\artwork` folder, 
 
 Open the file **es\_systems.cfg** located in `retrobat\emulationstation\.emulationstation` folder and find the Cannonball session, than change the `<theme>ports</theme>` value to `<theme>cannonball</theme>`:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/EiKMiME.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Wii bezels not working when in 4/3
 

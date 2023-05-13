@@ -4,7 +4,11 @@ description: Smith Engineering
 
 # Vectrex
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/vectrex.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1982 - 1984
 
@@ -38,7 +42,11 @@ No BIOS required.
 | L3                                                                                     |             |
 | R3                                                                                     |             |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/t2yZvPr.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

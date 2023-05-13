@@ -18,13 +18,21 @@ Run _Dolphin.exe_, the executable is located in the `emulators\dolphin-emu` fold
 
 Click on the "Controllers" icon in the taskbar, then select "Configure" (pick the right system depending on the game, this works both for Gamecube and Wii)
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/6LtuBLq.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In the next screen, configure the mapping you want.
 
 Once configured, enter a profile name and click the "SAVE" button
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/J2aSCzj.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### STEP 2: Assign the profile to the game
 
@@ -32,11 +40,19 @@ Close the controller configuration windows.
 
 In the game list, right-click on the game to which you want to apply the specific profile and select "Properties"
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/eEWCDpa.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In the next screen, select the editor and in the "User Config" section, specify the profile to use
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/sWKvW1P.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Type the following code:
 
@@ -64,4 +80,8 @@ The profile saved will be used everytime the game is launched.
 
 Saved profile files are stored in the `\emulators\dolphin-emu\User\Config\Profiles` folder of your RetroBat installation:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/r72aRwA.png" alt=""><figcaption></figcaption></figure>
+
+</div>

@@ -4,7 +4,11 @@ description: Atari
 
 # Atari 2600
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/atari2600.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1977 - 1992
 
@@ -38,7 +42,11 @@ No BIOS required for ATARI 2600.
 | L3                                                       | Color (on console)              |
 | R3                                                       | black & white (on console)      |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/OP8tnMg.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

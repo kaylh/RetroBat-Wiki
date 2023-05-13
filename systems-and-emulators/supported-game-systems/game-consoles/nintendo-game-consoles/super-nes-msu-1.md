@@ -4,7 +4,11 @@ description: Nintendo Hack
 
 # Super NES MSU-1
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/zbZdaU7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% embed url="https://en.wikipedia.org/wiki/Super_NES_CD-ROM" %}
 

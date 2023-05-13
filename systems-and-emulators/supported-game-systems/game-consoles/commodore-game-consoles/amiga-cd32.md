@@ -4,7 +4,11 @@ description: Commodore
 
 # Amiga CD32
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/IxocfAW.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1993 - 1994
 
@@ -23,6 +27,13 @@ Game Console - Lifespan: 1993 - 1994
 | ------------------ | ------- | -------------------------------- |
 | kick40060.CD32.ext | `\bios` | bb72565701b1b6faece07d68ea5da639 |
 | kick40060.CD32     | `\bios` | 5f8924d013dd57a89cf349f4cdedc6b1 |
+
+### WinUAE Bios
+
+| bios file                                                                                                                                          | Folder  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| <p>Kickstart v3.1 r40.060 (1993-05)(Commodore)(CD32)[!].rom<br>or<br>Kickstart v3.1 r40.60 (1993)(Commodore)(CD32).rom<br>or<br>kick40060.CD32</p> | `\bios` |
+| <p>CD32 Extended-ROM r40.60 (1993)(Commodore)(CD32).rom<br>or<br>kick40060.CD32.ext</p>                                                            | `\bios` |
 
 ## Controls
 

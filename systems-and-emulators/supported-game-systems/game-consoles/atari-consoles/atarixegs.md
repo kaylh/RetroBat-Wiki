@@ -4,7 +4,11 @@ description: Atari
 
 # Atari XEGS
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5b2195d8cce1b44a6aadc2a43c341e7511d4b48f/art/logos/xegs.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game console - Lifespan: 1987 - 1992
 

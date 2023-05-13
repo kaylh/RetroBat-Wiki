@@ -4,7 +4,11 @@ description: Microsoft
 
 # DOS
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/pc.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer Operating System - Lifespan: 1981 - 2000
 
@@ -41,7 +45,11 @@ DOSBox Pure can load games directly from **ZIP** files without the need to extra
 
 This is the first screen that appears when loading a game. It offers a gamepad controllable list of all executable files for the loaded game. By pressing right an item can be selected as the default which will skip the menu on the next launch.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/Ykgv1UU.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 If there is only a single executable, the menu will not show.

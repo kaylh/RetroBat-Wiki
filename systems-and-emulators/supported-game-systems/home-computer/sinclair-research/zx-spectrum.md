@@ -4,7 +4,11 @@ description: Sinclair Research
 
 # ZX Spectrum
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/zxspectrum.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1982 - 1992
 
@@ -28,11 +32,19 @@ The SELECT button brings up the embedded, on-screen keyboard which is useful if 
 
 * For joystick games: in the RetroBat [advanced system settings or game settings](../../../../navigation/view-options.md#advanced-system-options), select the option "**JOYSTICK ONLY**" and set user 1 to a joystick type. Optionally, set user 2 to another joystick type (local cooperative games).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wIyIvF9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * For keyboard games: select the option "**Keyboard Only**". You won't have any joystick and the embedded keyboard won't work, but the entire physical keyboard will be available for you to type in those text adventure commands.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/o9rRm4B.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

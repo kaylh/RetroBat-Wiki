@@ -4,7 +4,11 @@ description: Entex
 
 # Adventure Vision
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/8lVhiHK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1982 - 1983
 

@@ -1,6 +1,10 @@
 # LaserDisc
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/daphne.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - First LaserDisc game release : 1983
 
@@ -95,19 +99,35 @@ roms\
 
 Once the game added, it is listed twice in Retrobat, as both the zip and the .daphne folder are detected.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/crqriZ1.png" alt=""><figcaption><p>lair appears twice</p></figcaption></figure>
+
+</div>
 
 You can use use the [**VIEW OPTIONS**](../../../navigation/view-options.md) to hide the `.zip` extension for the system by pressing **SELECT**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/dQngpx5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Navigate to [**VIEW CUSTOMIZATION**](../../../navigation/view-options.md#view-options) and FILE EXTENSIONS
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/JT7AqDc.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Untick .zip extension
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/B38zdIa.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Adding SINGE Games
 
@@ -120,85 +140,8 @@ The process is similar as for Daphne games but there is no zip file to place in 
 
 **T**he structure of the game folder should look like this:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/QPFt4jZ.jpg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-~~Note that Hypseus games will only work if you activate the "Developper Mode" in Windows.~~
-{% endhint %}
-
-<figure><img src="https://i.imgur.com/9fAIgE0.png" alt=""><figcaption><p>NOT NECESSARY SINCE RETROBAT VERSION 5.2.0</p></figcaption></figure>
-
-### Add Actionmax games
-
-ActionMax games are compatible with Hypseus emulator but they require a very specific folder structure.
-
-All Actionmax games must be located inside `roms\daphne\actionmax` folder with the following content:
-
-```
-+---38ambushalley
-|       video_38ambushalley.dat
-|       video_38ambushalley.m2v
-|       video_38ambushalley.ogg
-|       
-+---bluethunder
-|       video_bluethunder.m2v
-|       video_bluethunder.ogg
-|       
-+---hydrosub2021
-|       video_hydrosub2021.m2v
-|       video_hydrosub2021.ogg
-|       
-+---popsghostly
-|       video_popsghostly.m2v
-|       video_popsghostly.ogg
-|       
-+---sonicfury
-        video_sonicfury.m2v
-        video_sonicfury.ogg
-|
-|   38ambushalley.singe
-|   38ambushalley.txt
-|   bluethunder.singe
-|   bluethunder.txt
-|   emulator.singe
-|   font_bluestone.ttf
-|   font_chemrea.ttf
-|   font_led_real.ttf
-|   framework.singe
-|   hydrosub2021.singe
-|   hydrosub2021.txt
-|   popsghostly.singe
-|   popsghostly.txt
-|   sonicfury.singe
-|   sonicfury.txt
-|   sound_actionmax.wav
-|   sound_asteadyaimiscritical.wav
-|   sound_badhit.wav
-|   sound_gameover.wav
-|   sound_getreadyforaction.wav
-|   sound_goodhit.wav
-|   sound_gunshot.wav
-|   sprite_38ambushalley.png
-|   sprite_actionmax.png
-|   sprite_actionmax_orig.png
-|   sprite_bluethunder.png
-|   sprite_bullet.png
-|   sprite_crosshair.png
-|   sprite_hydrosub2021.png
-|   sprite_lightoff.png
-|   sprite_lighton.png
-|   sprite_popsghostly.png
-|   sprite_sonicfury.png
-|   video_actionmaxintro.dat
-|   video_actionmaxintro.m2v
-|   video_actionmaxintro.ogg
-|   video_menu.dat
-|   video_menu.m2v
-|   video_menu.ogg
-```
-
-Create an empty file and name it with the name of the game and the extension .actionmax in the `roms\daphne` folder (eg. `sonicfury.actionmax`).
-
-<figure><img src="https://i.imgur.com/NQX8l4t.png" alt=""><figcaption></figcaption></figure>
-
-As for Hypseus, the Developper Mode must be enabled in Windows to run Actionmax games.
+</div>

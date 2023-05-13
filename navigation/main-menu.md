@@ -6,7 +6,11 @@ description: Configure Retrobat
 
 The **MAIN MENU** is accessed by pressing **START** (**ENTER** on the keyboard).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/GO6iJJx.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 From there you will have access to:
 

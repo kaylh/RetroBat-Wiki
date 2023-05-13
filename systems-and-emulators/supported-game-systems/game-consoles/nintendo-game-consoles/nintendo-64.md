@@ -4,7 +4,11 @@ description: Nintendo
 
 # Nintendo 64
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/n64.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1996 - 2002
 
@@ -44,7 +48,11 @@ There is no BIOS files needed to run games.
 | L-Click (L3)                                                                              |                             |
 | R-Click (R3)                                                                              |                             |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/NZ91mQ9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific System Information
 
@@ -54,11 +62,19 @@ mupen64plus next core allows the use of custom textures.
 
 The texture pack must be placed in the `bios\Mupen64Plus\cache\` folder if the pack comes as a .hts or .htc file.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/H878WjR.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 If it comes as a uncompressed pack (folder with .png files), it must be placed in the `bios\Mupen64Plus\hires_texture\` folder.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/1sqG9H4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 For htc or hts files, the file name must be `GAMEID"__HIRESTEXTURES.hts` or .htc (for example : `MARIOKART64_HIRESTEXTURES.htc`).
 
@@ -66,11 +82,23 @@ For uncompressed folder, the folder name must be similar to the gameID (for exam
 
 Once the texture pack in the right folder, enable **CUSTOM TEXTURES** in Retrobat.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/jBt3sjA.png" alt=""><figcaption><p>Advanced System Options (can also be done per game)</p></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/hzikBUa.png" alt=""><figcaption><p>Visual Rendering</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/TXJ3fti.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Select RICE if the texture pack is compressed (htc or hts).&#x20;
 

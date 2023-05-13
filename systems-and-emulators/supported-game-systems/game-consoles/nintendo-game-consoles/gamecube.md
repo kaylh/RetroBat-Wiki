@@ -4,7 +4,11 @@ description: Nintendo
 
 # GameCube
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/gc.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 2001 - 2007
 
@@ -67,11 +71,19 @@ To automatically load the next disc of a game, you can use a `.m3u` playlist fil
 
 In the m3u file, list all game discs from your game:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/Hh12kWj.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Within that text file, write the names of the game files for your game discs:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/aBZpJ4W.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Finally save the file as a .m3u file.
 
@@ -79,18 +91,38 @@ Finally save the file as a .m3u file.
 
 It is possible to launch Custom Texture packs with the Dolphin Emulator.
 
-The texture pack needs to be placed in the `\bios\dolphin-emu\User\Load\Textures` folder.
+The texture pack needs to be placed in the `\saves\gamecube\User\Load\Textures` folder.
 
-<figure><img src="https://i.imgur.com/uIm7U0E.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgur.com/3Zr8SS4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The name of the custom texture folder must be strictly identical to the **Game ID** that can be found in the game properties inside Dolphin.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wWaNFxC.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once the custom texture pack is correctly named and placed, activate the **CUSTOM TEXTURES** setting.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/R5SWtvS.png" alt=""><figcaption><p>Go to the View Options from the Gamecube System</p></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/K5NInuR.png" alt=""><figcaption><p>Select "Visual Rendering"</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/UPixWDa.png" alt=""><figcaption><p>Set Custom Textures to YES</p></figcaption></figure>
+
+</div>

@@ -4,7 +4,11 @@ description: Sega
 
 # Dreamcast
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/dreamcast.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1998 - 2001
 
@@ -60,7 +64,11 @@ dc.zip
 | L3                                                       |               |
 | R3                                                       |               |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/g71xmgZ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 
@@ -70,11 +78,19 @@ You can use a m3u file to manage multi-disc games.
 
 For example for _Alone In The Dark_, if the ROM contains the following files:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/LUmmLpf.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 create a `Alone in the dark The new nightmare.m3u` text file with the following content and save it to the /roms/dreamcast folder:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/9dQJhD9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Retrobat will automatically detect the m3u file and hide the individual .gdi files from the Game List.
 
@@ -84,12 +100,28 @@ Custom textures can be used with the flycast core.
 
 The texture pack must be placed in the `\bios\dc\textures\` folder:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/65bX2kT.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Then, enable **CUSTOM TEXTURES** in **ADVANCED SYSTEM OPTIONS** or in **ADVANCED GAME OPTIONS**.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption><p>Enter the Dreamcast System View Options</p></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/qVMX2Ly.png" alt=""><figcaption><p>Select Visual Rendering</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/SbsPMz1.png" alt=""><figcaption><p>Set Custom Textures to YES</p></figcaption></figure>
+
+</div>

@@ -4,7 +4,11 @@ description: Epoch Co.
 
 # Game Pocket Computer
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/gamepock.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Released: 1984
 

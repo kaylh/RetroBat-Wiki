@@ -4,7 +4,11 @@ description: Sega
 
 # Sega NAOMI
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/naomi.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - Released: 1998&#x20;
 
@@ -57,8 +61,16 @@ Some games have a per-game menu for accessing the machine's advanced configurati
 
 To access the service menu for NAOMI games, you need first to enable the Service Mode from the RetroBat advanced menu (set it to YES):
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ztsYbF4.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/FcFsHjG.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once done, you will be able access the per-game Service Menu by pressing L3 + R3 buttons on the controller.

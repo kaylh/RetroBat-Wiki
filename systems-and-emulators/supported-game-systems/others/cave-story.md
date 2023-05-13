@@ -4,7 +4,11 @@ description: Studio Pixel
 
 # Cave Story
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/KwOXBWx.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Video game - Released: 2004
 

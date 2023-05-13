@@ -14,11 +14,19 @@ When a lightgun is connected to the system, a small gun icon appears on the top 
 
 Also, a crosshair will appear on the screen as well as a collection called **LIGHT GUN** in the **System View**.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/YDBWOrd.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 LightGun compatible games will have a specific icon next to their name in the **Game View**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rbFVyjA.png" alt=""><figcaption><p>Duck Hunt is compatible</p></figcaption></figure>
+
+</div>
 
 The list of LightGun games is stored in an .xml file inside your Retrobat folder, if you find that some games appear in the list but are not LightGun games, you can remove them from the file and manage your own list
 
@@ -26,7 +34,11 @@ The list of LightGun games is stored in an .xml file inside your Retrobat folder
 Be sure to save your file version as it might be overwritten by a Retrobat update.
 {% endhint %}
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/WrtdDbz.png" alt=""><figcaption><p>gungames.xml folder</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 Some games appear in the list but the LightGun functionality is available only in some levels or some mini-games.
@@ -40,15 +52,27 @@ Lightguns can be activated for a system or for a game.
 
 To activate Lightguns for a system, from the **Game View**, open the [View Options](../../../navigation/view-options.md) and select **ADVANCED SYSTEM OPTIONS**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rfmZxeu.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Navigate to **CONTROLS**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/lbqvjVS.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Switch **LIGHTUN** to **ON**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rpt8cBZ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The same can be done per game from the [Game Options](../../../navigation/game-options.md) menu and **ADVANCED GAME OPTIONS**
 

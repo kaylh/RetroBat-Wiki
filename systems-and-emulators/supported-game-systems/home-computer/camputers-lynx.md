@@ -4,7 +4,11 @@ description: Camputers
 
 # Camputers Lynx
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/QIX6oYa.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1983 - 1984
 

@@ -4,7 +4,11 @@ description: Commodore
 
 # Amiga 4000
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/n6jN8GQ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1992 - 1994
 
@@ -30,13 +34,9 @@ The amiga4000 rom folder is not created during installation. You can add it manu
 
 <summary>WinUAE BIOS list</summary>
 
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
-
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
-
-Kickstart v3.1 r40.68 (1993)(Commodore)(A1200)\[!].rom
-
-KICK13.ROM
+Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)\[!].rom\
+or\
+kick40068.A4000
 
 </details>
 

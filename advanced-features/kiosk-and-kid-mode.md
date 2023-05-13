@@ -2,7 +2,11 @@
 
 Kiosk mode and Kid mode can be activated from the [**MAIN MENU > SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings) menu
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/Pfrkc0D.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Kiosk mode
 
@@ -27,5 +31,9 @@ A A A B A ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/im
 
 Alternatively, you can edit the `retrobat.ini` file located in your retrobat folder and set the value "**InterfaceMode**" to 0:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ofDCIxE.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 

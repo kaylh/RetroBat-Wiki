@@ -4,7 +4,11 @@ description: Nintendo
 
 # Game Boy Color
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/gbc.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 1998 - 2003
 
@@ -12,7 +16,7 @@ Portable Game Console - Lifespan: 1998 - 2003
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gambatte</li><li>libretro: tgbdual</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gbc</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gbc .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gambatte</li><li>libretro: tgbdual</li><li>mgba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gbc</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gbc .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -41,7 +45,11 @@ Portable Game Console - Lifespan: 1998 - 2003
 | L3                                                                                        |                    |
 | R3                                                                                        |                    |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ptx8LTP.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

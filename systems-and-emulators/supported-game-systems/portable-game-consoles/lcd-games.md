@@ -1,6 +1,10 @@
 # LCD Games
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/lcdgames.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Handheld LCD Games
 
@@ -44,11 +48,19 @@ Games need 2 different files to work: a file of type "_rom"_ and a file of type 
 \
 Place the rom file in .zip format in the `\roms\lcdgames` folder.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/0VYlmPG.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Place the artwork in the `\bios\mame\artwork`folder, files must have exactly the same name as the roms and also be in .zip format.&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/SXyo1nr.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Then, in Retrobat, go to the **Game & Watch** system and select the emulator for the game.
 

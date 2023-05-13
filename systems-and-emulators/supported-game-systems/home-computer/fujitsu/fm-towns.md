@@ -4,7 +4,11 @@ description: Fujitsu
 
 # FM-TOWNS
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/fmtowns.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1989 - 1997
 
@@ -62,6 +66,10 @@ For example, **Super Street Fighter II** folder must be renamed
 * `Super Street Fighter II.game`, or
 * `Super Street Fighter II.cd`
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wsunOFc.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Games in \*.iso format must be placed at the root of the `roms/fmtowns` folder

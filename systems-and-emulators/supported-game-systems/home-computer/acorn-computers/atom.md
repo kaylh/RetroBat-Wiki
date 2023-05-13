@@ -4,7 +4,11 @@ description: Acorn Computers
 
 # ATOM
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5b2195d8cce1b44a6aadc2a43c341e7511d4b48f/art/logos/atom.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1979 - 1982
 

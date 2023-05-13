@@ -4,7 +4,11 @@ description: Apple
 
 # Apple IIGS
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/apple2gs.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1986 - 1992
 
@@ -12,7 +16,7 @@ Computer - Lifespan: 1986 - 1992
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>gsplus</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2gs</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.2mg</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>gsplus</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2gs</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.2mg .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -30,4 +34,14 @@ It is better to use keyboard & Mouse for personal computers.
 
 ## Specific system information
 
-There is no specific System information documented here yet.
+### Multi-disc games
+
+Use a m3u file to run multi-disc games, hereunder an example for Silpheed:
+
+<div align="left">
+
+<figure><img src="https://i.imgur.com/6dRmeLY.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+.2mg files must be in the same folder as the .m3u file.

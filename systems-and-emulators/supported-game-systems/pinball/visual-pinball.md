@@ -1,6 +1,10 @@
 # Visual Pinball
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/vpinball.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Pinball Simulation Software
 
@@ -61,13 +65,21 @@ VPX file needs to be placed in the `\roms\vpinball\` folder.
 
 directb2s file needs to be placed in the `\roms\vpinball\` folder, with the exact same name as the vpx file:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/muDyjzI.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### UltraDMD folders
 
 UltraDMD folders need to be placed in the `\roms\vpinball\` folder, do not change the name of the folder from the one you got with your table:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/LIDc6B0.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### ROM files
 
@@ -75,14 +87,26 @@ Tables that are run with the VPinMAME version of the program require an addition
 
 These files need to be placed in the `\emulators\vpinball\VPinMAME\roms` folder :&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/TpXP6dI.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 To know what the rom name should be, run the **PinMAME32.exe** file located in the `\emulators\vpinball\VPinMAME` folder and check the rom file associated with your table:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/FMuBSQ3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Music files
 
 Additional mp3 or ogg music files are required by some tables, they must be placed in the `\emulators\vpinball\Music` folder:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/V3nna49.png" alt=""><figcaption></figcaption></figure>
+
+</div>

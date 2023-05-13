@@ -4,7 +4,11 @@ description: Nintendo
 
 # Nintendo DS
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/nds.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 2004- 2011
 
@@ -52,7 +56,11 @@ Stylus movement can be simulated with mouse or with right analog stick (if the f
 | L3                                                                                        | <p>DesMUme: Toggle Microphone<br>MelonDS: Close LID</p> |
 | R3                                                                                        | DesMUme: Screen Swap                                    |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/5Fa7LxI.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific System Information
 

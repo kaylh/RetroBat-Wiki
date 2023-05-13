@@ -1,6 +1,10 @@
 # Pinball FX3
 
+<div align="left">
+
 <figure><img src="https://github.com/fabricecaruso/es-theme-carbon/blob/master/art/logos/pinballfx3.png?raw=true" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Pinball Simulation Software - Released 2017
 
@@ -60,17 +64,33 @@ To easily find this location, just follow these steps:
 
 * Open the Steam Client and select the Library tab.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>the library tab</p></figcaption></figure>
+
+</div>
 
 * Left-click in the search field at the top of your Steam games list and type `Pinball FX3`.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (4) (5).png" alt=""><figcaption><p>the search field after typing Pinball FX3</p></figcaption></figure>
+
+</div>
 
 * Right-click on Pinball FX3 listed now in the Steam Game List, then hover with the mouse pointer "Manage" and left-click on "Browse local files" when the game sub-menu appears. The File Explorer should open now the location of your Pinball FX3 installation.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>the game sub-menu</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>the Pinball FX3 installation folder</p></figcaption></figure>
+
+</div>
 
 * In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation.
 

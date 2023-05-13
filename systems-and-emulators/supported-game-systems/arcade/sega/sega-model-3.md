@@ -4,7 +4,11 @@ description: Sega
 
 # Sega Model 3
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/model3.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - Released: 1996
 
@@ -244,7 +248,11 @@ The Test menu is accessed by pressing `[6]` on your keyboard or L3 on your gamep
 
 Press `[5]` on your keyboard or R3 on your gamepad to navigate and `[6]` on the keyboard or L3 on the gamepad to confirm.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/HoQr2H8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Lightgun calibration
 

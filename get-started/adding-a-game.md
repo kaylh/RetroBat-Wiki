@@ -10,7 +10,11 @@ Adding games is a straight-forward process.
 
 Game ROMs need to be placed in the `\roms\<system>\` folder, they will be detected and added to the Game Llibrary when starting Retrobat or when updating the Game List.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ayxotgu.png" alt=""><figcaption><p>Adding a snes rom</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 More information about ROM format per system in the [Supported Games Systems](../supported-game-systems/) section of the wiki.
@@ -18,11 +22,19 @@ More information about ROM format per system in the [Supported Games Systems](..
 
 The System will be visible upon restart or upon refreshing the gamelist.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/8yZ6Dll.png" alt=""><figcaption><p>System View - Super Nintendo system appeared</p></figcaption></figure>
+
+</div>
 
 The game will be visible in the [Game View](../navigation/system-view-and-game-view.md#game-view).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/pvbhxaB.png" alt=""><figcaption><p>Game View</p></figcaption></figure>
+
+</div>
 
 ## Scraping Game Information
 
@@ -34,11 +46,19 @@ Scraping can be done globally, per system or per game.
 
 Press **START** (**ENTER** on keyboard) to display the **MAIN MENU** and choose **SCRAPER**.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/sentTnp.png" alt=""><figcaption><p>SCRAPER</p></figcaption></figure>
+
+</div>
 
 Configure **SCRAPER SETTINGS** and select **SCRAPE NOW**.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/7k0IPHA.png" alt=""><figcaption><p>Choose settings and scrape</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 For ScreenScraper, you need to create an account on the [Screenscraper ](https://www.screenscraper.fr/)website.&#x20;
@@ -50,21 +70,37 @@ More details in [Scaping & Metadata](../advanced-features/scraping-and-metadata.
 
 The following message appears on the top right of the screen, the scraping is in progress.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/7WXE0GL.png" alt=""><figcaption><p>Scraping in progress</p></figcaption></figure>
+
+</div>
 
 Once the scraping finalized, refresh the gamelist.
 
 Press **START** (**ENTER** on keyboard) to display the [Main menu](../navigation/main-menu.md) and select **GAME SETTINGS.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/X1sumBQ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Choose **UPDATE GAMELIST.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/B9beKo6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game information is now available in the [Game View](../navigation/system-view-and-game-view.md#game-view)
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Game information has been added to the database</p></figcaption></figure>
+
+</div>
 
 ### Per game scraping
 
@@ -80,6 +116,10 @@ A list of possible matches is displayed, select the appropriate game and confirm
 The default search string is based on the ROM filename, to change the search string use the **INPUT** button at the bottom.
 {% endhint %}
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/iwdzJqF.png" alt=""><figcaption><p>Select the right game or press INPUT to enter the game name manually</p></figcaption></figure>
+
+</div>
 
 CONGRATULATIONS : you have added your first games to Retrobat !

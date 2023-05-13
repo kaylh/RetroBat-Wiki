@@ -2,7 +2,11 @@
 
 **Game Options** menu is accessible from the **Game View** by long-press of ![](<../.gitbook/assets/image (1) (2) (1).png>) when a game is highlighted.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/WId2I6B.png" alt=""><figcaption><p>Game options</p></figcaption></figure>
+
+</div>
 
 From this menu, you will be able to:
 

@@ -4,7 +4,11 @@ description: TeknoGods
 
 # TeknoParrot
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/teknoparrot.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 PC-based arcade games emulator
 
@@ -75,7 +79,11 @@ To add **Teknoparrot** games, you must first download the Teknoparrot "emulator"
 
 Then, unzip the file you just downloaded in **\emulators\teknoparrot**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/fAk6RTy.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="warning" %}
 Your antivirus will surely panic, keep cool, these are false positives, so make sure that your antivirus authorizes the detected files.
@@ -83,11 +91,19 @@ Your antivirus will surely panic, keep cool, these are false positives, so make 
 
 Launch the TeknoParrotUi.exe for the first time, it will most certainly ask for several updates: do them, **all.**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/liUVclK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Place your Teknoparrot games in **\roms\teknoparrot**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rjJ3XuI.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The folders name of your Teknoparrot games must be renamed to **.teknoparrot** **.parrot** or **.game**
 
@@ -99,5 +115,9 @@ For example, the game folder of _Mario Kart: Arcade GP DX_ must be renamed**:**&
 
 **Important detail**, the folders name must correspond to the name of the **"GameName"** (without special characters ![\[FAQ\] Retrobat \[WIP\] 584DwC5](https://i.imgur.com/584DwC5.png)) present in the .xml file that you will find in the folder **\emulators\teknoparrot\GameProfiles**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wKid67O.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 

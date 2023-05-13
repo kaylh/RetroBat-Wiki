@@ -4,7 +4,11 @@ description: Commodore
 
 # Commodore Plus/4
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5b2195d8cce1b44a6aadc2a43c341e7511d4b48f/art/logos/cplus4.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1984-1985
 

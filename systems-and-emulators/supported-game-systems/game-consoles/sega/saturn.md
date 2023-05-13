@@ -4,7 +4,11 @@ description: Sega
 
 # Saturn
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/saturn.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1994 - 2000
 
@@ -36,7 +40,11 @@ Game Console - Lifespan: 1994 - 2000
 | LB (L1)                                                                                   | X (top left)      |
 | RB (R1)                                                                                   | Z (top right)     |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/rJXxjO2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific System Information
 
@@ -46,8 +54,16 @@ You can use a m3u file to manage multi-disc games.
 
 For example for _Panzer Dragoon Saga_, if the ROM contains the following files:&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/o3QZPs0.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 create a `Panzer Dragoon Saga.m3u` text file with the following content and save it to the /roms/saturn folder:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/gy9LuLH.png" alt=""><figcaption></figcaption></figure>
+
+</div>

@@ -2,7 +2,11 @@
 
 Once RetroBat is installed, the RetroBat installation folder contains the following folders & files:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/MwQl2t9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## bios folder
 

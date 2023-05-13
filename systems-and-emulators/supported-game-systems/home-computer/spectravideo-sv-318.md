@@ -4,7 +4,11 @@ description: Spectravideo
 
 # SpectraVideo (SV-318)
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/v1P1Ezx.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Home Computer - Released: 1981
 

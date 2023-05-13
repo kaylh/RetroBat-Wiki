@@ -4,7 +4,11 @@ description: Tiger Electronics
 
 # Game.com
 
+<div align="left">
+
 <figure><img src="https://github.com/fabricecaruso/es-theme-carbon/blob/master/art/logos/gamecom.png?raw=true" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 1997 - 2000
 

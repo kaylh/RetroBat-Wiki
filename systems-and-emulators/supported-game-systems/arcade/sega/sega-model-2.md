@@ -4,7 +4,11 @@ description: Sega
 
 # Sega Model 2
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/model2.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade - Released: 1994
 
@@ -51,6 +55,14 @@ While in game, navigate the service menu to the **GUN SETTINGS** option to perfo
 
 If you receive the error “Network Board Not Present”, go to the service menu and navigate to **Games System** → **Link ID** and change the option to **Single**.&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/LnXZBzo.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/0TBBbJT.png" alt=""><figcaption></figcaption></figure>
+
+</div>

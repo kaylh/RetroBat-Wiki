@@ -6,7 +6,11 @@ description: Commodore
 
 
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/amiga1200.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1992 - 1996
 
@@ -28,13 +32,11 @@ Computer - Lifespan: 1992 - 1996
 
 <summary>WinUAE BIOS list</summary>
 
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
-
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
-
-Kickstart v3.1 r40.68 (1993)(Commodore)(A1200)\[!].rom
-
-KICK13.ROM
+Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)\[!].rom\
+or\
+Kickstart - 391774-01 (USA, Europe) (v3.1 Rev 40.068) (A1200).rom\
+or\
+kick40068.A1200
 
 </details>
 

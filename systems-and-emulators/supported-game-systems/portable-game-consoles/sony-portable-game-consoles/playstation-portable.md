@@ -4,7 +4,11 @@ description: Sony
 
 # PlayStation Portable
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psp.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 2004 - 2014
 
@@ -29,7 +33,11 @@ No BIOS required.
 
 ## Controls
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/c4dKloK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## System Features
 
@@ -43,8 +51,20 @@ Custom textures must be placed in your `\saves\psp\PSP\TEXTURES\"GAMEID"` folder
 
 Then enable custom textures from within Retrobat:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/a2L91jh.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/lrKiiv4.png" alt=""><figcaption></figcaption></figure>
+
+</div>

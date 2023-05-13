@@ -4,7 +4,11 @@ description: Nintendo
 
 # Game Boy Advance
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/master/art/logos/gba.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 2001 - 2008
 
@@ -46,7 +50,11 @@ Portable Game Console - Lifespan: 2001 - 2008
 | L3                                                                                        | libretro mGBA: Darken Solar Sensor   |
 | R3                                                                                        | libretro mGBA: Brighten Solar Sensor |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/hYkmLg3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 Rumble option is available for libretro: mGBA.

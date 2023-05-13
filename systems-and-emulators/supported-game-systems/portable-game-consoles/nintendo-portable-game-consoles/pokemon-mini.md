@@ -4,7 +4,11 @@ description: Nintendo
 
 # Pokémon Mini
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wvxbHej.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Released: 2001
 

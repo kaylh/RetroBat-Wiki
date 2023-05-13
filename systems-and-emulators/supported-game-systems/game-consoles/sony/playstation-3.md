@@ -4,7 +4,11 @@ description: Sony
 
 # Playstation 3
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/ps3.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 2006 - 2017
 
@@ -33,19 +37,31 @@ Game Console - Lifespan: 2006 - 2017
 
 The first time the rpcs3 emulator is launched, if the PS3UPDAT.PUP file is present in you \bios folder, the emulator will automatically prompt to install the firmware, once the firmware installed you can close and relaunch the game.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/1ovzizA.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Manual firmware installation
 
 Run rpcs3.exe file in `\emulators\rpcs3` folder and **install firmware**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/18HE0DC.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Select the **PS3UPDAT.PUP** and run firmware installation.
 
 Firmware will appear at the bottom of the emulator:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/JFjxamH.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Controls
 
@@ -84,7 +100,11 @@ PS3 games in rpcs3 are installed in the `\emulators\rpcs3\dev_hdd0\disc` folder 
 \
 Once the emulator is configured, the game has been added to the emulator from the "**Install package**" or/and "**Add games**" menu and the game is working succesfully from the emulator, create a m3u file in the `\roms\ps3` folder that points to the **EBOOT.BIN** file of the game in the `\emulators\rpcs3\dev_hdd0` game folder :&#x20;
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/EGr0uq3.png" alt=""><figcaption><p>m3u file must point to the EBOOT.BIN file in the game folder</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 BATGUI tool offers an automatic m3u creation tool. Refer to the [BATGUI ](../../../../advanced-features/batgui.md)section of the wiki.

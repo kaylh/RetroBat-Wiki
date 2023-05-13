@@ -4,7 +4,11 @@ description: Hori, Nintendo
 
 # Super Game Boy
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/sgb.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console accessory - Release date: 1994
 
@@ -12,7 +16,7 @@ Game Console accessory - Release date: 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mesen-s</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> sgb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .gbc .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mesen-s</li><li>mgba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> sgb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .gbc .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -45,7 +49,11 @@ Same mapping as Game Boy system.
 | L3                                                                                        |                    |
 | R3                                                                                        |                    |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/yDQp2P6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

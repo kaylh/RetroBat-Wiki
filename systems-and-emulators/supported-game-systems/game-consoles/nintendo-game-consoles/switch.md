@@ -4,7 +4,11 @@ description: Nintendo
 
 # Switch
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/switch.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Hybrid Game Console - Lifespan: 2017 - present
 
@@ -40,7 +44,11 @@ Place prod.keys file in `\emulators\ryujinx\portable\system`
 
 Install firmware directly in the emulator
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/CVXr1y7.png" alt=""><figcaption><p>Tools > Install Firmware</p></figcaption></figure>
+
+</div>
 
 ## Controls
 
@@ -93,17 +101,31 @@ Yuzu will be installed by default in the appdata folder on your computer:
 
 #### Program executable files
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/P8Pi1Ut.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The content of the `yuzu-windows-msvc` folder must be copied to the `\emulators\yuzu` directory in your Retrobat folder.
 
 For Early Access, copy the content of the `yuzu-windows-msvc-early-access` must be copied to the `\emulators\yuzu-early-access` directory in your Retrobat folder.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/fq2gxNH.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### User data
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/CQhfYCR.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+User data must be copied to the `\emulators\yuzu\user` folder of your RetroBat installation.
 
 ### Installing game updates
 
@@ -113,7 +135,11 @@ Game updates can be installed both in Yuzu and Ryujinx. They are dumped from you
 
 In Yuzu, go to `Files > Install Files to NAND...`
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/B6jQIqZ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The next screen will invite you to search for your update or DLC .nsp file on your computer, just select it and save.
 
@@ -121,6 +147,10 @@ The next screen will invite you to search for your update or DLC .nsp file on yo
 
 In Ryujinx Game list, right-click the game line and select **Manage Title Updates** or **Manage DLC**
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/uRMjmAE.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The next screen will invite you to select your update or DLC .nsp file, search for it on your computer, add it and save.

@@ -1,6 +1,10 @@
 # TyrQuake
 
+<div align="left">
+
 <figure><img src="https://github.com/fabricecaruso/es-theme-carbon/blob/master/art/logos/tyrquake.png?raw=true" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game engine to play Quake 1.
 

@@ -4,7 +4,11 @@ description: Sony
 
 # PlayStation
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/psx.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1994 - 2006
 
@@ -16,9 +20,9 @@ Game Console - Lifespan: 1994 - 2006
 
 ## Features
 
-| Retroachievements | NetPlay |
-| ----------------- | ------- |
-| YES               | NO      |
+| Retroachievements       | NetPlay |
+| ----------------------- | ------- |
+| YES (incl. Duckstation) | NO      |
 
 ## BIOS
 
@@ -31,6 +35,8 @@ Game Console - Lifespan: 1994 - 2006
 | scph7001.bin | `\bios` | 1e68c231d0896b7eadcad1d7d8e76129 |
 
 ## Controls
+
+RetroBat does support controller auto-configuration for all PSX emulators, libretro cores & Duckstation.
 
 | RetroBat key                                                                              | Playstation key    |
 | ----------------------------------------------------------------------------------------- | ------------------ |
@@ -50,7 +56,11 @@ Game Console - Lifespan: 1994 - 2006
 | L3                                                                                        | L3                 |
 | R3                                                                                        | R3                 |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/9sz2VFM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## System Features
 
@@ -60,11 +70,19 @@ To automatically load the next disc of a game, you can use a `.m3u` playlist fil
 
 In the m3u file, list all game discs from your game:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/GGRxCI4.png" alt=""><figcaption><p>List of files</p></figcaption></figure>
+
+</div>
 
 Within that text file, write the names of the `.cue` sheets or `.chd` files for your game discs:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ZzJ7Ldj.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Finally save the file as a .m3u file.
 
@@ -77,16 +95,36 @@ To do so you need to place the custom texture pack in the `\roms\psx` folder in 
 * If your game name is `Final Fantasy VII (USA).iso`, the texture pack folder must be named `Final Fantasy VII (USA)-texture-replacements`
 * If your game name is `Chrono Cross.fr.m3u`, the texture pack folder must be named `Chrono Cross.fr-texture-replacements`
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/GdXSRWK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once the texture pack in place, just enable the option within Retrobat:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/WzHZPKq.png" alt=""><figcaption><p>Advanced options > Visual Rendering</p></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/8yktncM.png" alt=""><figcaption><p>Custom Textures = YES</p></figcaption></figure>
 
+</div>
+
 Finally, ensure that you use VULKAN video driver and that you set the resolution above 1X:
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/9hKDYKQ.png" alt=""><figcaption><p>Advanced options > Drivers</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/sJgZ14E.png" alt=""><figcaption><p>Advance Options, set internal resolution abov 1X</p></figcaption></figure>
+
+</div>

@@ -4,7 +4,11 @@ description: Cave
 
 # Cave CV1000
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/cave.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade
 
@@ -31,7 +35,11 @@ No BIOS required to play CAVE games.
 
 Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/kXBcdsB.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Controller mapping
 

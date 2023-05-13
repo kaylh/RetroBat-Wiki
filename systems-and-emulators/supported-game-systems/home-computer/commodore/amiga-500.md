@@ -4,7 +4,11 @@ description: Commodore
 
 # Amiga 500
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/amiga500.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Computer - Lifespan: 1987 - 1992
 
@@ -28,11 +32,25 @@ Computer - Lifespan: 1987 - 1992
 
 <summary>WinUAE BIOS list</summary>
 
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom
+**AMIGA 500+**
 
-Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom
+Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)\[!].rom\
+or\
+kick37175.A500
 
-KICK13.ROM
+**AMIGA 500**
+
+Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)\[!].rom\
+or\
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[!].rom\
+or\
+Kickstart v1.3 r34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)\[o].rom\
+or\
+kick34005.A500\
+or\
+kick37175.A500\
+or\
+kick33180.A500
 
 </details>
 

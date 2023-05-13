@@ -1,6 +1,10 @@
 # Final Burn Neo
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/fbneo.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Arcade
 
@@ -58,7 +62,11 @@ The core does not search the `\bios` folder.
 
 Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/kXBcdsB.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Controller mapping
 

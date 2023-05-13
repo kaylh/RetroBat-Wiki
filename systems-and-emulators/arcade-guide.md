@@ -1,6 +1,10 @@
 # Arcade Guide
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/arcade.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Introduction
 
@@ -117,7 +121,11 @@ The CHD folder must be placed in the rom folder and must have the same name as t
 
 For example, for `kinst.zip` the game will be looking for `kinst\kinst.chd`.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/xl9iImN.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Links and references
 

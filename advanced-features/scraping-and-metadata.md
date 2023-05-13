@@ -41,7 +41,11 @@ Refer to the[ following section of the wiki](../get-started/adding-a-game.md#per
 
 Scraping options are available from the [Main Menu](../navigation/main-menu.md).
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/NBYGcPe.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Before running the scraper you can:
 
@@ -52,7 +56,11 @@ Before running the scraper you can:
 
 Additionaly, each scraper has its own settings.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/wjGjPxy.png" alt=""><figcaption><p>Example of available settings for ScreenScraper</p></figcaption></figure>
+
+</div>
 
 From here you can select which data to scrape, but also define:
 
@@ -68,7 +76,11 @@ The Scraper settings screen is also where you can enter your credentials for Scr
 
 All scraped medias will be stored in the rom folder.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/XlUVX8L.png" alt=""><figcaption><p>Example of media folders</p></figcaption></figure>
+
+</div>
 
 | Folder  | Media stored                                      |
 | ------- | ------------------------------------------------- |
@@ -91,13 +103,21 @@ To do so, you have to :
 * place the media files in the "**images**" folders for images and "**videos**" folder for videos
 * From the [**SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings), in "**frontend developer options**", enable "**Search for local art**"
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/dy6VEGP.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Manual modification of Game Metadata
 
 The [Game Option](../navigation/game-options.md) menu offers the possibility to manually edit/complete metadata for a game
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/80l5jWw.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **From there you can:**
 

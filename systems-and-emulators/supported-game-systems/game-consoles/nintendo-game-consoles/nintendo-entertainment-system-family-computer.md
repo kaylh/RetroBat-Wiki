@@ -38,7 +38,11 @@ There is no BIOS files needed to run games.
 | <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | A       |
 | <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | B       |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/ulQC9m2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific System Information
 
@@ -50,20 +54,40 @@ The libretro:mesen core allows to load custom texture packs.
 
 To do so you need to place the custom texture pack in the `\bios\HdPacks` folder in a dedicated directory that has the same name than the game file, for example if your game name is `Mega Man (USA).nes`, the texture pack folder must be named `Mega Man (USA)`
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/0t1gw0h.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 It is very important that the sha1 hash of your game file matches the sha1 located in the "hires.txt" file from the texture pack folder:
 {% endhint %}
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/KAQVQlV.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/b04EdoH.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
 Then, select the **Libretro: mesen** emulator for the game or the system:
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/QUAN6n2.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
 Next you need to enable the Custom Textures options in the Advanced Settings > Visual Rendering section of the Game Options or Advanced Systems Options:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/Un77eUl.png" alt=""><figcaption></figcaption></figure>
+
+</div>

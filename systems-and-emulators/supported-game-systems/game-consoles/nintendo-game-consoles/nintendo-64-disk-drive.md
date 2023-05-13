@@ -4,7 +4,11 @@ description: Nintendo
 
 # Nintendo 64 Disk Drive
 
+<div align="left">
+
 <figure><img src="https://hyperspin-fe.com/siteuploads/downloads/screenshots/monthly_2018_03/5ab59a08f060d_Nintendo64dd.png.37360958cf54c2250cba823a58c0fad2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1999- 2001
 
@@ -57,7 +61,11 @@ Now from RetroBat:&#x20;
 * [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
 * Launch the .n64 (or .z64) file, not the .ndd file:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/dlLRJ9Q.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Running a n64dd full game
 
@@ -75,7 +83,11 @@ Now from RetroBat:&#x20;
 * [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
 * Launch the .n64 (or .z64) file, not the .ndd file:
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/PaYnyTC.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="warning" %}
 WARNING: the core is very picky with the .ndd dump used.
@@ -95,4 +107,8 @@ Althrough only commercialized in Japan, US games are available for the n64dd sys
 
 The right BIOS can be selected directly in Retrobat Games Options menu, per game.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/htqkK3Q.png" alt=""><figcaption><p>Advanced System Options / Emulation / BIOS</p></figcaption></figure>
+
+</div>

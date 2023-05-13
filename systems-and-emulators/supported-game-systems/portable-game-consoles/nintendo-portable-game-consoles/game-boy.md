@@ -4,7 +4,11 @@ description: Nintendo
 
 # Game Boy
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/5149a33eed46b2af638b06119397d4023b75131f/art/logos/gb.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Portable Game Console - Lifespan: 1989 - 2003
 
@@ -12,7 +16,7 @@ Portable Game Console - Lifespan: 1989 - 2003
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gambatte</li><li>libretro: mesen-s</li><li>libretro: bsnes</li><li>libretro: tgbdual</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gambatte</li><li>libretro: mesen-s</li><li>libretro: bsnes</li><li>libretro: tgbdual</li><li>mgba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -47,7 +51,11 @@ sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate 
 | L3                                                                                        |              |
 | R3                                                                                        |              |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/yDQp2P6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific system information
 

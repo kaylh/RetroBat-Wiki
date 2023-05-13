@@ -6,7 +6,11 @@ description: Configure Game View and apply specific settings for the system
 
 **VIEW OPTIONS** is accessible from the [**Game View**](system-view-and-game-view.md#game-view) when pressing **SELECT**.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption><p>View Options menu</p></figcaption></figure>
+
+</div>
 
 This Menu gives access to several options.
 

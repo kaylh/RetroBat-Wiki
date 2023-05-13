@@ -4,7 +4,11 @@ description: Sony
 
 # PlayStation 2
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/ps2.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 2000 - 2013
 
@@ -78,7 +82,11 @@ The following controllers can be autoconfigured from Retrobat to PCSX2:
 | L3                                                                                        | L3                 |
 | R3                                                                                        | R3                 |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/9sz2VFM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## System Features
 
@@ -88,38 +96,74 @@ PCSX2 allows to load custom texture packs.
 
 To do so you need to place the custom texture pack in the `\bios\pcsx2\textures` folder in a dedicated directory that has the same code as the game.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/nOBWsbc.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The texture files must be placed in a sub-directory called "replacements":
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/H7dUscl.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 To get the code of the game, you can launch the game a first time directly from the emulator executable located in the `\emulators\pcsx2` folder with the "dump textures" option on, PCSX2 will automatically create the game texture folder in the `\bios\pcsx2\textures` folder.
 {% endhint %}
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/hHyR18f.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/6IeWCXM.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
 Once the texure pack in the right folder, set Retrobat to load custom textures, this is achieved from the **VISUAL RENDERING** menu in the [Advanced System Options](../../../../navigation/view-options.md#advanced-system-options) or in the [Advanced Game Options](../../../../navigation/game-options.md#advanced-game-options) menu :
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/kMCqWFr.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/zLj3F55.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Multi-disc games
 
 PCSX2 does not support m3u usage for multi-disc games.
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/5n2VsbQ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In order to swap disc in PCSX2, the following must be used within the emulator:
 
 When the game prompts you to swap disc,access the PCSX2 quick menu by pressing SELECT + ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>) on your controller, select the "**Change Disc**" option
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/fihyt1U.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In the next screen, choose the right disc image and press ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/leMX1Ob.png" alt=""><figcaption></figcaption></figure>
+
+</div>

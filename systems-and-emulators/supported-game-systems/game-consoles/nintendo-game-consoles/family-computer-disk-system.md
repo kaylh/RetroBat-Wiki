@@ -4,7 +4,11 @@ description: Nintendo
 
 # Family Computer Disk System
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/qb2Zji2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1986 - 1990
 

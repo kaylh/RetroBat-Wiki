@@ -4,7 +4,11 @@ description: Sega
 
 # Megadrive - Genesis (MSU)
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/msu-md.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Information
 
@@ -30,11 +34,23 @@ Same controls as Megadrive - Genesis.
 | LB (L1)                                                                                   | X (top left)          |
 | RB (R1)                                                                                   | Z (top right)         |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/N5Cxt6b.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://i.imgur.com/S7Z90HH.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://i.imgur.com/spafoAq.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Specific System Information
 

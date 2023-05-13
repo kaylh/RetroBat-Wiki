@@ -4,7 +4,11 @@ description: SNK
 
 # Neo Geo
 
+<div align="left">
+
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/neogeo.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Game Console - Lifespan: 1990 - 2004
 
@@ -62,7 +66,11 @@ For FBNEO and FBALPHA cores, 2 controller layouts are available:
 | L3                                                       |            |            |
 | R3                                                       |            |            |
 
+<div align="left">
+
 <figure><img src="https://i.imgur.com/6BAcHeJ.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## System Features
 
