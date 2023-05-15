@@ -95,14 +95,47 @@ The following controllers can be autoconfigured from Retrobat to RPCS3:
 
 ### Adding PS3 games
 
-PS3 games in rpcs3 are installed in the `\emulators\rpcs3\dev_hdd0\disc` folder for games in disk format and `\emulators\rpcs3\dev_hdd0\game` for dematerialized games.
+There are 2 types of PS3 games available: Blu-Ray discs and PlayStation Network titles (PSN):
 
-\
-Once the emulator is configured, the game has been added to the emulator from the "**Install package**" or/and "**Add games**" menu and the game is working succesfully from the emulator, create a m3u file in the `\roms\ps3` folder that points to the **EBOOT.BIN** file of the game in the `\emulators\rpcs3\dev_hdd0` game folder :&#x20;
+* Title IDs that start with a B are Blu-Ray disc titles.
+* Title IDs that start with a N are PSN titles.
 
 <div align="left">
 
-<figure><img src="https://i.imgur.com/EGr0uq3.png" alt=""><figcaption><p>m3u file must point to the EBOOT.BIN file in the game folder</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/EsmEoB4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Blu-ray disc titles can be copied directly in the  `\roms\ps3` folder while PSN titles need to be added in the `\emulators\rpcs3\dev_hdd0\game` folder of your RetroBat installation.
+
+#### Adding Blu-ray disc title
+
+Simply copy the game folder to the `\roms\ps3` folder of your RetroBat installation and rename the folder with a .ps3 extension:
+
+<div align="left">
+
+<figure><img src="https://i.imgur.com/E98BUs9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+The game will directly be available in RetroBat.
+
+#### Adding PSN titles
+
+\
+Once the game has been added to the emulator from the "**Install package**" or/and "**Add games**" menu and the game is working succesfully from the emulator, create a m3u file in the `\roms\ps3` folder that points to the **EBOOT.BIN** file of the game in the `\emulators\rpcs3\dev_hdd0\game` game folder:
+
+
+
+<div align="left">
+
+<figure><img src="https://i.imgur.com/E1igTL6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://i.imgur.com/LmL6NUh.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
