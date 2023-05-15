@@ -108,6 +108,10 @@ There are 2 types of PS3 games available: Blu-Ray discs and PlayStation Network 
 
 Blu-ray disc titles can be copied directly in the  `\roms\ps3` folder while PSN titles need to be added in the `\emulators\rpcs3\dev_hdd0\game` folder of your RetroBat installation.
 
+{% hint style="danger" %}
+PSN titles need to be decrypted to be used with RPCS3 emulator.
+{% endhint %}
+
 #### Adding Blu-ray disc title
 
 Simply copy the game folder to the `\roms\ps3` folder of your RetroBat installation and rename the folder with a .ps3 extension:
