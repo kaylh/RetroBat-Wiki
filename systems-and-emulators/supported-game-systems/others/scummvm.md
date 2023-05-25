@@ -16,10 +16,7 @@ Emulator - Creation year: 2001
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: scummvm</li><li>scummvm</li></ul>      |
-| ------------------ | -------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: scummvm |
-| **File extension** | .scummvm .7z .zip .rar .squashfs                         |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: scummvm</li><li>scummvm</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> scummvm</td></tr><tr><td><strong>File extension</strong></td><td>.scummvm .7z .zip .rar .squashfs</td></tr></tbody></table>
 
 ## Features
 
@@ -29,10 +26,7 @@ Emulator - Creation year: 2001
 
 ## BIOS
 
-| BIOS file         | Folder                | md5                              |
-| ----------------- | --------------------- | -------------------------------- |
-| MT32\_CONTROL.ROM | `\bios\scummvm\extra` | 5626206284b22c2734f3e9efefcd2675 |
-| MT32\_PCM.ROM     | `\bios\scummvm\extra` | 89e42e386e82e0cacb4a2704a03706ca |
+<table><thead><tr><th width="221">BIOS file</th><th width="177">Folder</th><th>md5</th></tr></thead><tbody><tr><td>MT32_CONTROL.ROM</td><td><code>\bios\scummvm\extra</code></td><td>5626206284b22c2734f3e9efefcd2675</td></tr><tr><td>MT32_PCM.ROM</td><td><code>\bios\scummvm\extra</code></td><td>89e42e386e82e0cacb4a2704a03706ca</td></tr></tbody></table>
 
 ## Controls
 
@@ -70,9 +64,7 @@ Finally, rename the \*._txt_ files into \*._scummvm_ file, for example:\
 \
 Full Throttle.**txt**  **==>** Full Throttle.**scummvm**
 
-### Accessing ScummVM menu (libretro core)
 
-When the option "Game Focus" is enabled, use CTRL + F5 to access ScummVM menu, as usual RetroArch hotkeys are disabled.
 
 ### Running a specific version of a game with dedicated per-game options
 
