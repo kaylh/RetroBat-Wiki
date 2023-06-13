@@ -32,7 +32,7 @@ If the information you are looking for does not exist (yet), you can reach out t
 
 
 
-Last but not least, if you want to support the project, [please consider a donation](https://www.paypal.com/paypalme/AdrienChalard), this will help us pay for the server infrastructure and get additional hardware for further compatibility.&#x20;
+Last but not least, if you want to support the project, [please consider a donation](https://retrobatofficial.itch.io/retrobat), this will help us pay for the server infrastructure and get additional hardware for further compatibility.&#x20;
 
 
 
