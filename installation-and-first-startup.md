@@ -23,6 +23,10 @@ description: Get started !
 
 * Browse to the destination folder and select **Install**.
 
+{% hint style="danger" %}
+Attention: an installation folder that is too long (or with too many subfolders) can cause issues with some emulators like libretro:mame.
+{% endhint %}
+
 <div align="left">
 
 <figure><img src="https://i.imgur.com/ey8n2lD.png" alt=""><figcaption><p>Select installation folder</p></figcaption></figure>
