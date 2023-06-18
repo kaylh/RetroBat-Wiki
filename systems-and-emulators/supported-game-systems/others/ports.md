@@ -10,10 +10,7 @@ Libretro does not only provide emulator cores but also some games, this page is 
 
 ## Information
 
-| **Emulators**      | <ul><li>libretro</li></ul>                             |
-| ------------------ | ------------------------------------------------------ |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: ports |
-| **File extension** | .libretro                                              |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ports</td></tr><tr><td><strong>File extension</strong></td><td>.libretro</td></tr></tbody></table>
 
 ## Bios Information
 
@@ -49,23 +46,7 @@ A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 #### Controls
 
-| Retrobat Button                                       | craft key            |
-| ----------------------------------------------------- | -------------------- |
-| SELECT                                                | Zoom OUT             |
-| D-PAD - UP                                            | Move forwards        |
-| D-PAD - DOWN                                          | Move backwards       |
-| D-PAD - LEFT                                          | Move crosshair left  |
-| D-PAD - RIGHT                                         | Move crosshair right |
-| Left analog stick                                     | Move                 |
-| Right analog stick                                    | Move crosshair       |
-| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Destroy Block        |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Place Block          |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Next Block           |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Jump                 |
-| L1                                                    | Move left            |
-| R1                                                    | Move right           |
-| L2                                                    | Move crosshair up    |
-| R2                                                    | Move crosshair down  |
+<table><thead><tr><th width="227">Retrobat Button</th><th>craft key</th></tr></thead><tbody><tr><td>SELECT</td><td>Zoom OUT</td></tr><tr><td>D-PAD - UP</td><td>Move forwards</td></tr><tr><td>D-PAD - DOWN</td><td>Move backwards</td></tr><tr><td>D-PAD - LEFT</td><td>Move crosshair left</td></tr><tr><td>D-PAD - RIGHT</td><td>Move crosshair right</td></tr><tr><td>Left analog stick</td><td>Move</td></tr><tr><td>Right analog stick</td><td>Move crosshair</td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Destroy Block</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Place Block</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt=""></td><td>Next Block</td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Jump</td></tr><tr><td>L1</td><td>Move left</td></tr><tr><td>R1</td><td>Move right</td></tr><tr><td>L2</td><td>Move crosshair up</td></tr><tr><td>R2</td><td>Move crosshair down</td></tr></tbody></table>
 
 ### Mrboom
 
@@ -75,11 +56,4 @@ Mr.Boom is an up to 8 player Bomberman clone ported to the libretro API.
 
 #### Controls
 
-| Retrobat Button                                       | mrboom key                           |
-| ----------------------------------------------------- | ------------------------------------ |
-| SELECT                                                | Add a bomberman bot                  |
-| START                                                 | Start game                           |
-| D-PAD                                                 | Move                                 |
-| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Jump (while on kangaroo) / join game |
-| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Detonate Bomb / join game            |
-| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Drop Bomb / join game                |
+<table><thead><tr><th width="227">Retrobat Button</th><th>mrboom key</th></tr></thead><tbody><tr><td>SELECT</td><td>Add a bomberman bot</td></tr><tr><td>START</td><td>Start game</td></tr><tr><td>D-PAD</td><td>Move</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Jump (while on kangaroo) / join game</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt=""></td><td>Detonate Bomb / join game</td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Drop Bomb / join game</td></tr></tbody></table>

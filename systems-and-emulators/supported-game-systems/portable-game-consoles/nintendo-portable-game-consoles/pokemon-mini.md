@@ -16,16 +16,11 @@ Game Console - Released: 2001
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: pokemini</li></ul>                      |
-| ------------------ | --------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: pokemini |
-| **File extension** | .min .zip .7z                                             |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: pokemini</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pokemini</td></tr><tr><td><strong>File extension</strong></td><td>.min .zip .7z</td></tr></tbody></table>
 
 ## Bios Information
 
-| bios file | Folder  | md5                              |
-| --------- | ------- | -------------------------------- |
-| bios.min  | `\bios` | 1e4fb124a3a886865acb574f388c803d |
+<table><thead><tr><th width="224">bios file</th><th width="179">Folder</th><th>md5</th></tr></thead><tbody><tr><td>bios.min</td><td><code>\bios</code></td><td>1e4fb124a3a886865acb574f388c803d</td></tr></tbody></table>
 
 ## Controls
 

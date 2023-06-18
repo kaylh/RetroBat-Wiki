@@ -14,7 +14,7 @@ Pinball Simulation Software
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>vpinball</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> vpinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.vpx .7z .zip .rar</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>vpinball</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span>roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> vpinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.vpx .7z .zip .rar</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -22,26 +22,7 @@ No BIOS required.
 
 ## Controls
 
-| Gamepad                                                                                | Keyboard   | Visual Pinball key |
-| -------------------------------------------------------------------------------------- | ---------- | ------------------ |
-| START                                                                                  | 1          | START game         |
-| SELECT                                                                                 | 5          | Insert COIN        |
-| D-PAD - UP                                                                             | SPACE      | Forward Nudge      |
-| D-PAD - DOWN                                                                           | TAB        |                    |
-| D-PAD - LEFT                                                                           | Z          | Left Nudge         |
-| D-PAD - RIGHT                                                                          | SLASH (/)  | Right Nudge        |
-| Left Analog stick                                                                      |            |                    |
-| Right Analog stick                                                                     |            |                    |
-| ![A](<../../../.gitbook/assets/image (1) (2) (1).png>)                                 | ENTER      | Plunger            |
-| ![B](<../../../.gitbook/assets/image (4) (1).png>)                                     |            |                    |
-| <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | PAUSE      |                    |
-| <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | RIGHTBRACE |                    |
-| L1                                                                                     | SHIFT      | Left Flipper       |
-| R1                                                                                     | RIGHTSHIFT | Right Flipper      |
-| L2                                                                                     |            |                    |
-| R2                                                                                     |            |                    |
-| L3                                                                                     |            |                    |
-| R3                                                                                     |            |                    |
+<table><thead><tr><th width="250">Gamepad</th><th width="211">Keyboard</th><th width="443">Visual Pinball key</th></tr></thead><tbody><tr><td>START</td><td>1</td><td>START game</td></tr><tr><td>SELECT</td><td>5</td><td>Insert COIN</td></tr><tr><td>D-PAD - UP</td><td>SPACE</td><td>Forward Nudge</td></tr><tr><td>D-PAD - DOWN</td><td>TAB</td><td></td></tr><tr><td>D-PAD - LEFT</td><td>Z</td><td>Left Nudge</td></tr><tr><td>D-PAD - RIGHT</td><td>SLASH (/)</td><td>Right Nudge</td></tr><tr><td>Left Analog stick</td><td></td><td></td></tr><tr><td>Right Analog stick</td><td></td><td></td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="A"></td><td>ENTER</td><td>Plunger</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt="B"></td><td></td><td></td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"></td><td>PAUSE</td><td></td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"></td><td>RIGHTBRACE</td><td></td></tr><tr><td>L1</td><td>SHIFT</td><td>Left Flipper</td></tr><tr><td>R1</td><td>RIGHTSHIFT</td><td>Right Flipper</td></tr><tr><td>L2</td><td></td><td></td></tr><tr><td>R2</td><td></td><td></td></tr><tr><td>L3</td><td></td><td></td></tr><tr><td>R3</td><td></td><td></td></tr></tbody></table>
 
 ## Specific system information
 

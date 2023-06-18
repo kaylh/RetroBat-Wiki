@@ -16,20 +16,11 @@ Game Console - Lifespan: 2004 - 2010
 
 ## Information
 
-| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>         |
-| ----------------------- | ------------------------------------------------------- |
-| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: vsmile |
-| **File extension**      | .bin .zip                                               |
-| **Group**               | MESS                                                    |
-| **Emulated Model**      | vsmile, vsmilem, vsmilpro                               |
-| **Softlists available** | vsmile\_cart, vsmilem\_cart, vsmile\_cd                 |
-| **Media Types**         | cartridge, cdrom                                        |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> vsmile</td></tr><tr><td><strong>File extension</strong></td><td>.bin .zip</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr><tr><td><strong>Emulated Model</strong></td><td>vsmile, vsmilem, vsmilpro</td></tr><tr><td><strong>Softlists available</strong></td><td>vsmile_cart, vsmilem_cart, vsmile_cd</td></tr><tr><td><strong>Media Types</strong></td><td>cartridge, cdrom</td></tr></tbody></table>
 
 ## Bios Information
 
-| bios file  | Folder  | md5       |
-| ---------- | ------- | --------- |
-| vsmile.zip | `\bios` | See below |
+<table><thead><tr><th width="184">bios file</th><th width="202">Folder</th><th>md5</th></tr></thead><tbody><tr><td>vsmile.zip</td><td><code>\bios</code></td><td>See below</td></tr></tbody></table>
 
 ### Content of BIOS file
 

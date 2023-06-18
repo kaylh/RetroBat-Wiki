@@ -16,20 +16,11 @@ Computer - Lifespan: 1979 - 1982
 
 ## Information
 
-| **Emulators**           | <ul><li>libretro: mame</li><li>mame64</li></ul>                                                              |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: atom                                                        |
-| **File extension**      | .wav .tap .csw .uef .mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .1dd .cqm .cqi .dsk .40t .atm .bin .rom .zip .7z |
-| **Group**               | MESS                                                                                                         |
-| **Model emulated**      | atom                                                                                                         |
-| **Softlists available** | atom\_cass, atom\_flop, atom\_rom                                                                            |
-| **Media Types**         | cartridge, cassette, floppy, quickload                                                                       |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> atom</td></tr><tr><td><strong>File extension</strong></td><td>.wav .tap .csw .uef .mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .1dd .cqm .cqi .dsk .40t .atm .bin .rom .zip .7z</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr><tr><td><strong>Model emulated</strong></td><td>atom</td></tr><tr><td><strong>Softlists available</strong></td><td>atom_cass, atom_flop, atom_rom</td></tr><tr><td><strong>Media Types</strong></td><td>cartridge, cassette, floppy, quickload</td></tr></tbody></table>
 
 ## Bios Information
 
-| bios file | Folder  | md5       |
-| --------- | ------- | --------- |
-| atom.zip  | `\bios` | See below |
+<table><thead><tr><th width="257">bios file</th><th width="169">Folder</th><th>md5</th></tr></thead><tbody><tr><td>atom.zip</td><td><code>\bios</code></td><td>See below</td></tr></tbody></table>
 
 ### Content of BIOS files
 

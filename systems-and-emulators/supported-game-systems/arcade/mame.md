@@ -16,10 +16,7 @@ Multi-Arcade Emulator - Release year: 1997
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mame</li><li>Libretro: mame2016</li><li>Libretro: mame2010</li><li>Libretro: mame2003_plus</li><li>Libretro: mame2003</li><li>Libretro: mame2003_midway</li><li>Libretro: mame2000</li><li>mame64</li></ul> |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: mame                                                                                                                                                                         |
-| **File extension** | .zip .7z                                                                                                                                                                                                                      |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>Libretro: mame2016</li><li>Libretro: mame2010</li><li>Libretro: mame2003_plus</li><li>Libretro: mame2003</li><li>Libretro: mame2003_midway</li><li>Libretro: mame2000</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> mame</td></tr><tr><td><strong>File extension</strong></td><td>.zip .7z</td></tr></tbody></table>
 
 ## Bios Information
 
@@ -113,3 +110,13 @@ Refer to the [Arcade Guide section](../../arcade-guide.md#chd-or-img-files) abou
 ### **Sample files**
 
 Refer to the [Arcade Guide "sample file" section](../../arcade-guide.md#samples).
+
+## Known issues & fixes
+
+### I only get a black screen when running games with libretro:mame core
+
+Libretro:Mame has a limitation in the length of the paths it uses when launching a game through command lines. This limitation does not exist with standalone Mame.
+
+In order to be able to fix this issue, ensure that your RetroBat folder path does is not installed in a path that is too long.
+
+For example the path `C:\Emulation\Multi Emulators\FrontEnd\All-in-one\This is top\RetroBat version 5.3` is too long and will result in the issue.

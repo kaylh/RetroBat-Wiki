@@ -16,10 +16,7 @@ Fantasy Console - Released : 2021
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: wasm4</li></ul>                      |
-| ------------------ | ------------------------------------------------------ |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: wasm4 |
-| **File extension** | .wasm                                                  |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: wasm4</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> wasm4</td></tr><tr><td><strong>File extension</strong></td><td>.wasm</td></tr></tbody></table>
 
 ## Bios Information
 

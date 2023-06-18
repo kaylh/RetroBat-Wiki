@@ -12,27 +12,11 @@ Pinball Simulation Software - Released 2017
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pinballfx3</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.pxp</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pinballfx3</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.pxp</td><td></td></tr></tbody></table>
 
 ## Controls
 
-| RetroBat key                                                                           | Pinball FX3 Action                    |
-| -------------------------------------------------------------------------------------- | ------------------------------------- |
-| START                                                                                  | Open Menu                             |
-| SELECT                                                                                 | Open Menu                             |
-| D-PAD                                                                                  |                                       |
-| Left Analog Stick                                                                      | Nudge Flipper                         |
-| Right Analog Stick                                                                     | Up: Back Box View / Down: Ball Launch |
-| ![A](<../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Auto Ball Launch                      |
-| ![B](<../../../.gitbook/assets/image (4) (1).png>)                                     | Visual Extras                         |
-| <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | Wizard Power                          |
-| <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | Change View                           |
-| L1                                                                                     | Flipper Left                          |
-| R1                                                                                     | Flipper Right                         |
-| L2                                                                                     | Flipper Left                          |
-| R2                                                                                     | Flipper Right                         |
-| L3                                                                                     |                                       |
-| R3                                                                                     |                                       |
+<table><thead><tr><th width="258">RetroBat key</th><th width="443">Pinball FX3 Action</th></tr></thead><tbody><tr><td>START</td><td>Open Menu</td></tr><tr><td>SELECT</td><td>Open Menu</td></tr><tr><td>D-PAD</td><td></td></tr><tr><td>Left Analog Stick</td><td>Nudge Flipper</td></tr><tr><td>Right Analog Stick</td><td>Up: Back Box View / Down: Ball Launch</td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="A"></td><td>Auto Ball Launch</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt="B"></td><td>Visual Extras</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"></td><td>Wizard Power</td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"></td><td>Change View</td></tr><tr><td>L1</td><td>Flipper Left</td></tr><tr><td>R1</td><td>Flipper Right</td></tr><tr><td>L2</td><td>Flipper Left</td></tr><tr><td>R2</td><td>Flipper Right</td></tr><tr><td>L3</td><td></td></tr><tr><td>R3</td><td></td></tr></tbody></table>
 
 ## System Features
 
