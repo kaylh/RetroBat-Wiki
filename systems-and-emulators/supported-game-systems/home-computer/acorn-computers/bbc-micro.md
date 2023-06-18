@@ -16,21 +16,11 @@ Computer - Lifespan: 1981 - 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> bbcmicro</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .7zip</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>bbcb, bbcm, bbcm512, bbcmc</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>bbc_cass, bbc_rom, bbcb_flop, bbcb_flop_orig, bbcb_flop_us, bbcm_cart, bbcm_flop, bbcmc_flop</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>cassette, rom, floppy, cartridge</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="195"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mame</li><li>mame64</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> bbcmicro</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .7zip</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>bbcb, bbcm, bbcm512, bbcmc</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>bbc_cass, bbc_rom, bbcb_flop, bbcb_flop_orig, bbcb_flop_us, bbcm_cart, bbcm_flop, bbcmc_flop</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>cassette, rom, floppy, cartridge</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-| Bios file            | Folder               | md5       |
-| -------------------- | -------------------- | --------- |
-| bbcb.zip             | `\bios`              | See below |
-| bbc\_acorn8271.zip   | `\bios`              | See below |
-| saa5050.zip          | `\bios`              | See below |
-| bbc\_tube\_80186.zip | `\bios`              | See below |
-| bbcm.zip             | `\bios`              | See below |
-| bbcmc.zip            | `\bios`              | See below |
-| bbc\_bitstik1.zip    | `\bios`              | See below |
-| bbc\_bitstik2.zip    | `\bios`              | See below |
-| bbc.zip              | `\bios\mame\samples` | See below |
+<table><thead><tr><th width="286">Bios file</th><th width="240.03610108303252">Folder</th><th>md5</th></tr></thead><tbody><tr><td>bbcb.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbc_acorn8271.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>saa5050.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbc_tube_80186.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbcm.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbcmc.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbc_bitstik1.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbc_bitstik2.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>bbc.zip</td><td><code>\bios\mame\samples</code></td><td>See below</td></tr></tbody></table>
 
 ### Content of BIOS file
 

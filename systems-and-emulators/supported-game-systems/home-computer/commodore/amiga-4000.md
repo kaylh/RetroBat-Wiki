@@ -16,7 +16,7 @@ Computer - Lifespan: 1992 - 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: puae</li><li>amigaforever</li><li>winuae</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> amiga4000</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.adf .uae .ipf .dms .adz .lha .rp9 .uae .hdf .m3u .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: puae</li><li>amigaforever</li><li>winuae</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> amiga4000</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.adf .uae .ipf .dms .adz .lha .rp9 .uae .hdf .m3u .zip .7z</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 The amiga4000 rom folder is not created during installation. You can add it manually, should you need it.
@@ -24,9 +24,7 @@ The amiga4000 rom folder is not created during installation. You can add it manu
 
 ## BIOS
 
-| Bios file       | Folder  | md5                              |
-| --------------- | ------- | -------------------------------- |
-| kick40068.A4000 | `\bios` | 9bdedde6a4f33555b4a270c8ca53297d |
+<table><thead><tr><th width="193">Bios file</th><th width="142.03610108303252">Folder</th><th>md5</th></tr></thead><tbody><tr><td>kick40068.A4000</td><td><code>\bios</code></td><td>9bdedde6a4f33555b4a270c8ca53297d</td></tr></tbody></table>
 
 ### WinUAE
 

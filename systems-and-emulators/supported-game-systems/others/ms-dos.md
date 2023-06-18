@@ -16,10 +16,7 @@ Computer Operating System - Lifespan: 1981 - 2000
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: dosbox_pure</li><li>dosbox</li></ul> |
-| ------------------ | ------------------------------------------------------ |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: dos   |
-| **File extension** | .dosbox .pc .dos .dosz .zip .m3u8 .bat .cmd            |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: dosbox_pure</li><li>dosbox</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> dos</td></tr><tr><td><strong>File extension</strong></td><td>.dosbox .pc .dos .dosz .zip .m3u8 .bat .cmd</td></tr></tbody></table>
 
 ## Bios Information
 

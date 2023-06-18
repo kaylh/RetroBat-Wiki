@@ -82,11 +82,7 @@ All scraped medias will be stored in the rom folder.
 
 </div>
 
-| Folder  | Media stored                                      |
-| ------- | ------------------------------------------------- |
-| images  | box (thumb), fanart, boxback, image, marquee, map |
-| manuals | pdf manual                                        |
-| videos  | mp4 videos                                        |
+<table><thead><tr><th width="199">Folder</th><th>Media stored</th></tr></thead><tbody><tr><td>images</td><td>box (thumb), fanart, boxback, image, marquee, map</td></tr><tr><td>manuals</td><td>pdf manual</td></tr><tr><td>videos</td><td>mp4 videos</td></tr></tbody></table>
 
 ### Using Local Media
 

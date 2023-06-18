@@ -18,20 +18,7 @@ They can be enabled from the [MAIN MENU](../navigation/main-menu.md#game-setting
 
 The following options are available:
 
-| Setting                 | Remark                                                |
-| ----------------------- | ----------------------------------------------------- |
-| AUTO                    | Reproduces the console or arcade machine decoration.  |
-| NONE                    | No decoration                                         |
-| AMBIANCE BROADCAST      |                                                       |
-| AMBIANCE GAMEROOM       |                                                       |
-| AMBIANCE MONITOR 1084S  |                                                       |
-| AMBIANCE NIGHT          |                                                       |
-| AMBIANCE VINTAGE TV     |                                                       |
-| ARCADE 1980S            |                                                       |
-| ARCADE 1980S VERTICAL   |                                                       |
-| ARCADE VERTICAL DEFAULT |                                                       |
-| DEFAULT UNGLAZED        |                                                       |
-| THEBEZELPROJECT         | See The Bezel Project section                         |
+<table><thead><tr><th width="272">Setting</th><th>Remark</th></tr></thead><tbody><tr><td>AUTO</td><td>Reproduces the console or arcade machine decoration. </td></tr><tr><td>NONE</td><td>No decoration</td></tr><tr><td>AMBIANCE BROADCAST</td><td></td></tr><tr><td>AMBIANCE GAMEROOM</td><td></td></tr><tr><td>AMBIANCE MONITOR 1084S</td><td></td></tr><tr><td>AMBIANCE NIGHT</td><td></td></tr><tr><td>AMBIANCE VINTAGE TV</td><td></td></tr><tr><td>ARCADE 1980S</td><td></td></tr><tr><td>ARCADE 1980S VERTICAL</td><td></td></tr><tr><td>ARCADE VERTICAL DEFAULT</td><td></td></tr><tr><td>DEFAULT UNGLAZED</td><td></td></tr><tr><td>THEBEZELPROJECT</td><td>See The Bezel Project section</td></tr></tbody></table>
 
 Here is an example of the AUTO setting for Super Nintendo:
 

@@ -231,23 +231,7 @@ The following list of emulated devices is available in the advanced options:
 * REAL WIIMOTE
 * GAMECUBE CONTROLLER ([see Gamecube mapping](gamecube.md#controls))
 
-| Retrobat key                                                                              | WIIMOTE | SIDE  | NUNCHUK                  | CLASSIC CONTROLLER  |
-| ----------------------------------------------------------------------------------------- | ------- | ----- | ------------------------ | ------------------- |
-| START                                                                                     | +       | +     | 1                        | +                   |
-| SELECT                                                                                    | -       | -     | 2                        | -                   |
-| D-PAD                                                                                     | D-PAD   | D-PAD | D-PAD                    | D-PAD               |
-| Left analog stick                                                                         | Tilt    | Tilt  | <p>Nunchuk<br>Stick</p>  | Left stick          |
-| Right analog stick                                                                        |         |       | Tilt                     | Right stick         |
-| ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | B       | 1     | B                        | B                   |
-| ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | A       | 2     | A                        | A                   |
-| <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | 1       | A     | C                        | X                   |
-| <img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">     | 2       | B     | Z                        | Y                   |
-| L1                                                                                        |         |       | -                        | <p>ZL<br>PRO: L</p> |
-| R1                                                                                        |         |       | +                        | <p>ZR<br>PRO: R</p> |
-| L2                                                                                        |         |       | <p>Shake <br>Nunchuk</p> | <p>L<br>PRO: ZL</p> |
-| R2                                                                                        | Shake   | Shake | <p>Shake<br>Wiimote</p>  | <p>R<br>PRO: ZR</p> |
-| L3                                                                                        |         |       |                          |                     |
-| R3                                                                                        | Home    | Home  | Home                     | Home                |
+<table><thead><tr><th width="192">Retrobat key</th><th width="102">WIIMOTE</th><th width="88">SIDE</th><th width="145">NUNCHUK</th><th>CLASSIC CONTROLLER</th></tr></thead><tbody><tr><td>START</td><td>+</td><td>+</td><td>1</td><td>+</td></tr><tr><td>SELECT</td><td>-</td><td>-</td><td>2</td><td>-</td></tr><tr><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td></tr><tr><td>Left analog stick</td><td>Tilt</td><td>Tilt</td><td>Nunchuk<br>Stick</td><td>Left stick</td></tr><tr><td>Right analog stick</td><td></td><td></td><td>Tilt</td><td>Right stick</td></tr><tr><td><img src="../../../../.gitbook/assets/image (1) (2) (1).png" alt="A"></td><td>B</td><td>1</td><td>B</td><td>B</td></tr><tr><td><img src="../../../../.gitbook/assets/image (4) (1).png" alt="B"></td><td>A</td><td>2</td><td>A</td><td>A</td></tr><tr><td><img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"></td><td>1</td><td>A</td><td>C</td><td>X</td></tr><tr><td><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"></td><td>2</td><td>B</td><td>Z</td><td>Y</td></tr><tr><td>L1</td><td></td><td></td><td>-</td><td>ZL<br>PRO: L</td></tr><tr><td>R1</td><td></td><td></td><td>+</td><td>ZR<br>PRO: R</td></tr><tr><td>L2</td><td></td><td></td><td>Shake <br>Nunchuk</td><td>L<br>PRO: ZL</td></tr><tr><td>R2</td><td>Shake</td><td>Shake</td><td>Shake<br>Wiimote</td><td>R<br>PRO: ZR</td></tr><tr><td>L3</td><td></td><td></td><td></td><td></td></tr><tr><td>R3</td><td>Home</td><td>Home</td><td>Home</td><td>Home</td></tr></tbody></table>
 
 ## Specific system information
 

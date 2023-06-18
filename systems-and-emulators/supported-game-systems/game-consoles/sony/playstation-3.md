@@ -16,10 +16,7 @@ Game Console - Lifespan: 2006 - 2017
 
 ## Information
 
-| **Emulators**      | <ul><li>rpcs3</li></ul>                              |
-| ------------------ | ---------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: ps3 |
-| **File extension** | .m3u .ps3 .iso .7z .zip .rar .squashfs               |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>rpcs3</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ps3</td></tr><tr><td><strong>File extension</strong></td><td>.m3u .ps3 .iso .7z .zip .rar .squashfs</td></tr></tbody></table>
 
 ## Features
 
@@ -29,9 +26,7 @@ Game Console - Lifespan: 2006 - 2017
 
 ## BIOS
 
-| BIOS file    | Folder  | md5                              |
-| ------------ | ------- | -------------------------------- |
-| PS3UPDAT.PUP | `\bios` | 95307e1b51d3bcc33a274db91488d29f |
+<table><thead><tr><th width="187">BIOS file</th><th width="109">Folder</th><th>md5</th></tr></thead><tbody><tr><td>PS3UPDAT.PUP</td><td><code>\bios</code></td><td>95307e1b51d3bcc33a274db91488d29f</td></tr></tbody></table>
 
 #### Automatic firmware installation
 

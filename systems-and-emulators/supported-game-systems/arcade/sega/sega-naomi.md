@@ -16,10 +16,7 @@ Arcade - Released: 1998&#x20;
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: flycast</li><li>demul</li></ul>      |
-| ------------------ | ------------------------------------------------------ |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: naomi |
-| **File extension** | .bin .dat .lst .zip .7z                                |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: flycast</li><li>demul</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> naomi</td></tr><tr><td><strong>File extension</strong></td><td>.bin .dat .lst .zip .7z</td></tr></tbody></table>
 
 ## Features
 
@@ -29,9 +26,7 @@ Arcade - Released: 1998&#x20;
 
 ## Bios Information
 
-| bios file | Folder     | md5                              |
-| --------- | ---------- | -------------------------------- |
-| naomi.zip | `\bios\dc` | eb4099aeb42ef089cfe94f8fe95e51f6 |
+<table><thead><tr><th width="160.55555555555557">bios file</th><th width="155">Folder</th><th>md5</th></tr></thead><tbody><tr><td>naomi.zip</td><td><code>\bios\dc</code></td><td>eb4099aeb42ef089cfe94f8fe95e51f6</td></tr></tbody></table>
 
 ## Controls
 

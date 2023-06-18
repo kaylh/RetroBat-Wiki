@@ -16,7 +16,7 @@ Game Console - Lifespan: 1994 - 2006
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mednafen_psx_hw</li><li>libretro: swanstation</li><li>libretro: pcsx_rearmed</li><li>duckstation</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> psx</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.cue .img .mdf .pbp .toc .cbn .m3u .ccd .chd .zip .7z .iso .cso</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mednafen_psx_hw</li><li>libretro: swanstation</li><li>libretro: pcsx_rearmed</li><li>duckstation</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> psx</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.cue .img .mdf .pbp .toc .cbn .m3u .ccd .chd .zip .7z .iso .cso</td><td></td></tr></tbody></table>
 
 ## Features
 
@@ -26,13 +26,7 @@ Game Console - Lifespan: 1994 - 2006
 
 ## BIOS
 
-| Bios file    | Folder  | md5                              |
-| ------------ | ------- | -------------------------------- |
-| scph1001.bin | `\bios` | dc2b9bf8da62ec93e868cfd29f0d067d |
-| scph5500.bin | `\bios` | 8dd7d5296a650fac7319bce665a6a53c |
-| scph5501.bin | `\bios` | 490f666e1afb15b7362b406ed1cea246 |
-| scph5502.bin | `\bios` | 32736f17079d0b2b7024407c39bd3050 |
-| scph7001.bin | `\bios` | 1e68c231d0896b7eadcad1d7d8e76129 |
+<table><thead><tr><th width="165">Bios file</th><th width="162">Folder</th><th>md5</th></tr></thead><tbody><tr><td>scph1001.bin</td><td><code>\bios</code></td><td>dc2b9bf8da62ec93e868cfd29f0d067d</td></tr><tr><td>scph5500.bin</td><td><code>\bios</code></td><td>8dd7d5296a650fac7319bce665a6a53c</td></tr><tr><td>scph5501.bin</td><td><code>\bios</code></td><td>490f666e1afb15b7362b406ed1cea246</td></tr><tr><td>scph5502.bin</td><td><code>\bios</code></td><td>32736f17079d0b2b7024407c39bd3050</td></tr><tr><td>scph7001.bin</td><td><code>\bios</code></td><td>1e68c231d0896b7eadcad1d7d8e76129</td></tr></tbody></table>
 
 ## Controls
 

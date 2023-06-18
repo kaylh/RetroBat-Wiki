@@ -16,7 +16,7 @@ Game Console - Lifespan: 1982 - 1985
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gearcoleco</li><li>libretro: bluemsx</li><li>libretro: fbneo</li><li>openmsx</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> colecovision</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.rom .ri .mx1 .mx2 .col .dsk .cas .sg .sc .m3u .zip</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: gearcoleco</li><li>libretro: bluemsx</li><li>libretro: fbneo</li><li>openmsx</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> colecovision</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.rom .ri .mx1 .mx2 .col .dsk .cas .sg .sc .m3u .zip</td><td></td></tr></tbody></table>
 
 ## Features
 
@@ -26,10 +26,7 @@ Game Console - Lifespan: 1982 - 1985
 
 ## BIOS
 
-| bios file        | Folder                           | md5                              |
-| ---------------- | -------------------------------- | -------------------------------- |
-| colecovision.rom | `\bios`                          | 2c66f5911e5b42b8ebe113403548eee7 |
-| coleco.rom       | `\bios\openMSX\share\systemroms` | 2c66f5911e5b42b8ebe113403548eee7 |
+<table><thead><tr><th width="175.55555555555557">bios file</th><th width="232">Folder</th><th>md5</th></tr></thead><tbody><tr><td>colecovision.rom</td><td><code>\bios</code></td><td>2c66f5911e5b42b8ebe113403548eee7</td></tr><tr><td>coleco.rom</td><td><code>\bios\openMSX\share\systemroms</code></td><td>2c66f5911e5b42b8ebe113403548eee7</td></tr></tbody></table>
 
 ## Controls
 
@@ -64,23 +61,7 @@ Bluemsx core allows you to choose between the following controller types:
 
 ### OpenMSX keyboard
 
-| Keyboard player 1                           | Keyboard player 2 | Colecovision |
-| ------------------------------------------- | ----------------- | ------------ |
-| Arrow keys                                  | W, S, A, D        | Arrow keys   |
-| <p>SPACE<br>Right CTRL</p>                  | Left CTRL         | Left button  |
-| <p>Left ALT<br>Right ALT<br>Right SHIFT</p> | Left SHIFT        | Right button |
-| 1                                           | R                 | 1            |
-| 2                                           | T                 | 2            |
-| 3                                           | Y                 | 3            |
-| 4                                           | F                 | 4            |
-| 5                                           | G                 | 5            |
-| 6                                           | H                 | 6            |
-| 7                                           | V                 | 7            |
-| 8                                           | B                 | 8            |
-| 9                                           | N                 | 9            |
-| 0                                           | U                 | 0            |
-| <p>-<br>Numpad * or -</p>                   | J                 | \*           |
-| <p>=<br>Numpad / or +</p>                   | M                 | #            |
+<table><thead><tr><th width="283">Keyboard player 1</th><th>Keyboard player 2</th><th>Colecovision</th></tr></thead><tbody><tr><td>Arrow keys</td><td>W, S, A, D</td><td>Arrow keys</td></tr><tr><td>SPACE<br>Right CTRL</td><td>Left CTRL</td><td>Left button</td></tr><tr><td>Left ALT<br>Right ALT<br>Right SHIFT</td><td>Left SHIFT</td><td>Right button</td></tr><tr><td>1</td><td>R</td><td>1</td></tr><tr><td>2</td><td>T</td><td>2</td></tr><tr><td>3</td><td>Y</td><td>3</td></tr><tr><td>4</td><td>F</td><td>4</td></tr><tr><td>5</td><td>G</td><td>5</td></tr><tr><td>6</td><td>H</td><td>6</td></tr><tr><td>7</td><td>V</td><td>7</td></tr><tr><td>8</td><td>B</td><td>8</td></tr><tr><td>9</td><td>N</td><td>9</td></tr><tr><td>0</td><td>U</td><td>0</td></tr><tr><td>-<br>Numpad * or -</td><td>J</td><td>*</td></tr><tr><td>=<br>Numpad / or +</td><td>M</td><td>#</td></tr></tbody></table>
 
 ## Specific system information
 

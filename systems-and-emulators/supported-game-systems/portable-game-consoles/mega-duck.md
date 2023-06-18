@@ -16,17 +16,11 @@ Portable Game Console - Released: 1993
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: sameduck</li><li>Libretro: mame</li><li>mame64</li></ul> |
-| ------------------ | -------------------------------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: megaduck                  |
-| **File extension** | .bin .zip .7z                                                              |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: sameduck</li><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> megaduck</td></tr><tr><td><strong>File extension</strong></td><td>.bin .zip .7z</td></tr></tbody></table>
 
 ### Libretro:mame information
 
-| **Emulated Model**      | megaduck  |
-| ----------------------- | --------- |
-| **Softlists available** | megaduck  |
-| **Media Types**         | cartridge |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulated Model</strong></td><td>megaduck</td></tr><tr><td><strong>Softlists available</strong></td><td>megaduck</td></tr><tr><td><strong>Media Types</strong></td><td>cartridge</td></tr></tbody></table>
 
 ## Bios Information
 

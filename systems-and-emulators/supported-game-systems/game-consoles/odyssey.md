@@ -16,19 +16,11 @@ Game Console - Lifespan: 1978 - 1984
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: o2em</li></ul>                      |
-| ------------------ | ----------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: o2em |
-| **File extension** | .bin .zip .7z                                         |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: o2em</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> o2em</td></tr><tr><td><strong>File extension</strong></td><td>.bin .zip .7z</td></tr></tbody></table>
 
 ## Bios Information
 
-| bios file | Folder  | md5                              |
-| --------- | ------- | -------------------------------- |
-| o2rom.bin | `\bios` | 562d5ebf9e030a40d6fabfc2f33139fd |
-| c52.bin   | `\bios` | f1071cdb0b6b10dde94d3bc8a6146387 |
-| g7400.bin | `\bios` | c500ff71236068e0dc0d0603d265ae76 |
-| jopac.bin | `\bios` | 279008e4a0db2dc5f1c048853b033828 |
+<table><thead><tr><th width="224">bios file</th><th width="169">Folder</th><th>md5</th></tr></thead><tbody><tr><td>o2rom.bin</td><td><code>\bios</code></td><td>562d5ebf9e030a40d6fabfc2f33139fd</td></tr><tr><td>c52.bin</td><td><code>\bios</code></td><td>f1071cdb0b6b10dde94d3bc8a6146387</td></tr><tr><td>g7400.bin</td><td><code>\bios</code></td><td>c500ff71236068e0dc0d0603d265ae76</td></tr><tr><td>jopac.bin</td><td><code>\bios</code></td><td>279008e4a0db2dc5f1c048853b033828</td></tr></tbody></table>
 
 ## Controls
 

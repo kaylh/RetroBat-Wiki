@@ -12,23 +12,11 @@ Pinball Simulation Software - Released 2016
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> zaccariapinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.table</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Steam</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> zaccariapinball</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.table</td><td></td></tr></tbody></table>
 
 ## Controls
 
-| RetroBat key                                                                                  | Keyboard    | Zaccaria Pinball Action |
-| --------------------------------------------------------------------------------------------- | ----------- | ----------------------- |
-| <p><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="A"><br>Right Stick down</p> | ENTER       | Plunger                 |
-| <p>D-PAD<br>Left Analog Stick</p>                                                             |             | Nudge                   |
-|                                                                                               | LEFT CTRL   | Nudge Left              |
-|                                                                                               | RIGHT CTRL  | Nudge Right             |
-|                                                                                               | SPACE       | Nudge Up                |
-| L1 / L2                                                                                       | LEFT SHIFT  | Left Flipper            |
-| R1 / R2                                                                                       | RIGHT SHIFT | Right Flipper           |
-| ![B](<../../../.gitbook/assets/image (4) (1).png>)                                            | F           | In-Game UI Size         |
-| <img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original">        | D           | Score Panel Position    |
-| <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">            | C           | Camera Change           |
-|                                                                                               | 1 - 7       | Camera positions        |
+<table><thead><tr><th width="215">RetroBat key</th><th width="140">Keyboard</th><th width="229">Zaccaria Pinball Action</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="A"><br>Right Stick down</td><td>ENTER</td><td>Plunger</td></tr><tr><td>D-PAD<br>Left Analog Stick</td><td></td><td>Nudge</td></tr><tr><td></td><td>LEFT CTRL</td><td>Nudge Left</td></tr><tr><td></td><td>RIGHT CTRL</td><td>Nudge Right</td></tr><tr><td></td><td>SPACE</td><td>Nudge Up</td></tr><tr><td>L1 / L2</td><td>LEFT SHIFT</td><td>Left Flipper</td></tr><tr><td>R1 / R2</td><td>RIGHT SHIFT</td><td>Right Flipper</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt="B"></td><td>F</td><td>In-Game UI Size</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"></td><td>D</td><td>Score Panel Position</td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"></td><td>C</td><td>Camera Change</td></tr><tr><td></td><td>1 - 7</td><td>Camera positions</td></tr></tbody></table>
 
 ## System Features
 

@@ -16,10 +16,7 @@ Multimedia Software Platform - Created in 1993 by FutureWave.
 
 ## Information
 
-| **Emulators**      | <ul><li>arcadeflashweb</li></ul>                       |
-| ------------------ | ------------------------------------------------------ |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: flash |
-| **File extension** | .swf                                                   |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>arcadeflashweb</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> flash</td></tr><tr><td><strong>File extension</strong></td><td>.swf</td></tr></tbody></table>
 
 ## Bios Information
 

@@ -16,60 +16,19 @@ For some Emulators, hotkeys for face buttons will be reversed for NINTENDO contr
 
 ### RetroArch
 
-| Hotkeys                                                  | Action                   |
-| -------------------------------------------------------- | ------------------------ |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>)     | PAUSE                    |
-| Hotkey + ![](<../.gitbook/assets/image (1) (2) (1).png>) | RetroArch MENU           |
-| Hotkey + ![](<../.gitbook/assets/image (3) (1) (2).png>) | Load Save State          |
-| Hotkey + ![](<../.gitbook/assets/image (2) (1) (1).png>) | Save State               |
-| Hotkey + START                                           | Quit RetroArch           |
-| Hotkey + L1                                              | Eject Disc               |
-| Hotkey + R1                                              | AI Service               |
-| Hotkey + L2                                              | Select Disc Index -      |
-| Hotkey + R2                                              | Select Disc Index +      |
-| Hotkey + D-PAD UP                                        | Select Save Slot Index + |
-| Hotkey + D-PAD DOWN                                      | Select Save Slot Index - |
-| Hotkey + D-PAD LEFT                                      | Rewind                   |
-| Hotkey + D-PAD RIGHT                                     | Fast Forward             |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>RetroArch MENU</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Load Save State</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Save State</td></tr><tr><td>Hotkey + START</td><td>Quit RetroArch</td></tr><tr><td>Hotkey + L1</td><td>Eject Disc</td></tr><tr><td>Hotkey + R1</td><td>AI Service</td></tr><tr><td>Hotkey + L2</td><td>Select Disc Index -</td></tr><tr><td>Hotkey + R2</td><td>Select Disc Index +</td></tr><tr><td>Hotkey + D-PAD UP</td><td>Select Save Slot Index +</td></tr><tr><td>Hotkey + D-PAD DOWN</td><td>Select Save Slot Index -</td></tr><tr><td>Hotkey + D-PAD LEFT</td><td>Rewind</td></tr><tr><td>Hotkey + D-PAD RIGHT</td><td>Fast Forward</td></tr></tbody></table>
 
 ### Dolphin
 
-| Hotkeys                                                  | Action            |
-| -------------------------------------------------------- | ----------------- |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>)     | Toggle Fullscreen |
-| Hotkey + ![](<../.gitbook/assets/image (1) (2) (1).png>) | PAUSE             |
-| Hotkey + ![](<../.gitbook/assets/image (3) (1) (2).png>) | Save State        |
-| Hotkey + ![](<../.gitbook/assets/image (2) (1) (1).png>) | Load Save State   |
-| Hotkey + START                                           | Exit DOLPHIN      |
-| Hotkey + L1                                              | Eject Disc        |
-| Hotkey + R1                                              | Change Disc       |
-| Hotkey + R2                                              | Screenshot        |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>Toggle Fullscreen</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Save State</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Load Save State</td></tr><tr><td>Hotkey + START</td><td>Exit DOLPHIN</td></tr><tr><td>Hotkey + L1</td><td>Eject Disc</td></tr><tr><td>Hotkey + R1</td><td>Change Disc</td></tr><tr><td>Hotkey + R2</td><td>Screenshot</td></tr></tbody></table>
 
 ### DuckStation
 
-| Hotkeys                                                  | Action                                                     |
-| -------------------------------------------------------- | ---------------------------------------------------------- |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>)     | PAUSE                                                      |
-| Hotkey + ![](<../.gitbook/assets/image (1) (2) (1).png>) | Open MENU                                                  |
-| Hotkey + ![](<../.gitbook/assets/image (3) (1) (2).png>) | Load State                                                 |
-| Hotkey + ![](<../.gitbook/assets/image (2) (1) (1).png>) | Save State                                                 |
-| Hotkey + START                                           | Exit DuckStation                                           |
-| Hotkey + L1                                              | Toggle FULLSCREEN (when option 'disable fullscreen' is ON) |
-| Hotkey + R1                                              | Change Disc                                                |
-| Hotkey + R3                                              | Screenshot                                                 |
-| Hotkey + D-PAD UP                                        | Select Save Slot Index +                                   |
-| Hotkey + D-PAD DOWN                                      | Select Save Slot Index -                                   |
-| Hotkey + D-PAD LEFT                                      | Rewind                                                     |
-| Hotkey + D-PAD RIGHT                                     | Fast Forward                                               |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Open MENU</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Load State</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Save State</td></tr><tr><td>Hotkey + START</td><td>Exit DuckStation</td></tr><tr><td>Hotkey + L1</td><td>Toggle FULLSCREEN (when option 'disable fullscreen' is ON)</td></tr><tr><td>Hotkey + R1</td><td>Change Disc</td></tr><tr><td>Hotkey + R3</td><td>Screenshot</td></tr><tr><td>Hotkey + D-PAD UP</td><td>Select Save Slot Index +</td></tr><tr><td>Hotkey + D-PAD DOWN</td><td>Select Save Slot Index -</td></tr><tr><td>Hotkey + D-PAD LEFT</td><td>Rewind</td></tr><tr><td>Hotkey + D-PAD RIGHT</td><td>Fast Forward</td></tr></tbody></table>
 
 ### OpenMSX
 
-| Hotkeys                                                  | Action           |
-| -------------------------------------------------------- | ---------------- |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>)     | PAUSE            |
-| Hotkey + ![](<../.gitbook/assets/image (1) (2) (1).png>) | Main Menu Toggle |
-| Hotkey + L1                                              | Rewind           |
-| Hotkey + R1                                              | Fast Forward     |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Main Menu Toggle</td></tr><tr><td>Hotkey + L1</td><td>Rewind</td></tr><tr><td>Hotkey + R1</td><td>Fast Forward</td></tr></tbody></table>
 
 {% hint style="danger" %}
 OpenMSX MENU cannot be navigated with the D-PAD, use the analog stick.
@@ -77,23 +36,8 @@ OpenMSX MENU cannot be navigated with the D-PAD, use the analog stick.
 
 ### PCSX2
 
-| Hotkeys                                                  | Action                                                     |
-| -------------------------------------------------------- | ---------------------------------------------------------- |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>)     | PAUSE                                                      |
-| Hotkey + ![](<../.gitbook/assets/image (1) (2) (1).png>) | Open MENU                                                  |
-| Hotkey + ![](<../.gitbook/assets/image (3) (1) (2).png>) | Load from slot                                             |
-| Hotkey + ![](<../.gitbook/assets/image (2) (1) (1).png>) | Save to slot                                               |
-| Hotkey + START                                           | Exit PCSX2                                                 |
-| Hotkey + L1                                              | Toggle FULLSCREEN (when option 'disable fullscreen' is ON) |
-| Hotkey + R3                                              | Screenshot                                                 |
-| Hotkey + D-PAD UP                                        | Select Save Slot Index +                                   |
-| Hotkey + D-PAD DOWN                                      | Select Save Slot Index -                                   |
-| Hotkey + D-PAD LEFT                                      | Toggle Slow Motion                                         |
-| Hotkey + D-PAD RIGHT                                     | Toggle Turbo                                               |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Open MENU</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Load from slot</td></tr><tr><td>Hotkey + <img src="../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Save to slot</td></tr><tr><td>Hotkey + START</td><td>Exit PCSX2</td></tr><tr><td>Hotkey + L1</td><td>Toggle FULLSCREEN (when option 'disable fullscreen' is ON)</td></tr><tr><td>Hotkey + R3</td><td>Screenshot</td></tr><tr><td>Hotkey + D-PAD UP</td><td>Select Save Slot Index +</td></tr><tr><td>Hotkey + D-PAD DOWN</td><td>Select Save Slot Index -</td></tr><tr><td>Hotkey + D-PAD LEFT</td><td>Toggle Slow Motion</td></tr><tr><td>Hotkey + D-PAD RIGHT</td><td>Toggle Turbo</td></tr></tbody></table>
 
 ### YUZU
 
-| Hotkeys                                              | Action    |
-| ---------------------------------------------------- | --------- |
-| Hotkey + ![](<../.gitbook/assets/image (4) (1).png>) | PAUSE     |
-| Hotkey + START                                       | Exit YUZU |
+<table><thead><tr><th width="245">Hotkeys</th><th>Action</th></tr></thead><tbody><tr><td>Hotkey + <img src="../.gitbook/assets/image (4) (1).png" alt=""></td><td>PAUSE</td></tr><tr><td>Hotkey + START</td><td>Exit YUZU</td></tr></tbody></table>

@@ -16,16 +16,11 @@ Game Console - Lifespan: 1994 - 1998
 
 ## Information
 
-| **Emulators**      | <ul><li>Libretro: mednafen_pcfx</li></ul>             |
-| ------------------ | ----------------------------------------------------- |
-| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: pcfx |
-| **File extension** | .cue .ccd .toc .chd                                   |
+<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mednafen_pcfx</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pcfx</td></tr><tr><td><strong>File extension</strong></td><td>.cue .ccd .toc .chd</td></tr></tbody></table>
 
 ## Bios Information
 
-| bios file | Folder  | md5                              |
-| --------- | ------- | -------------------------------- |
-| pcfx.rom  | `\bios` | 08e36edbea28a017f79f8d4f7ff9b6d7 |
+<table><thead><tr><th width="224">bios file</th><th width="169">Folder</th><th>md5</th></tr></thead><tbody><tr><td>pcfx.rom</td><td><code>\bios</code></td><td>08e36edbea28a017f79f8d4f7ff9b6d7</td></tr></tbody></table>
 
 ## Controls
 

@@ -12,7 +12,7 @@ Arcade - First LaserDisc game release : 1983
 
 ## Information
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>hypseus</li><li>daphne</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> daphne</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.daphne .actionmax .7z .zip .rar .squashfs</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>hypseus</li><li>daphne</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> daphne</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.daphne .actionmax .7z .zip .rar .squashfs</td><td></td></tr></tbody></table>
 
 ## BIOS
 
@@ -24,25 +24,7 @@ No BIOS required to play DAPHNE or SINGE games.
 
 Gamepad controls are enabled through pad2key files provided with Retrobat installation:
 
-| Action               | Gamepad Button             |
-| -------------------- | -------------------------- |
-| Directional movement | D-PAD or Left analog stick |
-| COIN 1               | SELECT                     |
-| START 1              | START                      |
-| Button 1             | A                          |
-| Button 2             | B                          |
-| Button 3             | R2                         |
-| Skill 1              | Y                          |
-| Skill 2              | X                          |
-| Skill 3              | L2                         |
-| SERVICE              | HOTKEY + B                 |
-| TEST                 |                            |
-| RESET                | HOTKEY + X                 |
-| Screenshot           |                            |
-| Quit                 | HOTKEY + START             |
-| Pause                | HOTKEY + A                 |
-| Console              |                            |
-| Title                | HOTKEY + Y                 |
+<table><thead><tr><th width="311">Action</th><th>Gamepad Button</th></tr></thead><tbody><tr><td>Directional movement</td><td>D-PAD or Left analog stick</td></tr><tr><td>COIN 1</td><td>SELECT</td></tr><tr><td>START 1</td><td>START</td></tr><tr><td>Button 1</td><td>A</td></tr><tr><td>Button 2</td><td>B</td></tr><tr><td>Button 3</td><td>R2</td></tr><tr><td>Skill 1</td><td>Y</td></tr><tr><td>Skill 2</td><td>X</td></tr><tr><td>Skill 3</td><td>L2</td></tr><tr><td>SERVICE</td><td>HOTKEY + B</td></tr><tr><td>TEST</td><td></td></tr><tr><td>RESET</td><td>HOTKEY + X</td></tr><tr><td>Screenshot</td><td></td></tr><tr><td>Quit</td><td>HOTKEY + START</td></tr><tr><td>Pause</td><td>HOTKEY + A</td></tr><tr><td>Console</td><td></td></tr><tr><td>Title</td><td>HOTKEY + Y</td></tr></tbody></table>
 
 **NOTE:** Right Analog stick simulates mouse
 
@@ -50,27 +32,7 @@ Gamepad controls are enabled through pad2key files provided with Retrobat instal
 
 ### Keyboard controls:
 
-| Action               | Keyboard Hypseus | Keyboard Daphne       |
-| -------------------- | ---------------- | --------------------- |
-| Directional movement | ARROW Keys       | ARROW Keys or 8,4,2,6 |
-| COIN 1               | 5                | 5 or c                |
-| COIN 2               | 6                | 6                     |
-| START 1              | 1                | 1                     |
-| START 2              | 2                | 2                     |
-| Button 1             | LEFT CONTROL     | LEFT CTRL or SPACE    |
-| Button 2             | LEFT ALT         | LEFT ALT              |
-| Button 3             | SPACE            | LEFT SHIFT            |
-| Skill 1              | LEFT SHIFT       | /                     |
-| Skill 2              | Z                | \*                    |
-| Skill 3              | X                | -                     |
-| SERVICE              | 9                | 9                     |
-| TEST                 | F2               | F2                    |
-| RESET                | 0                | F3                    |
-| Screenshot           | F12              | F12                   |
-| Quit                 | ESC              | ESC or q              |
-| Pause                | P                | P                     |
-| Console              | BACKLASH         |                       |
-| Title                | T                | t                     |
+<table><thead><tr><th width="265">Action</th><th>Keyboard Hypseus</th><th>Keyboard Daphne</th></tr></thead><tbody><tr><td>Directional movement</td><td>ARROW Keys</td><td>ARROW Keys or 8,4,2,6</td></tr><tr><td>COIN 1</td><td>5</td><td>5 or c</td></tr><tr><td>COIN 2</td><td>6</td><td>6</td></tr><tr><td>START 1</td><td>1</td><td>1</td></tr><tr><td>START 2</td><td>2</td><td>2</td></tr><tr><td>Button 1</td><td>LEFT CONTROL</td><td>LEFT CTRL or SPACE</td></tr><tr><td>Button 2</td><td>LEFT ALT</td><td>LEFT ALT</td></tr><tr><td>Button 3</td><td>SPACE</td><td>LEFT SHIFT</td></tr><tr><td>Skill 1</td><td>LEFT SHIFT</td><td>/</td></tr><tr><td>Skill 2</td><td>Z</td><td>*</td></tr><tr><td>Skill 3</td><td>X</td><td>-</td></tr><tr><td>SERVICE</td><td>9</td><td>9</td></tr><tr><td>TEST</td><td>F2</td><td>F2</td></tr><tr><td>RESET</td><td>0</td><td>F3</td></tr><tr><td>Screenshot</td><td>F12</td><td>F12</td></tr><tr><td>Quit</td><td>ESC</td><td>ESC or q</td></tr><tr><td>Pause</td><td>P</td><td>P</td></tr><tr><td>Console</td><td>BACKLASH</td><td></td></tr><tr><td>Title</td><td>T</td><td>t</td></tr></tbody></table>
 
 ## Specific system information
 

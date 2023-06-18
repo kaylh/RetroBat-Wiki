@@ -31,9 +31,9 @@ Depending on the [romset type](../../arcade-guide.md#romsets), a BIOS can be req
 Refer to the [Arcade page for more information about ROM set types](../../arcade-guide.md#rom-set-types).
 {% endhint %}
 
-**Here is a non-exhaustive list of MAME bios files (based on rom set 0.247):**
+**Here is a non-exhaustive list of MAME bios files (based on rom set 0.255):**
 
-{% file src="../../../.gitbook/assets/MAME_BIOS_247.dat" %}
+{% file src="../../../.gitbook/assets/MAME 0.255 ROMs (bios-devices).xml" %}
 
 BIOS files must be placed at the root of the `\bios` folder of your RetroBat installation.
 
