@@ -16,11 +16,13 @@ Computer - Lifespan: 1986 - 1992
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>gsplus</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2gs</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.2mg .m3u</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>gsplus</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2gs</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.2mg .m3u</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-<table><thead><tr><th width="224">bios file</th><th width="169">Folder</th><th>md5</th></tr></thead><tbody><tr><td>APPLE2GS.ROM</td><td><code>\bios</code></td><td>20a0334c447cb069a040ae5be1d938df</td></tr></tbody></table>
+| bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| APPLE2GS.ROM | `\bios` | 20a0334c447cb069a040ae5be1d938df |
 
 ## Controls
 

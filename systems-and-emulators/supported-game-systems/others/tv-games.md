@@ -6,7 +6,11 @@ TV plug and play devices.
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> tvgames</td></tr><tr><td><strong>File extension</strong></td><td>.zip .7z</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
+| ------------------ | -------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: tvgames |
+| **File extension** | .zip .7z                                                 |
+| **Group**          | MESS                                                     |
 
 ## Bios Information
 

@@ -16,7 +16,10 @@ Game Console - Lifespan: 1990 - 1998
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: same_cdi</li><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> cdi</td></tr><tr><td><strong>File extension</strong></td><td>.chd .cue .toc .nrg .gdi .iso .cdr</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: same_cdi</li><li>Libretro: mame</li><li>mame64</li></ul> |
+| ------------------ | -------------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: cdi                       |
+| **File extension** | .chd .cue .toc .nrg .gdi .iso .cdr                                         |
 
 {% hint style="warning" %}
 Note that games requiring a digital cartdridge are not yet possible to emulate through MAME or SAME\_CDI.
@@ -28,11 +31,20 @@ This means that games like Dragon's Lair, BrainDead 13 or Mad Dog McCree will no
 
 **For same\_cdi:**
 
-<table><thead><tr><th width="153">bios file</th><th width="248.33333333333331">Folder</th><th>md5</th></tr></thead><tbody><tr><td>cdimono1.zip</td><td><code>\bios\same_cdi\bios</code></td><td>See below</td></tr><tr><td>cdimono2.zip</td><td><code>\bios\same_cdi\bios</code></td><td>97aa5f47030cd9fdb679d4fafbb0e332</td></tr><tr><td>cdibios.zip</td><td><code>\bios\same_cdi\bios</code></td><td>709acce6e9c4043b851ea7429b8e7eff</td></tr></tbody></table>
+| bios file    | Folder                | md5                              |
+| ------------ | --------------------- | -------------------------------- |
+| cdimono1.zip | `\bios\same_cdi\bios` | See below                        |
+| cdimono2.zip | `\bios\same_cdi\bios` | 97aa5f47030cd9fdb679d4fafbb0e332 |
+| cdibios.zip  | `\bios\same_cdi\bios` | 709acce6e9c4043b851ea7429b8e7eff |
 
 **For mame:**
 
-<table><thead><tr><th width="224">bios file</th><th width="179">Folder</th><th>md5</th></tr></thead><tbody><tr><td>cdi.xml</td><td><code>bios\mame\hash</code></td><td></td></tr><tr><td>cdimono1.zip</td><td><code>\bios</code></td><td>See below</td></tr><tr><td>cdimono2.zip</td><td><code>\bios</code></td><td>97aa5f47030cd9fdb679d4fafbb0e332</td></tr><tr><td>cdibios.zip</td><td><code>\bios</code></td><td>709acce6e9c4043b851ea7429b8e7eff</td></tr></tbody></table>
+| bios file    | Folder           | md5                              |
+| ------------ | ---------------- | -------------------------------- |
+| cdi.xml      | `bios\mame\hash` |                                  |
+| cdimono1.zip | `\bios`          | See below                        |
+| cdimono2.zip | `\bios`          | 97aa5f47030cd9fdb679d4fafbb0e332 |
+| cdibios.zip  | `\bios`          | 709acce6e9c4043b851ea7429b8e7eff |
 
 ### Content of BIOS files
 

@@ -24,7 +24,12 @@ Configuration can be done in the [Main Menu ](../navigation/main-menu.md)under *
 
 </div>
 
-<table><thead><tr><th width="290">Configuration Item</th><th>Description</th></tr></thead><tbody><tr><td><strong>Enable AI Translation Service</strong></td><td>Turn the translation feature ON or OFF</td></tr><tr><td><strong>Target Language</strong></td><td>Select the language you want to get the screens translated into</td></tr><tr><td><strong>AI Translation service URL</strong></td><td>Enter the translation service URL</td></tr><tr><td><strong>Pause on translated screen</strong></td><td>Select whether you want to keep the game going while the translation overlay is on or pause the game</td></tr></tbody></table>
+| Configuration Item                | Description                                                                                          |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Enable AI Translation Service** | Turn the translation feature ON or OFF                                                               |
+| **Target Language**               | Select the language you want to get the screens translated into                                      |
+| **AI Translation service URL**    | Enter the translation service URL                                                                    |
+| **Pause on translated screen**    | Select whether you want to keep the game going while the translation overlay is on or pause the game |
 
 ### Translation Service URL
 

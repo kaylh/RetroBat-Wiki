@@ -12,7 +12,10 @@ Game engine to play Quake 1.
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: tyrquake</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> tyrquake</td></tr><tr><td><strong>File extension</strong></td><td>.pak</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: tyrquake</li></ul>                      |
+| ------------------ | --------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: tyrquake |
+| **File extension** | .pak                                                      |
 
 ## Bios Information
 
@@ -22,7 +25,23 @@ No BIOS required.
 
 Tyrquakes allows you to choose between 3 controller layouts from RetroBat menu.
 
-<table><thead><tr><th width="178">Retrobat Button</th><th width="197">Tyrquake Classic</th><th width="182">Tyrquake Alt</th><th>Tyrquake Modern</th></tr></thead><tbody><tr><td>START</td><td>Menu</td><td>Menu</td><td>Menu</td></tr><tr><td>SELECT</td><td>Toggle Run Mode</td><td>Toggle Run Mode</td><td>Show scores</td></tr><tr><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td></tr><tr><td>Left analog stick</td><td>X-axis : strafe<br>Y-axis: dpad UP/DOWN</td><td>X-axis : strafe<br>Y-axis: dpad UP/DOWN</td><td>X-axis : strafe<br>Y-axis: dpad UP/DOWN</td></tr><tr><td>Reft analog stick</td><td>X-axis : dpad L/R<br>Y-axis: Look UP/DOWN</td><td>X-axis : dpad L/R<br>Y-axis: Look UP/DOWN</td><td>Look</td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Fire</td><td>Look left</td><td>Swim Up</td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Jump</td><td>Look down</td><td>Swim Down</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt=""></td><td>Cycle weapon</td><td>Look right</td><td>Strafe Right</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Freelook</td><td>Look up</td><td>Strafe Left</td></tr><tr><td>L1</td><td>Strafe Left</td><td>Jump</td><td>Previous Weapon</td></tr><tr><td>R1</td><td>Strafe Right</td><td>Fire</td><td>Next Weapon</td></tr><tr><td>L2</td><td>Look up</td><td>Run</td><td>Jump</td></tr><tr><td>R2</td><td>Look down</td><td>Next Weapon</td><td>Fire</td></tr><tr><td>L3</td><td>Move down</td><td>Swim Down</td><td>Move Down</td></tr><tr><td>R3</td><td>Swim up</td><td>Previous Weapon</td><td>Swim Up</td></tr></tbody></table>
+| Retrobat Button                                       | Tyrquake Classic                                 | Tyrquake Alt                                     | Tyrquake Modern                                |
+| ----------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------- |
+| START                                                 | Menu                                             | Menu                                             | Menu                                           |
+| SELECT                                                | Toggle Run Mode                                  | Toggle Run Mode                                  | Show scores                                    |
+| D-PAD                                                 | D-PAD                                            | D-PAD                                            | D-PAD                                          |
+| Left analog stick                                     | <p>X-axis : strafe<br>Y-axis: dpad UP/DOWN</p>   | <p>X-axis : strafe<br>Y-axis: dpad UP/DOWN</p>   | <p>X-axis : strafe<br>Y-axis: dpad UP/DOWN</p> |
+| Reft analog stick                                     | <p>X-axis : dpad L/R<br>Y-axis: Look UP/DOWN</p> | <p>X-axis : dpad L/R<br>Y-axis: Look UP/DOWN</p> | Look                                           |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Fire                                             | Look left                                        | Swim Up                                        |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Jump                                             | Look down                                        | Swim Down                                      |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Cycle weapon                                     | Look right                                       | Strafe Right                                   |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Freelook                                         | Look up                                          | Strafe Left                                    |
+| L1                                                    | Strafe Left                                      | Jump                                             | Previous Weapon                                |
+| R1                                                    | Strafe Right                                     | Fire                                             | Next Weapon                                    |
+| L2                                                    | Look up                                          | Run                                              | Jump                                           |
+| R2                                                    | Look down                                        | Next Weapon                                      | Fire                                           |
+| L3                                                    | Move down                                        | Swim Down                                        | Move Down                                      |
+| R3                                                    | Swim up                                          | Previous Weapon                                  | Swim Up                                        |
 
 ## Specific system information
 

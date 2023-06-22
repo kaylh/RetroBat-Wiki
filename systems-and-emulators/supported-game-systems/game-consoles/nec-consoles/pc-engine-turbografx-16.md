@@ -16,11 +16,16 @@ Game Console - Lifespan: 1987 - 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mednafen_pce</li><li>Libretro: mednafen_pce_fast</li><li>Libretro: fbneo</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pcengine</td></tr><tr><td><strong>File extension</strong></td><td>.pce .bin .zip .7z .wad</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: mednafen_pce</li><li>Libretro: mednafen_pce_fast</li><li>Libretro: fbneo</li></ul> |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: pcengine                                            |
+| **File extension** | .pce .bin .zip .7z .wad                                                                              |
 
 ## Bios Information
 
-<table><thead><tr><th width="224">bios file</th><th width="169">Folder</th><th>md5</th></tr></thead><tbody><tr><td>syscard3.pce</td><td><code>\bios</code></td><td>38179df8f4ac870017db21ebcbf53114</td></tr></tbody></table>
+| bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| syscard3.pce | `\bios` | 38179df8f4ac870017db21ebcbf53114 |
 
 ## Controls
 

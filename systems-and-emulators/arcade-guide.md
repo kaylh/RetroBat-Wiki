@@ -27,7 +27,19 @@ These emulators are available in multiple versions to allow users to best match 
 
 ### Available Multi-Machine Arcade emulators in Retrobat
 
-<table><thead><tr><th width="259">Emulator/core</th><th width="160">ROMs folder</th><th>ROM set version</th></tr></thead><tbody><tr><td>libretro: mame (current)</td><td><code>\roms\mame</code></td><td>0.251</td></tr><tr><td>libretro: mame2016</td><td><code>\roms\mame</code></td><td>0.174</td></tr><tr><td>libretro: mame2014</td><td><code>\roms\mame</code></td><td>0.159</td></tr><tr><td>libretro: mame2010</td><td><code>\roms\mame</code></td><td>0.139</td></tr><tr><td>Libretro: mame2003_plus</td><td><code>\roms\mame</code></td><td>0.78plus</td></tr><tr><td>Libretro: mame2003</td><td><code>\roms\mame</code></td><td>0.78</td></tr><tr><td>Libretro: mame2000</td><td><code>\roms\mame</code></td><td>0.37b5</td></tr><tr><td>mame (standalone)</td><td><code>\roms\mame</code></td><td>0.253</td></tr><tr><td>Libretro: fbneo</td><td><code>\roms\fbneo</code></td><td>1.0.0.3</td></tr><tr><td>Libretro: fbalpha</td><td><code>\roms\fbneo</code></td><td>0.2.97.44</td></tr><tr><td>Libretro: fbalpha2012</td><td><code>\roms\fbneo</code></td><td>0.2.97.29</td></tr></tbody></table>
+| Emulator/core            | ROMs folder   | ROM set version |
+| ------------------------ | ------------- | --------------- |
+| libretro: mame (current) | `\roms\mame`  | 0.251           |
+| libretro: mame2016       | `\roms\mame`  | 0.174           |
+| libretro: mame2014       | `\roms\mame`  | 0.159           |
+| libretro: mame2010       | `\roms\mame`  | 0.139           |
+| Libretro: mame2003\_plus | `\roms\mame`  | 0.78plus        |
+| Libretro: mame2003       | `\roms\mame`  | 0.78            |
+| Libretro: mame2000       | `\roms\mame`  | 0.37b5          |
+| mame (standalone)        | `\roms\mame`  | 0.253           |
+| Libretro: fbneo          | `\roms\fbneo` | 1.0.0.3         |
+| Libretro: fbalpha        | `\roms\fbneo` | 0.2.97.44       |
+| Libretro: fbalpha2012    | `\roms\fbneo` | 0.2.97.29       |
 
 MAME is the usual emulator used for common Arcade games (the likes of Pac-Man, Asteroids, etc.)
 
@@ -37,7 +49,19 @@ FBNeo is specialized in Fighting Games and Beat-them-up.
 
 ## Single Board Emulators
 
-<table><thead><tr><th width="302">Arcade Machine(s)</th><th width="248">ROMs folder</th><th>Emulator</th></tr></thead><tbody><tr><td>FMV LaserDisc Arcade Games</td><td><code>\roms\daphne</code></td><td>DAPHNE / Hypseus</td></tr><tr><td>ATOMISWAVE</td><td><code>\roms\atomiswave</code></td><td>FLYCAST / Demul</td></tr><tr><td>GAELCO</td><td><code>\roms\gaelco</code></td><td>Demul</td></tr><tr><td>SEGA MODEL 2</td><td><code>\roms\model2</code></td><td>m2emulator</td></tr><tr><td>SEGA MODEL 3</td><td><code>\roms\model3</code></td><td>Supermodel</td></tr><tr><td>SEGA NAOMI</td><td><code>\roms\naomi</code></td><td>FLYCAST / Demul</td></tr><tr><td>SEGA NAOMI 2</td><td><code>\roms\naomi2</code></td><td>FLYCAST / Demul</td></tr><tr><td>HIKARU</td><td><code>\roms\hikaru</code></td><td>Demul</td></tr><tr><td>TRIFORCE</td><td><code>\roms\triforce</code></td><td>DOLPHIN</td></tr><tr><td>CHIHIRO</td><td><code>\roms\chihiro</code></td><td>CXBX-RELOADED</td></tr><tr><td>PC-BASED ARCADE</td><td><code>\roms\teknoparrot</code></td><td>TEKNOPARROT</td></tr></tbody></table>
+| Arcade Machine(s)          | ROMs folder         | Emulator         |
+| -------------------------- | ------------------- | ---------------- |
+| FMV LaserDisc Arcade Games | `\roms\daphne`      | DAPHNE / Hypseus |
+| ATOMISWAVE                 | `\roms\atomiswave`  | FLYCAST / Demul  |
+| GAELCO                     | `\roms\gaelco`      | Demul            |
+| SEGA MODEL 2               | `\roms\model2`      | m2emulator       |
+| SEGA MODEL 3               | `\roms\model3`      | Supermodel       |
+| SEGA NAOMI                 | `\roms\naomi`       | FLYCAST / Demul  |
+| SEGA NAOMI 2               | `\roms\naomi2`      | FLYCAST / Demul  |
+| HIKARU                     | `\roms\hikaru`      | Demul            |
+| TRIFORCE                   | `\roms\triforce`    | DOLPHIN          |
+| CHIHIRO                    | `\roms\chihiro`     | CXBX-RELOADED    |
+| PC-BASED ARCADE            | `\roms\teknoparrot` | TEKNOPARROT      |
 
 
 

@@ -25,11 +25,41 @@ From there you will have access to:
 
 ### Game Settings
 
-<table><thead><tr><th width="198">Section</th><th width="191">Setting</th><th>Description</th></tr></thead><tbody><tr><td>Tools</td><td>Update Gamelist</td><td>Retrobat will refresh gamelist by looking for added ROMs, new scraped media...</td></tr><tr><td>Global Options</td><td>Shader Set</td><td>Choose from a selection of predefined shaders to apply on your system.</td></tr><tr><td>Global Options</td><td>Decorations</td><td>Choose the default decoration for your system.</td></tr><tr><td>Global Options</td><td>Video Mode</td><td>Define the Windows resolution and frequency when using Retrobat.</td></tr><tr><td>Global Options</td><td>Game Aspect Ratio</td><td></td></tr><tr><td>Global Options</td><td>Integer Scaling</td><td>Tick to activate Pixel Perfect emulation for compatible systems.</td></tr><tr><td>Global Options</td><td>Smooth Games</td><td>Tick to apply Bilinear Filtering globally</td></tr><tr><td>Global Options</td><td>Autoconfigure controllers</td><td>Tick to disable controller autoconfiguration globally</td></tr><tr><td>Compression</td><td>Decompression</td><td>Define how the system should managed decompressed folders after decompressing a zipped ROM.</td></tr><tr><td>RetroArch Options</td><td>Video</td><td>Video parameters related to RetroArch</td></tr><tr><td>RetroArch Options</td><td>Screen Sync</td><td>Parameters such as VSYNC...</td></tr><tr><td>RetroArch Options</td><td>Audio</td><td>Audio parameters related to RetroArch</td></tr><tr><td>RetroArch Options</td><td>Emulation</td><td>Enable or disable REWIND</td></tr><tr><td>RetroArch Options</td><td>Latency Reduction</td><td>Several settings to reduce frame drops</td></tr><tr><td>RetroArch Options</td><td>AI Game Translation</td><td>Activation and configuration of Game Translation service</td></tr><tr><td>RetroArch Options</td><td>User Interface</td><td>user Interface settings (notifications, show menu elements...)</td></tr><tr><td>RetroArch Options</td><td>Drivers</td><td>Selection of video, audio and controller drivers</td></tr><tr><td>Savestates</td><td>Auto Save/Load</td><td>Enable automatic saving and loading of saved data in game.</td></tr><tr><td>Savestates</td><td>Incremental Savestates</td><td>Configure how automatic saving manages save files.</td></tr><tr><td>Savestates</td><td>Show Savestate Manager</td><td>Display Savestate Manager before launching a game.</td></tr><tr><td>System Settings</td><td>Per System Advanced Configuration</td><td>Link to the Individual System Settings (see related wiki section for more details)</td></tr><tr><td>System Settings</td><td>Retroachievements Settings</td><td>Enable and configure RetroAchievements</td></tr><tr><td>System Settings</td><td>NetPlay Settings</td><td>Enable and configure NetPlay</td></tr><tr><td>System Settings</td><td>Missing BIOS check</td><td>Shows the list of missing BIOS in the /bios/ folder.</td></tr><tr><td>System Settings</td><td>Check BIOS before Running a Game</td><td>Enable or disable BIOS check when running a game.</td></tr></tbody></table>
+| Section           | Setting                           | Description                                                                                 |
+| ----------------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
+| Tools             | Update Gamelist                   | Retrobat will refresh gamelist by looking for added ROMs, new scraped media...              |
+| Global Options    | Shader Set                        | Choose from a selection of predefined shaders to apply on your system.                      |
+| Global Options    | Decorations                       | Choose the default decoration for your system.                                              |
+| Global Options    | Video Mode                        | Define the Windows resolution and frequency when using Retrobat.                            |
+| Global Options    | Game Aspect Ratio                 |                                                                                             |
+| Global Options    | Integer Scaling                   | Tick to activate Pixel Perfect emulation for compatible systems.                            |
+| Global Options    | Smooth Games                      | Tick to apply Bilinear Filtering globally                                                   |
+| Global Options    | Autoconfigure controllers         | Tick to disable controller autoconfiguration globally                                       |
+| Compression       | Decompression                     | Define how the system should managed decompressed folders after decompressing a zipped ROM. |
+| RetroArch Options | Video                             | Video parameters related to RetroArch                                                       |
+| RetroArch Options | Screen Sync                       | Parameters such as VSYNC...                                                                 |
+| RetroArch Options | Audio                             | Audio parameters related to RetroArch                                                       |
+| RetroArch Options | Emulation                         | Enable or disable REWIND                                                                    |
+| RetroArch Options | Latency Reduction                 | Several settings to reduce frame drops                                                      |
+| RetroArch Options | AI Game Translation               | Activation and configuration of Game Translation service                                    |
+| RetroArch Options | User Interface                    | user Interface settings (notifications, show menu elements...)                              |
+| RetroArch Options | Drivers                           | Selection of video, audio and controller drivers                                            |
+| Savestates        | Auto Save/Load                    | Enable automatic saving and loading of saved data in game.                                  |
+| Savestates        | Incremental Savestates            | Configure how automatic saving manages save files.                                          |
+| Savestates        | Show Savestate Manager            | Display Savestate Manager before launching a game.                                          |
+| System Settings   | Per System Advanced Configuration | Link to the Individual System Settings (see related wiki section for more details)          |
+| System Settings   | Retroachievements Settings        | Enable and configure RetroAchievements                                                      |
+| System Settings   | NetPlay Settings                  | Enable and configure NetPlay                                                                |
+| System Settings   | Missing BIOS check                | Shows the list of missing BIOS in the /bios/ folder.                                        |
+| System Settings   | Check BIOS before Running a Game  | Enable or disable BIOS check when running a game.                                           |
 
 ### User Interface Settings
 
-<table><thead><tr><th width="267">Section</th><th>Description</th></tr></thead><tbody><tr><td>Appearance</td><td>Select Theme and configuration of the theme.</td></tr><tr><td>Display Options</td><td>Several display options (transitions, show clock, Screensaver settings, ...)</td></tr><tr><td>Gamelist Options</td><td>General Settings related to the Gamelist View (Favorites on top, icons, Filenames instead of game name...)</td></tr></tbody></table>
+| Section          | Description                                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| Appearance       | Select Theme and configuration of the theme.                                                               |
+| Display Options  | Several display options (transitions, show clock, Screensaver settings, ...)                               |
+| Gamelist Options | General Settings related to the Gamelist View (Favorites on top, icons, Filenames instead of game name...) |
 
 ### Controller Settings
 
@@ -47,7 +77,11 @@ This menu item is used to manage Retrobat sounds :
 
 ### Game Collection Settings
 
-<table><thead><tr><th width="252">Section</th><th>Description</th></tr></thead><tbody><tr><td>Collections to display</td><td>Select the Systems and Game Collections to display in Retrobat.</td></tr><tr><td>Create Custom Collection</td><td>Add a Game Collection to Retrobat</td></tr><tr><td>Options</td><td>Several display options: sorting, show hidden systems...</td></tr></tbody></table>
+| Section                  | Description                                                     |
+| ------------------------ | --------------------------------------------------------------- |
+| Collections to display   | Select the Systems and Game Collections to display in Retrobat. |
+| Create Custom Collection | Add a Game Collection to Retrobat                               |
+| Options                  | Several display options: sorting, show hidden systems...        |
 
 {% hint style="info" %}
 More information on Game Collections is available in the [dedicated wiki section](../advanced-features/game-collections.md).
@@ -74,4 +108,16 @@ Retrobat does not provide ROMs, only Games that are not licenced and free-to-use
 
 ### System Settings
 
-<table><thead><tr><th width="177">Section</th><th>Setting</th><th>Description</th></tr></thead><tbody><tr><td>System</td><td>Information</td><td>Display system information</td></tr><tr><td>System</td><td>Language</td><td>Select Retrobat interface language</td></tr><tr><td>System</td><td>Show Clock in 12-Hour Format</td><td>Select whether the clock should be in 12h or 24h format</td></tr><tr><td>System</td><td>Power Saving Mode</td><td>Choose Power Saving Mode</td></tr><tr><td>System</td><td>Screen Reader</td><td>Enable or disable "Text to Speech"</td></tr><tr><td>System</td><td>User Interface Mode</td><td>Choose between Full, Kid or Kiosk</td></tr><tr><td>Advanced</td><td>Video Options</td><td>VRAM size, Framerate display and Vsync options</td></tr><tr><td>Advanced</td><td>Tools</td><td>Developer Tools such as log activation, etc.</td></tr><tr><td>Advanced</td><td>Data Management</td><td></td></tr><tr><td>Advanced</td><td>User Interface</td><td></td></tr><tr><td>Advanced</td><td>Optimizations</td><td></td></tr></tbody></table>
+| Section  | Setting                      | Description                                             |
+| -------- | ---------------------------- | ------------------------------------------------------- |
+| System   | Information                  | Display system information                              |
+| System   | Language                     | Select Retrobat interface language                      |
+| System   | Show Clock in 12-Hour Format | Select whether the clock should be in 12h or 24h format |
+| System   | Power Saving Mode            | Choose Power Saving Mode                                |
+| System   | Screen Reader                | Enable or disable "Text to Speech"                      |
+| System   | User Interface Mode          | Choose between Full, Kid or Kiosk                       |
+| Advanced | Video Options                | VRAM size, Framerate display and Vsync options          |
+| Advanced | Tools                        | Developer Tools such as log activation, etc.            |
+| Advanced | Data Management              |                                                         |
+| Advanced | User Interface               |                                                         |
+| Advanced | Optimizations                |                                                         |

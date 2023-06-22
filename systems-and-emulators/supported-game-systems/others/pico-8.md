@@ -22,7 +22,10 @@ PICO-8 is a paid software, it is not provided by the Retrobat team.
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: retro8</li><li>pico8</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> pico8</td></tr><tr><td><strong>File extension</strong></td><td>.png .p8 .exe</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: retro8</li><li>pico8</li></ul>       |
+| ------------------ | ------------------------------------------------------ |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: pico8 |
+| **File extension** | .png .p8 .exe                                          |
 
 ## Bios Information
 

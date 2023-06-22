@@ -16,11 +16,16 @@ Game Console accessory - Release date: 1994
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mesen-s</li><li>mgba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> sgb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .gbc .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mesen-s</li><li>mgba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> sgb</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gb .gbc .zip .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-<table><thead><tr><th width="187">Bios file</th><th width="108">Folder</th><th>md5</th></tr></thead><tbody><tr><td>sgb_boot.bin</td><td><code>\bios</code></td><td>d574d4f9c12f305074798f54c091a8b4</td></tr><tr><td>sgb2_boot.bin</td><td><code>\bios</code></td><td>e0430bca9925fb9882148fd2dc2418c1</td></tr><tr><td>SGB1.sfc</td><td><code>\bios</code></td><td>b15ddb15721c657d82c5bab6db982ee9</td></tr><tr><td>SGB2.sfc</td><td><code>\bios</code></td><td>8ecd73eb4edf7ed7e81aef1be80031d5</td></tr></tbody></table>
+| Bios file      | Folder  | md5                              |
+| -------------- | ------- | -------------------------------- |
+| sgb\_boot.bin  | `\bios` | d574d4f9c12f305074798f54c091a8b4 |
+| sgb2\_boot.bin | `\bios` | e0430bca9925fb9882148fd2dc2418c1 |
+| SGB1.sfc       | `\bios` | b15ddb15721c657d82c5bab6db982ee9 |
+| SGB2.sfc       | `\bios` | 8ecd73eb4edf7ed7e81aef1be80031d5 |
 
 ## Controls
 

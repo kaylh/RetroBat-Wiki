@@ -16,11 +16,21 @@ Game Console - Lifespan: 1982 - 1986
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> crvision</td></tr><tr><td><strong>File extension</strong></td><td>.bin .rom .zip .7z</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr><tr><td><strong>Model Emulated</strong></td><td>crvision</td></tr><tr><td><strong>Softlists available</strong></td><td>crvision</td></tr><tr><td><strong>Media Types</strong></td><td>cassette, cartridge</td></tr></tbody></table>
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
+| ----------------------- | --------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: crvision |
+| **File extension**      | .bin .rom .zip .7z                                        |
+| **Group**               | MESS                                                      |
+| **Model Emulated**      | crvision                                                  |
+| **Softlists available** | crvision                                                  |
+| **Media Types**         | cassette, cartridge                                       |
 
 ## Bios Information
 
-<table><thead><tr><th width="184">bios file</th><th width="202">Folder</th><th>md5</th></tr></thead><tbody><tr><td>crvision.xml</td><td><code>\bios\mame\hash\</code></td><td></td></tr><tr><td>crvision.zip</td><td><code>\bios</code></td><td>See below</td></tr></tbody></table>
+| bios file    | Folder             | md5       |
+| ------------ | ------------------ | --------- |
+| crvision.xml | `\bios\mame\hash\` |           |
+| crvision.zip | `\bios`            | See below |
 
 ### Content of BIOS file
 

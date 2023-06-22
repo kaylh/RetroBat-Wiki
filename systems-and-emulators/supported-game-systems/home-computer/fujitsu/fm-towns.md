@@ -16,11 +16,19 @@ Computer - Lifespan: 1989 - 1997
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="198"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>tsugaru</li><li>mame64: fmtownsux</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fmtowns</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.m3u .d88 .d77 .xdf .cue .iso .game .cd .chd</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>fmtowns, fmtownsux, fmtmarty</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>fmtowns_cd, fmtowns_flop_cracked, fmtowns_flop_misc, fmtowns_flop_orig</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>floppy, cdrom, hard drive, memcard</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretroo: mame</li><li>tsugaru</li><li>mame64: fmtownsux</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> fmtowns</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.m3u .d88 .d77 .xdf .cue .iso .game .cd .chd</td><td></td></tr><tr><td><strong>Group</strong></td><td>MESS</td><td></td></tr><tr><td><strong>Emulated Model</strong></td><td>fmtowns, fmtownsux, fmtmarty</td><td></td></tr><tr><td><strong>Softlists available</strong></td><td>fmtowns_cd, fmtowns_flop_cracked, fmtowns_flop_misc, fmtowns_flop_orig</td><td></td></tr><tr><td><strong>Media Types</strong></td><td>floppy, cdrom, hard drive, memcard</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-<table><thead><tr><th width="209.55555555555557">bios file</th><th width="189">Folder</th><th>md5</th></tr></thead><tbody><tr><td>fmtowns.zip</td><td><code>\bios</code></td><td>Check below</td></tr><tr><td>fmtownsux.zip</td><td><code>\bios</code></td><td>Check below</td></tr><tr><td>FMT_DIC.ROM</td><td><code>\bios\fmtowns</code></td><td>8fa4e553f28cfc0c30a0a1e589799942</td></tr><tr><td>FMT_DOS.ROM</td><td><code>\bios\fmtowns</code></td><td>0585b19930d4a7f4c71bcc8a33746588</td></tr><tr><td>FMT_F20.ROM</td><td><code>\bios\fmtowns</code></td><td>ac0c7021e9bf48ca84b51ab651169a88</td></tr><tr><td>FMT_FNT.ROM</td><td><code>\bios\fmtowns</code></td><td>b91300e55b70227ce98b59c5f02fa8dd</td></tr><tr><td>FMT_SYS.ROM</td><td><code>\bios\fmtowns</code></td><td>86fb6f7280689259f0ca839dd3dd6cde</td></tr></tbody></table>
+| bios file     | Folder          | md5                              |
+| ------------- | --------------- | -------------------------------- |
+| fmtowns.zip   | `\bios`         | Check below                      |
+| fmtownsux.zip | `\bios`         | Check below                      |
+| FMT\_DIC.ROM  | `\bios\fmtowns` | 8fa4e553f28cfc0c30a0a1e589799942 |
+| FMT\_DOS.ROM  | `\bios\fmtowns` | 0585b19930d4a7f4c71bcc8a33746588 |
+| FMT\_F20.ROM  | `\bios\fmtowns` | ac0c7021e9bf48ca84b51ab651169a88 |
+| FMT\_FNT.ROM  | `\bios\fmtowns` | b91300e55b70227ce98b59c5f02fa8dd |
+| FMT\_SYS.ROM  | `\bios\fmtowns` | 86fb6f7280689259f0ca839dd3dd6cde |
 
 ### Content of BIOS files
 

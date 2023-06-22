@@ -16,7 +16,10 @@ Arcade - Lifespan: 1993 - 2003
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: fbalpha2012_cps2</li><li>Libretro: fbneo</li><li>Libretro: fbalpha</li><li>Libretro: fbalpha2012</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> cps2</td></tr><tr><td><strong>File extension</strong></td><td>.fba .zip .7z</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: fbalpha2012_cps2</li><li>Libretro: fbneo</li><li>Libretro: fbalpha</li><li>Libretro: fbalpha2012</li></ul> |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: cps2                                                                        |
+| **File extension** | .fba .zip .7z                                                                                                                |
 
 ## Bios Information
 
@@ -41,7 +44,23 @@ For FBNEO and FBALPHA cores, 2 controller layouts are available:
 * CLASSIC
 * MODERN
 
-<table><thead><tr><th width="219">Retrobat Button</th><th>CLASSIC</th><th>MODERN</th></tr></thead><tbody><tr><td>START</td><td>START</td><td>START</td></tr><tr><td>SELECT</td><td>COIN</td><td>COIN</td></tr><tr><td>Left analog stick</td><td>Stick</td><td>Stick</td></tr><tr><td>Right analog stick</td><td></td><td></td></tr><tr><td>D-PAD</td><td>Stick</td><td>Stick</td></tr><tr><td><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>3</td><td>3</td></tr><tr><td><img src="../../../../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>1</td><td>1</td></tr><tr><td><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""></td><td>2</td><td>2</td></tr><tr><td><img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>4</td><td>4</td></tr><tr><td>L1</td><td>5</td><td></td></tr><tr><td>R1</td><td>6</td><td>5</td></tr><tr><td>L2</td><td></td><td></td></tr><tr><td>R2</td><td></td><td>6</td></tr><tr><td>L3</td><td></td><td></td></tr><tr><td>R3</td><td></td><td></td></tr></tbody></table>
+| Retrobat Button                                          | CLASSIC | MODERN |
+| -------------------------------------------------------- | ------- | ------ |
+| START                                                    | START   | START  |
+| SELECT                                                   | COIN    | COIN   |
+| Left analog stick                                        | Stick   | Stick  |
+| Right analog stick                                       |         |        |
+| D-PAD                                                    | Stick   | Stick  |
+| ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) | 3       | 3      |
+| ![](<../../../../.gitbook/assets/image (1) (2) (1).png>) | 1       | 1      |
+| ![](<../../../../.gitbook/assets/image (4) (1).png>)     | 2       | 2      |
+| ![](<../../../../.gitbook/assets/image (3) (1) (2).png>) | 4       | 4      |
+| L1                                                       | 5       |        |
+| R1                                                       | 6       | 5      |
+| L2                                                       |         |        |
+| R2                                                       |         | 6      |
+| L3                                                       |         |        |
+| R3                                                       |         |        |
 
 ## Specific system information
 

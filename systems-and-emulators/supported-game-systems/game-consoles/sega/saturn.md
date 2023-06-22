@@ -16,11 +16,15 @@ Game Console - Lifespan: 1994 - 2000
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: kronos</li><li>libretro: mednafen saturn</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> saturn</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .cue .toc .m3u .ccd .chd .iso .cso .mds .chd</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: kronos</li><li>libretro: mednafen saturn</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> saturn</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.zip .cue .toc .m3u .ccd .chd .iso .cso .mds .chd</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-<table><thead><tr><th width="266">BIOS File</th><th width="140">Location</th><th width="341">MD5</th></tr></thead><tbody><tr><td>saturn_bios.bin</td><td>\bios</td><td>af5828fdff51384f99b3c4926be27762</td></tr><tr><td>mpr-17933.bin</td><td>\bios</td><td>3240872c70984b6cbfda1586cab68dbe</td></tr><tr><td>sega_101.bin</td><td>\bios</td><td>85ec9ca47d8f6807718151cbcca8b964</td></tr></tbody></table>
+| BIOS File        | Location | MD5                              |
+| ---------------- | -------- | -------------------------------- |
+| saturn\_bios.bin | \bios    | af5828fdff51384f99b3c4926be27762 |
+| mpr-17933.bin    | \bios    | 3240872c70984b6cbfda1586cab68dbe |
+| sega\_101.bin    | \bios    | 85ec9ca47d8f6807718151cbcca8b964 |
 
 ## Controls
 

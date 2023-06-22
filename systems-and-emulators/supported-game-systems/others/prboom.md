@@ -12,7 +12,10 @@ Game engine to play Doom, Doom II, Doom Ultimate, Final Doom and other Doom IWAD
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: prboom</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> prboom</td></tr><tr><td><strong>File extension</strong></td><td>.wad .iwad .pwad</td></tr></tbody></table>
+| **Emulators**      | <ul><li>Libretro: prboom</li></ul>                      |
+| ------------------ | ------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: prboom |
+| **File extension** | .wad .iwad .pwad                                        |
 
 ## Bios Information
 
@@ -22,7 +25,23 @@ No BIOS required.
 
 PrBoom allows you to choose between 2 controller layouts from RetroBat menu.
 
-<table><thead><tr><th width="205">Retrobat Button</th><th>Classic</th><th>Modern</th></tr></thead><tbody><tr><td>START</td><td>Show/Hide Menu</td><td>Show/Hide Menu</td></tr><tr><td>SELECT</td><td>Show/Hide Map</td><td>Show/Hide Map</td></tr><tr><td>D-PAD</td><td>D-PAD</td><td>D-PAD</td></tr><tr><td>Left analog stick</td><td></td><td>X-axis: strafe<br>Y-axis: move forwards and backwards</td></tr><tr><td>Reft analog stick</td><td></td><td>X-axis: look left/right</td></tr><tr><td><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""></td><td>Run</td><td>Quick save</td></tr><tr><td><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""></td><td>Use</td><td>Menu cancel</td></tr><tr><td><img src="../../../.gitbook/assets/image (4) (1).png" alt=""></td><td>Fire</td><td>Menu select</td></tr><tr><td><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""></td><td>Strafe</td><td>Quick load</td></tr><tr><td>L1</td><td>Strafe Left</td><td>Previous Weapon</td></tr><tr><td>R1</td><td>Strafe Right</td><td>Next Weapon</td></tr><tr><td>L2</td><td>Previous Weapon</td><td>Use</td></tr><tr><td>R2</td><td>Next Weapon</td><td>Fire</td></tr><tr><td>L3</td><td></td><td>Toggle run</td></tr><tr><td>R3</td><td></td><td>180 turn</td></tr></tbody></table>
+| Retrobat Button                                       | Classic         | Modern                                                       |
+| ----------------------------------------------------- | --------------- | ------------------------------------------------------------ |
+| START                                                 | Show/Hide Menu  | Show/Hide Menu                                               |
+| SELECT                                                | Show/Hide Map   | Show/Hide Map                                                |
+| D-PAD                                                 | D-PAD           | D-PAD                                                        |
+| Left analog stick                                     |                 | <p>X-axis: strafe<br>Y-axis: move forwards and backwards</p> |
+| Reft analog stick                                     |                 | X-axis: look left/right                                      |
+| ![](<../../../.gitbook/assets/image (2) (1) (1).png>) | Run             | Quick save                                                   |
+| ![](<../../../.gitbook/assets/image (1) (2) (1).png>) | Use             | Menu cancel                                                  |
+| ![](<../../../.gitbook/assets/image (4) (1).png>)     | Fire            | Menu select                                                  |
+| ![](<../../../.gitbook/assets/image (3) (1) (2).png>) | Strafe          | Quick load                                                   |
+| L1                                                    | Strafe Left     | Previous Weapon                                              |
+| R1                                                    | Strafe Right    | Next Weapon                                                  |
+| L2                                                    | Previous Weapon | Use                                                          |
+| R2                                                    | Next Weapon     | Fire                                                         |
+| L3                                                    |                 | Toggle run                                                   |
+| R3                                                    |                 | 180 turn                                                     |
 
 ## Specific system information
 

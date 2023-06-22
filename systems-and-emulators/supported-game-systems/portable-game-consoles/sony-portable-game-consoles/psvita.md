@@ -22,11 +22,17 @@ Portable Game Console - Lifespan: 2011 - 2019
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>vita3k</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> psvita</td></tr><tr><td><strong>File extension</strong></td><td>.m3u .psvita .vpk</td></tr></tbody></table>
+| **Emulators**      | <ul><li>vita3k</li></ul>                                |
+| ------------------ | ------------------------------------------------------- |
+| **File folder**    | :open\_file\_folder: roms \ :open\_file\_folder: psvita |
+| **File extension** | .m3u .psvita .vpk                                       |
 
 ## BIOS
 
-<table><thead><tr><th width="193">Bios file</th><th width="142.03610108303252">Folder</th><th>md5</th></tr></thead><tbody><tr><td>PSP2UPDAT.PUP</td><td><code>\bios</code></td><td>8B5F60B56C3DA8365B973DBA570C53A5</td></tr><tr><td>PSVUPDAT.PUP</td><td><code>\bios</code></td><td>F2C7B12FE85496EC88A0391B514D6E3B</td></tr></tbody></table>
+| Bios file     | Folder  | md5                              |
+| ------------- | ------- | -------------------------------- |
+| PSP2UPDAT.PUP | `\bios` | 8B5F60B56C3DA8365B973DBA570C53A5 |
+| PSVUPDAT.PUP  | `\bios` | F2C7B12FE85496EC88A0391B514D6E3B |
 
 ## Controls
 

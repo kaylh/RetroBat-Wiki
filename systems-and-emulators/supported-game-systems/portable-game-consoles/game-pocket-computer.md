@@ -16,11 +16,21 @@ Portable Game Console - Released: 1984
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gamepock</td></tr><tr><td><strong>File extension</strong></td><td>.bin .zip .7z</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr><tr><td><strong>Emulated Model</strong></td><td>gamepock</td></tr><tr><td><strong>Softlists available</strong></td><td>gamepock</td></tr><tr><td><strong>Media Types</strong></td><td>cartridge</td></tr></tbody></table>
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>           |
+| ----------------------- | --------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: gamepock |
+| **File extension**      | .bin .zip .7z                                             |
+| **Group**               | MESS                                                      |
+| **Emulated Model**      | gamepock                                                  |
+| **Softlists available** | gamepock                                                  |
+| **Media Types**         | cartridge                                                 |
 
 ## Bios Information
 
-<table><thead><tr><th width="181">bios file</th><th width="211">Folder</th><th>md5</th></tr></thead><tbody><tr><td>gamepock.xml</td><td><code>\bios\mame\hash</code></td><td></td></tr><tr><td>gamepock.zip</td><td><code>\bios</code></td><td>See below</td></tr></tbody></table>
+| bios file    | Folder            | md5       |
+| ------------ | ----------------- | --------- |
+| gamepock.xml | `\bios\mame\hash` |           |
+| gamepock.zip | `\bios`           | See below |
 
 ### Content of BIOS file
 

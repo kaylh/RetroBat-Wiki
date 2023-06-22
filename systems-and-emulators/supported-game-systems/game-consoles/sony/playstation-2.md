@@ -16,7 +16,7 @@ Game Console - Lifespan: 2000 - 2013
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>pcsx2</li><li>pcsx2-16</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ps2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .cso .bin .mdf .gz .chd</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>pcsx2</li><li>pcsx2-16</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> ps2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.iso .cso .bin .mdf .gz .chd</td><td></td></tr></tbody></table>
 
 ## Features
 
@@ -26,11 +26,23 @@ Game Console - Lifespan: 2000 - 2013
 
 ## BIOS
 
-<table><thead><tr><th width="196">Bios file</th><th width="113">Folder</th><th>md5</th></tr></thead><tbody><tr><td>SCPH30004R.bin</td><td><code>\bios</code></td><td>28922c703cc7d2cf856f177f2985b3a9</td></tr><tr><td>SCPH30004R.MEC</td><td><code>\bios</code></td><td>3faf7c064a4984f53e2ef5e80ed543bc</td></tr><tr><td>scph39001.bin</td><td><code>\bios</code></td><td>d5ce2c7d119f563ce04bc04dbc3a323e</td></tr><tr><td>scph39001.MEC</td><td><code>\bios</code></td><td>3faf7c064a4984f53e2ef5e80ed543bc</td></tr><tr><td>EROM.BIN</td><td><code>\bios</code></td><td>9a9e8ed7668e6adfc8f7766c08ab9cd0</td></tr><tr><td>rom1.bin</td><td><code>\bios</code></td><td>44552702b05697a14ccbe2ca22ee7139</td></tr><tr><td>ROM2.BIN</td><td><code>\bios</code></td><td>b406d05922dac2eaf3c2e68157b1b468</td></tr></tbody></table>
+| Bios file      | Folder  | md5                              |
+| -------------- | ------- | -------------------------------- |
+| SCPH30004R.bin | `\bios` | 28922c703cc7d2cf856f177f2985b3a9 |
+| SCPH30004R.MEC | `\bios` | 3faf7c064a4984f53e2ef5e80ed543bc |
+| scph39001.bin  | `\bios` | d5ce2c7d119f563ce04bc04dbc3a323e |
+| scph39001.MEC  | `\bios` | 3faf7c064a4984f53e2ef5e80ed543bc |
+| EROM.BIN       | `\bios` | 9a9e8ed7668e6adfc8f7766c08ab9cd0 |
+| rom1.bin       | `\bios` | 44552702b05697a14ccbe2ca22ee7139 |
+| ROM2.BIN       | `\bios` | b406d05922dac2eaf3c2e68157b1b468 |
 
 ### Other possible non-mandatory BIOS files
 
-<table><thead><tr><th width="379">Bios file</th><th width="347">Folder</th></tr></thead><tbody><tr><td>SCPH-39004_BIOS_V7_EUR_160.BIN</td><td><code>\bios</code></td></tr><tr><td>SCPH-39001_BIOS_V7_USA_160.BIN</td><td><code>\bios</code></td></tr><tr><td>SCPH-70000_BIOS_V12_JAP_200.BIN</td><td><code>\bios</code></td></tr></tbody></table>
+| Bios file                           | Folder  |
+| ----------------------------------- | ------- |
+| SCPH-39004\_BIOS\_V7\_EUR\_160.BIN  | `\bios` |
+| SCPH-39001\_BIOS\_V7\_USA\_160.BIN  | `\bios` |
+| SCPH-70000\_BIOS\_V12\_JAP\_200.BIN | `\bios` |
 
 ### Logic for BIOS search
 

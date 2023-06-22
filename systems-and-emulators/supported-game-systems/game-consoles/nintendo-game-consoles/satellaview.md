@@ -16,7 +16,10 @@ Game Console Extension - Lifespan: 1995 - 2000
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="260"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: snes9x</li><li>libretro: mesen-s</li></ul></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> satellaview</td></tr><tr><td><strong>File extensions</strong></td><td>.st .fig .bs .smc .sfc .zip .7z</td></tr></tbody></table>
+| **Emulators**       | <ul><li>libretro: snes9x</li><li>libretro: mesen-s</li></ul> |
+| ------------------- | ------------------------------------------------------------ |
+| **Games Location**  | :file\_folder: roms \ :open\_file\_folder: satellaview       |
+| **File extensions** | .st .fig .bs .smc .sfc .zip .7z                              |
 
 ## Features
 
@@ -26,7 +29,9 @@ Game Console Extension - Lifespan: 1995 - 2000
 
 ## BIOS
 
-<table><thead><tr><th width="163">BIOS file</th><th width="114">Folder</th><th>md5</th></tr></thead><tbody><tr><td>BS-X.bin</td><td><code>\bios</code></td><td>fed4d8242cfbed61343d53d48432aced</td></tr></tbody></table>
+| BIOS file | Folder  | md5                              |
+| --------- | ------- | -------------------------------- |
+| BS-X.bin  | `\bios` | fed4d8242cfbed61343d53d48432aced |
 
 ## Controls
 

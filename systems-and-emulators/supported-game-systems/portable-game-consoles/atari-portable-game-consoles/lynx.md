@@ -16,11 +16,13 @@ Portable Game Console - Lifespan: 1989 - 1995
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mednafen_lynx</li><li>libretro: handy</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> lynx</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.lnx .zip .o .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mednafen_lynx</li><li>libretro: handy</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> lynx</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.lnx .zip .o .7z</td><td></td></tr></tbody></table>
 
 ## BIOS
 
-<table><thead><tr><th width="193">Bios file</th><th width="142.03610108303252">Folder</th><th>md5</th></tr></thead><tbody><tr><td>lynxboot.img</td><td><code>\bios</code></td><td>fcd403db69f54290b51035d82f835e7b</td></tr></tbody></table>
+| Bios file    | Folder  | md5                              |
+| ------------ | ------- | -------------------------------- |
+| lynxboot.img | `\bios` | fcd403db69f54290b51035d82f835e7b |
 
 ## Controls
 

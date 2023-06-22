@@ -4,6 +4,6 @@ This section is a guide to help users that need to perform a dedicated controlle
 
 The guide is available for the following emulators:
 
-* [Dolphin ](dolphin-controller-mapping.md)(Gamecube/Wii)
-* [MAME Standalone](mame64-controller-mapping.md) (Mame and [MESS group systems](../../navigation/system-view-and-game-view.md#grouped-systems))
-* [RetroArch ](retroarch-controller-mapping.md)(any libretro:core)
+* [Dolphin ](https://wiki.retrobat.org/controllers/specific\_mapping/dolphin-controller-mapping)(Gamecube/Wii)
+* [MAME Standalone](https://wiki.retrobat.org/controllers/specific\_mapping/mame64-controller-mapping) (Mame and [MESS group systems](https://wiki.retrobat.org/navigation/system-view-and-game-view#grouped-systems))
+* [RetroArch](https://wiki.retrobat.org/controllers/specific\_mapping/retroarch-controller-mapping) (any libretro:core)

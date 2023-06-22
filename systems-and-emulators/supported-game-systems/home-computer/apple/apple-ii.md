@@ -16,11 +16,14 @@ Computer - Lifespan: 1977 - 1979
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>applewin</li><li>mednafen</li><li>libretro:mame</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.nib .do .po .dsk</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>applewin</li><li>mednafen</li><li>libretro:mame</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> apple2</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.nib .do .po .dsk</td><td></td></tr></tbody></table>
 
 ### libretro:mame information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulated Model</strong></td><td>apple2ee, apple2e, apple2p</td></tr><tr><td><strong>Softlists available</strong></td><td>apple2_cass, apple2_flop_clcracked, apple2_flop_misc, apple2_flop_orig</td></tr><tr><td><strong>Media Types</strong></td><td>cassette, floppy</td></tr></tbody></table>
+| **Emulated Model**      | apple2ee, apple2e, apple2p                                                    |
+| ----------------------- | ----------------------------------------------------------------------------- |
+| **Softlists available** | apple2\_cass, apple2\_flop\_clcracked, apple2\_flop\_misc, apple2\_flop\_orig |
+| **Media Types**         | cassette, floppy                                                              |
 
 ## BIOS
 

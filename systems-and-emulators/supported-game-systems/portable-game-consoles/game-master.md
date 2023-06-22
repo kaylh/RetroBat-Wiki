@@ -16,11 +16,21 @@ Portable Game Console - Released: 1990
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="224"></th><th></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>Libretro: mame</li><li>mame64</li></ul></td></tr><tr><td><strong>File folder</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gmaster</td></tr><tr><td><strong>File extension</strong></td><td>.bin .zip .7z</td></tr><tr><td><strong>Group</strong></td><td>MESS</td></tr><tr><td><strong>Emulated Model</strong></td><td>gmaster</td></tr><tr><td><strong>Softlists available</strong></td><td>gmaster</td></tr><tr><td><strong>Media Types</strong></td><td>cartridge</td></tr></tbody></table>
+| **Emulators**           | <ul><li>Libretro: mame</li><li>mame64</li></ul>          |
+| ----------------------- | -------------------------------------------------------- |
+| **File folder**         | :open\_file\_folder: roms \ :open\_file\_folder: gmaster |
+| **File extension**      | .bin .zip .7z                                            |
+| **Group**               | MESS                                                     |
+| **Emulated Model**      | gmaster                                                  |
+| **Softlists available** | gmaster                                                  |
+| **Media Types**         | cartridge                                                |
 
 ## Bios Information
 
-<table><thead><tr><th width="181">bios file</th><th width="211">Folder</th><th>md5</th></tr></thead><tbody><tr><td>gmaster.xml</td><td><code>\bios\mame\hash</code></td><td></td></tr><tr><td>gmaster.zip</td><td><code>\bios</code></td><td>See below</td></tr></tbody></table>
+| bios file   | Folder            | md5       |
+| ----------- | ----------------- | --------- |
+| gmaster.xml | `\bios\mame\hash` |           |
+| gmaster.zip | `\bios`           | See below |
 
 ### Content of BIOS file
 

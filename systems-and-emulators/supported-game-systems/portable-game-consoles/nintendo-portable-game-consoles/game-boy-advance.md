@@ -16,7 +16,7 @@ Portable Game Console - Lifespan: 2001 - 2008
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mednafen_gba</li><li>mgba</li><li>no$gba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gba</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gba .zip .7z</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>libretro: mgba</li><li>libretro: mednafen_gba</li><li>mgba</li><li>no$gba</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> gba</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.gba .zip .7z</td><td></td></tr></tbody></table>
 
 ## Features
 
@@ -26,7 +26,9 @@ Portable Game Console - Lifespan: 2001 - 2008
 
 ## BIOS
 
-<table><thead><tr><th width="187">Bios file</th><th width="108">Folder</th><th>md5</th></tr></thead><tbody><tr><td>gba_bios.bin</td><td><code>\bios</code></td><td>a860e8c0b6d573d191e4ec7db1b1e4f6</td></tr></tbody></table>
+| Bios file     | Folder  | md5                              |
+| ------------- | ------- | -------------------------------- |
+| gba\_bios.bin | `\bios` | a860e8c0b6d573d191e4ec7db1b1e4f6 |
 
 ## Controls
 

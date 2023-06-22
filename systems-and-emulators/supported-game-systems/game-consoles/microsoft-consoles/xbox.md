@@ -16,7 +16,7 @@ Game Console - Lifespan: 2001 - 2006
 
 ## Information
 
-<table data-header-hidden><thead><tr><th width="184"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>xemu</li><li>cxbx</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> xbox</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.xbe .iso</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Emulators</strong></td><td><ul><li>xemu</li><li>cxbx</li></ul></td><td></td></tr><tr><td><strong>Games Location</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4c1">📁</span> roms \ <span data-gb-custom-inline data-tag="emoji" data-code="1f4c2">📂</span> xbox</td><td></td></tr><tr><td><strong>File extensions</strong></td><td>.xbe .iso</td><td></td></tr></tbody></table>
 
 {% hint style="danger" %}
 CXBX requires "dokan" to be able to mount .iso images to a drive.\
@@ -32,7 +32,11 @@ You can download dokan v2 from here:\
 
 ## BIOS
 
-<table><thead><tr><th width="196">Bios file</th><th width="148">Folder</th><th>md5</th></tr></thead><tbody><tr><td>mcpx_1.0.bin</td><td><code>\bios</code></td><td>d49c52a4102f6df7bcf8d0617ac475ed</td></tr><tr><td>Complex_4627.bin</td><td><code>\bios</code></td><td>39cee882148a87f93cb440b99dde3ceb</td></tr><tr><td>xbox_hdd.qcow2</td><td><code>\saves\xbox</code></td><td></td></tr></tbody></table>
+| Bios file         | Folder        | md5                              |
+| ----------------- | ------------- | -------------------------------- |
+| mcpx\_1.0.bin     | `\bios`       | d49c52a4102f6df7bcf8d0617ac475ed |
+| Complex\_4627.bin | `\bios`       | 39cee882148a87f93cb440b99dde3ceb |
+| xbox\_hdd.qcow2   | `\saves\xbox` |                                  |
 
 ## Controls
 
